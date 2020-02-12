@@ -388,12 +388,12 @@
                      </row>
                   </table>
                   <p>&#x2055; Denne Taffle lærer dig mange dage <lb/>der er i mellem Kyndelmysse oc
-                     fleske søn <lb/>dag/ gack ret ned fra søndagis bogstaff oc <lb/>lige vd fra det
-                     Gylden tal som er det aar <lb/>som du vilt vide saa faar du dagene at vi<lb
-                        rend="="/><hi rend="Walbaum5">de/ du skalt regne Kyndelmysse dag oc fleske
-                        søn <lb/>dag met/ Oc merck naar det er skudaar da skalt <lb/>du legge en dag
-                        til tallit mer end der staar til den <lb/>anden søndags bogstaff saa faar du
-                        ret at vide</hi>.</p>
+                     fleske søn<lb rend="="/>dag/ gack ret ned fra søndagis bogstaff oc <lb/>lige vd
+                     fra det Gylden tal som er det aar <lb/>som du vilt vide saa faar du dagene at
+                        vi<lb rend="="/><hi rend="Walbaum5">de/ du skalt regne Kyndelmysse dag oc
+                        fleske søn<lb rend="="/>dag met/ Oc merck naar det er skudaar da skalt
+                        <lb/>du legge en dag til tallit mer end der staar til den <lb/>anden søndags
+                        bogstaff saa faar du ret at vide</hi>.</p>
                </div>
                <div xml:id="forklaring-kalendarium" n="?">
                   <pb n="A_2v" n2="iA_2v" n3="E12"/>
@@ -402,14 +402,14 @@
                      Kalendarium.</head>
                   <lb/>
                   <p><c function="initials" rend="5">W</c>Jltu ret forstaa dette effterfølgen<lb
-                        rend="="/>de Kalendarium. Saa merck ath <lb/>det er ith helt Aar/ s{??}a den
+                        rend="="/>de Kalendarium. Saa merck ath <lb/>det er ith helt Aar/ fra den
                      tid ath <lb/>Solen omkring gaar de xii, hiem<lb rend="="/>mels tegen/ oc ind
                      til saa lenge hun <lb/>igenkommer til det stæd som hun før affgick/ oc <lb/>de
                      samme xii. Hiemmels tegen finder du i huer <lb/>Besynderlig Maane. Oc det Aar
-                     deles vdi xii. <lb/>Maanede/ som samme Kalendarium vduiss. Oc <lb/>det
+                     deles vdi xii, <lb/>Maanede/ som samme Kalendarium vduiss. Oc <lb/>det
                         sa<ex>m</ex>me gaar Solen om Aarit en gang egenne<ex>m</ex></p>
                   <lb/>
-                  <p><space extent="2blanks"/>&#x2055; Et aar haffuer xii. Maanede lij. wger.
+                  <p><space extent="2blanks"/>&#x2055; Et aar haffuer xii. Maanede lij. wger,
                      <lb/>Ccc. oc lxv. dage. Huer dag oc nat haffuer xxiiii <lb/>timer/ huer time
                      haffuer lx. minuter.</p>
                   <lb/>
