@@ -440,11 +440,15 @@
                      Alleluia. Saa merck først naar <lb/>Fasten gaar paa/ aff disse rim.</p>
                   <lb/>
                   <space extent="2blanks"/>
-                  <p>&#x2055; Viltu vide met lidet wmag <pb n="A_3r" n2="iA_3r" n3="E13"/>
-                     <lb/> Første ny effter Kyndermisse dag <lb/><space extent="2blanks"/>&#x2055;
-                     Første Onssdag nest effter kommer <lb/>Da haffuer du Faste met kuld oc hunger
-                        <lb/><space extent="2blanks"/>&#x2055; Der faare kan ingen sige ney
-                     <lb/>Huad heller det er skudaar eller ey.</p>
+                  <lg>
+                     <l>&#x2055; Viltu vide met lidet wmag</l>
+                     <l><pb n="A_3r" n2="iA_3r" n3="E13"/>
+                        <lb/> Første ny effter Kyndermisse dag</l>
+                     <l><lb/><space extent="2blanks"/>&#x2055; Første Onssdag nest effter kommer</l>
+                     <l><lb/> Da haffuer du Faste met kuld oc hunger</l>
+                     <l><lb/><space extent="2blanks"/>&#x2055; Der faare kan ingen sige ney</l>
+                     <l><lb/> Huad heller det er skudaar eller ey.</l>
+                  </lg>
                   <lb/>
                   <p><space extent="2blanks"/>&#x2055; Naar du det vest saa merck. Fiorten da<lb
                         rend="="/>ge for Fastelauen afflegger man alleluia, Otte <lb/>dage effter
@@ -453,8 +457,8 @@
                      nest haff<lb rend="="/>uer du gangdagene. Torsdage<ex>n</ex> i den samme vge
                      <lb/>er vor Herris himmelfars dag. Jtem xiiii. dage <lb/>effter gangdagenes
                      første Søndag/ haffuer du <lb/>Pintz dag/ oc paa den viij. dag der nest hellig
-                     tre <lb/>foldighedz Søndag, Jte<ex>m</ex> Torsdage<ex>n</ex> der nest haff<lb
-                        rend="="/>uer du hellig legoms dag. Oc det feyldig aldrid.</p>
+                        tre<lb rend="="/>foldighedz Søndag, Jte<ex>m</ex> Torsdage<ex>n</ex> der
+                     nest haff<lb rend="="/>uer du hellig legoms dag. Oc det feyl dig aldrid.</p>
                   <lb/>
                </div>
                <div xml:id="viltu-vide-adventen" n="?">
@@ -462,8 +466,10 @@
                   <head>Viltu vide Aduenten</head>
                   <lb/>
                   <div type="verse">
-                     <p>Vor Herris Aduent hun oss paa gaar <lb/>Den Søndag for Bai{??}bare men
-                        verden staar.</p>
+                     <lg>
+                        <l> Vor Herris Aduent hun oss paa gaar</l>
+                        <l><lb/>Den Søndag for Barbare men verden staar.</l>
+                     </lg>
                   </div>
                </div>
                <lb/>
@@ -472,49 +478,50 @@
                   <head>Tamper dage</head>
                   <lb/>
                   <div type="verse">
-                     <p>Onsdagen effter aske wi Tamperdage faa. <lb/>Onsdagen i Pinds wge lige saa
-                        <lb/>Onsdagen effter hellig kaarssis fest <lb/>Onsdagen effter Lucie komme
-                           ta<ex>m</ex>perdagene vist</p>
+                     <lg>
+                        <l> Onsdagen effter aske wi Tamperdage faa.</l>
+                        <l><lb/> Onsdagen i Pinds wge lige saa</l>
+                        <l><lb/> Onsdagen effter hellig kaarssis fest</l>
+                        <l><lb/> Onsdagen effter Lucie komme ta<ex>m</ex>perdagene vist</l>
+                     </lg>
                   </div>
                </div>
                <lb/>
                <div xml:id="dag-og-nat-lige-lange" n="?">
                   <head type="add">Dag og nat lige lange (?)</head>
                   <head>Dag oc Nat lige lange.</head>
-                  <p>Lamberti oc paa Gregorii tid <lb/>Er dagen oc natten lige vid.</p>
+                  <lg>
+                     <l> Lamberti oc paa Gregorii tid</l>
+                     <l><lb/> Er dagen oc natten lige vid.</l>
+                  </lg>
                </div>
                <lb/>
                <div xml:id="de-fire-tider-om-året" n="?">
                   <head type="add">De fire tider om året</head>
                   <head>De iiii. Tider om Aarit.</head>
-                  <p>Sancte Clemind vil oss Vinteren giffue <lb/>Sancte Peder vil oss mayen
-                     vddriffue <lb/>Sommeren fører sancte Vrban <lb/>Men høsten sancte
-                     Symphorian</p>
+                  <lg>
+                     <l> Sancte Clemind vil oss Vinteren giffue</l>
+                     <l><lb/> Sancte Peder vil oss mayen vddriffue</l>
+                     <l><lb/> Sommeren fører sancte Vrban</l>
+                     <l><lb/> Men høsten sancte Symphorian</l>
+                  </lg>
                </div>
             </div>
             <pb n="A_3v" n2="iA_3v" n3="E14"/>
             <div type="month" xml:id="kalendarium-januar" n="?">
                <head type="add">Januar</head>
                <figure type="image"/>
+               <head>Januarius Glugmaa<lb rend="="/>net haffuer xxxi dage Natten xvi <lb/>time oc
+                  dagen viii time</head>
                <table>
                   <row>
-                     <cell>Januarius Glugmaa<lb rend="="/>uet haffuer xxxi dage Natten xvi<lb/>time
-                        oc dagen viii time</cell>
+                     <cell/>
+                     <cell>Gylden <lb/>tal</cell>
+                     <cell/>
+                     <cell>Søndagiss <lb/>bogstaff</cell>
                      <cell/>
                      <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Gylden<lb/>tal</cell>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell>S#.ondagiss<lb/>bogstaff</cell>
-                     <cell>Tafflen<lb/>til tegen</cell>
-                     <cell/>
+                     <cell>Tafflen <lb/>til tegen</cell>
                   </row>
                   <row>
                      <cell>1</cell>
@@ -528,7 +535,7 @@
                   <row>
                      <cell>2</cell>
                      <cell>viii</cell>
-                     <cell>fi</cell>
+                     <cell>si</cell>
                      <cell>b</cell>
                      <cell/>
                      <cell/>
@@ -539,7 +546,7 @@
                      <cell/>
                      <cell>o</cell>
                      <cell>c</cell>
-                     <cell>Solen gaar op til otte<lb/>oc neder til fire</cell>
+                     <cell>Solen gaar op til otte <lb/>oc neder til fire</cell>
                      <cell/>
                      <cell>c</cell>
                   </row>
@@ -575,7 +582,7 @@
                      <cell>xiii</cell>
                      <cell>Ka</cell>
                      <cell>g</cell>
-                     <cell>Si{??} Knud hertugiss dag</cell>
+                     <cell>S. Knud hertugiss dag</cell>
                      <cell/>
                      <cell>g</cell>
                   </row>
@@ -602,7 +609,7 @@
                      <cell>x</cell>
                      <cell>ven</cell>
                      <cell>c</cell>
-                     <cell/>
+                     <cell>Solen i vandmand</cell>
                      <cell/>
                      <cell>k</cell>
                   </row>
@@ -611,7 +618,7 @@
                      <cell/>
                      <cell>Di</cell>
                      <cell>d</cell>
-                     <cell>Solen i vandmand</cell>
+                     <cell/>
                      <cell/>
                      <cell>l</cell>
                   </row>
@@ -620,9 +627,9 @@
                      <cell>xviii</cell>
                      <cell>cat</cell>
                      <cell>e</cell>
-                     <cell>Den s#.ondag som er nest det<lb rend="="/>te Gylden tal i huilckit
-                        aar<lb/>du vilt vide det er faste helg%-e<lb/>oc k%-omer 14 dage for
-                        fleske<lb/>Marcelli pa. Dag (s#.ondag</cell>
+                     <cell>Den søndag som er nest det<lb rend="="/>te Gylden tal i huilckit
+                        aar<lb/>du vilt vide det er faste helge<ex>n</ex>
+                        <lb/>oc ko<ex>m</ex>mer 14 dage for fleske<lb rend="("/> søndag</cell>
                      <cell/>
                      <cell>m</cell>
                   </row>
@@ -638,7 +645,7 @@
                   <row>
                      <cell>14</cell>
                      <cell/>
-                     <cell>se</cell>
+                     <cell>fe</cell>
                      <cell>g</cell>
                      <cell/>
                      <cell/>
@@ -658,7 +665,7 @@
                      <cell>iiii</cell>
                      <cell>mar</cell>
                      <cell>b</cell>
-                     <cell/>
+                     <cell>Marcelli pa<ex>uess</ex> Dag</cell>
                      <cell/>
                      <cell>q</cell>
                   </row>
@@ -667,8 +674,8 @@
                      <cell/>
                      <cell>an</cell>
                      <cell>c</cell>
-                     <cell>An honii abbedis dag 16</cell>
-                     <cell/>
+                     <cell>Anthonii abbedis dag </cell>
+                     <cell>16</cell>
                      <cell>r</cell>
                   </row>
                   <row>
@@ -676,8 +683,8 @@
                      <cell>vii</cell>
                      <cell>Pris</cell>
                      <cell>d</cell>
-                     <cell>Prisce Jomfruess dag 5</cell>
-                     <cell/>
+                     <cell>Prisce Jomfruess dag </cell>
+                     <cell>5</cell>
                      <cell>s</cell>
                   </row>
                   <row>
@@ -713,7 +720,7 @@
                      <cell/>
                      <cell>vin</cell>
                      <cell>A</cell>
-                     <cell>Vincentii martpris dag</cell>
+                     <cell>Vincentii martyris dag</cell>
                      <cell/>
                      <cell>y</cell>
                   </row>
@@ -731,7 +738,7 @@
                      <cell>vi</cell>
                      <cell>ti</cell>
                      <cell>c</cell>
-                     <cell>S. Chimoteus</cell>
+                     <cell>S. Thimoteus</cell>
                      <cell/>
                      <cell>{??}</cell>
                   </row>
@@ -802,44 +809,41 @@
                <lb/>
                <lb/>
                <p>&#x2055; Almansar den Mestere siger At man <lb/>skal æde Jngefer Peber Galiga oc
-                     Neg<lb rend="="/>liken oc dricke en føye ting vin fastendis <lb/>i denne Maaned
-                  / oc icke Miød man skal <lb/>icke lade sin hoffuit Aare Men trenger <lb/>hannem da
-                  maa han lade Leffuer aaren <lb/>paa den venstre arm/ det er gaat at bade.</p>
+                     Neg<lb rend="="/>liken oc dricke en føye ting vin fastendis <lb/>i denne
+                  Maaned/ oc icke Miød man skal <lb/>icke lade sin hoffuit Aare Men trenger
+                  <lb/>hannem da maa han lade Leffuer aaren <lb/>paa den venstre arm/ det er gaat at
+                  bade.</p>
                <lb/>
                <p>&#x2055; Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Vand den xi dag</p>
                <lb/>
                <p>
                   <hi rend="center">&#x00B6; Januarius siger.</hi>
                </p>
-               <p>At æde oc dricke oc gøre sig glad <lb/>vdi vermme oc met løst det er mit raad.
-                  <lb/>Lad icke aarer/ ey smør dine been <lb/>Om du vilt leffue for vden meen
-                  <lb/>Men temmer at hugge oc huss at bygge <lb/>Loffuer ieg dig met alle
-                  trygge.</p>
+               <lg>
+                  <l> At æde oc dricke oc gøre sig glad</l>
+                  <l><lb/> vdi vermme oc met løst det er mit raad.</l>
+                  <l><lb/> Lad icke aarer/ ey smør dine been</l>
+                  <l><lb/> Om du vilt leffue for vden meen </l>
+                  <l><lb/> Men temmer at hugge oc huss at bygge</l>
+                  <l><lb/> Loffuer ieg dig met alle trygge.</l>
+               </lg>
             </div>
             <pb n="A_4v" n2="iA_4v" n3="E16"/>
             <div type="month" xml:id="kalendarium-februar" n="2">
                <head type="add">Februar</head>
                <figure type="image"/>
                <lb/>
+               <head><hi rend="Walbaum3">Februarius Blidel maa</hi><lb rend="="/>net haffuer xxviii
+                  dage Natten xiiii<lb/>Time oc Dagen x time</head>
                <table>
                   <row>
-                     <cell><hi rend="Walbaum3">Februarius Blidel maa</hi><lb/>net haffuer xxviii
-                        dage Natten xiiii<lb/>Time oc Dagen x time</cell>
+                     <cell/>
+                     <cell>Gylden <lb/>tal</cell>
+                     <cell/>
+                     <cell>Søndagis<lb/>bogstaff</cell>
                      <cell/>
                      <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Gylden<lb/>tal</cell>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell>S#.ondagis<lb/>bogstaff</cell>
-                     <cell>Tafflen<lb/>till tegn</cell>
-                     <cell/>
+                     <cell>Tafflen <lb/>till tegn</cell>
                   </row>
                   <row>
                      <cell>1</cell>
@@ -855,7 +859,7 @@
                      <cell>xvi</cell>
                      <cell>pur</cell>
                      <cell>e</cell>
-                     <cell>Kyndelm#.osse dag</cell>
+                     <cell>Kyndelmøsse dag</cell>
                      <cell/>
                      <cell>f</cell>
                   </row>
@@ -864,14 +868,19 @@
                      <cell>5</cell>
                      <cell>bla</cell>
                      <cell>f</cell>
-                     <cell>S. Blafij dag</cell>
+                     <cell>S. <app><lem>Blasij</lem><rdg><q>Blafij</q> orig.</rdg></app> dag</cell>
                      <cell>9</cell>
                      <cell>g</cell>
                   </row>
                   <row>
                      <cell>4</cell>
                      <cell/>
-                     <cell>fus</cell>
+                     <cell>
+                        <app>
+                           <lem>sus</lem>
+                           <rdg><q>fus</q> orig.</rdg>
+                        </app>
+                     </cell>
                      <cell>g</cell>
                      <cell/>
                      <cell/>
