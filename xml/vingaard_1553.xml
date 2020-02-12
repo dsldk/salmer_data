@@ -137,7 +137,7 @@
          </div>
          <div type="tableofcontents" xml:id="indholdsfortegnelse">
             <head type="add">Indholdsfortegnelse</head>
-           
+
             <pb n3="E7"/>
             <head>Indholdsoversigt</head>
             <lb/>
@@ -146,12 +146,15 @@
                <item>Fortale<ref target="#fortalen-til-laeseren">1r--2r</ref></item>
                <item>Kirkeårets salmer<ref target="#kirkeaarets-salmer">2v--45r</ref></item>
                <item>Salmer og sange<ref target="#salmer-og-sange">45r--96IIv</ref></item>
-               <item>Messen<ref target="#det-hellige-evangeliske-messeembede">96IIv--121r</ref></item>
-               <item>Kollekter til årets søn- og helligdage<ref target="#kollekter-til-aarets-soendage-og-helligdage">121r--139r</ref></item>
+               <item>Messen<ref target="#det-hellige-evangeliske-messeembede"
+                  >96IIv--121r</ref></item>
+               <item>Kollekter til årets søn- og helligdage<ref
+                     target="#kollekter-til-aarets-soendage-og-helligdage">121r--139r</ref></item>
                <item>Første tillæg<ref target="#foerste-tillaeg">139r--150v</ref></item>
                <item>Bønner<ref target="#boenner">150v--155r</ref></item>
                <item>Andet tillæg<ref target="#andet-tillaeg">155r--172v</ref></item>
-               <item>Tredie tillæg. Latinske sange<ref target="#tredje-tillaeg-latinske-sange">173r--176v</ref></item>
+               <item>Tredie tillæg. Latinske sange<ref target="#tredje-tillaeg-latinske-sange"
+                     >173r--176v</ref></item>
                <item>Register<ref target="#register">Bblr--8r</ref></item>
             </list>
          </div>
@@ -162,12 +165,12 @@
          <div type="title">
             <head type="add">Titel</head>
             <head>En Ny Psal<lb rend="="/>mebog medt flere <lb/> Psalmer oc Christeli<lb rend="="
-               />ge oc Aandelige lofsang met Col <lb/>lectet og Bøner som icke ere lill <lb/>forne
-               Prentet i de andre Psalme<lb rend="="/>bøger/ vddragne aff den <lb/>Hellige scrifft
-               <lb/>&#x2055; <lb/> Oc met en Euig Kalen<lb rend="="/>darium ath finde naar Ny ten<lb
-                  rend="="/>dis i huer Maanet met sine taff<lb rend="="/>ler til alle Rørlige fester
-               Gud <lb/>til loff oc ære alle Christne Menniske <lb/>til nytte och gaffn.
-               <lb/>&#x2055;</head>
+               />ge oc Aandelige lofsang met Col<lb rend="="/>lecter og Bøner som icke ere till<lb
+                  rend="="/>forne Prentet i de andre Psalme<lb rend="="/>bøger/ vddragne aff den
+               <lb/>Hellige scrifft <lb/>&#x2055; <lb/> Oc met en Euig Kalen<lb rend="="/>darium ath
+               finde naar Ny ten<lb rend="="/>dis i huer Maanet met sine taff<lb rend="="/>ler til
+               alle Rørlige fester Gud <lb/>til loff oc ære alle Christne Menniske <lb/>til nytte
+               och gaffn. <lb/>&#x2055;</head>
             <lb/>
             <head>Københaffn M. D. Liii.</head>
          </div>
@@ -14987,9 +14990,9 @@
                <head>Anden Pingetz Dag.</head>
                <p><hi rend="Antiqua2"><c function="initials" rend="1">O</c></hi>Gud som gaffst dine
                   Apostler den <lb/>Helligaand/ Vnde dine Folck sin Gude<pb n="131_r" n2="S_7r"
-                     n3="E333" rend="="/>lig bedelsis vdrettelse/ At huilcke du haff <lb/>uer giffuit Troen/
-                  du ville oc giffue dem <lb/>fred/ Ved vor Herre Jesum Christum/ <lb/>Som met dig
-                  leffuer oc regnerer i ect.</p>
+                     n3="E333" rend="="/>lig bedelsis vdrettelse/ At huilcke du haff <lb/>uer
+                  giffuit Troen/ du ville oc giffue dem <lb/>fred/ Ved vor Herre Jesum Christum/
+                  <lb/>Som met dig leffuer oc regnerer i ect.</p>
             </div>
             <lb/>
             <div type="psalm" xml:id="3-pinsedag" n="43">
@@ -16569,9 +16572,10 @@
                <lb/>
                <p><space extent="2blanks"/>&#x2055; O Barmhiertig oc gode Gud/ som <lb/>Mennisken
                   inderlig elskte/ du skabte han<lb rend="="/>nem from oc god/ dit Billede du hannem
-                  <lb/>indbleste/ en Herre han vaar offuer Cr<pb n="160_r" n2="Y_4r" n3="E391" rend="="/>atur/ Bleff selff dog ond aff sin natur/ <lb/>Derfaare gantske Menniske Slect/
-                  bleff <lb/>Synd/ Død/ Helffuede vnderlagt/ oc vor <lb/>met Dieffuelen
-                  forlaaren</p>
+                  <lb/>indbleste/ en Herre han vaar offuer Cr<pb n="160_r" n2="Y_4r" n3="E391"
+                     rend="="/>atur/ Bleff selff dog ond aff sin natur/ <lb/>Derfaare gantske
+                  Menniske Slect/ bleff <lb/>Synd/ Død/ Helffuede vnderlagt/ oc vor <lb/>met
+                  Dieffuelen forlaaren</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Du dog aff din Barmhiertighed/ <lb/>som sider i
                   Hiemmelens throne/ yncken<lb rend="="/>dis vor elendighed/ Mennisken du vilde
@@ -17007,7 +17011,9 @@
                   />tackte Haffuit dem/ oc de siuncke ned som <lb/>Bly vdi mectige vand.</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Herre huo er din lige iblant guder<lb rend="="
-                  />ne? Huo er din lige/ der saa mectig er hel<pb n="169_r" n2="Z_5r" n3="E409" rend="="/>lig/ forferlig/ loflig/ oc i gerninger saa vn<lb rend="="/>derlig?</p>
+                  />ne? Huo er din lige/ der saa mectig er hel<pb n="169_r" n2="Z_5r" n3="E409"
+                     rend="="/>lig/ forferlig/ loflig/ oc i gerninger saa vn<lb rend="="
+                  />derlig?</p>
                <lb/>
                <p>Der du vdrackte din høygre haand da <lb/>slugte hun Jorden op.</p>
                <lb/>
