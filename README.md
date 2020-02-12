@@ -1,2 +1,4 @@
 # salmer_data
-# Hej :D
+
+Nærværende repositorium indeholder data til Salmer-projektets
+webapplikation.
