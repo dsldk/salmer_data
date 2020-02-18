@@ -269,7 +269,7 @@
         <body>
             <div type="calendar" xml:id="calendar" n="1">
                 <head type="add">Kalender</head>
-                <div type="month" xml:id="januar" n="1">
+               <!-- <div type="month" xml:id="januar" n="1">
                     <head>
                         <reg>Januar</reg>
                         <orig><pb n="E17"/>Januarius Glugmaanet</orig>
@@ -295,7 +295,7 @@
                             />sin hoffuit Aare Men trenger hannem da <lb n="E17.015"/>maa han lade
                             Leffuer aaren paa den venstre <lb n="E17.016"/>arm/ det er gaat at
                             bade.</hi></p>
-                </div>
+                </div>-->
                 <div type="month" xml:id="februar" n="2">
                     <head>
                         <reg>Februar</reg>
@@ -1302,7 +1302,7 @@
                         fastendis</p>
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Krabbe den xii dag</p>
                 </div>
-                <div type="month" xml:id="juli" n="7">
+               <!-- <div type="month" xml:id="juli" n="7">
                     <head><reg>Juli</reg><orig><pb n="E29"/>Julius Orm maanedt</orig></head>
                     <p><space extent="2blanks"/><hi rend="Antiqua2"><hi rend="italics"
                                 >Kalenderbladet for juli mangler. Maane-</hi>
@@ -1318,7 +1318,7 @@
                             Saluie Rude Mercke oc Sten<lb n="E29.011" rend="="/>brecke i din drick
                             Du skalt icke lade dig <lb n="E29.012"/>fra S. Margrete oc til S.
                             Bartholomet dag <lb n="E29.013"/>thi det er da Hunde Maanet.</hi></p>
-                </div>
+                </div>-->
                 <div type="month" xml:id="august" n="8">
                     <head><reg>August</reg><orig><pb n="E30"/><pb n="E31"/>KL Augustus Høst<lb
                                 n="E31.002" rend="="/>maanet haffuer xxxi dage Natte<ex>n</ex> x
@@ -9252,7 +9252,7 @@
                             />lerdo<ex>m</ex>/ der ha<ex>n</ex>s verdige oc hellige naffn <pb
                             n="E187" ana="lxxi"/> kan lastris oc skendis met</p>
 
-                    <p>ii Ath hans rige motte tilkomme och <lb n="E187.003"/>forøgis/ Oc alle
+                    <p><space extent="2blanks"/>ii Ath hans rige motte tilkomme och <lb n="E187.003"/>forøgis/ Oc alle
                         forblindede menniske <lb n="E187.004"/>oc fangne vdi dieffuele<ex>n</ex>s
                         rige motte he<ex>n</ex><lb n="E187.005" rend="="/>tis tilbage igen fra
                         hannem/ till den sa<ex>n</ex><lb n="E187.006" rend="="/>de trois bekendelse/
@@ -9263,7 +9263,7 @@
                         </app>
                         <lb n="E187.008"/>tal motte forøgis oc bliffue større</p>
 
-                    <p>iii Ath wi oc saa met hans aand mot<lb n="E187.010" rend="="/>te styrckis/
+                    <p><space extent="2blanks"/>iii Ath wi oc saa met hans aand mot<lb n="E187.010" rend="="/>te styrckis/
                         til at fuldkomme hans vil<lb n="E187.011" rend="="/>ge/ Oc ath fordrage saa
                         vel i leffnedet <lb n="E187.012"/>som i døden/ saa vel i modgang som i <lb
                             n="E187.013"/>metgang bode ont oc gaat/ saa ath wi <lb n="E187.014"/>vor
@@ -9487,7 +9487,8 @@
                         naffn skyld</p>
                 </div>
                 <lb n="E195.021"/>
-                <div type="head">
+                <div type="psalm" xml:id="hellig-hellig-hellig">
+                    <head type="add">Hellig, hellig, hellig er du</head>
                     <head>En loffsang som Cho<lb n="E195.022" rend="="/>rid/ oc den Christne
                         forsamling siunge</head>
                     <head><lb n="E195.023"/> Sanctus</head>
@@ -10368,7 +10369,8 @@
                             Christu<ex>m</ex>
                         <lb n="E215.022"/>vor Herre Amen</p>
                 </div>
-                <div type="head">
+                <div type="psalm" xml:id="o-jesu-christ-som-mandom-tog">
+                    <head type="add">O Jesu Krist, som manddom tog</head>
                     <head><pb n="E216"/>Disse effterfølgende <lb n="E216.002"/>tho sange ere vdtagne
                         aff det Suenske <lb n="E216.003"/>Exemplar met en anden sang aff de x <lb
                             n="E216.004"/>Gudz bud/ so<ex>m</ex> saa begyndis/ De<ex>n</ex>
@@ -12538,6 +12540,7 @@
         <back>
             <div type="index">
                 <div type="head">
+                    <head type="add">Register</head>
                     <head><pb n="E270"/>Jth Register</head>
                     <p>paa denne Sangbog/ J huilcket man <lb n="E270.003"/>kan lettelige finde saa
                         mange Psalmer <lb n="E270.004"/>Loffsange/ Aandelige viser oc huess an<lb
@@ -12607,7 +12610,7 @@
                         </item>
                         <item><list rend="simple">
                                 <item><label><pb n="E271"/>&#x2055; C &#x2055;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E271.002"/>
                                         <item><label>Christum wi skulle loffue ix
                                             blad</label></item>
@@ -12633,9 +12636,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E271.009"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#128596; D &#128596;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E271.010"/>
                                         <item><label>Den daarlige mund han siger
                                             xxiii</label></item>
@@ -12648,9 +12651,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E271.013"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#10027; E &#10027;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E271.014"/>
                                         <item><label>En Jomfru fødde ith barn i dag
                                             xiiii</label></item>
@@ -12676,9 +12679,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E271.022"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#x2055; F &#x2055;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E271.023"/>
                                         <item><label>Forlad nu din suend o Herre xii
                                             blad</label></item>
@@ -12696,9 +12699,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E272.003"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#10027; G &#10027;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E272.004"/>
                                         <item><label>Gud fader oc søn oc den helligand</label><ref
                                                 type="sheetnumber" target="vi">vi</ref></item>
@@ -12735,9 +12738,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E272.014"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#128596; H &#128596;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E272.015"/>
                                         <item><label>Herre Gud fader stat oss bi xix
                                             blad</label></item>
@@ -12778,9 +12781,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E273.003"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#x2055; J &#x2055;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E273.004"/>
                                         <item><label>J Jesu naffn begynde wi/ i det i
                                             blad</label></item>
@@ -12820,9 +12823,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E273.016"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#128596; K &#128596;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E273.017"/>
                                         <item><label>Kom Gud skabere helligand iiii
                                             blad</label></item>
@@ -12845,9 +12848,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E273.023"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>L</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E273.024"/>
                                         <item><label>Loffuer herren alle hedninge oc til</label><ref
                                                 type="sheetnumber" target="xii">xii</ref></item>
@@ -12868,10 +12871,10 @@
                                     </list></item>
                             </list></item>
                         <lb n="E274.005"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#x2055; M &#x2055; <lb n="E274.006"
                                         />Magnificat</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E274.007"/>
                                         <item><label>Min siel (siger maria) ophøyer</label><ref
                                                 type="sheetnumber" target="x">x</ref></item>
@@ -12893,9 +12896,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E274.013"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#128596; N &#128596;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E274.014"/>
                                         <item><label>Nw frøyder eder alle Christne vi
                                             blad</label></item>
@@ -12927,9 +12930,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E274.023"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#x2055; O &#x2055;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <pb n="E275"/>
 
                                         <item><label><hi rend="center">Te Deum
@@ -13002,9 +13005,9 @@
                                     </list></item>
                             </list></item>
                         <lb n="E275.019"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#x2055; S &#x2055;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E275.020"/>
                                         <item><label>Saa taler den wuise mund</label><ref
                                                 type="sheetnumber" target="xxii blad">xxii
@@ -13028,18 +13031,18 @@
                             </list></item>
                         <pb n="E276"/>
 
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#128596; T &#128596;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E276.002"/>
                                         <item><label>Til dig rober ieg aff hiertens</label><ref
                                                 type="sheetnumber" target="xlix">xlix</ref></item>
                                     </list></item>
                             </list></item>
                         <lb n="E276.003"/>
-                        <item><list>
+                        <item><list rend="simple">
                                 <item><label>&#x2055; V &#x2055;</label></item>
-                                <item><list>
+                                <item><list rend="simple">
                                         <lb n="E276.004"/>
                                         <item><label>Vi loffue dig alle Jesu Christ</label><ref
                                                 type="sheetnumber" target="xvii">xvii</ref></item>
