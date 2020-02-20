@@ -2796,7 +2796,7 @@
                      <cell/>
                      <cell>ci</cell>
                      <cell>c</cell>
-                     <cell>Solen gaar op til v</cell>
+                     <cell>Solen gaar op til v <lb/>Oc neder til vii</cell>
                      <cell/>
                      <cell>b</cell>
                   </row>
@@ -2805,7 +2805,7 @@
                      <cell>xv</cell>
                      <cell>ri</cell>
                      <cell>d</cell>
-                     <cell>Oc neder til vii</cell>
+                     <cell/>
                      <cell/>
                      <cell>c</cell>
                   </row>
@@ -2838,7 +2838,7 @@
                   </row>
                   <row>
                      <cell>13</cell>
-                     <cell>i</cell>
+                     <cell>1</cell>
                      <cell>ip</cell>
                      <cell>A</cell>
                      <cell/>
@@ -2859,7 +2859,7 @@
                      <cell>ix</cell>
                      <cell>vir</cell>
                      <cell>c</cell>
-                     <cell>Vor Froe dag dyro</cell>
+                     <cell>Vor Froe dag dyre</cell>
                      <cell/>
                      <cell>i</cell>
                   </row>
@@ -2886,7 +2886,7 @@
                      <cell>vi</cell>
                      <cell>a</cell>
                      <cell>f</cell>
-                     <cell>Agariti martyris dag</cell>
+                     <cell>Agapiti martyris dag</cell>
                      <cell/>
                      <cell>m</cell>
                   </row>
@@ -2923,7 +2923,7 @@
                      <cell/>
                      <cell>ti</cell>
                      <cell>c</cell>
-                     <cell>Symphorii martis</cell>
+                     <cell>Symphorii martir</cell>
                      <cell/>
                      <cell>q</cell>
                   </row>
@@ -2957,7 +2957,7 @@
                   <row>
                      <cell>26</cell>
                      <cell>viii</cell>
-                     <cell>i{??}o</cell>
+                     <cell>lo</cell>
                      <cell>g</cell>
                      <cell/>
                      <cell/>
@@ -3014,8 +3014,8 @@
                   icke lade sig blod/ man skal icke æde <lb/>milck eller sød mad Men den som er
                      søde<ex>n</ex>
                   <lb/>met edicke Drick sact øl Oc vocte dig vel <lb/>for wkyskhed/ oc megen hede/
-                  thi de ere dig <lb/>skadeligt/ Bruge Pollye Malurt oc merc <lb/>ke i din drick/
-                  thi det er sunt</p>
+                  thi de ere dig <lb/>skadeligt/ Bruge Pollye Malurt oc merc<lb rend="="/>ke i din
+                  drick/ thi det er sunt</p>
                <lb/>
                <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Jo<ex>m</ex>frue den xiiii
                   dag</p>
@@ -3024,34 +3024,32 @@
                   <hi rend="center">&#x00B6; Augustus siger</hi>
                </p>
                <lb/>
-               <p>&#x2055; Her skal Bonden gaa at skære <lb/>met glæde sit korn til sammen bære
-                  <lb/>Oc haffue om høsten arbeyd oc møde <lb/>oc dricke om vinteren Miøden hind
-                  søde. <lb/><hi rend="Walbaum5">Naar Jomffruen monne i maanen staa <lb/>da skalt du
-                     icke i æchteskab gaa</hi></p>
+               <lg>
+                  <l>&#x2055; Her skal Bonden gaa at skære</l>
+                  <l><lb/> met glæde sit korn til sammen bære</l>
+                  <l><lb/> Oc haffue om høsten arbeyd oc møde</l>
+                  <l><lb/> oc dricke om vinteren Miøden hind søde.</l>
+                  <hi rend="Walbaum5">
+                     <l><lb/> Naar Jomffruen monne i maanen staa</l>
+                     <l><lb/> da skalt du icke i æchteskab gaa </l>
+                  </hi>
+               </lg>
             </div>
             <pb n="B_3v" n2="iB_3v" n3="E30"/>
             <div type="month" xml:id="kalendarium-september" n="9">
                <head type="add">September</head>
                <figure type="image"/>
+               <p><hi rend="Walbaum3">September Fiskemaa</hi><lb rend="="/>net haffuer XXX dage
+                  Natten xii <lb/>time oc dagen xii time </p>
                <table>
                   <row>
-                     <cell><hi rend="Walbaum3">September Fiskemaa</hi><lb rend="="/>net haffuer XXX
-                        dage Natten xii<lb/>time oc dagen xii time</cell>
+                     <cell/>
+                     <cell>Gylden <lb/>tal</cell>
+                     <cell/>
+                     <cell>Søndagis <lb/>bogstaff</cell>
                      <cell/>
                      <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Gylden<lb/>tal</cell>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell>S#.ondagis<lb/>bogstaff</cell>
-                     <cell>Tafflen<lb/>til tegen</cell>
-                     <cell/>
+                     <cell>Tafflen <lb/>til tegen</cell>
                   </row>
                   <row>
                      <cell>1</cell>
@@ -3248,7 +3246,7 @@
                      <cell>xi</cell>
                      <cell>mau</cell>
                      <cell>f</cell>
-                     <cell>S.{??} Mauritii dag</cell>
+                     <cell>S. Mauritii dag</cell>
                      <cell/>
                      <cell>t</cell>
                   </row>
@@ -3299,7 +3297,7 @@
                   </row>
                   <row>
                      <cell>28</cell>
-                     <cell>x</cell>
+                     <cell>v</cell>
                      <cell>mi</cell>
                      <cell>e</cell>
                      <cell/>
@@ -3330,42 +3328,38 @@
                   met Kaapper oc Aarer/ oc <lb/>æde Røder Pærer Eble oc fruct oc blende <lb/>sin
                   drick met Neller det er sunt</p>
                <lb/>
-               <p>&#x2055; Solen kommer i det Tegen Veyskaal <lb/>den viiii dag</p>
+               <p>&#x2055; Solen kommer i det Tegen Veyskaal <lb/>den xiiii dag</p>
                <lb/>
                <p>
                   <hi rend="center">&#x00B6; September siger.</hi>
                </p>
                <lb/>
                <div type="verse">
-                  <p>&#x00B6; Her skal Bonden terske sit Korn <lb/>oc prøffue huad han haffuer
-                     affled til forn <lb/>Her samler man Eble oc Fructene mode <lb/>met siugdom
-                     kommer da dagene vode <lb/>Vochte din lønlig ting oc Nyre <lb/>J Væchten for
-                     lægedom oc Saluen dyre</p>
+                  <lg>
+                     <l>&#x00B6; Her skal Bonden terske sit Korn</l>
+                     <l><lb/> oc prøffue huad han haffuer affled til forn</l>
+                     <l><lb/> Her samler man Eble oc Fructene mode</l>
+                     <l><lb/> met siugdom kommer da dagene vode</l>
+                     <l><lb/> Vochte din lønlig ting oc Nyre</l>
+                     <l><lb/> J Væchten for lægedom oc Saluen dyre</l>
+                  </lg>
                </div>
             </div>
             <pb n="B_4v" n2="iB_4v" n3="E32"/>
             <div type="month" xml:id="kalendarium-oktober" n="10">
                <head type="add">Oktober</head>
                <figure type="image"/>
+               <p><hi rend="Walbaum3">October Sedemaanet</hi>
+                  <lb/>haffuer XXXi dage Natten xiiii<lb/>time oc dagen x time </p>
                <table>
                   <row>
-                     <cell><hi rend="Walbaum3">October Sedemaanet</hi><lb/>haffuer XXXi dage Natten
-                        xiiii<lb/>time oc dagen x time</cell>
+                     <cell/>
+                     <cell>Gylden <lb/>tal</cell>
+                     <cell/>
+                     <cell>Søndagis <lb/>bogstaff</cell>
                      <cell/>
                      <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Gylden<lb/>tal</cell>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell>S#.ondagis<lb/>bogstaff</cell>
-                     <cell>Tafflen<lb/>til tegen</cell>
-                     <cell/>
+                     <cell>Tafflen <lb/>til tegen</cell>
                   </row>
                   <row>
                      <cell>1</cell>
@@ -3460,7 +3454,7 @@
                   <row>
                      <cell>11</cell>
                      <cell>i</cell>
-                     <cell>a{??}</cell>
+                     <cell>a</cell>
                      <cell>d</cell>
                      <cell/>
                      <cell/>
@@ -3480,7 +3474,7 @@
                      <cell>ix</cell>
                      <cell>que</cell>
                      <cell>f</cell>
-                     <cell>Solen i Scepia</cell>
+                     <cell>Solen i Scopio</cell>
                      <cell/>
                      <cell>n</cell>
                   </row>
@@ -3523,7 +3517,7 @@
                   <row>
                      <cell>18</cell>
                      <cell>xiiii</cell>
-                     <cell>la</cell>
+                     <cell>lu</cell>
                      <cell>d</cell>
                      <cell>Luce Euangeliste dag</cell>
                      <cell/>
@@ -3580,7 +3574,7 @@
                      <cell>viii</cell>
                      <cell>ue</cell>
                      <cell>c</cell>
-                     <cell>Solen gaar op til vii</cell>
+                     <cell>Solen gaar op til vii <lb/>Oc neder til v</cell>
                      <cell/>
                      <cell>{??}</cell>
                   </row>
@@ -3589,7 +3583,7 @@
                      <cell/>
                      <cell>Cris</cell>
                      <cell>d</cell>
-                     <cell>Oc neder til v</cell>
+                     <cell/>
                      <cell/>
                      <cell>{??}</cell>
                   </row>
@@ -3651,41 +3645,40 @@
                <p>&#x2055; Consta<ex>n</ex>tinus den Mestere siger At det <lb/>er gaat at æde saadit
                   flesk/ oc Duer Hønss <lb/>oc fule oc dricke vinmost thi det renser liff<lb
                      rend="="/>uit/ Man maa oc æde oc dricke Gede milk <lb/>oe faare milk oc bruge
-                  Peber oc Negliken?{??} <lb/>sin drick/ thi det er sunt Du maat vel lade <lb/>blod
-                  oc koppe dig oc tage purgatz oc legedo<ex>m</ex>
+                  Peber oc Negliken i <lb/>sin drick/ thi det er sunt Du maat vel lade <lb/>blod oc
+                  koppe dig oc tage purgatz oc legedo<ex>m</ex></p>
+               <p>
                   <lb/>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Scorpio den xiii dag</p>
                <lb/>
                <p>
                   <hi rend="center">&#x00B6; October siger</hi>
                </p>
                <lb/>
-               <p>&#x2055; Her pløye oc Saa din Vinter Ru <lb/>oc samle Vindruer i Korffue oc Tru
-                  <lb/>J min tid mot du met glæde gaa <lb/>oc lade dig dine Aarer slaa <lb/>Jnge
-                  saar skalt du lade læge <lb/>oc Legomens velløst vil oc spæge</p>
+               <lg>
+                  <l>&#x2055; Her pløye oc Saa din Vinter Ru</l>
+                  <l><lb/> oc samle Vindruer i Korffue oc Tru</l>
+                  <l><lb/> J min tid mot du met glæde gaa</l>
+                  <l><lb/> oc lade dig dine Aarer slaa</l>
+                  <l><lb/> Jnge saar skalt du lade læge</l>
+                  <l><lb/> oc Legomens velløst vil oc spæge</l>
+               </lg>
             </div>
             <pb n="B_5v" n2="iB_5v" n3="E34"/>
             <div type="month" xml:id="kalendarium-november" n="11">
                <head type="add">November</head>
                <figure type="image"/>
+
+               <p><hi rend="Walbaum3">Nouember Slagtemaa</hi><lb rend="="/>net haffuer XXX dage
+                  Natten xvi <lb/>time oc dagen viii time </p>
                <table>
                   <row>
-                     <cell><hi rend="Walbaum3">Nouember Slagtemaa</hi><lb rend="="/>net haffuer XXX
-                        dage Natten xvi<lb/>time oc dagen viii time</cell>
+                     <cell/>
+                     <cell>Gylden <lb/>tal</cell>
+                     <cell/>
+                     <cell>Søndagis <lb/>bogstaff</cell>
                      <cell/>
                      <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Gylden<lb/>tal</cell>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell>S#.ondagis<lb/>bogstaff</cell>
-                     <cell>Tafflen<lb/>til tegen</cell>
-                     <cell/>
+                     <cell>Tafflen <lb/>til tegen</cell>
                   </row>
                   <row>
                      <cell>1</cell>
@@ -3701,7 +3694,7 @@
                      <cell/>
                      <cell>ne</cell>
                      <cell>e</cell>
-                     <cell>Alle si欥 dag</cell>
+                     <cell>Alle siæle dag</cell>
                      <cell/>
                      <cell>f</cell>
                   </row>
@@ -3719,7 +3712,7 @@
                      <cell>vii</cell>
                      <cell>uem</cell>
                      <cell>g</cell>
-                     <cell>Solen gaar op til viii</cell>
+                     <cell>Solen gaar op til viii <lb/>Oc neder til iiii</cell>
                      <cell/>
                      <cell>h</cell>
                   </row>
@@ -3728,7 +3721,7 @@
                      <cell/>
                      <cell>ber</cell>
                      <cell>A</cell>
-                     <cell>Oc neder til iiii</cell>
+                     <cell/>
                      <cell/>
                      <cell>i</cell>
                   </row>
@@ -3809,7 +3802,7 @@
                      <cell>xvii</cell>
                      <cell>ci</cell>
                      <cell>c</cell>
-                     <cell>Solen i Sk#.otte tegen</cell>
+                     <cell>Solen i Skøtte tegen</cell>
                      <cell/>
                      <cell>s</cell>
                   </row>
@@ -3916,7 +3909,7 @@
                   <row>
                      <cell>26</cell>
                      <cell>v</cell>
-                     <cell>cer</cell>
+                     <cell>ter</cell>
                      <cell>A</cell>
                      <cell/>
                      <cell/>
@@ -3960,43 +3953,40 @@
                   </row>
                </table>
                <p>&#x2055; Messue/ den mestere siger/ At man skal <lb/>gerne bade i denne Maanet/
-                  men icke la<lb rend="="/>de sig kaapper paa sine hoffter men ander <lb/>stedis
-                  huor du vilt man skal vocte sig for <lb/>wkyskhed/ oc holde sig varm/ Och æde
-                  <lb/>Peber Senip/ Huideløg Agermønye Oc <lb/>rød Løg/ oc gerne arbeyde/ oc tage
-                  drick <lb/>som tien til Leueren</p>
+                  men icke la<lb rend="="/>de sig kaapper paa sine hoffter men ander<lb rend="="
+                  />stedis huor du vilt man skal vocte sig for <lb/>wkyskhed/ oc holde sig varm/ Och
+                  æde <lb/>Peber Senip/ Huideløg Agermønye Oc <lb/>rød Løg/ oc gerne arbeyde/ oc
+                  tage drick <lb/>som tien til Leueren</p>
                <lb/>
                <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Skøtte den xiii dag</p>
                <lb/>
                <p>
                   <hi rend="center">&#x00B6; Nouember siger.</hi>
                </p>
-               <p>&#x00B6; Her slagter man øxne oc Galtene fede <lb/>oc hugger brende oc legger til
-                  rede. <lb/>Mod vinterens tuang oc haarde kny <lb/>naar skytten bær frost oc hoste
-                  til by <lb/>Rage din skaglad armene lade <lb/>det er oc sunt fuld vel at bade.</p>
+               <lg>
+                  <l>&#x00B6; Her slagter man øxne oc Galtene fede</l>
+                  <l><lb/> oc hugger brende oc legger til rede.</l>
+                  <l><lb/> Mod vinterens tuang oc haarde kny</l>
+                  <l><lb/> naar skytten bær frost oc hoste til by</l>
+                  <l><lb/> Rage din skæg lad armene lade</l>
+                  <l><lb/> det er oc sunt fuld vel at bade.</l>
+               </lg>
             </div>
             <pb n="B_6v" n2="iB_6v" n3="E36"/>
             <div type="month" xml:id="kalendarium-december" n="12">
                <head type="add">December</head>
                <figure type="image"/>
+               <p><hi rend="Walbaum3">December Julemaanet</hi><lb/>haffuer XXXi dage Natten xvi
+                  <lb/>time oc dagen viii time </p>
                <table>
                   <row>
-                     <cell><hi rend="Walbaum3">December Julemaanet</hi><lb/>haffuer XXXi dage Natten
-                        xvi<lb/>time oc dagen viii time</cell>
+                     <cell/>
+                     <cell>Gylden <lb/>tal</cell>
+                     <cell/>
+                     <cell>Søndagis <lb/>bogstaff</cell>
                      <cell/>
                      <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                  </row>
-                  <row>
-                     <cell>Gylden<lb/>tal</cell>
-                     <cell/>
-                     <cell/>
-                     <cell/>
-                     <cell>S#.ondagis<lb/>bogstaff</cell>
-                     <cell>Tafflen<lb/>til Tegen</cell>
-                     <cell/>
+                     <cell>Tafflen <lb/>til Tegen</cell>
                   </row>
                   <row>
                      <cell>1</cell>
@@ -4111,7 +4101,7 @@
                      <cell>xvii</cell>
                      <cell>lu</cell>
                      <cell>d</cell>
-                     <cell>Lucie iom dag Sol i bucken</cell>
+                     <cell>Lucie iom<ex>fruess</ex> dag Sol i bucken</cell>
                      <cell/>
                      <cell>t</cell>
                   </row>
@@ -4136,7 +4126,12 @@
                   <row>
                      <cell>16</cell>
                      <cell>xiiii</cell>
-                     <cell>fane</cell>
+                     <cell>
+                        <app>
+                           <lem>sanc</lem>
+                           <rdg><q>fanc</q> orig.</rdg>
+                        </app>
+                     </cell>
                      <cell>g</cell>
                      <cell/>
                      <cell/>
@@ -4156,7 +4151,7 @@
                      <cell/>
                      <cell>ab</cell>
                      <cell>b</cell>
-                     <cell>Solen gaar op til viii</cell>
+                     <cell>Solen gaar op til viii <lb/>Oc neder til iiii</cell>
                      <cell/>
                      <cell>{??}</cell>
                   </row>
@@ -4165,7 +4160,7 @@
                      <cell>xi</cell>
                      <cell>in</cell>
                      <cell>c</cell>
-                     <cell>Oc neder til iiii</cell>
+                     <cell/>
                      <cell/>
                      <cell>{??}</cell>
                   </row>
@@ -4247,7 +4242,7 @@
                      <cell>ii</cell>
                      <cell>pu</cell>
                      <cell>e</cell>
-                     <cell>De vskyldige b#.ornss dag</cell>
+                     <cell>De vskyldige børnss dag</cell>
                      <cell/>
                      <cell>g</cell>
                   </row>
@@ -4279,12 +4274,12 @@
                      <cell>k</cell>
                   </row>
                </table>
-               <p>&#x2055; Plato den Mestere siger at man maa <lb/>æde alle honde Mad i denne Maanet
-                  / oc <lb/>dricke varm drick/ Oc holde sit Hoffuit oc <lb/>bryst varmt/ Kabuse
-                  kaal/ oc kaalder mad <lb/>er wsunt/ Varme vrter ere da sunde til Le <lb/>ueren oc
-                  hoffuedit/ Det er icke sunt at lade <lb/>sig Lade/ du skalt da bruge Agermønye i
-                  <lb/>din drick oc mad/ thi det er gaat for hier<lb rend="="/>nen/ oc holde din
-                  Mund ren.</p>
+               <p>&#x2055; Plato den Mestere siger at man maa <lb/>æde alle honde Mad i denne
+                  Maanet/ oc <lb/>dricke varm drick/ Oc holde sit Hoffuit oc <lb/>bryst varmt/
+                  Kabuse kaal/ oc kaalder mad <lb/>er wsunt/ Varme vrter ere da sunde til Le<lb
+                     rend="="/>ueren oc hoffuedit/ Det er icke sunt at lade <lb/>sig Lade/ du skalt
+                  da bruge Agermønye i <lb/>din drick oc mad/ thi det er gaat for hier<lb rend="="
+                  />nen/ oc holde din Mund ren.</p>
                <lb/>
                <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> gedebuck de<ex>n</ex> xiii
                   dag.</p>
@@ -4293,10 +4288,16 @@
                   <hi rend="center">&#x00B6; December siger.</hi>
                </p>
                <lb/>
-               <p>&#x2055; Nu vil ieg leffue oc vere fro <lb/>oc slagte mod Jul baade Oxe oc Ko
-                  <lb/>At ieg maa metter oc salig bliffue <lb/><hi rend="Walbaum5">den stund ieg er
-                     her vdi liffue <lb/>Stenbucken reger dine knæ foruist <lb/>thi foruar dennem
-                     vel for brøst</hi></p>
+               <lg>
+                  <l>&#x2055; Nu vil ieg leffue oc vere fro</l>
+                  <l><lb/> oc slagte mod Jul baade Oxe oc Ko</l>
+                  <l><lb/> At ieg maa metter oc salig bliffue</l>
+                  <hi rend="Walbaum5">
+                     <l><lb/> den stund ieg er her vdi liffue</l>
+                     <l><lb/> Stenbucken reger dine knæ foruist</l>
+                     <l><lb/> thi foruar dennem vel for brøst</l>
+                  </hi>
+               </lg>
             </div>
             <pb n="B_7v" n2="iB_7v" n3="E38"/>
             <div type="instructions" xml:id="instruktioner" n="?">
