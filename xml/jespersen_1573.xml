@@ -1155,7 +1155,7 @@
                 <head type="add">Anden søndag i advent</head>
                 <head><pb ana="25" n="E37"/>Den Anden Søndag <lb/> i Aduent.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-2-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Populus Sion</head>
                     <head>Introitus Latinus. <lb/>
                         <ref target="#">Esaiæ. 3.</ref></head>
                     <notatedMusic>
@@ -1202,7 +1202,7 @@
                 <head type="add">Tredje søndag i advent</head>
                 <head>Den Tredie Søndag <lb/> i Aduent.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-3-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Gaudete in Domino semper</head>
                     <head>Introitus Latinus. <lb/>
                         <ref target="#">Philipp: 4.</ref></head>
                     <notatedMusic>
@@ -1250,7 +1250,7 @@
                 <head type="add">Fjerde søndag i advent</head>
                 <head>Den Fierde Søndag <lb/> i Aduent.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-4-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Memento nostri Domine</head>
                     <head>Introitus Latinus.<lb/>
                         <ref target="#">Psalm: 106.</ref></head>
                     <notatedMusic>
@@ -1345,7 +1345,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:lang="la" xml:id="section-5-2" n="2">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Puer natus est nobis</head>
                     <head>Introitus Latinus. <ref target="#">Esaiæ, 9.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_037.xml#mdiv-01"/>
@@ -2000,7 +2000,7 @@
                 <head type="add">Sankt Stefans dag</head>
                 <head>Paa S. Staffens dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-6-1" n="1">
-                    <head type="add">Introitus latin</head>
+                    <head type="add">Introitus latin: Etenim sederunt pricnipes</head>
                     <head> Introitus lat.<lb/>
                         <ref target="#">Psalm: 119.</ref></head>
                     <notatedMusic>
@@ -2122,7 +2122,7 @@
                 <head type="add">Hans Evangeliste Dag</head>
                 <head><pb ana="84" n="E96"/>Paa S. Hans Euange<lb rend="="/>liste dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-7-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: In medio ecclesiæ</head>
                     <head> Introitus Latinus. <lb/>
                         <ref target="#">Syrach, 15.</ref></head>
                     <notatedMusic>
@@ -2168,7 +2168,7 @@
                 <head type="add">Første søndag efter jul</head>
                 <head>Den første Søndag <lb/> effter Jul.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-8-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Dum medium silentium teneret omnia</head>
                     <head>Introitus Latinus. <lb/>
                         <ref target="#">Sapientiæ. 18.</ref></head>
                     <notatedMusic>
@@ -2214,6 +2214,7 @@
                 <head type="add">Nytårsdag</head>
                 <head>Paa Nyt Aars<lb/>dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-9-1" n="1">
+                    <head type="add">Introitus latinus: Et postquam consummati sunt dies octo</head>
                     <head>Introitus lat. <lb/>
                         <ref target="#">Lucæ. 2.</ref></head>
                     <notatedMusic>
@@ -2300,7 +2301,7 @@
                 <head type="add">Helligtrekongersdag</head>
                 <head>Paa hellig tre Kon<lb rend="="/>gers dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-11-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Ecce advenit Dominator Dominus</head>
                     <head>Introitus latinus. <lb/>
                         <ref target="#">Ex Malachi: 3.</ref></head>
                     <notatedMusic>
@@ -2346,7 +2347,7 @@
                 <head><pb ana="101" n="E113"/>Den<ex>n</ex> Første Søndag effter hellig tre Kongers
                     dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-12-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: In excelso throno vidi sedere virum</head>
                     <head> Introitus latinus. <lb/>
                         <ref target="#">Ex Esaiæ. 6.</ref> et <ref target="#">Apocal:
                         4.</ref></head>
@@ -2391,7 +2392,7 @@
                 <head type="add">Anden søndag efter helligtrekongersdag</head>
                 <head>Den Anden Søndag<lb/> effter hellig tre Kongers <lb/>dag. </head>
                 <div type="psalm" xml:lang="la" xml:id="section-13-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Omnis terra adoret te Deus</head>
                     <head> Introitus latinus <lb/>
                         <ref target="#">Psalm: 65.</ref></head>
                     <notatedMusic>
@@ -2927,7 +2928,7 @@
             <div type="chapter" xml:id="soendag-seksagesima" n="18">
                 <head type="add">Seksagesima</head>
                 <div type="psalm" xml:lang="la" xml:id="section-18-1" n="1">
-                    <head type="add">Introitus latin m.fl.</head>
+                    <head type="add">Introitus latinus m.fl.</head>
                     <head>For oc effter Predicken som<lb/>
                         <hi rend="italics">Dominica prima Aduentus.</hi>
                         <lb/></head>
@@ -3064,7 +3065,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:lang="la" xml:id="section-19-2" n="2">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Esto mihi in Deum protectorem</head>
                     <head><pb ana="132" n="E144"/>Introitus latinus. <lb/>
                         <ref target="#">Psalm: 31.</ref></head>
                     <notatedMusic>
@@ -3171,7 +3172,7 @@
                     <lb/>
                 </div>
                 <div type="psalm" xml:lang="la" xml:id="section-20-2" n="2">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Inuocauit me</head>
                     <head>Introitus latinus <lb/>
                         <ref target="#">Psal: 91.</ref></head>
                     <notatedMusic>
@@ -3505,7 +3506,7 @@
                 <head type="add">Anden søndag i fasten</head>
                 <head>Den<ex>n</ex> Anden Søndag<lb/>i Faste.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-21-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Reminiscere miserationum tuarum Domine</head>
                     <head>Introitus latinus. <lb/>
                         <ref target="#">Psalm: 25.</ref></head>
                     <notatedMusic>
@@ -3540,7 +3541,7 @@
                 <head type="add">Tredje søndag i fasten</head>
                 <head><pb ana="153" n="E165"/>Den Tredie Søndag i<lb/>Faste.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-22-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Oculi mei semper ad Dominum</head>
                     <head>Introitus latinus. <lb/>
                         <ref target="#">Psalm: 25.</ref></head>
                     <notatedMusic>
@@ -3565,7 +3566,7 @@
                 <head type="add">Midfastesøndag</head>
                 <head>Paa Medfaste Søn<lb rend="="/>dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-23-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Lætare Jerusalem</head>
                     <head>Introitus latinus <lb/>
                         <ref target="#">Psalm: 66.</ref></head>
                     <notatedMusic>
@@ -3601,7 +3602,7 @@
                 <head type="add">Mariæ bebudelsesdag</head>
                 <head><pb ana="158" n="E170"/>Marie Bebudelsis<lb rend="="/>dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-24-1" n="1">
-                    <head type="add">O Jesu Krist, som manddom tog. Introitus latinus</head>
+                    <head type="add">Introitus latinus: Rorate Coeli desuper</head>
                     <head>Introitus Dansk/ Jesu Christ som <lb/>Mandom tog: Som paa Kyn<lb rend="="
                         />delmisse dag. <lb/> Introitus latinus <lb/>
                         <ref target="#">Psal: 45.</ref></head>
@@ -3663,7 +3664,7 @@
                 <head type="add">Søndag efter midfaste</head>
                 <head>Den Søndag effter <lb/>Medfaste.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-25-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Iudica me Deus</head>
                     <head>Introitus latinus. <ref target="#">Psalm: 43.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_161.xml#mdiv-01"/>
@@ -3695,7 +3696,7 @@
                 <head type="add">Palmesøndag</head>
                 <head><pb ana="164" n="E176"/>Paa Palme Søndag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-26-1" n="1">
-                    <head type="add">Introitus latinus</head>
+                    <head type="add">Introitus latinus: Domine ne longe facias</head>
                     <head>Introitus latinus. <lb/>
                         <ref target="#">Psalm: 22.</ref></head>
                     <notatedMusic>
@@ -3729,7 +3730,7 @@
                 <head type="add">Skærtorsdag</head>
                 <head>Paa Skiertorsdag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-27-1" n="1">
-                    <head type="add">Introitus latinus m.fl.</head>
+                    <head type="add">Introitus latinus: Nos autem gloriari oportet in cruce Domini</head>
                     <head> Introitus Dansk. <lb/>Aff dybsens nød: <hi rend="italics">vt
                         supra.</hi><lb/>Introitus latinus.<lb/>
                         <ref target="#">Ex Galat: 6.</ref></head>
@@ -4469,7 +4470,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:lang="la" xml:id="section-29-2" n="2">
-                    <head type="add">Introitus latinus: Resurrexit et adhuc tecum sum</head>
+                    <head type="add">Introitus latinus: Resurrexi et adhuc tecum sum</head>
                     <head>Introitus latinus <lb/><ref target="#">Psalm: 139.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_188.xml#mdiv-01"/>
@@ -5028,7 +5029,8 @@
             <div type="chapter" xml:id="foerste-soendag-efter-paaske" n="31">
                 <head type="add">Første søndag efter påske</head>
                 <head>Den første Søndag<lb/>effter Paaske. </head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="quasi-modo">
+                    <head type="add">Introitus latinus: Quasi modo geniti infantes</head>
                     <head>Introitus latinus. <lb/><ref target="#">1. Pet: 2.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_220.xml#mdiv-01"/>
@@ -5081,7 +5083,8 @@
             <div type="chapter" xml:id="anden-soendag-efter-paaske" n="32">
                 <head type="add">Anden søndag efter påske</head>
                 <head><pb ana="224" n="E236"/>Den<ex>n</ex> Anden Søndag<lb/>effter Paaske.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="misericordia-domini">
+                    <head type="add">Misericordia Domini plena est terra</head>
                     <head>Introitus latinus. <lb/>
                         <ref target="#">Psalm:33.</ref></head>
                     <notatedMusic>
@@ -5129,7 +5132,8 @@
             <div type="chapter" xml:id="tredje-soendag-efter-paaske" n="33">
                 <head type="add">Tredje søndag efter påske</head>
                 <head>Den<ex>n</ex> Tredie Søndag<lb/>effter Paaske.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="iubilate-deo-omnis-terra">
+                    <head type="add">Introitus latinus: Iubilate Deo omnis terra</head>
                     <head> Introitus latinus. <lb/>
                         <ref target="#">Psalm: 66.</ref></head>
                     <notatedMusic>
@@ -5184,7 +5188,8 @@
             <div type="chapter" xml:id="fjerde-soendag-efter-paaske" n="34">
                 <head type="add">Fjerde søndag efter påske</head>
                 <head>Den fierde Søndag<lb/>effter Paaske.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="cantate-domino">
+                    <head type="add">Introitus latinus: Cantate Domino canticum novum</head>
                     <head>Introitus latinus. <lb/>
                         <ref target="#">Psalm: 98.</ref></head>
                     <notatedMusic>
@@ -5315,7 +5320,8 @@
             <div type="chapter" xml:id="sjette-soendag-efter-paaske" n="37">
                 <head type="add">Sjette søndag efter påske</head>
                 <head>Den siette Søndag<lb/> effter Paaske.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="exaudi-domine">
+                    <head type="add">Introitus latinus: Exaudi Domine vocem meam</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 27.</ref></head>
                     <notatedMusic>
@@ -5861,7 +5867,8 @@
                     </div>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="benedicta-sit-sancta-trinitas">
+                    <head type="add">Introitus latinus: Benedicta sit sancta Trinitas</head>
                     <head>Introitus latinus.</head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_274.xml"/>
@@ -5992,7 +5999,8 @@
             <div type="chapter" xml:id="foerste-soendag-efter-trinitatis" n="41">
                 <head type="add">Første søndag efter trinitatis</head>
                 <head><pb ana="286" n="E298"/>Den første Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="domine-in-tua">
+                    <head type="add">Introitus latinus: Domine in tua misericordia speraui</head>
                     <head>Introitus Dansk. <lb/> vide Domi<lb rend="="/>nica Trinitatis.
                         <lb/>Introitus latinus. <ref target="#">Psalm: 13.</ref></head>
                     <notatedMusic>
@@ -6177,7 +6185,8 @@
             <div type="chapter" xml:id="anden-soendag-efter-trinitatis" n="42">
                 <head type="add">Anden søndag efter trinitatis</head>
                 <head>Den Anden Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="factus-est-dominus-protector-meus">
+                    <head type="add">Introitus latinus: Factus est Dominus protector meus</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 18.</ref></head>
                     <notatedMusic>
@@ -6219,7 +6228,8 @@
             <div type="chapter" xml:id="tredje-soendag-efter-trinitatis" n="43">
                 <head type="add">Tredje søndag efter trinitatis</head>
                 <head>Den<ex>n</ex> Tredie Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="respice-in-me">
+                    <head type="add">Introitus latinus: Respice in me et miserere mei Domine</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 25.</ref></head>
                     <notatedMusic>
@@ -6266,7 +6276,8 @@
                 <head type="add">Fjerde søndag efter trinitatis</head>
                 <head><pb ana="300" n="E312"/>Den<ex>n</ex> Fierde Søndag<lb/>effter
                     Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="dominus-illuminatio-mea">
+                    <head type="add">Introitus latinus: Dominus illuminatio mea</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 27.</ref></head>
                     <notatedMusic>
@@ -6390,7 +6401,8 @@
                     </div>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="de-ventre-matris">
+                    <head type="add">Introitus latinus: De vnetre matris meæ</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Esaiæ, 49.</ref></head>
                     <notatedMusic>
@@ -6688,7 +6700,8 @@
                         <l>At husuale dine rette Vdualde met.</l>
                     </lg>
                 </div>
-                <div type="psalm">
+                <div type="psalm" xml:lang="lat" xml:id="gaudeamus-omnes-in-domino">
+                    <head type="add">Introitus latinus: Gaudeamus omnes in Domino</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Ex Lu: 1.</ref></head>
                     <notatedMusic>
@@ -6731,7 +6744,8 @@
             <div type="chapter" xml:id="femte-soendag-efter-trinitatis" n="47">
                 <head type="add">Femte søndag efter trinitatis</head>
                 <head><pb ana="318" n="E330"/>Den<ex>n</ex> Femte Søndag effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="exaudi-domine-vocem-meam">
+                    <head type="add">Introitus latinus: Exaudi Domine vocem mean</head>
                     <head>Introitus Dansk.</head>
                     <p>Som paa S. Hans dag. <lb/>Oc skal fremdelis siungis til Dominicam<lb/> Nonam
                         Trinitatis. <lb/>Introitus latinus.<lb/>
@@ -6787,7 +6801,8 @@
             <div type="chapter" xml:id="sjette-soendag-efter-trinitatis" n="48">
                 <head type="add">Sjette søndag efter trinitatis</head>
                 <head>Den Siette Søndag <lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="dominus-fortitudo">
+                    <head type="add">Introitus latinus: Dominus fortitudo plebis suæ</head>
                     <head>Introitus latinus. <ref target="#">Psalm: 28.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_321.xml#mdiv-01"/>
@@ -6835,7 +6850,8 @@
             <div type="chapter" xml:id="syvende-soendag-efter-trinitatis" n="49">
                 <head type="add">Syvende søndag efter trinitatis</head>
                 <head>Den<ex>n</ex> Siuende Søndag effter Trinitatis. </head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="omnes-gentes-plaudite-manibus">
+                    <head type="add">Omnes gentes plaudite manibus</head>
                     <head>Introitus latinus. <ref target="#">Psalm: 47.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_325.xml#mdiv-01"/>
@@ -6988,7 +7004,8 @@
                     </div>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="ecce-deus">
+                    <head type="add">Introitus latinus: Ecce deus adiuvat me</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 54.</ref></head>
                     <notatedMusic>
@@ -7115,7 +7132,8 @@
             <div type="chapter" xml:id="tiende-soendag-efter-trinitatis" n="52">
                 <head type="add">10. søndag efter trinitatis</head>
                 <head>Den<ex>n</ex> Tiende Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="dum-clamarem-ad-dominum">
+                    <head type="add">Introitus latinus: Dum clamarem ad dominum</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Psalm: 55.</ref></head>
                     <notatedMusic>
@@ -7167,7 +7185,9 @@
             <div type="chapter" xml:id="ellevte-soendag-efter-trinitatis" n="53">
                 <head type="add">11. søndag efter trinitatis</head>
                 <head>Den<ex>n</ex> Elleffte Søndag<lb/>effter Trinitatis. </head>
-                <div type="psalm" xml:lang="la">
+               
+                <div type="psalm" xml:lang="la" xml:id="deus-in-loco-sancto">
+                    <head type="add">Introitus latinus: Deus in loco sancto suo</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 68.</ref></head>
                     <notatedMusic>
@@ -7209,7 +7229,8 @@
             <div type="chapter" xml:id="tolvte-soendag-efter-trinitatis" n="54">
                 <head type="add">Tolvte søndag efter trinitatis</head>
                 <head>Den Tolffte Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="deus-in-adiutorium-meum">
+                    <head type="add">Introitus latinus: Deus in adiutorium meum</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Psalm: 39.</ref></head>
                     <notatedMusic>
@@ -7309,7 +7330,8 @@
                     </div>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="respice-domine">
+                    <head type="add">Introitus latinus: Respice Domine in testamentum tuum</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 74.</ref></head>
                     <notatedMusic>
@@ -7432,7 +7454,8 @@
             <div type="chapter" xml:id="fjortende-soendag-efter-trinitatis" n="56">
                 <head type="add">14. søndag efter trinitatis</head>
                 <head>Den<ex>n</ex> Fiortende Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="protector-noster">
+                    <head type="add">Protector noster aspice Deus</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 84.</ref></head>
                     <notatedMusic>
@@ -7481,7 +7504,8 @@
             <div type="chapter" xml:id="femtende-soendag-efter-trinitatis" n="57">
                 <head type="add">15. søndag efter trinitatis</head>
                 <head>Den Femtende Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="inclina-domine">
+                    <head type="add">Introitus latinus: Inclina domine aurem tuam ad me</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Psalm: 86.</ref></head>
                     <notatedMusic>
@@ -7532,7 +7556,8 @@
                 <head type="add">16. søndag efter trinitatis</head>
                 <head><pb ana="364" n="E376"/>Den<ex>n</ex> xvj. Søndag effter<lb/>
                     Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="miserere-mihi-domine">
+                    <head type="add">Introitus latinus: Miserere mihi Domine</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Psalm: 86.</ref></head>
                     <notatedMusic>
@@ -7611,7 +7636,8 @@
                     <lb/>
                     <!--<figure type="vignette"/>-->
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="benedicite-domino">
+                    <head type="add">Introitus latinus: Benedicite domino</head>
                     <head><pb ana="370" n="E382"/>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 103.</ref></head>
                     <notatedMusic>
@@ -7898,7 +7924,8 @@
                         <l>Guds rige wi dog beholde.</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="iustus-es-domine">
+                    <head type="add">Introitus latinus: Iustus es Domine</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Psalm: 119.</ref></head>
                     <notatedMusic>
@@ -8074,7 +8101,8 @@
             <div type="chapter" xml:id="attende-soendag-efter-trinitatis" n="61">
                 <head type="add">18. søndag efter trinitatis</head>
                 <head>Den xviij. Søndag <lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="da-pacem-domine">
+                    <head type="add">Introitus latinus: Da pacem domine</head>
                     <head> Introitus latinus.</head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_396.xml#mdiv-01"/>
@@ -8117,7 +8145,8 @@
             <div type="chapter" xml:id="nittende-soendag-efter-trinitatis" n="62">
                 <head type="add">19. søndag efter trinitatis</head>
                 <head>Den<ex>n</ex> xix. Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="salus-populi-ego-sum">
+                    <head type="add">Introitus latinus: Salus populi ego sum</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Ex Psalm: 34.</ref> et <ref target="#">35.</ref></head>
                     <notatedMusic>
@@ -8161,7 +8190,8 @@
             <div type="chapter" xml:id="tyvende-soendag-efter-trinitatis" n="63">
                 <head type="add">20. søndag efter trinitatis</head>
                 <head><pb ana="403" n="E415"/>Den xx. Søndag effter<lb/>Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="omnia-quae-fecisti">
+                    <head type="add">Omnia quæ fecisti nobis Domine</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Ex Tobiæ, 3.</ref></head>
                     <notatedMusic>
@@ -8330,7 +8360,8 @@
                         <l>Gud vnde oss glæden alle.</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="in-voluntate-tua-domine">
+                    <head type="add">Introitus latinus: Involuntate tua Domine</head>
                     <head>Introitus latinus.<lb/>
                         <ref target="#">Esther, 13.</ref></head>
                     <notatedMusic>
@@ -8482,7 +8513,8 @@
             <div type="chapter" xml:id="treogtyvende-soendag-efter-trinitatis" n="67">
                 <head type="add">23. søndag efter trinitatis</head>
                 <head>Den xxiij. Søndag<lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="dicit-dominus">
+                    <head type="add">Dicit Dominus</head>
                     <head> Introitus latinus.<lb/>
                         <ref target="#">Ieremiæ, 29.</ref></head>
                     <notatedMusic>
@@ -9243,9 +9275,10 @@
                         <lb/>
                     </div>
                 </div>
-                <div xml:id="praestekalent">
+                <div type="chapter" xml:id="praestekalent">
                     <head type="add">Sang og ceremonier ved præstekalent</head>
-                    <div type="psalm" xml:lang="la">
+                    <div type="psalm" xml:lang="la" xml:id="sacerdotes-eius-induant-salutare">
+                        <head type="add">Introitus latinus: Sacedotes eius induant salutare</head>
                         <head>Sang oc ceremonier som <lb/> holdis vdi Preste Calent/ eller Pro<lb
                                 rend="="/>uinciali Colloquio. <lb/>Introitus latinus.</head>
                         <notatedMusic>
@@ -9826,11 +9859,11 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Adorate Deum omnes Angeli eius</hi> , <ref
-                                    target="107" type="SheetNumber">107.</ref>
+                                    target="#section-14-1" type="SheetNumber">107.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Ad te leuaui animam meam</hi>
-                                <ref target="3" type="SheetNumber">3.</ref>
+                                <ref target="#section-1-2" type="SheetNumber">3.</ref>
                             </item>
                         </list>
                     </div>
@@ -9842,11 +9875,11 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Benedicite Domino omnes Angeli</hi>
-                                <ref target="370" type="SheetNumber">370.</ref>
+                                <ref target="#benedicite-domino" type="SheetNumber">370.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Benedicta sit sancta trinitas</hi> , <ref
-                                    target="274" type="SheetNumber">274.</ref>
+                                    target="#benedicta-sit-sancta-trinitas" type="SheetNumber">274.</ref>
                             </item>
                         </list>
                     </div>
@@ -9858,11 +9891,11 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Cantate Domino canticum nouum.</hi>
-                                <ref target="231" type="SheetNumber">231.</ref>
+                                <ref target="#cantate-domino" type="SheetNumber">231.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Circumdederunt me gemitus mortis</hi> , <ref
-                                    target="122" type="SheetNumber">122.</ref>
+                                    target="#section-17-1" type="SheetNumber">122.</ref>
                             </item>
                         </list>
                     </div>
@@ -9874,47 +9907,47 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Da pacem Domine sustinentibus te</hi> , <ref
-                                    target="396" type="SheetNumber">396.</ref>
+                                    target="#da-pacem-domine" type="SheetNumber">396.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">De ventre matris meæ</hi>
-                                <ref target="306" type="SheetNumber">306.</ref>
+                                <ref target="#de-ventre-matris" type="SheetNumber">306.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Deus in adiutorium meum intende</hi> , <ref
-                                    target="346" type="SheetNumber">346.</ref>
+                                    target="#deus-in-adiutorium-meum" type="SheetNumber">346.</ref>
                             </item>
                             <item>
-                                <hi rend="italics">Deus in loco sancto suo</hi> , <ref target="343"
+                                <hi rend="italics">Deus in loco sancto suo</hi> , <ref target="deus-in-loco-sancto"
                                     type="SheetNumber">343.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Dicit Dominus, ego cogito</hi>
-                                <ref target="422" type="SheetNumber">422.</ref>
+                                <ref target="#dicit-dominus" type="SheetNumber">422.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Domine in tua misericordia sperauj</hi> , <ref
-                                    target="286" type="SheetNumber">286.</ref>
+                                    target="#domine-in-tua" type="SheetNumber">286.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Domine ne longe facias auxilium</hi>
-                                <ref target="164" type="SheetNumber">164.</ref>
+                                <ref target="#section-26-1" type="SheetNumber">164.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Dominus fortitudo plebis suæ</hi> , <ref
-                                    target="321" type="SheetNumber">321.</ref>
+                                    target="#dominus-fortitudo" type="SheetNumber">321.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Dominus illuminatio mea, et salus mea</hi> , <ref
-                                    target="300" type="SheetNumber">300.</ref>
+                                    target="#dominus-illuminatio-mea" type="SheetNumber">300.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Dum clamarem ad Dominum, exaudiuit</hi>
-                                <ref target="339" type="SheetNumber">339.</ref>
+                                <ref target="#dum-clamarem-ad-dominum" type="SheetNumber">339.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Dum medium silentium teneret omnia</hi> , <ref
-                                    target="87" type="SheetNumber">87.</ref>
+                                    target="#section-8-1" type="SheetNumber">87.</ref>
                             </item>
                         </list>
                     </div>
@@ -9926,36 +9959,36 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Ecce aduenit Dominator Dominus</hi> , <ref
-                                    target="97" type="SheetNumber">97.</ref>
+                                    target="#section-11-1" type="SheetNumber">97.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Ecce Deus adiuuat me, et Dominus</hi>
-                                <ref target="334" type="SheetNumber">334.</ref>
+                                <ref target="#ecce-deus" type="SheetNumber">334.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Esto mihi in Deum protectorem</hi> , <ref
-                                    target="132" type="SheetNumber">132.</ref>
+                                    target="#section-19-2" type="SheetNumber">132.</ref>
                             </item>
                             <item>
                                 <hi rend="italics"><pb n="E476"/>Etenim sederunt principes, et
                                     aduersum me</hi>
-                                <ref target="75" type="SheetNumber">75.</ref>
+                                <ref target="#section-6-1" type="SheetNumber">75.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Et postquam consummati sunt dies octo</hi> , <ref
-                                    target="91" type="SheetNumber">91.</ref>
+                                    target="#section-9-1" type="SheetNumber">91.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Exaudi Domine vocem meam etc. adiutor</hi>
-                                <ref target="318" type="SheetNumber">318.</ref>
+                                <ref target="#exaudi-domine-vocem-meam" type="SheetNumber">318.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Exaudi Domine vocem meam etc. tibi dixit</hi>
-                                <ref target="240" type="SheetNumber">240.</ref>
+                                <ref target="#exaudi-domine" type="SheetNumber">240.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Exurge, quare obdormis Domine? exurge</hi>
-                                <ref target="126" type="SheetNumber">126.</ref>
+                                <ref target="#section-18-1" type="SheetNumber">126.</ref>
                             </item>
                         </list>
                     </div>
@@ -9967,7 +10000,7 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Factus est Dominus protector meus, et eduxit</hi>
-                                <ref target="293" type="SheetNumber">293.</ref>
+                                <ref target="#factus-est-dominus-protector-meus" type="SheetNumber">293.</ref>
                             </item>
                         </list>
                     </div>
@@ -9979,11 +10012,11 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Gaudeamus omnes in Domino, diem festum</hi>
-                                <ref target="315" type="SheetNumber">315.</ref>
+                                <ref target="#gaudeamus-omnes-in-domino" type="SheetNumber">315.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Gaudete in domino semper, iterum dico</hi>
-                                <ref target="28" type="SheetNumber">28.</ref>
+                                <ref target="#section-3-1" type="SheetNumber">28.</ref>
                             </item>
                         </list>
                     </div>
@@ -9995,35 +10028,35 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Inclina Domine aurem tuam ad me, et exaudi</hi>
-                                <ref target="360" type="SheetNumber">360.</ref>
+                                <ref target="#inclina-domine" type="SheetNumber">360.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">In excelso throno vidj sedere virum</hi> , <ref
-                                    target="101" type="SheetNumber">101.</ref>
+                                    target="#section-12-1" type="SheetNumber">101.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">In medio Ecclesiæ aperuit os eius</hi> , <ref
-                                    target="84" type="SheetNumber">84.</ref>
+                                    target="#section-7-1" type="SheetNumber">84.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Inuocauit me, et ego exaudiam eum</hi> , <ref
-                                    target="136" type="SheetNumber">136.</ref>
+                                    target="#section-20-2" type="SheetNumber">136.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">In voluntate tua Domine vniuersa sunt</hi>
-                                <ref target="413" type="SheetNumber">413.</ref>
+                                <ref target="#in-voluntate-tua-domine" type="SheetNumber">413.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Iubilate Deo Omnis terra, haleluia.</hi>
-                                <ref target="227" type="SheetNumber">227.</ref>
+                                <ref target="#iubilate-deo-omnis-terra" type="SheetNumber">227.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Iudica me Deus, et discerne causam meam</hi>
-                                <ref target="161" type="SheetNumber">161.</ref>
+                                <ref target="#section-25-1" type="SheetNumber">161.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Iustus es Domine, et rectum iudicium tuum.</hi>
-                                <ref target="390" type="SheetNumber">390.</ref>
+                                <ref target="#iustus-es-domine" type="SheetNumber">390.</ref>
                             </item>
                         </list>
                     </div>
@@ -10035,7 +10068,7 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Lætare Ierusalem, et conuentum facite</hi>
-                                <ref target="155" type="SheetNumber">155.</ref>
+                                <ref target="#section-23-1" type="SheetNumber">155.</ref>
                             </item>
                         </list>
                     </div>
@@ -10047,15 +10080,15 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Memento nostri Domine, in beneplacito populi</hi>
-                                <ref target="32" type="SheetNumber">32.</ref>
+                                <ref target="#section-4-1" type="SheetNumber">32.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Miserere mihi Domine, quoniam ad te clamaui</hi>
-                                <ref target="364" type="SheetNumber">364.</ref>
+                                <ref target="#miserere-mihi-domine" type="SheetNumber">364.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Misericordia Domini plena est terra</hi> , <ref
-                                    target="224" type="SheetNumber">224.</ref>
+                                    target="#misericordia-domini" type="SheetNumber">224.</ref>
                             </item>
                         </list>
                     </div>
@@ -10067,7 +10100,7 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Nos autem gloriari oportet in cruce Domini</hi>
-                                <ref target="166" type="SheetNumber">166.</ref>
+                                <ref target="#section-27-1" type="SheetNumber">166.</ref>
                             </item>
                         </list>
                     </div>
@@ -10080,20 +10113,20 @@
                             <item>
                                 <hi rend="italics">Oculi mei semper ad Dominum, quia ipse
                                     euellet</hi>
-                                <ref target="153" type="SheetNumber">153.</ref>
+                                <ref target="#section-22-1" type="SheetNumber">153.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Omnes gentes plaudite manibus, iubilate Deo</hi>
-                                <ref target="325" type="SheetNumber">325.</ref>
+                                <ref target="#omnes-gentes-plaudite-manibus" type="SheetNumber">325.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Omnia quæ fecisti nobis Domine, in vero
                                     iudicio</hi>
-                                <ref target="403" type="SheetNumber">403.</ref>
+                                <ref target="#omnia-quae-fecisti" type="SheetNumber">403.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Omnis terra adoret te Deus, et psallat tibi</hi>
-                                <ref target="104" type="SheetNumber">104.</ref>
+                                <ref target="#section-13-1" type="SheetNumber">104.</ref>
                             </item>
                         </list>
                     </div>
@@ -10107,15 +10140,15 @@
                             <item>
                                 <hi rend="italics">Populus Sion, ecce Dominus veniet ad
                                     saluandas</hi>
-                                <ref target="25" type="SheetNumber">25.</ref>
+                                <ref target="#section-2-1" type="SheetNumber">25.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Protector noster aspice Deus, et respice</hi>
-                                <ref target="357" type="SheetNumber">357.</ref>
+                                <ref target="#protector-noster" type="SheetNumber">357.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Puer natus est nobis, et filius datus est
-                                    nobis</hi> , <ref target="37" type="SheetNumber">37.</ref>
+                                    nobis</hi> , <ref target="#section-5-2" type="SheetNumber">37.</ref>
                             </item>
                         </list>
                     </div>
@@ -10127,7 +10160,7 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Quasi modo geniti infantes, haleluia.</hi>
-                                <ref target="220" type="SheetNumber">220.</ref>
+                                <ref target="#quasi-modo" type="SheetNumber">220.</ref>
                             </item>
                         </list>
                     </div>
@@ -10139,24 +10172,24 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Reminiscere miserationum tuarum Domine</hi> ,
-                                    <ref target="150" type="SheetNumber">150.</ref>
+                                <ref target="#section-21-1" type="SheetNumber">150.</ref>
                             </item>
                             <item>
                                 <hi rend="italics"><pb n="E477"/>Respice Domine in testamentum
-                                    tuum</hi> , <ref target="351" type="SheetNumber">351.</ref>
+                                    tuum</hi> , <ref target="#respice-domine" type="SheetNumber">351.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Respice in me, et miserere mei Domine</hi> , <ref
-                                    target="296" type="SheetNumber">296.</ref>
+                                    target="#respice-in-me" type="SheetNumber">296.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Resurrexi, et adhuc tecum sum, haleluia.</hi>
-                                <ref target="188" type="SheetNumber">188.</ref>
+                                <ref target="#section-29-2" type="SheetNumber">188.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Rorate coeli desuper, et nubes pluant
                                     iustum.</hi>
-                                <ref target="158" type="SheetNumber">158.</ref>
+                                <ref target="#section-24-1" type="SheetNumber">158.</ref>
                             </item>
                         </list>
                     </div>
@@ -10168,11 +10201,11 @@
                         <list rend="simple">
                             <item>
                                 <hi rend="italics">Sacerdotes eius induant salutare, et sancti</hi>
-                                <ref target="443" type="SheetNumber">443.</ref>
+                                <ref target="#sacerdotes-eius-induant-salutare" type="SheetNumber">443.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Salus populi ego sum, dicit Dominus</hi> , <ref
-                                    target="399" type="SheetNumber">399.</ref>
+                                    target="#salus-populi-ego-sum" type="SheetNumber">399.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Si iniquitates obseruaueris Domine</hi> , <ref
