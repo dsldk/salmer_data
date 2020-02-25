@@ -4992,7 +4992,8 @@
                         <row>
                            <cell/>
                            <cell/>
-                           <cell role="label" cols="6"> Offuerløbs dage </cell>
+                           <cell cols="6"> <head>Offuerløbs dage</head> </cell>
+                        
                         </row>
 
                         <row>
