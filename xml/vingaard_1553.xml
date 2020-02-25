@@ -4984,17 +4984,19 @@
                   <p><space extent="2blanks"/>&#x00B6; Jtem det Tal som staar wnder <lb/>Gylden
                      tallit/ Mercker naar wi haffuer <lb/>xii. eller xiii. Maanet wdi Aarit.</p>
                   <pb n="C_2r" n2="iC_2r" n3="E43"/>
-                
-                  
-                
+
+
+
                   <div type="table">
                      <table>
-                        <row><cell></cell>
-                           <cell></cell>
-                           <cell>  <head>Offuerløbs dage</head></cell></row>
-                        
                         <row>
-                           
+                           <cell/>
+                           <cell/>
+                           <cell role="label" cols="6"> Offuerløbs dage </cell>
+                        </row>
+
+                        <row>
+
                            <cell/>
                            <cell/>
                            <cell>i.</cell>
@@ -5007,12 +5009,9 @@
                         </row>
                         <row>
                            <cell>Gylden <lb/>tal</cell>
-                          
-                           <cell>Søndages Bogstaffue.</cell>
-                           <cell></cell>
-                           <cell></cell>
-                         
-                          
+                           <cell cols="7">Søndages Bogstaffue.</cell>
+                           <cell/>
+
                         </row>
                         <row>
                            <cell/>
@@ -5089,7 +5088,7 @@
                            <cell>viij</cell>
                            <cell>viij</cell>
                            <cell>viij</cell>
-                           <cell>Conuiu%-a</cell>
+                           <cell>Conuiua<ex>m</ex></cell>
                         </row>
                         <row>
                            <cell>vij</cell>
@@ -5144,7 +5143,7 @@
                            <cell>ix</cell>
                            <cell>ix</cell>
                            <cell>ix</cell>
-                           <cell>Altison%-u</cell>
+                           <cell>Altisonu<ex>m</ex></cell>
                         </row>
                         <row>
                            <cell>xij</cell>
@@ -5155,7 +5154,7 @@
                            <cell>vij</cell>
                            <cell>vij</cell>
                            <cell>vij</cell>
-                           <cell>Domin&#x1DD2;</cell>
+                           <cell>Domin<ex>us</ex></cell>
                         </row>
                         <row>
                            <cell>xiij</cell>
@@ -5245,20 +5244,25 @@
                         først <lb/>huilcke de beste och werste Da<lb rend="="/>ge ære der til Desse
                         ære de <lb/>allerbeste.</head>
                      <lb/>
-                     <p>Den første er Sancti Blasii dag. <lb/>Den anden er Philippi oc Jacobi dag
-                        <lb/>Den tredie er Bartolomei Apostoli dag <lb/>Den fierde er sancti Mortens
-                        dag. <lb/>Den fempte er sancti Valentini dag. <lb/>Oc den siette er sancte
-                        Staffens dag.</p>
+                     <p>Den første er Sancti Blasii dag.</p>
+                     <p><lb/>Den anden er Philippi oc Jacobi dag</p>
+                     <p><lb/>Den tredie er Bartolomei Apostoli dag</p>
+                     <p><lb/>Den fierde er sancti Mortens dag.</p>
+                     <p><lb/>Den fempte er sancti Valentini dag.</p>
+                     <p><lb/>Oc den siette er sancte Staffens dag.</p>
                      <p>
                         <hi rend="center">&#x2055; Paa desse Dage er det ont <lb/>Ladende.</hi>
                      </p>
-                     <p>Marcelli Paues oc den dag Siluestri. <lb/>Oc til det fengsel Sancti Petri.
-                        <lb/>Huilcken da lader sine Aarer slaa. <lb/>Jeg wil ham ey for leffnedet
-                        staa.</p>
+                     <lg>
+                        <l>Marcelli Paues oc den dag Siluestri.</l>
+                        <l><lb/>Oc til det fengsel Sancti Petri.</l>
+                        <l><lb/>Huilcken da lader sine Aarer slaa.</l>
+                        <l><lb/>Jeg wil ham ey for leffnedet staa.</l>
+                     </lg>
                      <p>&#x2055; Huert Menniske som er offuer XX. Aar/ <lb/>skal lade seg paa desse
                         effter screffne dage/ paa <lb/>den xvi. dag i Tormaaned/ Paa den høgre
                         <lb/>Arm/ for gott hørelse. Den xxvi. Dag i <lb/>April/ paa den wenstre arm
-                        for siuned. Den <lb/>fempte eller siette dag i Maymaaned/ Pan <lb/>bode
+                        for siuned. Den <lb/>fempte eller siætte dag i Maymaaned/ Paa <lb/>bode
                         armene for snue.</p>
                      <pb n="C_3r" n2="iC_3r" n3="E45"/>
                      <lb/>
@@ -5282,17 +5286,18 @@
                         fraadtzere.</p>
                      <lb/>
                      <p>&#x2055; Huo som wil lade syne Aarer sla/ hand <lb/>skal lade Blodet løbe/
-                        ind til det skiff er far<lb rend="="/>ue/ er ted sort oc tyckt/ saa lad det
+                        ind til det skiffter far<lb rend="="/>ue/ er ted sort oc tyckt/ saa lad det
                         løbe saa <lb/>lenge det worder klart/ røt oc tyndt.</p>
                      <lb/>
                      <p>&#x2055; Den Mestere Jpocras siger/ at huo som</p>
                      <pb n="C_3v" n2="iC_3v" n3="E46"/>
                      <p>offuergiffuer Aareladende/ oc tøffuer der for <lb/>lenge med/ han falder i
-                        stor siugdom/ di Aa<lb rend="="/>rerne worde forfulde/ Oc faa ingen wdgang /
+                        stor siugdom/ di Aa<lb rend="="/>rerne worde forfulde/ Oc faa ingen wdgang/
                         <lb/>saa forfuler det onde Blod. Der aff kommer <lb/>Kolde siuge/ ond werme/
                         oc Orm/ och giør <lb/>Houidet/ øgnene/ Tenderne/ oc alt Liffuit bo<lb
                            rend="="/>de induortis oc wduortis verckendis. Der fo<lb rend="="/>re er
-                        Aareladende got/ naar det brugis wdi <lb/>ret tud/ effter de xii Himemls
+                        Aareladende got/ naar det brugis wdi <lb/>ret tiid/ effter de xii
+                              <app><lem>Himmels</lem><rdg><q>Himemls</q> orig.</rdg></app>
                         tegen.</p>
                      <lb/>
                      <p>&#x2055; Huo som lader sine Aarer sla/ han skal <lb/>wære den første dag
