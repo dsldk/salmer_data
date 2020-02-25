@@ -8848,10 +8848,9 @@
                             <cell>Herre hellig Aand forbarme dig.</cell>
                         </row>
                         <row>
-                            <cell role="label"><hi rend="italics">
+                            <cell role="label" cols="2"><hi rend="italics">
                                     <pb ana="434" n="E446"/>Pater de coelis Deus.</hi></cell>
-                            <cell></cell>
-                            <cell></cell>
+                            
                         </row>
                         <row>
                             <cell role="label">Det første Chor.</cell>
