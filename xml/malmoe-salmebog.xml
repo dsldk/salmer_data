@@ -12538,8 +12538,8 @@
             </div>
         </body>
         <back>
-            <div type="index">
-                <div type="head">
+            <div type="index" xml:id="register">
+               
                     <head type="add">Register</head>
                     <head><pb n="E270"/>Jth Register</head>
                     <p>paa denne Sangbog/ J huilcket man <lb n="E270.003"/>kan lettelige finde saa
@@ -12548,7 +12548,7 @@
                             n="E270.006"/>hoss huer sang ith tal/ paa huilckit blad <lb n="E270.007"
                         />det findis skall/ som man leder effter/ <lb n="E270.008"/>oc samme tall
                         finder man offuerst paa <lb n="E270.009"/>huert blad</p>
-                </div>
+                
                 <div>
                     <list rend="simple">
                         <item>
