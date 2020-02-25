@@ -4984,11 +4984,17 @@
                   <p><space extent="2blanks"/>&#x00B6; Jtem det Tal som staar wnder <lb/>Gylden
                      tallit/ Mercker naar wi haffuer <lb/>xii. eller xiii. Maanet wdi Aarit.</p>
                   <pb n="C_2r" n2="iC_2r" n3="E43"/>
-                  <head>Offuerløbs dage</head>
+                
+                  
+                
                   <div type="table">
                      <table>
+                        <row><cell></cell>
+                           <cell></cell>
+                           <cell>  <head>Offuerløbs dage</head></cell></row>
+                        
                         <row>
-                           <cell/>
+                           
                            <cell/>
                            <cell/>
                            <cell>i.</cell>
@@ -4997,17 +5003,16 @@
                            <cell>iiii</cell>
                            <cell>v.</cell>
                            <cell>vi.</cell>
+                           <cell/>
                         </row>
                         <row>
                            <cell>Gylden <lb/>tal</cell>
+                          
                            <cell>Søndages Bogstaffue.</cell>
-                           <cell/>
-                           <cell/>
-                           <cell/>
-                           <cell/>
-                           <cell/>
-                           <cell/>
-                           <cell/>
+                           <cell></cell>
+                           <cell></cell>
+                         
+                          
                         </row>
                         <row>
                            <cell/>
