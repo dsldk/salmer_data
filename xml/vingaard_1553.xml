@@ -4369,7 +4369,8 @@
                         <cell>A</cell>
                         <cell>s</cell>
                         <cell>h</cell>
-                        <cell>Veder Gdd Tegen.</cell>
+                        <cell>Veder <app><lem>God</lem><rdg><q>Gdd</q> orig.</rdg></app>
+                           Tegen.</cell>
                      </row>
                      <row>
                         <cell>{??}</cell>
@@ -4545,7 +4546,7 @@
                         <cell>i</cell>
                         <cell>{??}</cell>
                         <cell>q</cell>
-                        <cell>L#.owe Ont Tegen.</cell>
+                        <cell>Løwe Ont Tegen.</cell>
                      </row>
                      <row>
                         <cell>h</cell>
@@ -4567,7 +4568,7 @@
                         <cell>k</cell>
                         <cell>{??}</cell>
                         <cell>r</cell>
-                        <cell>L#.owe Ont Tegen.</cell>
+                        <cell>Løwe Ont Tegen.</cell>
                      </row>
                      <row>
                         <cell>i</cell>
@@ -4931,28 +4932,34 @@
                   <head type="add"/>
                   <head>En Skøn Lerdo<ex>m</ex> paa de xii himels tegen</head>
                   <lb/>
-                  <p>Viltu leffue sund i naturlig tid <lb/>Merck de xii Tegen paa menniskens liff
-                     <lb/>Synderlig met Kaapper oc Aare slau <lb/>Da løffuer Blodet i sin rette
-                     lau</p>
+                  <lg>
+                     <l> Viltu leffue sund i naturlig tid</l>
+                     <l><lb/> Merck de xii Tegen paa menniskens liff</l>
+                     <l><lb/> Synderlig met Kaapper oc Aare slau</l>
+                     <l><lb/> Da løffuer Blodet i sin rette lau</l>
+                  </lg>
                   <cb type="start"/>
                   <p>Veder Rege<lb rend="="/>rer paa hoff<lb rend="="/>uedit</p>
                   <lb/>
                   <p>Tiuren paa <lb/>Halse<ex>n</ex> oc paa <lb/>Axlerne</p>
                   <lb/>
-                  <p>Tuillinge <lb/>paa Armene <lb/>Krabbe paa <lb/>Brystet</p>
+                  <p>Tuillinge <lb/>paa Armene</p>
                   <lb/>
-                  <p>Løue hiertet <lb/>och Ryggen <lb/>Jomfru paa <lb/>Bugen och <lb/>paa
-                     muollen</p>
+                  <p>Krabbe paa <lb/>Brystet</p>
+                  <lb/>
+                  <p>Løue hiertet <lb/>och Ryggen</p>
+                  <p><lb/>Jomfru paa <lb/>Bugen och <lb/>paa muollen</p>
                   <cb/>
                   <figure type="image"/>
                   <cb/>
                   <p>Veyskal paa <lb/>Lenderne oc <lb/>Tarmene</p>
                   <lb/>
-                  <p>Scorpio paa <lb/>Heminelig<lb rend="="/>heden</p>
+                  <p>Scorpio paa <lb/>Hemmelig<lb rend="="/>heden</p>
                   <lb/>
-                  <p>Skøtte paa <lb/>Laarene och <lb/>Arssballene <lb/>Gedebuck <lb/>paa Kneene
-                     <lb/>Vand skere<lb rend="="/>be<ex>n</ex> oc leggene <lb/>Fiskpaa Fø <lb/>derne
-                     tæerne</p>
+                  <p>Skøtte paa <lb/>Laarene och <lb/>Arssballene</p>
+                  <p><lb/>Gedebuck <lb/>paa Kneene</p>
+                  <p><lb/>Vand skere<lb rend="="/>be<ex>n</ex> oc leggene</p>
+                  <p><lb/>Fisk paa Fø<lb rend="="/>derne tæerne</p>
                   <cb type="end"/>
                   <pb n="C_1r" n2="iC_1r" n3="E41"/>
                   <lb/>
@@ -4977,6 +4984,7 @@
                   <p><space extent="2blanks"/>&#x00B6; Jtem det Tal som staar wnder <lb/>Gylden
                      tallit/ Mercker naar wi haffuer <lb/>xii. eller xiii. Maanet wdi Aarit.</p>
                   <pb n="C_2r" n2="iC_2r" n3="E43"/>
+                  <head>Offuerløbs dage</head>
                   <div type="table">
                      <table>
                         <row>
@@ -4991,8 +4999,8 @@
                            <cell>vi.</cell>
                         </row>
                         <row>
-                           <cell>Gylden<lb/>tal</cell>
-                           <cell>S#.ondages Bogstaffue.</cell>
+                           <cell>Gylden <lb/>tal</cell>
+                           <cell>Søndages Bogstaffue.</cell>
                            <cell/>
                            <cell/>
                            <cell/>
