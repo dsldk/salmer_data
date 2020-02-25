@@ -4992,8 +4992,10 @@
                         <row>
                            <cell/>
                            <cell/>
-                           <cell cols="6"> <head>Offuerløbs dage</head> </cell>
-                        
+                           <cell cols="6">
+                              <head>Offuerløbs dage</head>
+                           </cell>
+
                         </row>
 
                         <row>
@@ -5309,7 +5311,7 @@
                      <lb/>
                      <p>&#x2055; Alle Aarer induortis paa Armene och <lb/>Knæene/ skal man lade
                         fastendis/ De andre <lb/>Aarer paa Henderne/ Fødderne/ paa Benen <lb/>oc
-                        Houidet/ paa Liffuit/ Lende oc Yyg Dem <lb/>skal man alle sammen lade/ naar
+                        Houidet/ paa Liffuit/ Lende oc Ryg Dem <lb/>skal man alle sammen lade/ naar
                         man haff<lb rend="="/>uer ædid.</p>
                      <lb/>
                      <p>&#x2055; Framdelis skal man mercke/ huor paa lau/ <lb/>eller paa huilcket
@@ -5321,12 +5323,13 @@
                      <pb n="C_4r" n2="iC_4r" n3="E47"/>
                      <lb/>
                      <p><c function="initials" rend="4">D</c>Et er Mennisken gantske nytteligt
-                        <lb/>oc fruct sommeligt/ at han lader si<lb rend="="/>ne Aarer sla/ Oc
-                        serdelis i Mai<lb rend="="/>maanet/ Thi da forsamles alle hon <lb/>de
-                        Siugdomm i Mennisken/ som dragis wd <lb/>med Blodet igiennom Aarerne.</p>
+                        <lb/>oc fructsommeligt/ at han lader si<lb rend="="/>ne Aarer sla/ Oc
+                        serdelis i Mai<lb rend="="/>maanet/ Thi da forsamles alle hon<lb rend="="
+                        />de Siugdomm i Mennisken/ som dragis wd <lb/>med Blodet igiennom
+                        Aarerne.</p>
                      <lb/>
                      <p>&#x2055; Naar ma<ex>n</ex>d wil lade Aarerne sla/ paa Hen<lb rend="="/>derne
-                        och Fødderne/ Da skal mand legge de <lb/>samme Ledemod i varmt wand / Da
+                        och Fødderne/ Da skal mand legge de <lb/>samme Ledemod i varmt wand/ Da
                         bliffue <lb/>Aarene wide/ rumme oc bequemme/ saa att <lb/>den onde
                         offuerflødige wedske kan haffue een <lb/>frii wdgang.</p>
                      <lb/>
@@ -5338,24 +5341,24 @@
                         faat seg mad/ Da bliffuer Menni<lb rend="="/>skens ledemod wel til pas.</p>
                      <lb/>
                      <p>&#x2055; Vngt Folck skulle Lade dennom/ Naar <lb/>Maanen groer/ Oc gamle
-                        Folck naar Man<lb rend="="/>nen formindskes.</p>
+                        Folck naar Maa<lb rend="="/>nen formindskes.</p>
                      <lb/>
                      <p>&#x2055; Effter Aareladende skal den som er lat/ <lb/>at dricke een dryck
-                        Vin/ siger Anicenna/ eller <lb/>æde eet stycke brød/ eller Saluie blad dypte
+                        Vin/ siger Auicenna/ eller <lb/>æde eet stycke brød/ eller Saluie blad dypte
                         i <lb/>Vin/ Hand skall legge seg/ huile for wden <lb/>søffn/ Saa lenge at
-                        Blodit stillis igen/ Och</p>
-                     <pb n="C_4v" n2="iC_4v" n3="E48"/>
-                     <p>een stund der effter faa seg Mad/ blød Eg<lb rend="="/>gemad/ Gaat ferskt
-                        Kiød med saad/ Oc dric<lb rend="="/>ke god klar Vin/ Han skal icke soffue
-                        den dag <lb/>wden han waare skrøbelig Da maa han soff<lb rend="="/>ue hen
-                        ved tho thimer/ effter han haffuer ædit.</p>
+                        Blodit stillis igen/ Och <pb n="C_4v" n2="iC_4v" n3="E48"/>een stund der
+                        effter faa seg Mad/ blød Eg<lb rend="="/>gemad/ Gaat ferskt Kiød med saad/
+                        Oc dric<lb rend="="/>ke god klar Vin/ Han skal icke soffue den dag <lb/>wden
+                        han waare skrøbelig Da maa han soff<lb rend="="/>ue hen ved tho thimer/
+                        effter han haffuer ædit.</p>
                      <lb/>
                      <p>&#x00B6; Sky weer/ stort arbeit/ Oest/ Milck/ <lb/>kaal haard Kiødmad/ Oc
                         graa Erter thi aff <lb/>dennem kommer stor werck/ sky auend/ wrede/
                         <lb/>wkyskhed/ bad/ bedrøffuelsse/ offuer flødighed <lb/>dog skaer det mere
                         at æde meget en at dricke.</p>
                      <lb/>
-                     <head>Verbum <lb/>Domini <lb/>manet in <lb/>eternum <lb/>Esaiae xl.</head>
+                     <head>Verbum <lb/>Domini <lb/>manet in <lb/>eternum <lb/><ref target="#es-40"
+                              ><orig>Esaiae xl.</orig><reg>Es 40</reg></ref></head>
                   </div>
                </div>
             </div>
@@ -5366,48 +5369,59 @@
             <head type="add">Fortalen til læseren</head>
             <head>Fortalen til leseren</head>
             <p><c function="initials" rend="5">D</c>Et er tilbørligt och Gud
-               <lb/>tackne<ex>m</ex>meligt at alle christ <lb/>ne siunge oc læse aandelige
-               <lb/>Psalmer oc Lofsang han <lb/>nem til loff och ære Som <lb/>Propheterne Konger
-               Viduer och andre <lb/>Gudfryctige menniske giorde i fordum <lb/>tid Naar han beuisde
-               dem nogen velger<lb rend="="/>ning Saa giorde oc Jsraels Børn Gud <lb/>stort loff oc
-               ære der han frelste dem aff de<ex>n</ex>
+               <lb/>tackne<ex>m</ex>meligt at alle christ<lb rend="="/>ne siunge oc læse aandelige
+               <lb/>Psalmer oc Lofsang han<lb rend="="/>nem til loff och ære Som <lb/>Propheterne
+               Konger Viduer och andre <lb/>Gudfryctige menniske giorde i fordum <lb/>tid Naar han
+               beuisde dem nogen velger<lb rend="="/>ning Saa giorde oc Jsraels Børn Gud <lb/>stort
+               loff oc ære der han frelste dem aff de<ex>n</ex>
                <lb/>Egyptiske oc Pharaonis mact oc treldo<ex>m</ex>
-               <lb/>som der staar Exo. xv/ Desligest loffue<lb rend="="/>de oc Kong Dauid Gud met
-               Psalmer <lb/>oc Harpeleg/ for den store Naade oc seyer <lb/>som han gaff hannem Der
-               om staar och <lb/>Judicum v. Deute. xxx. i Regu<ex>m</ex> ii/ Esa. <lb/>xii xvi xviii
-               lxvi och andre flere steder <lb/>Effterdi at vore forfædre vaare Gud saa
-                  <lb/>tackne<ex>m</ex>melige i det gamle Testamente <lb/>for sine velgerninger huor
-               megit mere bør <lb/>voss Christne da at tacke oc loffue han<lb rend="="/>ne<ex>m</ex>
-               met Psalmer oc Lofsang baade aff hu</p>
-            <pb n="1_v" n2="A_1v" n3="E50"/>
-            <p>oc hierte/ for sin store naade oc miskund<lb rend="="/>hed som han haffuer giort voss
-               J det han <lb/>haffuer frelst voss aff Dieffuelens mact <lb/>Oc Syndens treldom / och
-               aff den store <lb/>vildfarelse som wi vaare før vdi/ Oc vnt <lb/>voss at wi mue nu
-               høre hans egne ord oc <lb/>Euangelium S. Pouil screff oc der om i <lb/>det Ny
-               Testamente i Corintior xiiii Oc <lb/>til de Colloser iii. ca. siger han Lærer oc
+               <lb/>som der staar <ref target="#mos-2-15"><orig>Exo. xv</orig><reg>2 Mos
+                  15</reg></ref>/ Desligest loffue<lb rend="="/>de oc Kong Dauid Gud met Psalmer
+               <lb/>oc Harpeleg/ for den store Naade oc seyer <lb/>som han gaff hannem Der om staar
+               och <lb/><ref target="#dom-5"><orig>Judicum v.</orig><reg>Dom 5</reg></ref>
+               <ref target="#mos-5-30"><orig>Deute. xxx.</orig><reg>5 Mos 30</reg></ref>
+               <ref target="#sam-1-2"><orig>i Regu<ex>m</ex> ii</orig><reg>1 Sam 2</reg></ref>/ <ref
+                  target="#es-12"><orig>Esa. <lb/>xii</orig><reg>Es 12</reg></ref>
+               <ref target="#es-16"><orig>xvi</orig><reg>Es 16</reg></ref>
+               <ref target="#es-18"><orig>xviii</orig><reg>Es 18</reg></ref>
+               <ref target="#es-66"><orig>lxvi</orig><reg>Es 66</reg></ref> och andre flere steder
+               <lb/>Effterdi at vore forfædre vaare Gud saa <lb/>tackne<ex>m</ex>melige i det gamle
+               Testamente <lb/>for sine velgerninger huor megit mere bør <lb/>voss Christne da at
+               tacke oc loffue han<lb rend="="/>ne<ex>m</ex> met Psalmer oc Lofsang baade aff hu <pb
+                  n="1_v" n2="A_1v" n3="E50"/> oc hierte/ for sin store naade oc miskund<lb rend="="
+               />hed som han haffuer giort voss J det han <lb/>haffuer frelst voss aff Dieffuelens
+               mact <lb/>Oc Syndens treldom/ och aff den store <lb/>vildfarelse som wi vaare før
+               vdi/ Oc vnt <lb/>voss at wi mue nu høre hans egne ord oc <lb/>Euangelium S. Pouil
+               screff oc der om i <lb/>det Ny Testamente <ref target="#kor-1-14"><orig>i Corintior
+                     xiiii</orig><reg>1 Kor 14</reg></ref> Oc <lb/><ref target="#kol-3"><orig>til de
+                     Colloser iii. ca<ex>pittel</ex></orig><reg>Kol 3</reg></ref> siger han Lærer oc
                <lb/>paaminder huer andre inbyrdis met psal<lb rend="="/>mer oc Lofsange/ oc
-               aandelige viser met <lb/>naade/ Oc siunger Herren loff i eders hier <lb/>te met
-               tacksigelse/ Oc alt det i gøre met <lb/>ord eller Gerninger/ Det gører i vor her<lb
-                  rend="="/>ris Jesu Christi naffn/ oc tacke Gud Fa<lb rend="="/>der ved hannem/ Han
-               bruger oc moxen de <lb/>samme ord til de Ephe. v. Luce i. finder <lb/>du oc huor
-               merckelig Jomfru Maria loff <lb/>uede Herren met sin Lofsang Magnifi<lb rend="="/>cat
-               Der staar oc Zacharie spaadom och <lb/>lofsang Och Simeonis tacksigelse Der <lb/>fore
-               skulle oc alle Christne siunge Psal<lb rend="="/>mer oc Lofsange oc tacke oc loffue
-               Gud <lb/>almectiste met dem for sine mange velger<pb n="2_r" n2="A_2r" n3="E51"
-                  rend="="/>ninger/ Oc ære her nu mange sammen set <lb/>te aff dem/ och stadfeste
-               met den hellige <lb/>scrifft paa det at Gudz Ord oc Euange <lb/>lium/ maa der met
-               fordis oc fremmis oss <lb/>alle til vor Siælis husualelse Oc at løs<lb rend="="
-               />actige slemme Bole viser som ære en aar<lb rend="="/>sage til megen Synd mue aff
-               leggis/ Oc <lb/>at vnge Folck och Børn/ mue nu i den <lb/>sted vennis til at lære
-               Psalmer oc Aan<lb rend="="/>delige Viser som ære en begyndelse til all <lb/>ære oc
-               Hellighed At de icke all eniste siun<lb rend="="/>ge dem vduertis met Munden/ Men
-                  oc<lb rend="="/>saa induertis met Hiertet/ Saa at Chris<lb rend="="/>tus maa all
-               ene være vor Lofsang/ Som <lb/>S. Pouel siger ii. Corr. vii. Ca. Oc <lb/>ath wi
-               skulle inted andet vide ath siunge <lb/>eller tale vden all eniste Jesum Christum
-                  <lb/><hi rend="center">vor Frelsere/ Det vnde voss alle <lb/>Gud Fader aff sin
-                  Naade <lb/>A M E N. <lb/><hi rend="superscript" n="3">&#x2055;</hi><space
-                     extent="2blanks"/><hi rend="subscript" n="3">&#x2055;</hi><space
-                     extent="2blanks"/><hi rend="superscript" n="3">&#x2055;</hi></hi></p>
+               aandelige viser met <lb/>naade/ Oc siunger Herren loff i eders hier<lb rend="="/>te
+               met tacksigelse/ Oc alt det i gøre met <lb/>ord eller Gerninger/ Det gører i vor
+                  her<lb rend="="/>ris Jesu Christi naffn/ oc tacke Gud Fa<lb rend="="/>der ved
+               hannem/ Han bruger oc moxen de <lb/>samme ord <ref target="#ef-5"><orig>til de Ephe.
+                     v.</orig><reg>Ef 5</reg></ref>
+               <ref target="#luk-1"><orig>Luce i.</orig><reg>Luk 1</reg></ref> finder <lb/>du oc
+               huor merckelig Jomfru Maria loff<lb rend="="/>uede Herren met sin Lofsang Magnifi<lb
+                  rend="="/>cat Der staar oc Zacharie spaadom och <lb/>lofsang Och Simeonis
+               tacksigelse Der <lb/>fore skulle oc alle Christne siunge Psal<lb rend="="/>mer oc
+               Lofsange oc tacke oc loffue Gud <lb/>almectiste met dem for sine mange velger<pb
+                  n="2_r" n2="A_2r" n3="E51" rend="="/>ninger/ Oc ære her nu mange sammen set<lb
+                  rend="="/>te aff dem/ och stadfeste met den hellige <lb/>scrifft paa det at Gudz
+               Ord oc Euange<lb rend="="/>lium/ maa der met fordis oc fremmis oss <lb/>alle til vor
+               Siælis husualelse Oc at løs<lb rend="="/>actige slemme Bole viser som ære en aar<lb
+                  rend="="/>sage til megen Synd mue aff leggis/ Oc <lb/>at vnge Folck och Børn/ mue
+               nu i den <lb/>sted vennis til at lære Psalmer oc Aan<lb rend="="/>delige Viser som
+               ære en begyndelse til all <lb/>ære oc Hellighed At de icke all eniste siun<lb
+                  rend="="/>ge dem vduertis met Munden/ Men oc<lb rend="="/>saa induertis met
+               Hiertet/ Saa at Chris<lb rend="="/>tus maa all ene være vor Lofsang/ Som <lb/>S.
+               Pouel siger <ref target="#kor-2-7"><orig>ii. Corr. vii.
+                     Ca<ex>pittel</ex></orig><reg>2 Kor 7</reg></ref> Oc <lb/>ath wi skulle inted
+               andet vide ath siunge <lb/>eller tale vden all eniste Jesum Christum <lb/><hi
+                  rend="center">vor Frelsere/ Det vnde voss alle <lb/>Gud Fader aff sin Naade
+                  <lb/>AMEN. <lb/><hi rend="superscript" n="3">&#x2055;</hi><space extent="2blanks"
+                     /><hi rend="subscript" n="3">&#x2055;</hi><space extent="2blanks"/><hi
+                     rend="superscript" n="3">&#x2055;</hi></hi></p>
          </div>
          <pb n="2_v" n2="A_2v" n3="E52"/>
          <div type="chapter" subtype="Kirkeårets_salmer" xml:id="kirkeaarets-salmer" n="3">
@@ -5417,7 +5431,7 @@
                <head>En merckelig Euangelisk <lb/>vise vor Salighedz vey anrørendis</head>
                <lb/>
                <lg>
-                  <l><c function="initials" rend="7">I</c>Jesu naffn begynde wi </l>
+                  <l><c function="initials" rend="7">I</c> Jesu naffn begynde wi </l>
                   <l>det beste der wi kunde </l>
                   <l>alt om Gudz ord da siu<ex>n</ex><lb rend="="/>ge wi/ </l>
                   <l>Hører til baade <lb/>Mend och Quinder/ </l>
@@ -5454,14 +5468,14 @@
                   <l><space extent="2blanks"/>&#x2055; Gudz retuished kommer voss vid <lb/>Jesum
                      Christ/ </l>
                   <l>salig er den som det Tror <lb/>wist/ </l>
-                  <l>sig gantske der paa forlader/ Fordi <lb/>hans Synder beteckis da/ </l>
+                  <l>sig gantske der paa forlader/</l>
+                  <l> Fordi <lb/>hans Synder beteckis da/ </l>
                   <l>ey regnis huad <lb/>heller de ere store eller smaa</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Christ er død for vor ondskaff och <lb/>Synd
-                     / </l>
-                  <l>hoss Gud vor naade er han oc mis <lb/>kund/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Christ er død for vor ondskaff och <lb/>Synd/ </l>
+                  <l>hoss Gud vor naade er han oc mis<lb rend="="/>kund/ </l>
                   <l>vore han icke menniske bleffuen/ </l>
                   <l><lb/>Da hagde wi alle værit fortabede/ </l>
                   <l>oc til <lb/>euig tid forderffuede</l>
@@ -5470,15 +5484,15 @@
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Abraham giorde Gud tilbørlig ære/ </l>
                   <l><lb/>der han trode Gudz ord sande at være/ </l>
-                  <l><lb/>Til de Ro<ex>m</ex>merskei det fierde /</l>
-                  <l>haffuer tro<lb rend="="/>en hanne<ex>m</ex> retuishz tillagt/ </l>
-                  <l>oss til eneuig lære</l>
+                  <l><lb/>Til de Ro<ex>m</ex>merske i det fierde/</l>
+                  <l>haffuer tro<lb rend="="/>en hanne<ex>m</ex> retuish<ex>ed</ex> tillagt/ </l>
+                  <l>oss til en euig lære</l>
                </lg>
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; At wi tro paa Christ Gudz ger<lb rend="="
                      />ning monne det være/ </l>
-                  <l>Joonnis vdi det <lb/>siette</l>
+                  <l>Joannis vdi det <lb/>siette</l>
                   <l>Han er oss fød och giffuen gantske/ </l>
                   <l>Kom aff en Jomfru ren och klar/ </l>
                   <l>som i <lb/>Mandz være aldrig fands</l>
@@ -5488,7 +5502,7 @@
                   <l><space extent="2blanks"/>&#x2055; Om du haffuer en ret Christelig <lb/>tro</l>
                   <l>saa beuiss du dig en tiener tro/ </l>
                   <l>i kerlig<lb rend="="/>hedz gerning mod den næste/ </l>
-                  <l>alt saa som <pb n="3_v" n2="A_3v" n3="E54"/> Gud haffuer dig beuist/ </l>
+                  <l>alt saa som <pb n="3_v" n2="A_3v" n3="E54"/>Gud haffuer dig beuist/ </l>
                   <l>mod onde oc go<lb rend="="/>de Menniske</l>
                </lg>
                <lb/>
@@ -5496,9 +5510,8 @@
                   <l><space extent="2blanks"/>&#x2055; Nu hører huad Gud vid Mosen <lb/>haffuer
                      budit/ </l>
                   <l>er nogen Arm i eders land </l>
-                  <l>da lad hannem op din Miskunds hand /</l>
-                  <l>
-                     <lb/>hans nød oc modgang lad være din/ </l>
+                  <l>da lad hannem op din Miskunds hand/</l>
+                  <l><lb/>hans nød oc modgang lad være din/ </l>
                   <l>be<lb rend="="/>uiss paa hannem Christen tro siden</l>
                </lg>
                <lb/>
@@ -5512,11 +5525,10 @@
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>J det femte Matthei læse wi saa/ </l>
-                  <l>oss <lb/>biudis om widet ret ville forstaa/ </l>
+                  <l>oss <lb/>biudis om wi det ret ville forstaa/ </l>
                   <l>vil noge<ex>n</ex>
                      <lb/>aff dig borge/ </l>
-                  <l>Da giff hannem frest/ </l>
-                  <l>vore <lb/>det en vist/ </l>
+                  <l>Da giff hannem frest/ vore <lb/>det en vist/ </l>
                   <l>han monne din fiende vere</l>
                </lg>
                <lb/>
@@ -5525,8 +5537,7 @@
                      />rig til/ </l>
                   <l>Det skalt du vide til visse/ </l>
                   <l>For pen<lb rend="="/>ning afflad oc ey for gecke spil </l>
-                  <l>The ker<lb rend="="/>lighed mod din neste/ </l>
-                  <l>mod Gud din Tro </l>
+                  <l>The ker<lb rend="="/>lighed mod din neste/ mod Gud din Tro </l>
                   <l>saa skalt du i Hiemmerige bo</l>
                </lg>
                <lb/>
@@ -5535,7 +5546,7 @@
                   <l>som Gud vid Mosen haffuer sagt/ </l>
                   <l>hans <lb/>gunst och naade betracte/ </l>
                   <l>Som han dig <pb n="4_r" n2="A_4r" n3="E55"/> beuiste ved Jesum Christ/ </l>
-                  <l>Louuen fuld <lb/>kom for alle</l>
+                  <l>Louuen fuld<lb rend="="/>kom for alle</l>
                </lg>
                <lb/>
                <lg>
@@ -5557,14 +5568,14 @@
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Dine Vaaben skulle vere altid paa <lb/>dig/ </l>
                   <l>saa monne voss Paulus lære/ </l>
-                  <l>skiold <lb/>hielm/ Pantzer skulle nu ver ge dig /</l>
+                  <l>skiold <lb/>hielm/ Pantzer skulle nu verge dig /</l>
                   <l>Der <lb/>til ith Suerd/ Gudz ord det er/ </l>
                   <l>Thi Sa<lb rend="="/>tan din grumme Fiende er</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; At vere Christi Riddere forsage det <lb/>ey
-                     /</l>
+                  <l><space extent="2blanks"/>&#x2055; At vere Christi Riddere forsage det
+                     <lb/>ey/</l>
                   <l>J pine drøffuelse/ oc i din Vey/ </l>
                   <l>hoss <lb/>dig iette han at vere/ </l>
                   <l>til hannem din lid <lb/>set haab oc trøst</l>
@@ -5572,8 +5583,8 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Han haffuer affueruundit synd helffue <lb/>de
-                     oc nød/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Han haffuer affueruundit synd helffue<lb
+                        rend="="/>de oc nød/ </l>
                   <l>Och frelst voss fra den euige <pb n="4_v" n2="A_4v" n3="E56"/> Død/ </l>
                   <l>voss alle til glæde oc fromme/ </l>
                   <l>hans <lb/>Børn de hadis oc fortryckis her/ </l>
