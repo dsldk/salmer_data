@@ -2007,9 +2007,6 @@
                <pb n="E49"/>Letania paa Danske.</head>
             
             <table>
-               <row role="label"><cell role="label"></cell>
-               <cell role="label"></cell></row>
-               
                <row><cell><c function="initials" rend="3">K</c>Yrieeleyson/ </cell>
                   <cell>Gud Fader forbar<lb rend="="/>me thig.</cell></row>
                
@@ -2019,8 +2016,8 @@
                <row><cell>Kyrieeleyson/ </cell>
                   <cell>Herre Helliaand forbarme tig</cell></row>
                
-               <row><cell role="label"> &#x10081; Pater de celis Deus.</cell>
-                  <cell></cell></row>
+               <row><cell role="label" cols="1"> &#x10081; Pater de celis Deus.</cell>
+                  </row>
                
                <row><cell>Herre Gud Fader ÿ Himmelen/ </cell>
                   <cell>forbarme <lb/>theg offuer oss.</cell></row>
@@ -2031,7 +2028,7 @@
                <row><cell><space extent="2blanks"/>Herre Gud Helliaand sand trøstermand </cell>
                   <cell>forbarme teg offuer oss.</cell></row>
                
-               <row><cell role="label"> &#x10081; Propitius esto. </cell>
+               <row><cell role="label" cols="1"> &#x10081; Propitius esto. </cell>
                   <cell></cell></row>
                
                <row><cell>Wær oss barmhiertig. </cell>
@@ -2065,7 +2062,7 @@
                <row><cell>Fra then ewige dødt/</cell>
                   <cell>Frÿ oss O Herre.</cell></row>
                
-               <row><cell role="label">&#x10081; Peccatores.</cell>
+               <row><cell role="label" cols="1">&#x10081; Peccatores.</cell>
                   <cell></cell></row>
                
                <row><cell>For thin hellige fødsel skyldt/</cell>
@@ -2182,7 +2179,7 @@
                </row>
                
                <row>
-                  <cell role="label">&#x10081; Versickel.</cell>
+                  <cell role="label" cols="1">&#x10081; Versickel.</cell>
                   <cell></cell>
                </row>
                
