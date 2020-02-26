@@ -5433,7 +5433,8 @@
                     <lb/>
                     <!--<figure type="vignette"/>-->
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="kyrie-fons-bonitatis">
+                    <head type="add">Kyrie: Bons benetatis Pater ingenite</head>
                     <head><pb ana="248" n="E260"/>Kyrie.</head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_248.xml"/>
@@ -5456,7 +5457,8 @@
                     </lg>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="gloria-in-excelsis-deo">
+                    <head type="add">Gloria in excelsis Deo</head>
                     <head>Gloria in excelsis Deo.</head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_249.xml"/>
@@ -5652,7 +5654,8 @@
                     </div>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="dominus-vobiscum">
+                    <head type="add">Dominus vobiscum</head>
                     <head>Præfatio. <lb/>Dominus vobiscum,</head>
                     <head>
                         <lb/>Begyndis <lb/>som paa Jule dag.</head>
@@ -8696,7 +8699,8 @@
                         <l>Den hellig Aand bør dem lig at være.</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:lang="la">
+                <div type="psalm" xml:lang="la" xml:id="kyrieleison">
+                    <head type="add">Kyrie</head>
                     <head>Kyrie.</head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_429.xml"/>
@@ -8848,7 +8852,7 @@
                             <cell>Herre hellig Aand forbarme dig.</cell>
                         </row>
                         <row>
-                            <cell role="label" cols="2"><hi rend="italics">
+                            <cell role="label" cols="1"><hi rend="italics">
                                     <pb ana="434" n="E446"/>Pater de coelis Deus.</hi></cell>
                             
                         </row>
@@ -8869,14 +8873,14 @@
                         </row>
                         <row>
                             <cell>Herre Jesu Verdsens Frelsere.</cell>
-                            <cell/>
+                            <cell>Forbarme dig offuer oss.</cell>
                         </row>
                         <row>
                             <cell>Herre Gud hellig Aand sand trøstermand.</cell>
-                            <cell/>
+                            <cell>Forbarme dig offuer oss.</cell>
                         </row>
                         <row>
-                            <cell role="label">
+                            <cell role="label" cols="1">
                                 <hi rend="italics">Propitius esto.</hi></cell>
                         </row>
                         <row>
@@ -8905,35 +8909,35 @@
                         </row>
                         <row>
                             <cell>Aff all vildfarelse.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra alt det som ont er.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra en ond wforuarendis oc brad død.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra Pestilentze hunger oc Dyr tid.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra Krig oc Blodstørtning.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra Oprør oc tuedract.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra wtimelig verligt.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Fra den euige Død.</cell>
-                            <cell/>
+                            <cell>Fri oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>
@@ -8947,30 +8951,30 @@
                         </row>
                         <row>
                             <cell>For din Blodige sued.</cell>
-                            <cell/>
+                            <cell>Hielp oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>For din pine oc død.</cell>
-                            <cell/>
+                            <cell>Hielp oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>For din hellige Jordeferd.</cell>
-                            <cell/>
+                            <cell>Hielp oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>For din hellige opstandelse oc Himmelferd.</cell>
-                            <cell/>
+                            <cell>Hielp oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>J vor sidste time.</cell>
-                            <cell/>
+                            <cell>Hielp oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Paa den yderste Dommedag.</cell>
-                            <cell/>
+                            <cell>Hielp oss kiere Herre Gud.</cell>
                         </row>
                         <row>
-                            <cell role="label">
+                            <cell role="label" cols="1">
                                 <hi rend="italics"><pb ana="436" n="E448"/>Peccatores.</hi></cell>
                         </row>
                         <row>
@@ -8989,41 +8993,41 @@
                         </row>
                         <row>
                             <cell>Styr oc reger din hellig Christelige Kircke. </cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Holt Kirckens Tienere ved dit salige Ord oc i it helligt leffnit. </cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Forhindre all Ketterj oc vildfarelse. </cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Oc før dem til den rette vey som ere forførde.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Oc lad Dieffuelen oc alle Christendoms Fiender snart træ<lb
                                     rend="="/><space extent="2blanks"/>dis vnder vore Føder.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Giff dem alle din Aand oc krafft som høre dit Ord. </cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Trøst alle dem som ere bedrøffuede oc redde.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Giff Konger oc Førster Fred oc endrectighed. </cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Giff vor Naadige Herre Konning N. stedse Seyeruinding <space
                                     extent="2blanks"/>mod sine Fiender.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Giff vort Raad oc Menighed velsignelse oc beskermelse. </cell>
@@ -9031,31 +9035,31 @@
                         </row>
                         <row>
                             <cell>Vær dem alle bistandig som ere i nød oc fare.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Forsørge dem alle som ere hielpeløse.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Forbarme dig offuer alle Menniske.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Forlad alle vore Fiender oc hielp dem at omuende sig.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>Giff fruct paa Jorden oc beuare hende.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>O Herre Gud hør oss naadelig.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>O Jesu Christe Guds Søn.</cell>
-                            <cell/>
+                            <cell>Hør oss kiere Herre Gud.</cell>
                         </row>
                         <row>
                             <cell>
@@ -9086,7 +9090,7 @@
                                 </notatedMusic>Gud forbarme dig offuer oss.</cell>
                         </row>
                         <row>
-                            <cell role="label"><pb ana="438" n="E450"/>Versickel.</cell>
+                            <cell role="label" cols="1"><pb ana="438" n="E450"/>Versickel.</cell>
                             <cell/>
                         </row>
                         <row>
@@ -9446,10 +9450,10 @@
                             gratiarum actione. </p>
                     </div>
                 </div>
-                <div xml:id="responsoriumprimum">
+                <div type="psalm" xml:lang="la" xml:id="responsoriumprimum">
                     <head type="add">Responsorium primum</head>
                     <head>Responsorium primum/ <lb/> de Trinitate.</head>
-                    <div type="psalm" xml:lang="la">
+                  
                         <notatedMusic>
                             <ptr target="Je_1573_LN0981_453.xml#mdiv-01"/>
                         </notatedMusic>
@@ -9481,13 +9485,13 @@
                             <l>Qui <ex>etc</ex>. </l>
                         </lg>
                         <!--<figure type="vignette"/>-->
-                    </div>
+                    
                 </div>
-                <div xml:id="responsoriumsecundum">
+                <div type="psalm" xml:lang="la" xml:id="responsoriumsecundum">
                     <head type="add">Responsorium secundum</head>
                     <head><pb ana="456" n="E468"/>Responsorium secundum/ <lb/> de dono
                         linguarum.</head>
-                    <div type="psalm" xml:lang="la">
+                   
                         <notatedMusic>
                             <ptr target="Je_1573_LN0981_456.xml#mdiv-01"/>
                         </notatedMusic>
@@ -9511,12 +9515,12 @@
                                     n="E470"/> sancto. </l>
                             <l>Seditque <ex>etc</ex>. </l>
                         </lg>
-                    </div>
+                    
                 </div>
-                <div xml:id="responsoriumtertium">
+                <div type="psalm" xml:lang="la" xml:id="responsoriumtertium">
                     <head type="add">Responsorium tertium</head>
                     <head>Responsorium tertium/ <lb/> de legatione Apostolorum.</head>
-                    <div type="psalm" xml:lang="la">
+                    
                         <notatedMusic>
                             <ptr target="Je_1573_LN0981_458.xml#mdiv-01"/>
                         </notatedMusic>
@@ -9544,7 +9548,6 @@
                             <l>Qui credi: </l>
                         </lg>
                         <!--<figure type="vignette"/>-->
-                    </div>
                 </div>
             </div>
         </body>
