@@ -705,7 +705,7 @@
                 </lg>
             </div>
             <div xml:id="prædiken" type="psalm">
-                <head type="add">Prædiken (?)</head>
+                <head type="add">Prædiken </head>
                 <lb/>
                 <p>Oc naar Credo er vde med de<ex>n</ex>ne loff<lb rend="="/>sang Nu bede vi den
                     helligaand. som <lb/>idelige for predicken siunges skal <lb/>Saa gaar
@@ -923,7 +923,7 @@
                     latine paa landzbyerne. so<ex>m</ex> forsagt <lb/>eer. </p>
             </div>
             <div xml:id="hellig-hellig-hellig" type="psalm">
-                <head type="add">Hellig hellig hellig (?)</head>
+                <head type="add">Hellig, hellig, hellig </head>
                 <head>Sanctus</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000f01r.xml"/>
@@ -1084,7 +1084,7 @@
                     <lb/>skulle forstaa huad testamentens ord <lb/>indeholle Ad eundem modum.</p>
             </div>
             <div xml:id="kalken-ulriksen" type="psalm">
-                <head type="add">Kalken (?)</head>
+                <head type="add">Kalken </head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000g01v.xml"/>
                 </notatedMusic>
@@ -2556,13 +2556,13 @@
             </div>
             <lb/>
             <div xml:id="Prefationes">
-                <head type="add">Præfationer (?)</head>
+                <head type="add">Præfationer </head>
                 <head>Sequuntur pie aliquot iuxta sacram <lb/>Scripturam Prefationes que pas<lb
                         rend="="/>sim in Ecclesiis iam solent Et <lb/>primo de Natiuitate chris<lb
                         rend="="/>ti Prefatio Sequitur</head>
             </div>
             <div xml:id="prefatio-nativitate-christi" type="psalm">
-                <head type="add">Præfation om Kristi fødsel (?)</head>
+                <head type="add">Præfation om Kristi fødsel </head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000o02v.xml"/>
                 </notatedMusic>
@@ -2585,7 +2585,7 @@
             </div>
             <lb/>
             <div xml:id="prefatio-de-passione-christi">
-                <head type="add">Præfation om Kristi lidelse(?)</head>
+                <head type="add">Præfation om Kristi lidelse</head>
                 <head>Prefatio de passione Christi.</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000o03v.xml"/>
@@ -2612,7 +2612,7 @@
                 <lb/>
             </div>
             <div xml:id="prefatio-de-resurrectione">
-                <head type="add">Præfation om opstandelsen (?)</head>
+                <head type="add">Præfation om opstandelsen </head>
                 <head>Prefatio de Resurrectione.</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000o04v.xml"/>
@@ -2632,7 +2632,7 @@
                 </lg>
             </div>
             <div xml:id="prefatio-ascensione-domine" type="psalm">
-                <head type="add">Præfation om Herrens himmelfart (?)</head>
+                <head type="add">Præfation om Herrens himmelfart </head>
                 <head>Sequitur Prefatio de asce<ex>n</ex>sione domini</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000p01v.xml"/>
@@ -2651,7 +2651,7 @@
                 <p>ut in Prefatione natiuitatis</p>
             </div>
             <div xml:id="prefatio-sancto-spiritu" type="psalm">
-                <head type="add">Præfation om Helligånden (?)</head>
+                <head type="add">Præfation om Helligånden </head>
                 <head>Prefatio de Sancto spiritu</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000p02r.xml"/>
@@ -2674,7 +2674,7 @@
             </div>
             <lb/>
             <div xml:id="prefatio-trinitate">
-                <head type="add">Præfation om den hellige og udelelige treenighed (?)</head>
+                <head type="add">Præfation om den hellige og udelelige treenighed </head>
                 <head>Sequitur Prefatio de sancta ac <lb/>indiuidua Trinitate</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000p02v.xml"/>
@@ -2709,7 +2709,7 @@
             </div>
             <lb/>
             <div xml:id="prefatio-virgine">
-                <head type="add">Præfation om den salige jomfrue (?)</head>
+                <head type="add">Præfation om den salige jomfru </head>
                 <head>Sequitur Prefatio de beata Virgine</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000p04r.xml"/>
@@ -2736,7 +2736,7 @@
             </div>
             <lb/>
             <div xml:id="barnedåb">
-                <head type="add">Barnedåb (?)</head>
+                <head type="add">Barnedåb </head>
                 <head>Her effterfølger en maade och skick <lb/>huorledis Børn skulle christnes.
                     <lb/>Oc siden besynd<ex>er</ex>lige huor ma<ex>n</ex>d <lb/>skal haffue sig met
                     dhe Børn. <lb/>som vdi største nødz viis <lb/>oc for liffs fare skyld <lb/>ere
