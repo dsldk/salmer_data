@@ -299,7 +299,7 @@
                 <div type="month" xml:id="februar" n="2">
                     <head>
                         <reg>Februar</reg>
-                        <orig><pb n="E18"/><pb n="E19"/><hi rend="font_red">KL Februarius Bli<lb
+                        <orig><pb n="E18"/><pb n="E19" ana="A_3r"/><hi rend="font_red">KL Februarius Bli<lb
                                     n="E19.002" rend="="/>dilmaanet haffuer xxviii dage Naten <lb
                                     n="E19.003"/> xiiii tyme och dagen x tyme</hi></orig>
                     </head>
@@ -407,7 +407,7 @@
                             <cell>v</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E20"/>xv</cell>
+                            <cell rend="font_red"><pb n="E20" ana="A_3v"/>xv</cell>
                             <cell>f</cell>
                             <cell/>
                             <cell>x</cell>
@@ -490,7 +490,7 @@
                         x da{??}</p>
                 </div>
                 <div type="month" xml:id="marts" n="3">
-                    <head><reg>Marts</reg><orig><pb n="E21"/><hi rend="font_red">KL Martius Thor <lb
+                    <head><reg>Marts</reg><orig><pb n="E21" ana="A_4r"/><hi rend="font_red">KL Martius Thor <lb
                                     n="E21.002"/>maanet haffuer xxxi dage Natten xii ty<lb
                                     n="E21.003" rend="="/>me oc dagen xii tyme</hi></orig></head>
                     <table>
@@ -597,7 +597,7 @@
                             <cell>x</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E22"/>vii</cell>
+                            <cell rend="font_red"><pb n="E22" ana="A_4v"/>vii</cell>
                             <cell>f</cell>
                             <cell>Gertrudz dag</cell>
                             <cell>y</cell>
@@ -697,7 +697,7 @@
                         dag</p>
                 </div>
                 <div type="month" xml:id="april" n="4">
-                    <head><reg>April</reg><orig><pb n="E23"/>KL Aprilis Fare maa<lb n="E23.002"
+                    <head><reg>April</reg><orig><pb n="E23" ana="A_5r"/>KL Aprilis Fare maa<lb n="E23.002"
                                 rend="="/>net haffuer xxx dage Natten x tyme oc <lb n="E23.003"
                             />dagen xiiii tyme</orig></head>
                     <table>
@@ -804,7 +804,7 @@
                             <cell>{??}</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E24"/>xv</cell>
+                            <cell rend="font_red"><pb n="E24" ana="A_5v"/>xv</cell>
                             <cell>b</cell>
                             <cell/>
                             <cell>&#x2184;</cell>
@@ -897,7 +897,7 @@
                     <p>&#x2055; Sole<ex>n</ex> ko<ex>m</ex>mer i det Tegen Tiwr den xi dag</p>
                 </div>
                 <div type="month" xml:id="maj" n="5">
-                    <head><reg>Maj</reg><orig><pb n="E25"/>KL Maius May maa<lb n="E25.002" rend="="
+                    <head><reg>Maj</reg><orig><pb n="E25" ana="A_6r"/>KL Maius May maa<lb n="E25.002" rend="="
                             />net haffuer xxxi dage Natten viii tyme <lb n="E25.003"/>oc dagen xvi
                             tyme</orig></head>
                     <table>
@@ -1004,7 +1004,7 @@
                             <cell>{??}</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E26"/> xv</cell>
+                            <cell rend="font_red"><pb n="E26" ana="A_6v"/> xv</cell>
                             <cell>d</cell>
                             <cell/>
                             <cell>a</cell>
@@ -1103,7 +1103,7 @@
                             n="E26.008"/> xii dag</p>
                 </div>
                 <div type="month" xml:id="juni" n="6">
-                    <head><reg>Juni</reg><orig><pb n="E27"/>KL Junius Skier so<ex>m</ex><lb
+                    <head><reg>Juni</reg><orig><pb n="E27" ana="A_7r"/>KL Junius Skier so<ex>m</ex><lb
                                 n="E27.002" rend="="/>mer haffuer xxx dage Natte<ex>n</ex> vi tyme
                             och <lb n="E27.003"/>dagen xviii tyme</orig></head>
                     <table>
@@ -1210,7 +1210,7 @@
                             <cell>c</cell>
                         </row>
                         <row>
-                            <cell><pb n="E28"/></cell>
+                            <cell><pb n="E28" ana="A_7v"/></cell>
                             <cell>g</cell>
                             <cell rend="font_red">S. Bodelss dag</cell>
                             <cell>d</cell>
@@ -1303,7 +1303,7 @@
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Krabbe den xii dag</p>
                 </div>
                <!-- <div type="month" xml:id="juli" n="7">
-                    <head><reg>Juli</reg><orig><pb n="E29"/>Julius Orm maanedt</orig></head>
+                    <head><reg>Juli</reg><orig><pb n="E29" ana="A_8r"/>Julius Orm maanedt</orig></head>
                     <p><space extent="2blanks"/><hi rend="Antiqua2"><hi rend="italics"
                                 >Kalenderbladet for juli mangler. Maane-</hi>
                             <lb n="E29.003"/><hi rend="italics">dens lægeraad gengives efter samme
@@ -1320,7 +1320,7 @@
                             Bartholomet dag <lb n="E29.013"/>thi det er da Hunde Maanet.</hi></p>
                 </div>-->
                 <div type="month" xml:id="august" n="8">
-                    <head><reg>August</reg><orig><pb n="E30"/><pb n="E31"/>KL Augustus Høst<lb
+                    <head><reg>August</reg><orig><pb n="E30" ana="A_8v"/><pb n="E31" ana="B_1r"/>KL Augustus Høst<lb
                                 n="E31.002" rend="="/>maanet haffuer xxxi dage Natte<ex>n</ex> x
                             tyme <lb n="E31.003"/> och dagen xiiii tyme</orig></head>
                     <table>
@@ -1430,7 +1430,7 @@
                             <cell>k</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E32"/>i</cell>
+                            <cell rend="font_red"><pb n="E32" ana="B_1v"/>i</cell>
                             <cell>e</cell>
                             <cell/>
                             <cell>l</cell>
@@ -1534,7 +1534,7 @@
                         i det Tege<ex>n</ex> Jo<ex>m</ex>frue den xiiii dag</p>
                 </div>
                 <div type="month" xml:id="september" n="9">
-                    <head><reg>September</reg><orig><pb n="E33"/>KL September Filke <lb n="E33.002"
+                    <head><reg>September</reg><orig><pb n="E33" ana="B_2r"/>KL September Filke <lb n="E33.002"
                             />maanet haffuer xxx dage Natten xii ty<lb n="E33.003" rend="="/>me och
                             dagen xii tyme</orig></head>
                     <table>
@@ -1641,7 +1641,7 @@
                             <cell>n</cell>
                         </row>
                         <row>
-                            <cell><pb n="E34"/></cell>
+                            <cell><pb n="E34" ana="B_2v"/></cell>
                             <cell rend="font_red">A</cell>
                             <cell>Lamberti martyris dag</cell>
                             <cell>o</cell>
@@ -1734,7 +1734,7 @@
                         dag</p>
                 </div>
                 <div type="month" xml:id="oktober" n="10">
-                    <head><reg>Oktober</reg><orig><pb n="E35"/>KL October Sede <lb n="E35.002"
+                    <head><reg>Oktober</reg><orig><pb n="E35" ana="B_3r"/>KL October Sede <lb n="E35.002"
                             />maanet haffuer xxxi dage Natten xiiii <lb n="E35.003"/> tyme oc dagen
                             x tyme</orig></head>
                     <table>
@@ -1841,7 +1841,7 @@
                             <cell>q</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E36"/>ix</cell>
+                            <cell rend="font_red"><pb n="E36" ana="B_3v"/>ix</cell>
                             <cell>c</cell>
                             <cell/>
                             <cell>r</cell>
@@ -1941,7 +1941,7 @@
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det Tege<ex>n</ex> Scorpio den xiii dag</p>
                 </div>
                 <div type="month" xml:id="november" n="11">
-                    <head><reg>November</reg><orig><pb n="E37"/>KL Nouember Slagte <lb n="E37.002"
+                    <head><reg>November</reg><orig><pb n="E37" ana="B_4r"/>KL Nouember Slagte <lb n="E37.002"
                             />maanet haffuer xxx dage Natten xvi ty<lb n="E37.003" rend="="/>me och
                             dagen viii tyme</orig></head>
                     <table>
@@ -2051,7 +2051,7 @@
                             <cell>v</cell>
                         </row>
                         <row>
-                            <cell><pb n="E38"/></cell>
+                            <cell><pb n="E38" ana="B_4v"/></cell>
                             <cell>f</cell>
                             <cell/>
                             <cell>x</cell>
@@ -2147,7 +2147,7 @@
                 <div type="month" xml:id="december" n="12">
                     <head>
                         <reg>December</reg>
-                        <orig><pb n="E39"/>KL December Jule <lb n="E39.002"/>maanet haffuer xxxi
+                        <orig><pb n="E39" ana="B_5r"/>KL December Jule <lb n="E39.002"/>maanet haffuer xxxi
                             dage Natten xvi <lb n="E39.003"/> tyme oc dagen viii tyme</orig>
                     </head>
                     <table>
@@ -2254,7 +2254,7 @@
                             <cell>y</cell>
                         </row>
                         <row>
-                            <cell rend="font_red"><pb n="E40"/>xvii</cell>
+                            <cell rend="font_red"><pb n="E40" ana="B_5v"/>xvii</cell>
                             <cell rend="font_red">A</cell>
                             <cell/>
                             <cell>z</cell>
@@ -2358,7 +2358,7 @@
             </div>
             <div type="preface" xml:id="introduction1" n="2">
                 <head type="add">Hvordan man finder nymåne</head>
-                <head><pb n="E41"/><hi rend="font_red">Ath finde Ny maanet</hi></head>
+                <head><pb n="E41" ana="B_6r"/><hi rend="font_red">Ath finde Ny maanet</hi></head>
                 <p>Vilt dw vide paa huad dag Maanen tendis <lb n="E41.003"/> Da opled det Gyldene
                     tall i dette forscreffne <lb n="E41.004"/> Kalendario i den samme Maaned som dw
                         <lb n="E41.005"/>begerer det ath vide Oc telge saa ret op ath <lb
@@ -2394,7 +2394,7 @@
                     <head type="add">Tabel: dage egnede til kopsætning</head>
                     <table>
                         <row>
-                            <cell rend="font_red"><pb n="E42"/>i</cell>
+                            <cell rend="font_red"><pb n="E42" ana="B_6v"/>i</cell>
                             <cell rend="font_red">ii</cell>
                             <cell rend="font_red">iii</cell>
                             <cell rend="font_red">iiii</cell>
@@ -2768,7 +2768,7 @@
                             <cell>Scorpio</cell>
                         </row>
                         <row>
-                            <cell><pb n="E43"/>o</cell>
+                            <cell><pb n="E43" ana="B_7r"/>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
                             <cell>l</cell>
@@ -3018,7 +3018,7 @@
                 </div>
                 <div type="preface" xml:id="preface" n="2">
                     <head type="add">Forord</head>
-                    <p><pb n="E44"/><c function="initials" rend="6">D</c>Et er tilbørligt oc Gud <lb
+                    <p><pb n="E44" ana="B_7v"/><c function="initials" rend="6">D</c>Et er tilbørligt oc Gud <lb
                             n="E44.002"/> tackne<ex>m</ex>meligt at alle christ<lb n="E44.003"
                             rend="="/>ne siu<ex>n</ex>ge oc læse aandelige <lb n="E44.004"/> Psalmer
                         oc Loffsa<ex>n</ex>g ha<ex>n</ex><lb n="E44.005" rend="="/>nem till loff oc
@@ -3051,7 +3051,7 @@
                         />Loffsang baade aff hw oc hierte for sin sto<lb n="E44.023" rend="="/>re
                         naade och miskundhed som han haffuer <lb n="E44.024"/>giort oss J det han
                         haffuer frelst oss aff <lb n="E44.025"/>dieffuele<ex>n</ex>s mact/ oc
-                            synde<ex>n</ex>s treldom/ oc aff <pb n="E45"/> den store vildfarelse som
+                        synde<ex>n</ex>s treldom/ oc aff <pb n="E45" ana="B_8r"/> den store vildfarelse som
                         wi vaare før vdi <lb n="E45.002"/>Oc vnt oss at wi mwe nw høre ha<ex>n</ex>s
                         egne <lb n="E45.003"/>ord oc Euangeliu<ex>m</ex> S. Pouel scref och der <lb
                             n="E45.004"/>om i det Ny Testame<ex>n</ex>te <ref target="#kor-1-14"
@@ -3080,7 +3080,7 @@
                         stadfeste met den hellige scrifft paa det <lb n="E45.023"/>ath Gudz ord oc
                         Euangelium/ maa der <lb n="E45.024"/>met fordis oc fremmis oss alle til vor
                             sie<lb n="E45.025" rend="="/>lis hugsualelse/ Oc ath løssactige slemme
-                            <pb n="E46"/> boleuiser (som ære en aarsage till megen <lb n="E46.002"/>
+                        <pb n="E46" ana="B_8v"/> boleuiser (som ære en aarsage till megen <lb n="E46.002"/>
                         synd) mwe affleggis Och ath vnge folk <lb n="E46.003"/>oc børn mwe nu i den
                         sted venyes til ath <lb n="E46.004"/>lære psalmer oc Aandelige viser
                             (so<ex>m</ex> ære en <lb n="E46.005"/>begyndelse till all ære och
@@ -3102,7 +3102,7 @@
                 <div type="psalm" xml:id="i-jesu-navn-begynde-vi" n="1">
                     <head>
                         <reg>I Jesu navn begynde vi</reg>
-                        <orig><pb n="E47" ana="i"/> En merckelig Euange<lb n="E47.002" rend="="
+                        <orig><pb n="E47" ana="1_r"/> En merckelig Euange<lb n="E47.002" rend="="
                             />liske vise/ vor salighedz vey anrørindis</orig>
                     </head>
                     <lg>
