@@ -7712,24 +7712,32 @@
             </div>
             <lb/>
             <div type="psalm" xml:id="kyrie-gud-fader-forbarme-dig">
-               <head type="add">Kyrie / Gud Fader forbarme dig over os</head>
-               <p><c function="initials" rend="4">K</c>yrie/ Gud Fader forbarme dig <lb/>offuer
-                  oss.</p>
+               <head type="add">Kyrie/ Gud Fader forbarme dig over os</head>
+               <lg>
+                  <l><c function="initials" rend="4">K</c>yrie/ Gud Fader forbarme dig <lb/>offuer
+                     oss.</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Christe du est vort Liff <lb/>oc opstandelsse/
-                  forbarme dig <lb/>offuer oss</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Christe du est vort Liff <lb/>oc
+                     opstandelsse/ forbarme dig <lb/>offuer oss</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Kyrie Hellig Aand hielp oss</p>
-               <pb ana="29_v" n_ekstra="D6v" n="E108"/>
-               <p>vor Trøsterma<ex>n</ex>d/ forbarme dig offuer oss</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Kyrie HelligAand hielp oss <pb ana="29_v"
+                        n_ekstra="D6v" n="E108"/> vor Trøsterma<ex>n</ex>d/ forbarme dig offuer
+                     oss</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Kyrie vor Gud oc Herre/ miskun<lb rend="="/>de
-                  dig offuer oss</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Kyrie vor Gud oc Herre/ miskun<lb rend="="
+                     />de dig offuer oss</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="guds-engel-klar-og-hvid">
                <head type="add">Guds engel klar og hvid</head>
-               <head>Gradual met de noder som Sedit <lb/> Angelus</head>
+               <head>Gradual met de noder som Sedit <lb/>Angelus</head>
                <lb/>
                <lg>
                   <l><c function="initials" rend="3">G</c>Vdz Engel klar oc huid/ aff Hiem<lb
@@ -7776,15 +7784,15 @@
                </lg>
                <lg>
                   <l>Englen sagde/ at frøcte ey saa/ </l>
-                  <l>ieg lader eder nu god <lb/>tiende forstaa</l>
+                  <l>di ieg lader eder nu god <lb/>tiende forstaa</l>
                   <l><space extent="2blanks"/>&#x2055; Christus Kaarsfest den i søge hoss <lb/>de
                      døde/ </l>
                   <l>er nu opstanden fra alt møde/ </l>
-                  <l>Kommer oc seer stæden der han ilaa/ graff<lb rend="="/>uen er tom/ </l>
+                  <l>Kommer oc seer stæden der han i laa/ graff<lb rend="="/>uen er tom/ </l>
                   <l>han leffuer i krafft som en <lb/>Kong from/ </l>
                </lg>
                <lg>
-                  <l>Repetitio</l>
+                  <l>Repeticio</l>
                </lg>
                <lb/>
                <lg>
@@ -7802,12 +7810,12 @@
                   <l>Jeg vil dem i Gallileya mø<lb rend="="/>de </l>
                </lg>
                <lg>
-                  <l>Repeti</l>
+                  <l>Repeti<ex>cio</ex></l>
                </lg>
                <lg>
                   <l rend="indent2"><pb ana="30_v" n_ekstra="D7v" n="E110"/> &#x1F449; Saa vist
                      vilde Gud oss det vere <lb/>kend/ </l>
-                  <l>at Christus for oss et cet.</l>
+                  <l>at Christus for oss et cet<ex>era</ex></l>
                </lg>
                <lb/>
                <lg>
@@ -7825,11 +7833,12 @@
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>Som Cleophas met Apostlerne <lb/>talde/ </l>
-                  <l>Da gick Jesus ind til dem oc sag <lb rend="="/>de/ </l>
+                  <l>Da gick Jesus ind til dem oc sag<lb rend="="/>de/ </l>
                   <l>Fred met eder/ Fred vere met eder/ alle sammen/ </l>
                   <l>met glæde oc frygd euinde<lb rend="="/>lige Amen/ </l>
                   <l>Han Oed met dem/ han lod <lb/>dem see oc træffue/ </l>
-                  <l>at mand ey mere skul <lb/>de paa hannen tuiffle</l>
+                  <l>at mand ey mere skul<lb rend="="/>de paa
+                              <app><lem>hannem</lem><rdg><q>hannen</q> orig.</rdg></app> tuiffle</l>
                </lg>
                <lb/>
                <lg>
@@ -7857,16 +7866,26 @@
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Den Kaarfeste paa Mandommen <lb/>loffuer </l>
-                  <l>Oc den Jordede for eders skyld <lb/>erefuldegører </l>
+                  <l>Oc den Jordede for eders skyld <lb/>erefulde gører </l>
                   <l>Den som opstod aff Dø<lb rend="="/>den tilbeder</l>
                </lg>
                <lb/>
                <head type="add">Nolite metuere</head>
                <head>Nolite metuere</head>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Frøcter icke/ ieg siger eder det/ den
-                  <lb/>leffuer huilcken i lede effter menendis død <lb/>at vere och Menniskens Liff
-                  er opstan<lb rend="="/>den met hannem alleluia</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Frøcter icke/</l>
+                  <l> ieg siger eder det/</l>
+                  <l> den <lb/>leffuer huilcken i lede effter</l>
+                  <l> menendis død <lb/>at vere</l>
+               </lg>
+               <lg>
+                  <l> och Menniskens Liff er opstan<lb rend="="/>den met hannem</l>
+               </lg>
+               <lg>
+                  <l> alleluia</l>
+               </lg>
+
                <lb/>
             </div>
             <div type="psalm" xml:id="victime-pascali-laudes">
@@ -7898,7 +7917,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Jegsaa Gudz Engle oc iorde Klæder <lb/>til
+                  <l><space extent="2blanks"/>&#x2055; Jeg saa Gudz Engle oc iorde Klæder <lb/>til
                      vidnisbyrd/ </l>
                   <l>Christus vort haab vist <lb/>opstanden er/ </l>
                   <l>Och han skal eder møde i <lb/>Gallilea</l>
@@ -7914,6 +7933,8 @@
                   <l><space extent="2blanks"/>&#x2055; Vi det sandelige vide </l>
                   <l>at Christ stod <lb/>op aff døde/ </l>
                   <l>O Christe Konning/ forbar<lb rend="="/>me dig offuer oss </l>
+               </lg>
+               <lg>
                   <l>Alleluia</l>
                </lg>
             </div>
@@ -7926,7 +7947,7 @@
                   <l><c function="initials" rend="2">C</c>Hrist stod op aff døde/ </l>
                   <l>oc Frelste all <lb/>Verden aff nøde/ </l>
                   <l>Thi maa wi alle <lb/>glade vere/ </l>
-                  <l>oc siunge Christ loff / met he<lb rend="="/>der oc ære </l>
+                  <l>oc siunge Christ loff/ met he<lb rend="="/>der oc ære </l>
                   <l>Kyrieleys</l>
                </lg>
             </div>
@@ -7942,43 +7963,39 @@
                   <l><space extent="2blanks"/>&#x2055; Christ stod op aff døde/ </l>
                   <l>Oc frelste al <lb/>Verden aff nøde/ </l>
                   <l>Thi ville wi alle gla<lb rend="="/>de vere/ </l>
-                  <l>Oc siunge Gud loffmet heder oc <lb/>ære </l>
+                  <l>Oc siunge Gud loff met heder oc <lb/>ære </l>
                   <l>Kyrieleys</l>
                </lg>
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Christus det wskyldige Lam/ </l>
                   <l>haff<lb rend="="/>uer løst Faarene igen/ </l>
-                  <l>Oc haffuer Syn<lb rend="="/>dere flyt </l>
-                  <l>Faderens venskaff</l>
+                  <l>Oc haffuer Syn<lb rend="="/>dere flyt Faderens venskaff</l>
                </lg>
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Døden oc Liffuit stridde/ </l>
                   <l>Jngen <lb/>vilde anden vige/ </l>
-                  <l>Dog haffuer Christus </l>
-                  <l>Døden offueruundet</l>
+                  <l>Dog haffuer Christus Døden offueruundet</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Sig oss Maria huad du haffuer paa </l>
-                  <l>Veyen seet/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Sig oss Maria huad du haffuer paa Veyen seet/ </l>
                   <l>Den leffuendis Jesu Christi <lb/>Graff/ </l>
                   <l>oc ieg saa hans ærlige opstandelse.</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Oc Englis vitnesbyrd/ </l>
-                  <l>hans suede <lb/>dug oc Klæder/ </l>
-                  <l>Christus vort haab er op <lb/>standen/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Oc Englis vitnesbyrd/ hans suede <lb/>dug oc
+                     Klæder/ </l>
+                  <l>Christus vort haab er op<lb rend="="/>standen/ </l>
                   <l>Oc skal gaa for oss til Gallilea</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Meget mere skal mand </l>
-                  <l>Tro all<lb rend="="/>ene </l>
+                  <l><space extent="2blanks"/>&#x2055; Meget mere skal mand Tro all <lb/>ene </l>
                   <l>Marie Magdalene/ </l>
-                  <l>End det Jøder <lb/>ne sige falskelige</l>
+                  <l>End det Jøder<lb rend="="/>ne sige falskelige</l>
                </lg>
                <pb ana="32_v" n_ekstra="E1v" n="E114"/>
                <lg>
@@ -8021,13 +8038,13 @@
                   <l>Vid hanne<ex>m</ex> faa wi den <lb/>euige løn/ </l>
                   <l>oc døden er offueruunden/ </l>
                   <l>all <lb/>sin ret oc all sin mact/ </l>
-                  <l>som wi vore vnder <lb/>lagt/ </l>
-                  <l>Bort tog Christi død allene</l>
+                  <l>som wi vore vnder<lb rend="="/>lagt/ </l>
+                  <l>Bort tog Christi død all ene</l>
                   <!-- OBS mgl. halleluja, tilføjes? -->
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Det vor en gantske vnderlig strid /</l>
+                  <l><space extent="2blanks"/>&#x2055; Det vor en gantske vnderlig strid/</l>
                   <l><pb ana="33_r" n_ekstra="E2r" n="E115"/>der Døden oc Liffuit stridde/ </l>
                   <l>Liffuit fick <lb/>da mact oc offuerhand/ </l>
                   <l>oc monne døden <lb/>affliffue/ </l>
@@ -8050,7 +8067,7 @@
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Saa holde wi den høye fest/ </l>
-                  <l>met hier <lb/>tens frøyd oc glæde/ </l>
+                  <l>met hier<lb rend="="/>tens frøyd oc glæde/ </l>
                   <l>At Jesus Christus <lb/>er oss nest/ </l>
                   <l>sin naade lader han oss skine/ </l>
                   <l>Han er selff retuishedzens Liuss/ </l>
@@ -8075,27 +8092,32 @@
                   <l>alt <lb/>met sin bittre Pine/ </l>
                   <l>Han er bleffuen op<lb rend="="/>standelsen/ </l>
                   <l>retferdighed monne han giffue </l>
-                  <l>Stat op aff søffne all Cbristenhed/ </l>
+                  <l>Stat op aff søffne all <app><lem>Christenhed</lem><rdg><q>Cbristenhed</q>
+                           orig.</rdg></app>/ </l>
                   <l>Lad <lb/>mørckens Gerninger vere dig lede/ </l>
-                  <l>Ret<lb rend="="/>ferdelige leff i Christo Jesu alle</l>
+                  <l>Ret<lb rend="="/>ferdelige leff i Christo Jesu </l>
+                  <l>alle<ex>luia</ex></l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>Pharaonis mact den grumme Mand <lb/>er fordømdt met
-                     alle/ </l>
+                  <l><space extent="2blanks"/>Pharaonis mact den grumme Mand</l>
+                  <l><lb/>er fordømdt met alle/ </l>
                   <l>ved Jesum Christ <lb/>vor Frelsermand/ </l>
-                  <l>oss aff Egipten han kal <lb/>de Her haffue wi sand Mosen/ </l>
-                  <l>som vdled <lb/>de all Jsraels køn/ </l>
+                  <l>oss aff Egipten han kal<lb rend="="/>de</l>
+                  <l> Her haffue wi sand Mosen/ </l>
+                  <l>som vdled<lb rend="="/>de all Jsraels køn/ </l>
                   <l>Fra Syndens treldo<ex>m</ex>
                      <lb/>til hiertens lise/ </l>
                   <l>alleluia</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Loff priss oe ære vere dig Dauid/ </l>
-                  <l>O Christe vor Kong/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Loff priss <app><lem>oc</lem><rdg><q>oe</q>
+                           orig.</rdg></app> ære vere dig</l>
+                  <l> Dauid/ O Christe vor Kong/ </l>
                   <l>som stride for oss <lb/>Mandelige/ </l>
-                  <l>Goliat er offueruunden som <lb/>lagde vind paa met all sin vold/ </l>
+                  <l>Goliat er offueruunden</l>
+                  <l> som <lb/>lagde vind paa met all sin vold/ </l>
                   <l>ath for<lb rend="="/>derffue Jsraels Skiold/ </l>
                   <l>Du Aandelige <lb/>Jsraels Folck sig glæder/ </l>
                   <l>alleluia</l>
@@ -8111,8 +8133,8 @@
                <lb/>
                <p>Chorid</p>
                <lg>
-                  <l><pb ana="34_r" n_ekstra="E3r" n="E117"/><c function="initials" rend="3"
-                     >O</c>Fader vdi Hiemmelen/ </l>
+                  <l><pb ana="34_r" n_ekstra="E3r" n="E117"/><c function="initials" rend="3">O</c>
+                     Fader vdi Hiemmelen/ </l>
                   <l>ved din søn <lb/>hør vor Bøn/ </l>
                   <l>Han er oss fød och <lb/>giffuen vist/ </l>
                   <l>Til allis vor hielp oc <lb/>trøst/ </l>
@@ -8131,7 +8153,7 @@
                <lg>
                   <l><space extent="2blanks"/>&#x2055; O Christe Konning i euighed/ </l>
                   <l>wi <lb/>bede dig ver oss blid/ </l>
-                  <l>du som Døden haff <lb/>uer forderffuit/ </l>
+                  <l>du som Døden haff<lb rend="="/>uer forderffuit/ </l>
                   <l>oc salighed oss forhuerffuit </l>
                   <l>Bønhør oss O Herre alleluia</l>
                </lg>
@@ -8147,7 +8169,8 @@
                <p>Chorid</p>
                <lg>
                   <l><pb ana="34_v" n_ekstra="E3v" n="E118"/><c function="initials" rend="3"
-                     >H</c>Elligaand vor bøn er til dig o Gud <lb/>vor trøstermand</l>
+                     >H</c>Elligaand vor bøn er til dig</l>
+                  <l> o Gud <lb/>vor trøstermand</l>
                   <l>Samuittighedzens <lb/>trøst/ hiertens løst</l>
                   <l>Affslet alle Chri<lb rend="="/>stnis brøst/ </l>
                   <l>Fred oc glæde giff oss Loffuer <lb/>HERREN</l>
@@ -8156,7 +8179,8 @@
                <p>Forsamlingen siunger</p>
                <lb/>
                <lg>
-                  <l>Bed Gud for oss Alleluia Loffuer HEr<lb rend="="/>ren Alleluia Alleluia</l>
+                  <l>Bed Gud for oss Alleluia</l>
+                  <l> Loffuer HEr<lb rend="="/>ren Alleluia Alleluia</l>
                </lg>
                <lb/>
                <p>Chorid</p>
@@ -8164,12 +8188,10 @@
                <lg>
                   <l><c function="initials" rend="3">K</c>Ongens Daatter aff euighed </l>
                   <l>Chri<lb rend="="/>sti Brud glæder sig/ </l>
-                  <l>for den hun haff <lb/>uer i Aanden vndfangen/ </l>
+                  <l>for den hun haff<lb rend="="/>uer i Aanden vndfangen/ </l>
                   <l>Han er <lb/>som han sagde opstanden</l>
-               </lg>
-               <lb/>
-               <lg>
-                  <l>&#x1F449;{??} Han er som han sagde opfaren </l>
+                  <lb/>
+                  <l>&#x1F449; Han er som han sagde opfaren </l>
                   <l>Hun sig paa Gud forlader Alleluia</l>
                </lg>
             </div>
@@ -8182,7 +8204,7 @@
                   <l><c function="initials" rend="4">I</c>Esus Christ vor Frelsermand </l>
                   <l>den som Døden offueruand/ </l>
                   <l>han er opstanden/ </l>
-                  <l>Synden haff <lb/>uer han fangen </l>
+                  <l>Synden haff<lb rend="="/>uer han fangen </l>
                   <l>Kyrieleyson o <lb/>HERRE miskunde oss</l>
                </lg>
                <lb/>
@@ -8192,7 +8214,7 @@
                   <l>Gudz vrede han for oss bar/ </l>
                   <l>oc flyde oss <lb/>venskaff/ </l>
                   <l>At Gud vil oss nu kære haffue </l>
-                  <l>Kyueleyson/ O Herre miskunde oss</l>
+                  <l>Kyrieleyson/ O Herre miskunde oss</l>
                </lg>
                <lb/>
                <lg>
@@ -8200,7 +8222,8 @@
                   <l>monne han all ene offuer raade/ </l>
                   <l>Han vil redde <lb/>alle </l>
                   <l>som hannem trolige paakalde </l>
-                  <l>Kyrie<lb rend="="/>leyson/ Oc Herre miskunde oss</l>
+                  <l>Kyrie<lb rend="="/>leyson/ <app><lem>O</lem><rdg><q>Oc</q> orig.</rdg></app>
+                     Herre miskunde oss</l>
                </lg>
             </div>
             <lb/>
