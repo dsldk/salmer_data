@@ -64,13 +64,13 @@
             <titlePage>
                 <titlePart>
                     <figure type="image"/>
-                    <pb n="A_1r"/>Th<ex>et</ex> cristelighe mes<lb rend="="/>sze embedhe paa
+                    <pb n="A1_r"/>Th<ex>et</ex> cristelighe mes<lb rend="="/>sze embedhe paa
                         da<ex>n</ex><lb rend="="/>sche </titlePart>
             </titlePage>
             <div type="preface" xml:id="fortale">
                 <head type="add">Fortale</head>
                 <head>
-                    <pb n="A_1v"/>
+                    <pb n="A1_v"/>
                     <!--<figure>
                         <figDesc>blomst</figDesc>
                     </figure>--> Tiill læszeren<ex>n</ex>
@@ -104,7 +104,7 @@
             <div xml:id="messens-indledende-boen" n="1">
                 <head type="add">Messens indledende bøn</head>
                 <head>
-                    <pb n="A_2r"/>Exordium <lb/> Ceremoniernis begioendellssze <lb/> till
+                    <pb n="A2_r"/>Exordium <lb/> Ceremoniernis begioendellssze <lb/> till
                     nadheren</head>
                 <head>Adiutorium nostrum et cetera</head>
                 <p>Uor hielp wære y herrens nauffen/ som schaffthe hi<lb rend="="/>mmil <note
@@ -161,7 +161,7 @@
                         rend="-"/>ffweth syn <app>
                         <lem>enborne</lem>
                         <rdg><q>enborue</q> orig.</rdg>
-                    </app> søn/ iesum christum) wil <pb n="A_2v"/> forbarme sigh offuer oss/ och for
+                    </app> søn/ iesum christum) wil <pb n="A2_v"/> forbarme sigh offuer oss/ och for
                     syn skyldh gyffwe <lb/>
                     <note place="margin">(<ref target="#joh-7"><orig>Joha<ex>n</ex>:
                                 vii</orig><reg>Joh 7</reg></ref>)</note> oss wor syndh till/ och
@@ -186,7 +186,7 @@
                     </l>
                     <l>Thin naadszens øreen wænth thw tiil migh/</l>
                     <l>myn <lb/>røest iegh nw framfører</l>
-                    <l>Giffuer thw paa wor gier<pb n="A_3r" rend="-"/>ningh acth/</l>
+                    <l>Giffuer thw paa wor gier<pb n="A3_r" rend="-"/>ningh acth/</l>
                     <l>ath hæffne synden m<ex>eth</ex> thin magth</l>
                     <l>O her<lb rend="="/>re hwo kandh th<ex>et</ex> taallee</l>
                 </lg>
@@ -235,7 +235,7 @@
                     <l>Handh er forwist the<ex>n</ex>
                         <lb/> retthe tolck/</l>
                     <l>som haffuer forløst allt israels folck</l>
-                    <pb n="A_3v"/>
+                    <pb n="A3_v"/>
                     <l>aff saarrigh och synder alle</l>
                 </lg>
             </div>
@@ -258,7 +258,7 @@
                     <lg>
                         <l>Christe thu esth wor wæi och th<ex>et</ex> sande lyussz</l>
                         <l>Sa<ex>n</ex>d<lb rend="="/>hedszens porth/ kierlighedszens spæil/</l>
-                        <l>Alluerdsens <pb n="A_4r"/>
+                        <l>Alluerdsens <pb n="A4_r"/>
                             <app>
                                 <lem>liiff</lem>
                                 <rdg> før dette over nodelinje <q>Cantus</q> orig.</rdg>
@@ -285,7 +285,7 @@
             <div xml:id="gloria" n="6">
                 <head type="add">Gloria</head>
                 <head>
-                    <pb n="A_4v"/>Gloria in excelsis deo <note place="margin">(<ref target="#luk-2"
+                    <pb n="A4_v"/>Gloria in excelsis deo <note place="margin">(<ref target="#luk-2"
                                 ><orig>Luce. ii</orig><reg>Luk 2</reg></ref>)</note>
                 </head>
                 <lg>
@@ -307,7 +307,7 @@
                             <lem>hym</lem>
                             <rdg>herefter kustode <q>milsche konghe</q> orig.</rdg>
                         </app>
-                                <pb n="B_1r" rend="="/>milske konghe allsommectigste fadher/</l>
+                                <pb n="B1_r" rend="="/>milske konghe allsommectigste fadher/</l>
                     <l>Herre alsom enisthe szøn ihesu christhe och then helligandh<note
                             place="margin">(<ref target="#joh-1"><orig>Joh. i.</orig><reg>Joh
                                     1</reg></ref>)</note>
@@ -322,7 +322,7 @@
                     <l>forbarme tigh <lb/> offuer oss</l>
                     <l>Thw som baarth tager allwerdtzens syn<lb rend="="/>der/ </l>
                     <l>tagh tiill tigh wor bøn/</l>
-                    <l>och mischunde tigh ath <pb n="B_1v"/> høre oss <note place="margin">(<ref
+                    <l>och mischunde tigh ath <pb n="B1_v"/> høre oss <note place="margin">(<ref
                                 target="#mark-16"><orig>Mar. xvi</orig><reg>Mark 16</reg></ref>)</note>
                         <note place="margin">(<ref target="#joh-1"><orig>Joh. i.</orig><reg>Joh
                                     1</reg></ref>)</note>
@@ -370,7 +370,7 @@
                 <head>Effther the<ex>n</ex>ne loffsangh <lb/> vendher presten sigh til <lb/>
                     faalcketh och syungher</head>
                 <head>
-                    <pb n="B_2r"/>
+                    <pb n="B2_r"/>
                     <!--<figure>
                         <figDesc>blomst</figDesc>
                     </figure>--> Dominus vobiscum</head>
@@ -433,7 +433,7 @@
                 <p>
                     <hi rend="initial">B</hi>Rødre/ men tetthe byudendis/ loff<lb rend="="/>wer ieg
                     icke/ ath y icke til forbærelse <lb/> men til forargeelsze ko<ex>m</ex>me
-                    tiil haabhe <pb n="B_2v"/> Forthy sandelighen førsth naar y ko<ex>m</ex>me tiil
+                    tiil haabhe <pb n="B2_v"/> Forthy sandelighen førsth naar y ko<ex>m</ex>me tiil
                     sammen <lb/> y forsza<ex>m</ex>linghen/ fornømmer iegh/ ath ther er tuæ<lb
                         rend="-"/>drægth y blanth edher/ iegh throer/ en deel Thy ther <lb/> maa
                     wære parthyer y blaenth edher/ naar y komme <lb/> tiil sza<ex>m</ex>men
@@ -466,7 +466,7 @@
                             <q>bloeh</q> orig.</rdg>
                     </app> Torgh prøeffwe <lb/> mennisken sygh sælff/ och szaa ædhe syg aff thetthe
                     <lb/> brøedh och dricke sygh aff tenne kalck Forthy hwo <lb/> szom ædher och
-                    dricker wuerdelige/ han ædher och <pb n="B_3r"/> dricker sygh syelff dommen/ ath
+                    dricker wuerdelige/ han ædher och <pb n="B3_r"/> dricker sygh syelff dommen/ ath
                     han icke wnderskee<lb rend="="/>dher herrens legomme</p>
             </div>
             <div xml:id="lovsang-med-halleluja" n="11">
@@ -494,7 +494,7 @@
                     <l>m<ex>eth</ex> sin hel<lb rend="="/>lighe naadhe oc miskundh</l>
                     <l>Som haffuer forløsth oss <lb/> aff all wor syndh/</l>
                     <l>til saligh<ex>ed</ex> och alskens trøesth/</l>
-                    <l>er <pb n="B_3v"/> han oss alle wprunden</l>
+                    <l>er <pb n="B3_v"/> han oss alle wprunden</l>
                     <l>Replicatio Som haffuer <ex>etc.</ex>
                     </l>
                 </lg>
@@ -547,7 +547,7 @@
                <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
-                <pb n="B_4r"/>
+                <pb n="B4_r"/>
                 <head type="add">Note til evangelielæsning</head>
                 <head>Thetthe capitel ioa<ex>n</ex>nis taler <lb/> icke om th<ex>et</ex> vyn och
                     broedtz <lb/> sacrame<ex>n</ex>te men om th<ex>et</ex> ande<lb rend="="/>lighe
@@ -571,7 +571,7 @@
                     lyff/ huilcken me<ex>n</ex>nis<lb rend="="/>kens szøn schal gyffue edher Thy
                     then sa<ex>m</ex>me haffuer <lb/> gudh fadher betægneth Ther faare sagdhe the
                     tiill <lb/> ha<ex>n</ex>nom/ huadh schulle wy giøre ath vy kundhe giø<lb
-                        rend="-"/>re gudts gierningher Jhesus suaredhe och sagdhe <pb n="B_4v"/>
+                        rend="-"/>re gudts gierningher Jhesus suaredhe och sagdhe <pb n="B4_v"/>
                     thennom Th<ex>et</ex> er gudts gierningh/ ath y skulle thro <lb/> paa then han
                     vdsændhe Forthy sagde the til ha<ex>n</ex>nom <lb/> Huadh tæghen giør thu forthy
                     At vy kundhe see oc <lb/> thro tig <note place="margin">(<ref target="#rom-16"
@@ -603,7 +603,7 @@
                     <lb/> huilcken megh wdsendhe/ ath huer som seer sønnen<ex>n</ex>
                     <lb/> och troer paa hannom/ hand skael haffue th<ex>et</ex> euige <lb/> liiff/
                     oc ieg skal wpuæcke hannom paa then yderste <lb/> dag Ther faare murrede
-                    iøderne/ om th<ex>et</ex> ath han <pb n="C_1r"/> haffde sagt Jeg er
+                    iøderne/ om th<ex>et</ex> ath han <pb n="C1_r"/> haffde sagt Jeg er
                         th<ex>et</ex> brød/ huilcken ther ned for aff <lb/> hymmelen Och the sagdhe
                     Er icke thenne Jhesus Jo<lb rend="="/>seps søn/ hues fadher och modher wy
                     kendhe/ ther <lb/> faare huorlundhe sygher the<ex>n</ex>ne/ iegh nedh for aff
@@ -635,7 +635,7 @@
                     er myth lego<ex>m</ex>me/ huilket <lb/> iegh schal gyffue for werdsens liiff
                     Ther faare taage <lb/> iøderne til at trætis emellom sygh/ sygendis Huor<lb
                         rend="-"/>ledis kan thenne gyffue oss th<ex>et</ex> syth lego<ex>m</ex>me
-                    ath æde <pb n="C_1v"/> Forthy sagdhe ihesus thennom Sandelige sandelige <lb/>
+                    ath æde <pb n="C1_v"/> Forthy sagdhe ihesus thennom Sandelige sandelige <lb/>
                     syger ieg edher/ wden y faa ædeth me<ex>n</ex>niske<ex>n</ex>s søns <lb/>
                         lego<ex>m</ex>me/ och drucketh hans blodh/ y haffue icke liiff <lb/> wdy
                     eder Huoso<ex>m</ex>helsth ædher myth lego<ex>m</ex>me och dric<lb rend="="/>ker
@@ -662,7 +662,7 @@
                 <lg>
                     <l>
                         <hi rend="initial">U</hi>y thro allszammen paa en gud/</l>
-                    <l>himmels <pb n="C_2r"/> scabere och iordszens/</l>
+                    <l>himmels <pb n="C2_r"/> scabere och iordszens/</l>
                     <l>guds søn syn fadhers wyllie <lb/> giorde/</l>
                     <l>paa th<ex>et</ex> wy syne børn schulle bliffue/</l>
                     <l>handh <lb/> will oss forszee vor næringh/</l>
@@ -674,7 +674,7 @@
                 </lg>
                 <lg>
                     <l>
-                        <pb n="C_2v"/>
+                        <pb n="C2_v"/>
                         <hi rend="initial">W</hi>y thro och alle paa Jhesum christ/</l>
                     <l>som er <lb/> guds szøn och wor herre/</l>
                     <l>som aff the<ex>n</ex> hel<lb rend="="/>ligandh wndfanghen vor/</l>
@@ -740,7 +740,7 @@
                     christhen kirke <lb/> christi brudh paa kaller <lb/> the<ex>n</ex> hellighands
                     naadhe <lb/> syunghendis m<ex>eth</ex> hierte<ex>n</ex>s <lb/> begieringh <lb/>
                     Cantus</head>
-                <pb n="C_3r"/>
+                <pb n="C3_r"/>
              
                 <lg>
                     <l>
@@ -779,7 +779,7 @@
                     </figure>-->
                 <lg>
                     <l>Thw yppersthe trøster y all wor nød/</l>
-                    <l>hielp th<ex>et</ex> vy <pb n="C_3v"/> forsmaa werdsens spaath och
+                    <l>hielp th<ex>et</ex> vy <pb n="C3_v"/> forsmaa werdsens spaath och
                             wsilh<ex>ed</ex>/</l>
                     <l>ath wy besta<ex>n</ex>
                         <lb rend="="/>dige bliffue/ paa vor siste ende/</l>
@@ -804,7 +804,7 @@
                                 >(<ref target="#sl-66"><orig>Ps<ex>al</ex>. lxvi.</orig><reg>Sl
                                     66</reg></ref>)</note>
                     </l>
-                    <l>och hand vil <pb n="C_4r"/> oss weellsygne</l>
+                    <l>och hand vil <pb n="C4_r"/> oss weellsygne</l>
                     <l>Sith ansigt offuer iorderig/</l>
                     <l>th<ex>et</ex> lader ha<ex>n</ex>d <lb/> offuer oss skinne</l>
                     <l>Ath wy paa iordhen maa forsthaa</l>
@@ -837,7 +837,7 @@
                     <l>Uy take gud och loffue tigh/</l>
                     <l>tith folck y mange <lb/> maadhe</l>
                     <l>Thin iord ber fructh och bedrer sig/</l>
-                    <l>th<ex>et</ex> kan <pb n="C_4v"/> thin ord vel raade</l>
+                    <l>th<ex>et</ex> kan <pb n="C4_v"/> thin ord vel raade</l>
                     <l>Signe oss gud fader oc guds søn</l>
                     <lb/>
                     <l>och signe oss gud the<ex>n</ex> helligand</l>
@@ -904,7 +904,7 @@
                     </app>
                     <lb/> forsza<ex>m</ex>lingh: ath yhukomme <lb/> huad hu<ex>n</ex> schal bede aff
                     gud: <lb/> och acthe huad ha<ex>n</ex> vil vor be<lb rend="="/>
-                    <pb n="cc_1r"/>giering schal vere til hannom <!--<figure>
+                    <pb n="cc1_r"/>giering schal vere til hannom <!--<figure>
                         <figDesc>kors</figDesc>
                     </figure>-->: </head>
                 <p>
@@ -982,7 +982,7 @@
                         <hi rend="initial">A</hi>Th ha<ex>n</ex>s righe maatthe tilko<ex>m</ex>me/
                         och forø<lb rend="="/>g<ex>is</ex> Oc alle syndige me<ex>n</ex>nische/
                         forblindede <lb/> och fangne vdy dieffuelsens riighe/ maat<lb rend="="/>the
-                        hentis tilbage ygien aff ha<ex>nno</ex>m/ til then <pb n="cc_1v"/> sande
+                        hentis tilbage ygien aff ha<ex>nno</ex>m/ til then <pb n="cc1_v"/> sande
                         throes bekie<ex>n</ex>delse/ som er til Christum ihesum <lb/> ath christne
                             me<ex>n</ex>niskis tal maatte forøgis och bliffue <lb/> staarre</p>
                 </div>
@@ -1094,7 +1094,7 @@
                         <figDesc>kors</figDesc>
                     </figure>-->
                     <p>
-                        <pb n="cc_2r"/>
+                        <pb n="cc2_r"/>
                         <hi rend="initial">A</hi>Th ha<ex>n</ex> oc icke ville inlede oss vdy
                             frestel<lb rend="="/>sze/ men hæller hiælpe och størcke wor <lb/>
                             skrøbeligh<ex>ed</ex> m<ex>eth</ex> sin aand/ ath spæge lego<ex>m</ex>
@@ -1188,7 +1188,7 @@
                 <lg>
                     <l>
                         <hi rend="initial">H</hi>Ellig Hellig Hellig esth thu</l>
-                    <pb n="cc_2v"/>
+                    <pb n="cc2_v"/>
                     <l>Herre gudh sabaoth</l>
                     <l>Hymmel och iorden ere wpfylthe/ <lb/> m<ex>eth</ex> thin ære</l>
                     <l>Salig giør oss wdy th<ex>et</ex> øffuersthe <lb/>
@@ -1212,7 +1212,7 @@
                 <head>Effther tiisse ceremonier ko<ex>m</ex>
                     <lb rend="="/>mer th<ex>et</ex> rette messe embedhe <lb/> som er Christi
                     nathuoris och <lb/> testame<ex>n</ex>tis ord: y huilke huer <lb/> christen
-                        me<ex>n</ex>niskis hierte: som <pb n="cc_3r"/> vil gaa til gudts bord: schal
+                        me<ex>n</ex>niskis hierte: som <pb n="cc3_r"/> vil gaa til gudts bord: schal
                     <lb/> stadfestis oc visz giøres om <lb/> gudh faders villie til ha<ex>n</ex>nom
                     <lb/> y hans kiere søn: och y th<ex>et</ex> sa<ex>m</ex><lb rend="="/>me
                         yhuko<ex>m</ex>me och kundgiøre <lb/> herre<ex>n</ex>s dødh til han kommer <lb/>
@@ -1240,12 +1240,12 @@
                         <hi rend="initial">W</hi>or herre Jhesus<note place="margin"> (<ref target="#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note>
                         <note place="margin"> (<ref target="#matt-26"><orig>Mat xxvi.</orig><reg>Matt 26</reg></ref>)</note>
                         <note place="margin"> (<ref target="#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
-                        <note place="margin"> (<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note> chris<lb rend="="/><pb n="cc 3v"
+                        <note place="margin"> (<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note> chris<lb rend="="/><pb n="cc3_v"
                         />tus y the<ex>n</ex> nat ther ha<ex>n</ex> bleff faar<lb rend="="/>raad:
                         togh han brødet: tackede <lb/> oc brød<ex>et</ex>: oc gaff syne discipeler
                         <lb/> oc sagde Tager th<ex>et</ex> hen oc edhe<lb rend="="/>reth:
                             th<ex>et</ex> er mith lego<ex>m</ex>me: so<ex>m</ex> bliff<lb rend="="
-                            /><pb n="cc_4r"/>uer giffuet for edher: th<ex>et</ex> giører. <lb/> y
+                            /><pb n="cc4_r"/>uer giffuet for edher: th<ex>et</ex> giører. <lb/> y
                         min huko<ex>m</ex>melse</l>
                 </lg>
             </div>
@@ -1259,11 +1259,11 @@
                         <note place="margin">(<ref target="#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
                         <note place="margin">(<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note>
                         <note place="margin"> (<ref target="#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> oc kalcken effther
-                        affthe<ex>n</ex>s maal<lb rend="="/><pb n="cc_4v"/>tid oc sagde Tager oc
+                        affthe<ex>n</ex>s maal<lb rend="="/><pb n="cc4_v"/>tid oc sagde Tager oc
                         dricker al<lb rend="="/>lesame<ex>n</ex> ther aff: thette er th<ex>et</ex>
                         ny <lb/> testame<ex>n</ex>tis kalck y mitt blodh: <lb/> th<ex>et</ex>
                             so<ex>m</ex> bliffuer vdgiffuet for eder <lb/> oc for mange: til
-                        syndernis for<lb rend="="/><pb n="D_1r"/>ladelse: thette giører: saa offte
+                        syndernis for<lb rend="="/><pb n="D1_r"/>ladelse: thette giører: saa offte
                             so<ex>m</ex>
                         <lb/> y dricke: y min hukommelse:</l>
                 </lg>
@@ -1285,7 +1285,7 @@
                     <l>o herre christ</l>
                     <lb/>
                     <l>benedidet er the<ex>n</ex> dag for visth</l>
-                    <l>Uy laaffue tig nu och <pb n="D_1v"/> til euigtid</l>
+                    <l>Uy laaffue tig nu och <pb n="D1_v"/> til euigtid</l>
                     <l>Hellig hellig hellig esth thu y th<ex>et</ex> høgeste</l>
                 </lg>
                 <lg>
@@ -1300,7 +1300,7 @@
                     <l>
                         <hi rend="initial">T</hi>Jth folck o Christe laaffue tig/</l>
                     <l>thin brud <lb/> aff hiert<ex>et</ex> nu glæder sig/</l>
-                    <l>For thin naade och barmhier<lb rend="="/><pb n="D_2r"/>tigh<ex>ed</ex>
+                    <l>For thin naade och barmhier<lb rend="="/><pb n="D2_r"/>tigh<ex>ed</ex>
                     </l>
                     <l>Hellig hellig hellig hun syunger tigh</l>
                 </lg>
@@ -1348,7 +1348,7 @@
             </div>
             <div xml:id="formaning2" n="28">
                 <head type="add">Formaning</head>
-                <head>Exhortacio: <pb n="D_2v"/> En kort formani<ex>n</ex>g till fol<lb rend="="
+                <head>Exhortacio: <pb n="D2_v"/> En kort formani<ex>n</ex>g till fol<lb rend="="
                     />ken oc serdel<ex>is</ex> til the<ex>n</ex>nom so<ex>m</ex>
                     <lb/> ville ana<ex>m</ex>me christi testam<ex>en</ex>t </head>
                 <p>
@@ -1415,7 +1415,7 @@
             <div xml:id="indledning-til-salme" n="30">
                 <head type="add">Jesus Kristus er vor salighed</head>
                 <head>En gudelig oc krafftig laaffsa<ex>n</ex>g <lb/> ath siunge i christi natuore:
-                    nar <pb n="D_3r"/> Christi brud schal gaa til gudz <lb/> bord: først ath
+                    nar <pb n="D3_r"/> Christi brud schal gaa til gudz <lb/> bord: først ath
                         ana<ex>m</ex>me andelige <lb/> m<ex>eth</ex> throi<ex>n</ex>s mu<ex>n</ex>d
                     Christi legomme <lb/> oc dricke m<ex>eth</ex> throi<ex>n</ex>s leber oc mu<lb
                         rend="-"/>ndh Christi blod so<ex>m</ex> Christus sy<lb rend="="/>ger selff
@@ -1433,7 +1433,7 @@
                         ha<ex>n</ex> offrede seg selff <lb/>
                     <note place="margin">(<ref target="#ef-5"><orig>Ephe. v.</orig><reg>Ef 5</reg></ref>)</note>
                     <note place="margin">(<ref target="#hebr-7"><orig>Hebre. vii.</orig><reg>Hebr 7</reg></ref>)</note> gudh fader paa korszens gallie <pb
-                        n="D_3v"/> giffue<ex>n</ex>des seg till en fylleste giø<lb rend="="/>relse
+                        n="D3_v"/> giffue<ex>n</ex>des seg till en fylleste giø<lb rend="="/>relse
                     <note place="margin">(<ref target="#joh-3"><orig>Joh. iii.</orig><reg>Joh 3</reg></ref>)</note> oc vederlauff for alle verd<lb
                         rend="-"/>sens synder:</head>
                 <head type="add">Jesus Kristus er til stede!</head>
@@ -1506,7 +1506,7 @@
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
-                    <l><pb n="D_4r"/>Saadan naade oc barmhiertigh<ex>ed</ex>/</l>
+                    <l><pb n="D4_r"/>Saadan naade oc barmhiertigh<ex>ed</ex>/</l>
                     <l>søger eth hier<lb rend="="/>the y stort arbeid/</l>
                     <l>esth thu karsk saa bliff her fraa/</l>
                     <l>ath thu schalt icke fordømmelsen faa</l>
@@ -1593,7 +1593,7 @@
                     </l>
                     <l>som <lb/>
                         <note place="margin">(<ref target="#kor-1-11"><orig>.i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note>
-                        <pb n="D_4v"/> oss seelff haffuer bespiisedh</l>
+                        <pb n="D4_v"/> oss seelff haffuer bespiisedh</l>
                     <!--<figure>
                         <figDesc>blomst</figDesc>
                     </figure>-->
@@ -1663,7 +1663,7 @@
                         <figDesc>blomst</figDesc>
                     </figure>-->
                     <l>Gudh y alle gaffuer oss wil velsigne/</l>
-                    <l>ath vy paa <pb n="dd_1r"/> hans vey schulle bliffue</l>
+                    <l>ath vy paa <pb n="dd1_r"/> hans vey schulle bliffue</l>
                     <l>J reeth 
                         <app>
                             <lem>kierligh<ex>ed</ex></lem>
@@ -1749,7 +1749,7 @@
                         rend="-"/>chundelig/ och vende siith ansigt til tig/ och <lb/> giffue tig
                     freden Suar amen</p>
             </div>
-            <pb n="dd_1v"/>
+            <pb n="dd1_v"/>
             <div xml:id="gud-fader-udi-himmerig" n="36">
                 <!--<figure>
                     <figDesc>kors</figDesc>
@@ -1774,7 +1774,7 @@
                <!--<figure>
                         <figDesc>blomst</figDesc>
                     </figure>-->
-                <pb n="dd_2r"/>
+                <pb n="dd2_r"/>
                 <lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
@@ -1906,7 +1906,7 @@
                     <l>The<ex>et</ex> sisthe budord th<ex>et</ex> er nu saa</l>
                     <l>th<ex>et</ex> bør tigh nu <lb/> ath merke/</l>
                     <l>thin brodhers gotz thu ey attraa/</l>
-                    <l>hans <pb n="dd_2v"/> huss och ey ha<ex>n</ex>s sue<ex>n</ex>ne</l>
+                    <l>hans <pb n="dd2_v"/> huss och ey ha<ex>n</ex>s sue<ex>n</ex>ne</l>
                 </lg>
                 <lg>
                     <!--<figure>
@@ -1957,7 +1957,7 @@
                 <p>Th<ex>et</ex> er verdigth och reettuisth</p>
             </div>
             <div xml:id="sandelig-er-det-verdigt" n="39">
-                <head><pb n="dd_3r"/>Christe<ex>n</ex> kirkis tie<ex>n</ex>nere: Uere dig</head>
+                <head><pb n="dd3_r"/>Christe<ex>n</ex> kirkis tie<ex>n</ex>nere: Uere dig</head>
                 <lg>
                     <l>
                         <hi rend="initial">S</hi>andeliighe er th<ex>et ver</ex>
@@ -1967,7 +1967,7 @@
                     <l>tigh schulle laaffue oc tac<lb rend="="/>ke</l>
                     <l>o herre hellige fader</l>
                     <l> almectig<lb rend="="/>
-                        <pb n="dd_3v"/>ste euige gud:</l>
+                        <pb n="dd3_v"/>ste euige gud:</l>
                     <l>ved Jhesum chris<lb rend="="/>tum vor herre: Amen</l>
                 </lg>
             </div>
