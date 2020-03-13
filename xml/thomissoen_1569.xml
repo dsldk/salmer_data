@@ -4825,7 +4825,7 @@
         <body>
             <div type="psalmgroup" xml:id="section-1" n="1">
                 <head type="add">Kristi komme</head>
-                <head><pb ana="1" n="E57"/> Om Christi Tilkommelse <lb/> til Verden.</head>
+                <head><pb ana="1_r" n="E57"/> Om Christi Tilkommelse <lb/> til Verden.</head>
                 <div type="psalm" xml:id="veni-redemptor-gentium" n="1">
                     <head type="add">Kom, hedningers frelser sand</head>
                     <head>I. <lb/> Den Hymne/ <title><hi rend="italics">Veni redemptor <lb/>
@@ -4837,7 +4837,7 @@
                     <lg>
                         <l><c function="initials" rend="2">K</c>Om Hedningers Frelser sand/ </l>
                         <l>en Jomfrues barn vden Mand/ </l>
-                        <l>hues <pb n="E58"/>al Verden vndre maa/ </l>
+                        <l>hues <pb ana="1_v" n="E58"/>al Verden vndre maa/ </l>
                         <l>Gud den fødzel <lb/> skicket saa. </l>
                     </lg>
                     <lg>
@@ -4867,7 +4867,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Du som est Gud Fader lig/ </l>
                         <l>J kiødet beuiss Seyer slig/ </l>
-                        <l><pb ana="2" n="E59"/>At din euige Guddoms vold/ </l>
+                        <l><pb ana="2_r" n="E59"/>At din euige Guddoms vold/ </l>
                         <l>Vort skrøbeligt kiød kunde ophold.</l>
                     </lg>
                     <lg>
@@ -4894,7 +4894,7 @@
                         <l>O Stierners skaber i Himmelske <lb/> huss/ </l>
                         <l>Som est de Troes euige liuss/ </l>
                         <l>Christe <lb/> som haffuer oss all igenløst/ </l>
-                        <l>hør de ydmy<pb n="E60" rend="="/>ges bedendis røst. </l>
+                        <l>hør de ydmy<pb ana="2_v" n="E60" rend="="/>ges bedendis røst. </l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Du som saare ynckede det tilforn/ </l>
@@ -4929,7 +4929,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Gud Fader være Guddommelig ære/ </l>
                         <l>Oc dig hans eniste Søn monne være/ </l>
-                        <l><pb ana="3" n="E61"/>Disligest oc den hellig Aand/ </l>
+                        <l><pb ana="3_r" n="E61"/>Disligest oc den hellig Aand/ </l>
                         <l>Være loff nu oc i allen stund. </l>
                     </lg>
                 </div>
@@ -4947,7 +4947,7 @@
                     <lg>
                         <l>Kyrie Gud fader aff Himmerig/ </l>
                         <l>du <lb/> sende oss din Søn til Jorderig/ </l>
-                        <l>Fordi du <pb n="E62"/>vilde være oss miskundelig. </l>
+                        <l>Fordi du <pb ana="3_v" n="E62" />vilde være oss miskundelig. </l>
                     </lg>
                     <lg>
                         <l>Christe Guds søn aff Himmerig/ </l>
@@ -4958,7 +4958,7 @@
                         <l>O hellig Aand som varst i den gierning <lb/> Mestermand/ </l>
                         <l>at Jomfru fødde vden <lb/> Mand/ </l>
                         <l>lad oss ey dø i Syndens baand/ </l>
-                        <l><pb ana="4" n="E63"/>men fød Christum i oss O hellig Aand.</l>
+                        <l><pb ana="4_r" n="E63"/>men fød Christum i oss O hellig Aand.</l>
                     </lg>
                 </div>
                 <div type="psalm" xml:id="a-solis-ortus-cardine" n="2">
@@ -4977,7 +4977,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Den som skabte Himmel oc Jord/ </l>
                         <l>Hand tog Mandom en Træl hand vord/ </l>
-                        <l><pb n="E64"/>At hand oss icke gantske vilde fortabe/ </l>
+                        <l><pb ana="4_v" n="E64"/>At hand oss icke gantske vilde fortabe/ </l>
                         <l>Thi vilde hand sig til oss wmage.</l>
                     </lg>
                     <lg>
@@ -5017,7 +5017,7 @@
                         <l>At Christ vaar fød oss Menniske lig.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="5" n="E65"/><space extent="2blanks"/>Ære være dig Christ met
+                        <l><pb ana="5_r" n="E65"/><space extent="2blanks"/>Ære være dig Christ met
                             Konge naffn/ </l>
                         <l>Som føddis aff en jomfru Verde<ex>n</ex> til gaffn/ </l>
                         <l>Holt din Spir met Kongelig act/ </l>
@@ -5038,7 +5038,7 @@
                         <l>det er all tings <lb/> besluttelse/ </l>
                         <l>huilcke nu haffue værit oc <lb/> ere/ </l>
                         <l>oc de som ere tilkommendis/ </l>
-                        <l>Fra <pb n="E66"/>nu oc ind til euig tid. </l>
+                        <l>Fra <pb ana="5_v" n="E66" />nu oc ind til euig tid. </l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>O den lycksalige Fødzel/ </l>
@@ -5079,7 +5079,7 @@
                 </div>
                 <div type="psalm" xml:lang="la" xml:id="grates-nunc-omnes" n="4">
                     <head type="add">Grates nunc omnes reddamus Domino Deo</head>
-                    <head><pb ana="6" n="E67"/>IIII. <lb/>
+                    <head><pb ana="6_r" n="E67"/>IIII. <lb/>
                         <title><hi rend="italics">GRATES NVNC <lb/> omnes</hi></title>. </head>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_006r.xml"/>
@@ -5098,7 +5098,7 @@
                 </div>
                 <div type="psalm" xml:id="grates-nunc-omnes-da" n="5">
                     <head type="add">Nu lader os alle takke Gud vor Herre</head>
-                    <head><pb n="E68"/>V. <lb/>
+                    <head><pb ana="6_v" n="E68"/>V. <lb/>
                         <title><hi rend="italics">GRATES NVNC OM<lb rend="="/>nes</hi></title> Paa
                         danske.</head>
                     <notatedMusic>
@@ -5115,7 +5115,7 @@
                 </div>
                 <div type="psalm" xml:lang="la" xml:id="dies-est-leticie" n="6">
                     <head type="add">Dies est læticiæ</head>
-                    <head><pb ana="7" n="E69"/> VI. <lb/>
+                    <head><pb ana="7_r" n="E69"/> VI. <lb/>
                         <title><hi rend="italics">DIES EST LÆ<lb rend="="/>ticiæ</hi></title>: </head>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_007r.xml"/>
@@ -5155,7 +5155,7 @@
                             <hi rend="italics">Pater hic est natus:</hi></l>
                         <l>
                             <hi rend="italics">Quis audiuit talia,</hi></l>
-                        <l><pb n="E70"/><hi rend="italics">Deus homo natus.</hi></l>
+                        <l><pb ana="7_v" n="E70" /><hi rend="italics">Deus homo natus.</hi></l>
                         <l>
                             <hi rend="italics">Seruus hic est Dominus,</hi></l>
                         <l>
@@ -5198,7 +5198,7 @@
                             <hi rend="italics">vt rosa de lilio,</hi></l>
                         <l>
                             <hi rend="italics">stupescit natura.</hi></l>
-                        <l><pb ana="8" n="E71"/>
+                        <l><pb ana="8_r" n="E71"/>
                             <hi rend="italics">Quem parit iuuencula,</hi></l>
                         <l>
                             <hi rend="italics">natum ante secula,</hi></l>
@@ -5243,7 +5243,7 @@
                             <hi rend="italics">natum coeli Regem</hi></l>
                         <l>
                             <hi rend="italics">nunciat cum gaudio,</hi></l>
-                        <l><pb n="E72"/>
+                        <l><pb ana="8_v" n="E72" />
                             <hi rend="italics">iacentem in præsepio,</hi></l>
                         <l>
                             <hi rend="italics">infantem pannosum,</hi></l>
@@ -5290,7 +5290,7 @@
                         <l>
                             <hi rend="italics">laxa quod peccauimus,</hi></l>
                         <l>
-                            <hi rend="italics"><pb ana="9" n="E73"/> ne sinas perire,</hi></l>
+                            <hi rend="italics"><pb ana="9_r" n="E73"/> ne sinas perire,</hi></l>
                         <l>
                             <hi rend="italics">quos cruore proprio</hi></l>
                         <l>
@@ -5315,7 +5315,7 @@
                         <l>Hand er <lb/>it barn saa vnderligt/ </l>
                         <l>faurt oc skønt oc <lb/>lysteligt/ </l>
                         <l>alt inden sin Mandoms ære/ </l>
-                        <l><pb n="E74"/>hans mact hun er wtenckelig/ </l>
+                        <l><pb ana="9_v" n="E74" />hans mact hun er wtenckelig/ </l>
                         <l>hans krafft <lb/>hun er wkrenckelig/ </l>
                         <l>alt inden sin Gud<lb rend="="/>doms ære. </l>
                     </lg>
@@ -5338,7 +5338,7 @@
                         <l>For Øxen oc Asen baade.</l>
                         <l>Soel oc Maane haffuer hand giort/ </l>
                         <l>All Verden skabte hand met it Ord/ </l>
-                        <l><pb ana="10" n="E75"/>Planeter oc alle Stierner/ </l>
+                        <l><pb ana="10_r" n="E75"/>Planeter oc alle Stierner/ </l>
                         <l>Hand huiltis i den Krybbe saa trang/ </l>
                         <l>For Mennisken vilde hand lide den tuang/ </l>
                         <l>Thi kiendis wi hannem saa gierne.</l>
@@ -5370,7 +5370,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Keyseren lod biude offuer alt sit Land/ </l>
                         <l>Hand lod det Folck bescriffue/ </l>
-                        <l><pb n="E76"/>All Verden stod da til hans haand/ </l>
+                        <l><pb ana="10_v" n="E76"/>All Verden stod da til hans haand/ </l>
                         <l>De skulde hannem Skatten giffue.</l>
                         <l>Opstod Joseph oc Maria glad/ </l>
                         <l>Saa fore de til Bethlehem stad/ </l>
@@ -5400,7 +5400,7 @@
                         <l>Vnd oss at giøre som for dig er got/ </l>
                         <l>Vor hu fra synden at vende/ </l>
                         <l>Lad oss leffue i stadelig tro/ </l>
-                        <l><pb ana="11" n="E77"/> Met dig at bliffue i euig ro/ </l>
+                        <l><pb ana="11_r" n="E77"/> Met dig at bliffue i euig ro/ </l>
                         <l>Oc fred foruden all ende.</l>
                     </lg>
                 </div>
@@ -5418,7 +5418,7 @@
                         <l>hand <lb/> vilde vor Frelser vorde.</l>
                         <l>Haffde <lb/> icke det barn Mandom tagit/ </l>
                         <l>Da <lb/> haffde wi all sammen bleffuet fortabit/ </l>
-                        <l><pb n="E78"/>hand er vor Salighed allene/ </l>
+                        <l><pb ana="11_v" n="E78"/>hand er vor Salighed allene/ </l>
                         <l>Wi <lb/> tacke dig søde Jesu Christ/ </l>
                         <l>at du menni<lb rend="="/>ske vorden est/ </l>
                         <l>vocte oss fra Helffue<lb rend="="/>dis pine. </l>
@@ -5438,7 +5438,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Vel er dem alle som dette tro/ </l>
                         <l>Aff gantske hiertens grunde/ </l>
-                        <l><pb ana="12" n="E79"/>De skulle visselig i Himmerig bo/ </l>
+                        <l><pb ana="12_r" n="E79"/>De skulle visselig i Himmerig bo/ </l>
                         <l>Om de stadelige tro kunde/ </l>
                         <l>At Christus haffuer for oss huer en </l>
                         <l>Giort fyllest/ hand vaar der til vdsend </l>
@@ -5470,7 +5470,7 @@
                         <l><c function="initials" rend="3">E</c>N Jomfru fødde it Barn i dag/ </l>
                         <l>Som wi skulle prise oc ære/ </l>
                         <l>J det haffuer Gud it gaat behag/ </l>
-                        <l><pb n="E80"/>Hand biuder oss holde sin lære. </l>
+                        <l><pb ana="12_v" n="E80"/>Hand biuder oss holde sin lære. </l>
                         <l>Vaar icke det Barn til Verden fød/ </l>
                         <l>Da haffde huer mand euindelige død/ </l>
                         <l>Nu ere wi frelsit alle. </l>
@@ -5489,7 +5489,7 @@
                     <lg>
                         <l><hi rend="italics">Resonet in laudibus,</hi></l>
                         <l><hi rend="italics">cum iu<lb rend="="/>cundis plausibus,</hi></l>
-                        <l><hi rend="italics">Sion cum fi<pb ana="13" n="E81" rend="="
+                        <l><hi rend="italics">Sion cum fi<pb ana="13_r" n="E81" rend="="
                                 />delibus.</hi></l>
                         <l><hi rend="italics">Apparuit quem genuit Ma<lb rend="="/>ria.</hi></l>
                         <l><hi rend="italics">Sunt impleta quæ prædixit <lb/> Gabriel.</hi></l>
@@ -5500,7 +5500,7 @@
                         <l><hi rend="italics">Hodie apparuit apparuit in Israel,</hi></l>
                         <lb/>
                         <l><hi rend="italics">ex Maria virgine est natus Rex.</hi></l>
-                        <l><pb n="E82"/><hi rend="italics">Magnum nomen Domini Emanuel,</hi></l>
+                        <l><pb ana="13_v" n="E82"/><hi rend="italics">Magnum nomen Domini Emanuel,</hi></l>
                         <lb/>
                         <l><hi rend="italics">quod annunciatum est per Gabriel.</hi></l>
                     </lg>
@@ -5576,7 +5576,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Gud met oss Emanuel/ </l>
                         <l>Den bebudede Gabriel. </l>
-                        <l><pb ana="14" n="E83"/> Der til er vidne Ezechiel/ </l>
+                        <l><pb ana="14_r" n="E83"/> Der til er vidne Ezechiel/ </l>
                         <l>Hand kom til oss vor Frelsere/ </l>
                         <l><space extent="4blanks"/>Gud Faders Søn.</l>
                     </lg>
@@ -5610,7 +5610,7 @@
                     <lg>
                         <l><c function="initials" rend="2">A</c>L den gantske Christenhed/ </l>
                         <l>Priser Guds Barmhiertighed/ </l>
-                        <l><pb n="E84"/>For hans store kierlighed/ </l>
+                        <l><pb ana="14_v" n="E84"/>For hans store kierlighed/ </l>
                         <l>Det er nu skeet som spaad haffde Esaias.</l>
                     </lg>
                     <lg rend="indent2">
@@ -5645,7 +5645,7 @@
                         <l>Det er nu skeet som spaad haffde Esaias.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="15" n="E85"/><space extent="2blanks"/>Nu er kommen den salige
+                        <l><pb ana="15_r" n="E85"/><space extent="2blanks"/>Nu er kommen den salige
                             tid/ </l>
                         <l>Der Propheterne haffde om screffuit/ </l>
                         <l>At Gud skulde giffue sin Søn her ned/ </l>
@@ -5678,7 +5678,7 @@
                 </div>
                 <div type="psalm" xml:id="in-dulci-jubilo" n="13">
                     <head type="add">In dulci jubilo</head>
-                    <head><pb n="E86"/>XIII. <lb/>
+                    <head><pb ana="15_v" n="E86"/>XIII. <lb/>
                         <hi rend="italics">In dulci iubilo.</hi></head>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_015v.xml"/>
@@ -5700,7 +5700,7 @@
                         <l>For dig er mig saa vee/ </l>
                         <l>Trøst mig i min sinde/ </l>
                         <l><hi rend="italics">O puer optime,</hi></l>
-                        <l><pb ana="16" n="E87"/>Lad mig din godhed finde/ </l>
+                        <l><pb ana="16_r" n="E87"/>Lad mig din godhed finde/ </l>
                         <l><hi rend="italics">O princeps gloriæ,</hi></l>
                         <l><hi rend="italics">Trahe me post te,</hi></l>
                         <l><hi rend="italics">trahe me post te.</hi></l>
@@ -5738,7 +5738,7 @@
                         met de Noder/ som/ <hi rend="italics">In dulci iu<lb rend="="/>bilo</hi>,
                         siungis met.</head>
                     <lg>
-                        <l><pb n="E88"/><c function="initials" rend="3">L</c>Off Gud du Christenhed
+                        <l><pb ana="16_v" n="E88"/><c function="initials" rend="3">L</c>Off Gud du Christenhed
                             / </l>
                         <l>Tack hannem met glæde oc fred/ </l>
                         <l>Den vor hierte trøster/ </l>
@@ -5771,7 +5771,7 @@
                     <lg>
                         <l><space extent="2blanks"/>O huilcken naade stor/ </l>
                         <l>O huilcken arff det vaar/ </l>
-                        <l><pb ana="17" n="E89"/> Som du Herre beredde </l>
+                        <l><pb ana="17_r" n="E89"/> Som du Herre beredde </l>
                         <l>Oss alle ved din Søn/ </l>
                         <l>At Engle siunge met glæde/ </l>
                         <l>Ære i den høyeste Thron/ </l>
@@ -5803,7 +5803,7 @@
                         <l>Trøst oss i al vor nød/ </l>
                         <l>Hielp oss ved din naade/ </l>
                         <l>At leffue Christelig/ </l>
-                        <l><pb n="E90"/>Forny oss til det gode/ </l>
+                        <l><pb ana="17_v" n="E90"/>Forny oss til det gode/ </l>
                         <l>Før oss til Himmerig/ </l>
                         <l>At wi kunde saa </l>
                         <l>Ærens Krone faa.</l>
@@ -5828,7 +5828,7 @@
                         <l>
                             <hi rend="italics">tunc misit filium,</hi></l>
                         <l>hans loff ville wi siunge/ </l>
-                        <l>baade met hierte <pb ana="18" n="E91"/> oc tunge/ </l>
+                        <l>baade met hierte <pb ana="18_r" n="E91"/> oc tunge/ </l>
                         <l>
                             <hi rend="italics">canendo dulciter coæqua<lb rend="="/>liter.</hi>
                         </l>
@@ -5859,7 +5859,7 @@
                         <l><hi rend="italics">De vitæ præmio.</hi>
                         </l>
                         <l>Aff sin Faders rige </l>
-                        <l><pb n="E92"/>Hand kom/ oc bleff vor lige/ </l>
+                        <l><pb ana="18_v" n="E92"/>Hand kom/ oc bleff vor lige/ </l>
                         <l><hi rend="italics">natus de virgine, sine semine.</hi>
                         </l>
                     </lg>
@@ -5897,7 +5897,7 @@
                         <l><space extent="2blanks"/>Sorrigen er bortuent/ som er kient/ </l>
                         <l><hi rend="italics">Omnes ergo lætè gaudete.</hi>
                         </l>
-                        <l><pb ana="19" n="E93"/> Maria/ som kallis at være/ </l>
+                        <l><pb ana="19_r" n="E93"/> Maria/ som kallis at være/ </l>
                         <l><hi rend="italics">impleta gratia,</hi>
                         </l>
                         <l>Hun monne det Foster bære. </l>
@@ -5933,7 +5933,7 @@
                         <l>Nu maa wi alle vndløbe </l>
                         <l><hi rend="italics">Mortis interitum.</hi>
                         </l>
-                        <l><pb n="E94"/>Hand vilde oss Himmerig giffue/ </l>
+                        <l><pb ana="19_v" n="E94"/>Hand vilde oss Himmerig giffue/ </l>
                         <l>At wi maa met hannem bliffue/ </l>
                         <l><hi rend="italics">in regno gloriæ, omni tempore.</hi></l>
                     </lg>
@@ -5969,7 +5969,7 @@
                     <lg>
                         <l>Hand lagdis i it Krybbe rum/ </l>
                         <l>it krybbe rum/ </l>
-                        <l><pb ana="20" n="E95"/> Vden ende er hans Herredom/ </l>
+                        <l><pb ana="20_r" n="E95"/> Vden ende er hans Herredom/ </l>
                         <l><space extent="4blanks"/>Haleluia.</l>
                     </lg>
                     <lg>
@@ -6037,7 +6037,7 @@
                         <l><space extent="4blanks"/>Haleluia.</l>
                     </lg>
                     <lg>
-                        <l><pb n="E96"/><space extent="2blanks"/>
+                        <l><pb ana="20_v" n="E96"/><space extent="2blanks"/>
                             <hi rend="italics">In carne nobis similis,</hi></l>
                         <l>
                             <hi rend="italics">similis,</hi></l>
@@ -6103,7 +6103,7 @@
                 </div>
                 <div type="psalm" xml:id="lovsang-vor-herre-jesu-foedsel" n="17">
                     <head type="add">Lovet være du, Jesus Krist</head>
-                    <head><pb ana="21" n="E97"/> XVII. <lb/> En Loffsang om vor Herris <lb/> Jesu
+                    <head><pb ana="21_r" n="E97"/> XVII. <lb/> En Loffsang om vor Herris <lb/> Jesu
                         Christi Fød<lb rend="="/>zel. <lb/> D. Morten Luther.</head>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_021r.xml"/>
@@ -6123,7 +6123,7 @@
                         <l><space extent="4blanks"/>Kyrieleis.</l>
                     </lg>
                     <lg>
-                        <l><pb n="E98"/><space extent="2blanks"/>Den som all Verden skal frelse aff
+                        <l><pb ana="21_v" n="E98"/><space extent="2blanks"/>Den som all Verden skal frelse aff
                             nød/ </l>
                         <l>Ligger i det Jomfruelige skød/ </l>
                         <l>Hand er it Barn saa lidet oc kleen/ </l>
@@ -6161,7 +6161,7 @@
                 </div>
                 <div type="psalm" xml:id="vaer-glad-du-hellige-kristenhed" n="18">
                     <head type="add">Vær glad, du hellige Kristenhed</head>
-                    <head><pb ana="22" n="E99"/> XVIII. <lb/>
+                    <head><pb ana="22_r" n="E99"/> XVIII. <lb/>
                         <title>Ver glad du hellige Chri<lb rend="="/>stenhed</title>.</head>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_022r.xml"/>
@@ -6185,7 +6185,7 @@
                         <l>At Jomfru fødde wforkrenckt.</l>
                     </lg>
                     <lg>
-                        <l><pb n="E100"/><space extent="2blanks"/>Jt nyt Menniske føddis her/ </l>
+                        <l><pb ana="22_v" n="E100"/><space extent="2blanks"/>Jt nyt Menniske føddis her/ </l>
                         <l>Den som Guds eniste Søn er/ </l>
                         <l>Hand er giffuen oss til trøst/ </l>
                         <l>Oc haffuer oss alle igenløst.</l>
@@ -6217,7 +6217,7 @@
                 </div>
                 <div type="psalm" xml:id="troestelig-boernesang-om-det-lille" n="19">
                     <head type="add">Fra Himlen højt komme vi nu her</head>
-                    <head><pb ana="23" n="E101"/> XIX. <lb/> En trøstelig Børnesang/ om det <lb/>
+                    <head><pb ana="23_r" n="E101"/> XIX. <lb/> En trøstelig Børnesang/ om det <lb/>
                         lille Velsignede barn Jesus/ vddragen <lb/> aff S. Lucæ Euangelistis <lb/>
                         andet Capitel. <lb/> D. Morten Luther.</head>
                     <notatedMusic>
@@ -6237,7 +6237,7 @@
                         <l>Hand vil være lyst oc glæde din.</l>
                     </lg>
                     <lg>
-                        <l><pb n="E102"/><space extent="2blanks"/>Christus vor Gud oc Herre er fød/ </l>
+                        <l><pb ana="23_v" n="E102"/><space extent="2blanks"/>Christus vor Gud oc Herre er fød/ </l>
                         <l>Hand vil eder fri vdaff all nød/ </l>
                         <l>Hand vil selff være eders Frelsermand/ </l>
                         <l>Oc løse eder aff Syndens baand.</l>
@@ -6275,7 +6275,7 @@
                     <lg>
                         <l><space extent="2blanks"/>O Herre all Verdens skaber god/ </l>
                         <l>Huad est du kommen met stor armod/ </l>
-                        <l><pb ana="24" n="E103"/> Paa Græss oc Hø ligger du der ned/ </l>
+                        <l><pb ana="24_r" n="E103"/> Paa Græss oc Hø ligger du der ned/ </l>
                         <l>Faar Oxe oc Asen i vselhed.</l>
                     </lg>
                     <lg>
@@ -6317,7 +6317,7 @@
                 </div>
                 <div type="psalm" xml:id="fra-himmelen-kom-den-engel" n="20">
                     <head type="add">Fra himlen kom den engleskare (alt. tekst)</head>
-                    <head><pb n="E104"/>XX. <lb/>
+                    <head><pb ana="24_v" n="E104"/>XX. <lb/>
                         <title>Fra Himmelen kom den Engle <lb/> Skar <ex>etc</ex>.</title> Siungis
                         met de noder/ som/ <lb/>
                         <title>Fra Himmelen høyt</title>/ siun<lb rend="="/>gis met. <lb/> D. Morten
@@ -6350,7 +6350,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Hand vil oc kand eder icke forlade/ </l>
                         <l>Paa hannem troer det skal eder bade/ </l>
-                        <l><pb ana="25" n="E105"/>Der vil eder friste mangen mand/ </l>
+                        <l><pb ana="25_r" n="E105"/>Der vil eder friste mangen mand/ </l>
                         <l>Trotz den der det icke lade kand.</l>
                     </lg>
                     <lg>
@@ -6372,7 +6372,7 @@
                         <l>Stor kierlighed dig der til drog/ </l>
                         <l>vort <lb/> haab saa vilde du bliffue/ </l>
                         <l>Du saast vor <lb/> Synd oc store nød/ </l>
-                        <l>at oss stod for den <pb n="E106"/>euige død/ </l>
+                        <l>at oss stod for den <pb ana="25_v" n="E106"/>euige død/ </l>
                         <l>Helffuede stod oss aabit.</l>
                     </lg>
                     <lg>
@@ -6404,7 +6404,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Priss være dig euindelig/ </l>
-                        <l><pb ana="26" n="E107"/>Som oss den naade beuiste/ </l>
+                        <l><pb ana="26_r" n="E107"/>Som oss den naade beuiste/ </l>
                         <l>At wi ere Guds børn met dig/ </l>
                         <l>O kiære Broder Christe/ </l>
                         <l>Saa maa nu huer mand være glad/ </l>
@@ -6424,7 +6424,7 @@
                         <l>En Stridsmand haffue wi faait <lb/> vden gammen/ </l>
                         <l>som Dieffuelen vel kand <lb/>tuinge/</l>
                         <l>vort angist er end/</l>
-                        <l>vor <pb n="E108"/>Fiende er skent/ </l>
+                        <l>vor <pb ana="26_v" n="E108"/>Fiende er skent/ </l>
                         <l>vor Synder er <lb/>oss plat forladne/ </l>
                         <l>Guds venskab er oss <lb/>tilsagd/ </l>
                         <l>Diss ske dig loff aff hierte oc <lb/>hu/ </l>
@@ -6437,7 +6437,7 @@
                 </div>
                 <div type="psalm" xml:id="hostis-herodes" n="23">
                     <head type="add">Herodes, hvi frygter du så såre</head>
-                    <head><pb ana="27" n="E109"/> XXIII. <lb/> Den Hymne/ <title><hi rend="italics"
+                    <head><pb ana="27_r" n="E109"/> XXIII. <lb/> Den Hymne/ <title><hi rend="italics"
                                 >Hostis He<lb rend="="/>rodes <ex>etc</ex>.</hi></title>
                         <lb/> D. Morten Luther.</head>
                     <notatedMusic>
@@ -6457,7 +6457,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Den Himmelske Gud vor Frelser god/ </l>
-                        <l><pb n="E110"/>Lod sig oc Døbe i Jordans flod/ </l>
+                        <l><pb ana="27_v" n="E110"/>Lod sig oc Døbe i Jordans flod/ </l>
                         <l>At hand som Syndet ingelunde/ </l>
                         <l>Vore Synder der met affto kunde.</l>
                     </lg>
@@ -6486,7 +6486,7 @@
                     </notatedMusic>
                     <lg>
                         <l>Alle Christne fryde sig nu/ </l>
-                        <l>oc glædis <pb ana="28" n="E111"/> denne tid/ </l>
+                        <l>oc glædis <pb ana="28_r" n="E111"/> denne tid/ </l>
                         <l>At Gud Faders enbaarne søn/ </l>
                         <l>til dem er <lb/> kommen hid/ </l>
                         <l>glæde oc fred kom her ned/ </l>
@@ -6512,7 +6512,7 @@
                         <l>Der oc saae det Gud loffuede glæde.</l>
                     </lg>
                     <lg>
-                        <l><pb n="E112"/><space extent="2blanks"/>Johannes endnu wfødder/ </l>
+                        <l><pb ana="28_v" n="E112"/><space extent="2blanks"/>Johannes endnu wfødder/ </l>
                         <l>Glæddis i sin Moders liff/ </l>
                         <l>At din kiære Søn vor Herre/ </l>
                         <l>Kom til oss saa ydmyg/ </l>
@@ -6544,7 +6544,7 @@
                         <l>Glædde sig ved dig O Christe/ </l>
                         <l>At du oss est fødder/ </l>
                         <l>Oc kundgiorde alle dem </l>
-                        <l><pb ana="29" n="E113"/>Som dig forbide huer oc en/ </l>
+                        <l><pb ana="29_r" n="E113"/>Som dig forbide huer oc en/ </l>
                         <l>Du som ene varst den rene Guddoms sæd.</l>
                     </lg>
                     <lg>
@@ -6570,7 +6570,7 @@
                         <ptr target="Th_1569_LN1426_029r.xml"/>
                     </notatedMusic>
                     <lg>
-                        <l>Herr Christ Gud Faders enborne <pb n="E114"/> Søn/ <lb/></l>
+                        <l>Herr Christ Gud Faders enborne <pb ana="29_v" n="E114"/> Søn/ <lb/></l>
                         <l>som er hans euige raad/ </l>
                         <l>Er aff hans hierte vd gan<lb rend="="/>gen/ </l>
                         <l>ligeruiss som screffuit staar/ </l>
@@ -6591,7 +6591,7 @@
                         <l><space extent="2blanks"/>Vilde du oss naaden giffue/ </l>
                         <l>At wi maatte ret forstaa/ </l>
                         <l>J Christelige tro at bliffue/ </l>
-                        <l><pb ana="30" n="E115"/>J Aanden dig tiene saa/ </l>
+                        <l><pb ana="30_r" n="E115"/>J Aanden dig tiene saa/ </l>
                         <l>Vort hierte maatte smage </l>
                         <l>Din sødhed alle dage/ </l>
                         <l>Oc tørste altid effter dig.</l>
@@ -6626,7 +6626,7 @@
                 </div>
                 <div type="psalm" xml:id="section-3-hymn-2" n="2">
                     <head type="add">Hvi storme og fnyse de hedninger så</head>
-                    <head><pb n="E116"/> II. <lb/> Den <ref target="#sl-2"><orig>II. Dauids
+                    <head><pb ana="30_v" n="E116"/> II. <lb/> Den <ref target="#sl-2"><orig>II. Dauids
                                 Psalme</orig><!--<reg>Sl 2</reg>--></ref>/ <lb/>
                         <title><hi rend="italics">Quare fremuerunt <lb/> gentes
                             <ex>etc</ex>.</hi></title>
@@ -6646,7 +6646,7 @@
                         <l>oc Førster forsamlet <lb/> ere/ </l>
                         <l>imod Christum din Søn oc dig/ </l>
                         <l>Gud <lb/> lad det icke saa være.</l>
-                        <l>Forbarme dig <pb ana="31" n="E117"/> offuer oss Herre. </l>
+                        <l>Forbarme dig <pb ana="31_r" n="E117"/> offuer oss Herre. </l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Lad oss bryde sønder deris baand/ </l>
@@ -6675,7 +6675,7 @@
                         <l>Du skalt dem sønder bryde/ </l>
                         <l>Oc træde dem alle vnder din fod/ </l>
                         <l>Som dig icke vilde lyde/ </l>
-                        <l><pb n="E118"/>J Konger værer kloge saa/ </l>
+                        <l><pb ana="31_v" n="E118"/>J Konger værer kloge saa/ </l>
                         <l>Oc lader eder vnderuise/ </l>
                         <l>Som Jorderigis dom skulle bestaa/ </l>
                         <l>At i Gud ære oc prise/ </l>
@@ -6704,7 +6704,7 @@
                     </notatedMusic>
                     <lg>
                         <l>Mit hierte opgaff it lystigt Ord/ </l>
-                        <l>det <pb ana="32" n="E119"/> quæder ieg nu for Kongens Bord/ </l>
+                        <l>det <pb ana="32_r" n="E119"/> quæder ieg nu for Kongens Bord/ </l>
                         <l>Min tunge hun er den dicters pen/ </l>
                         <l>der <lb/> dicter oc scriffuer snarlig for en.</l>
                         <l>Du aller skønist aff Menniske er fød/ </l>
@@ -6718,7 +6718,7 @@
                         <l><space extent="2blanks"/>Lyckis oc triffuis/ regere oc vel/ </l>
                         <l>Som du altid haffuer giort met skel/ </l>
                         <l>For sandhed/ mildhed/ retuished/ </l>
-                        <l><pb n="E120"/>Skal din haand skaffe stor vnderlighed/ </l>
+                        <l><pb ana="32_v" n="E120"/>Skal din haand skaffe stor vnderlighed/ </l>
                         <l>Dine skud ere huasse i fiendernis bryst/ </l>
                         <l>Alle folck falde neder for din røst/ </l>
                         <l>Oc giffue sig fangne eller dø/ </l>
@@ -6748,7 +6748,7 @@
                         <l>Oc siden skal Kongen begære </l>
                         <l>Din faurhed/ fordi hand er </l>
                         <l>Din sande Gud oc Herre kier/ </l>
-                        <l><pb ana="33" n="E121"/>Tilbed hannem met stor ære.</l>
+                        <l><pb ana="33_r" n="E121"/>Tilbed hannem met stor ære.</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Oc du som før vaarst fød Gudløss/ </l>
@@ -6780,7 +6780,7 @@
                         <l>Huor hand vaar faur veltalinde oc rig/ </l>
                         <l>Haffde deilig Børn oc Hustrue lige slig/ </l>
                         <l>O Christe du est denne min Konning/ </l>
-                        <l><pb n="E122"/>Den hellig Kircke er den din Dronning/ </l>
+                        <l><pb ana="33_v" n="E122"/>Den hellig Kircke er den din Dronning/ </l>
                         <l>Prydet i kierlighed aff rette tro/ </l>
                         <l>Dine vaben Guds ord/ dine klæder mandom </l>
                         <l>Der ryger til Christne dydig oc from/ </l>
@@ -6803,7 +6803,7 @@
                         <l>haffuer ieg forsmaat met alle.</l>
                         <l>For <lb/> den Kierlighed/ </l>
                         <l>i huilcken ieg maa met <lb/> min Herre Christ indfalle.</l>
-                        <l>Huil<pb ana="34" n="E123" rend="="/>cken det første ieg fick at see/ </l>
+                        <l>Huil<pb ana="34_r" n="E123" rend="="/>cken det første ieg fick at see/ </l>
                         <l>fick ieg han<lb rend="="/>nem kier met alle.</l>
                         <l>Betrode hannem <lb/> vel i glæde oc vee/ </l>
                         <l>ieg elste hannem <lb/> vden all galle. </l>
@@ -6820,7 +6820,7 @@
                     </notatedMusic>
                     <lg>
                         <l>En visse tale er denne her/ </l>
-                        <l><pb n="E124"/>J alle maade verd at høre/ </l>
+                        <l><pb ana="34_v" n="E124"/>J alle maade verd at høre/ </l>
                         <lb/>
                         <l>At Jesus Christ til Verden kommen er/ </l>
                         <lb/>
@@ -6838,7 +6838,7 @@
                         <l>Forfulde ieg hans Christne alle/ </l>
                         <l>Fuld met Guds spaat/ giorde intet gaat/ </l>
                         <l>Dog ieg lod mig vel tycke/ </l>
-                        <l><pb ana="35" n="E125"/>Vankundelig giorde ieg alt sligt/ </l>
+                        <l><pb ana="35_r" n="E125"/>Vankundelig giorde ieg alt sligt/ </l>
                         <l>Thi bedrede Gud min lycke.</l>
                     </lg>
                     <lg>
@@ -6862,7 +6862,7 @@
                     <lg>
                         <l>Aff hu oc sind oc all vor act/ </l>
                         <l>aff <lb/> Siel oc hierte aff gantske mact/ </l>
-                        <l>dig <pb n="E126"/> ene O Gud wi loffue/ </l>
+                        <l>dig <pb ana="35_v" n="E126"/> ene O Gud wi loffue/ </l>
                         <l>vor Synd to aff din høyre haand/ </l>
                         <l>vor <lb/> hierte opliuse den hellig Aand/ </l>
                         <l>huad <lb/> heller wi vaage eller soffue/ </l>
@@ -6879,7 +6879,7 @@
                         <l>Til Fader vor du for oss gaar/ </l>
                         <l>Formedelst din Død oc blodige saar/ </l>
                         <l>Vor Rod est du/ oc wi dine grene/ </l>
-                        <l><pb ana="36" n="E127"/>O liuss offuer alle/ lad oss ey falde </l>
+                        <l><pb ana="36_r" n="E127"/>O liuss offuer alle/ lad oss ey falde </l>
                         <l>J syndens brøst/ aff Verdens lyst/ </l>
                         <l>Wi i dig ere brødre alle/ </l>
                         <l>J all vor nød/ O Jesu sød/ </l>
@@ -6909,7 +6909,7 @@
                         <l>Store mectige gaffue dem ville de haffue/ </l>
                         <l>Vor Siæl de saa forkiøbe/ </l>
                         <l>Her imod du bødst O all vor trøst/ </l>
-                        <l><pb n="E128"/>At wi met Sued skulle oss føde.</l>
+                        <l><pb ana="36_v" n="E128"/>At wi met Sued skulle oss føde.</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Din naade oc miskund maa ingelund </l>
@@ -6941,7 +6941,7 @@
                 </div>
                 <div type="psalm" xml:id="section-3-hymn-7" n="7">
                     <head type="add">O Jesu bold med meget vold</head>
-                    <head><pb ana="37" n="E129"/> VII. <lb/>
+                    <head><pb ana="37_r" n="E129"/> VII. <lb/>
                         <title>Maria bold/ Christelige foruent <lb/> Jesu Christo til Loff oc <lb/>
                             ære</title>.</head>
                     <notatedMusic>
@@ -6957,7 +6957,7 @@
                         <l>Mod <lb/> Adams fald/ fickst du det kald/ </l>
                         <l>som oss <lb/>Gud Fader iette/ </l>
                         <l>paa det hand vilde <lb/>forgette/ </l>
-                        <l>min Synd oc skyld/ du varst <pb n="E130"/>mig huld/ </l>
+                        <l>min Synd oc skyld/ du varst <pb ana="37_v" n="E130"/>mig huld/ </l>
                         <l>der er ey trøst/ huor du ey est/ </l>
                         <l>Barmhiertighed at forhuærffue/ </l>
                         <l>huem <lb/>ey haffuer dig/ oc din Naade met sig/ </l>
@@ -6978,7 +6978,7 @@
                         <l>En Herre til euig tide.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="38" n="E131"/><space extent="2blanks"/>O Jesu reen/ du est
+                        <l><pb ana="38_r" n="E131"/><space extent="2blanks"/>O Jesu reen/ du est
                             allene </l>
                         <l>Alle synderis trøst paa Jorden/ </l>
                         <l>Som vaar forseet aff euighed </l>
@@ -7009,7 +7009,7 @@
                     <lg>
                         <l><space extent="2blanks"/>O Jesu fin/ dit ord giffuer skin/ </l>
                         <l>Lær oss dig ret at dyrcke/ </l>
-                        <l><pb n="E132"/>Oc være deris tolck dine arme folck/ </l>
+                        <l><pb ana="38_v" n="E132"/>Oc være deris tolck dine arme folck/ </l>
                         <l>Som side vdi det mørcke/ </l>
                         <l>Haffue ingen frist/ men argelist </l>
                         <l>Alt vdaff Menniskens lære/ </l>
@@ -7039,7 +7039,7 @@
                         <l>Jngen brøst i dig kand være/ </l>
                         <l>Hand er ey queg der fuldelig </l>
                         <l>Bescriffue kand din ære/ </l>
-                        <l><pb ana="39" n="E133"/>Din herlighed oc maiestet/ </l>
+                        <l><pb ana="39_r" n="E133"/>Din herlighed oc maiestet/ </l>
                         <l>Ere alting vndergiffuen/ </l>
                         <l>J huad som helst der leffuer/ </l>
                         <l>Alle creatur/ O Konning pur/ </l>
@@ -7073,7 +7073,7 @@
                         <ptr target="Th_1569_LN1426_039r.xml"/>
                     </notatedMusic>
                     <lg>
-                        <l><pb n="E134"/> Jeg vil mig Herren loffue/ </l>
+                        <l><pb ana="39_v" n="E134"/> Jeg vil mig Herren loffue/ </l>
                         <l>som alle <lb/> mine Synder bar/ </l>
                         <l>aff tro oc all formoffue/ </l>
                         <l>til hannem <lb/> mit hierte staar/ </l>
@@ -7088,7 +7088,7 @@
                         <l>Dig haffues loff heder oc ære/ </l>
                         <l>Alt baade aff quinde oc mand/ </l>
                         <l>Gud giffue mig det i sinde/ </l>
-                        <l><pb ana="40" n="E135"/>At loffue min Frelser god/ </l>
+                        <l><pb ana="40_r" n="E135"/>At loffue min Frelser god/ </l>
                         <l>Huad ieg er vde eller inde/ </l>
                         <l>Hand lesker mit angerfuld mod.</l>
                     </lg>
@@ -7120,7 +7120,7 @@
                         <l>Jeg beder dig for dine Vunder/ </l>
                         <l>Du vorder mig icke vred/ </l>
                         <l>Jeg synder i alle stunder/ </l>
-                        <l><pb n="E136"/>Min synd giøris mig nu leed.</l>
+                        <l><pb ana="40_v" n="E136"/>Min synd giøris mig nu leed.</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>J synden mig vndfangit </l>
@@ -7154,7 +7154,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>O Jesu morgens stierne/ </l>
-                        <l><pb ana="41" n="E137"/>Som Balsom sødeste luct/ </l>
+                        <l><pb ana="41_r" n="E137"/>Som Balsom sødeste luct/ </l>
                         <l>Jeg vil dig tiene saa gierne/ </l>
                         <l>O du velsignede fruct/ </l>
                         <l>Min Siel giør du saa rene/ </l>
@@ -7184,7 +7184,7 @@
                     </notatedMusic>
                     <lg>
                         <l>Maria hun er en Jomfru reen/ </l>
-                        <l><pb n="E138"/> som Scrifften monne beuise/ </l>
+                        <l><pb ana="41_v" n="E138"/> som Scrifften monne beuise/ </l>
                         <l>hun fødde en Søn foruden meen/ </l>
                         <lb/>
                         <l>hannem skulle wi loffue oc prise/ </l>
@@ -7205,7 +7205,7 @@
                         <l><space extent="2blanks"/>Propheterne aff den hellig Aands naade/ </l>
                         <l>Deris ord met skel beuiste/ </l>
                         <l>At Jesus Christ fra syndens vaade/ </l>
-                        <l><pb ana="42" n="E139"/>Fra død oc Dieffuelens liste/ </l>
+                        <l><pb ana="42_r" n="E139"/>Fra død oc Dieffuelens liste/ </l>
                         <l>Dem frelser alle som paa hans naffn/ </l>
                         <l>Sig til stor gaffn/ </l>
                         <l>Troer hiertelige wden tuiste.</l>
@@ -7240,7 +7240,7 @@
                 </div>
                 <div type="psalm" xml:id="section-3-hymn-10" n="10">
                     <head type="add">Jesus han er en sød hukommelse</head>
-                    <head><pb n="E140"/> X. <lb/>
+                    <head><pb ana="42_v" n="E140"/> X. <lb/>
                         <title><hi rend="italics">IESV DVLCIS MEMO<lb rend="="/>ria, dans vera
                                 cordis <lb/> gaudia</hi></title>. </head>
                     <notatedMusic>
@@ -7256,7 +7256,7 @@
                         <l>som off<lb rend="="/>uergaar alle Christnes verdskyld oc død. </l>
                     </lg>
                     <lg>
-                        <l><pb ana="43" n="E141"/><space extent="2blanks"/>Jesus hand er de gamle
+                        <l><pb ana="43_r" n="E141"/><space extent="2blanks"/>Jesus hand er de gamle
                             Forfædris skiold/ </l>
                         <l>deris attraa begæring i største nød/ </l>
                         <l>thi haffde <lb/> de hannem offuer alle vduold/ </l>
@@ -7289,7 +7289,7 @@
                         <l>Je<lb rend="="/>sus saa sterck aff sin Guddoms natur/ </l>
                         <l>all <lb/>Verden oc Dieffuelen at hand offueruant/ </l>
                         <l>Jesus skal dømme retfærdelig/ </l>
-                        <l>baade onde oc <pb n="E142"/> gode retuiselig/ </l>
+                        <l>baade onde oc <pb ana="43_v" n="E142"/> gode retuiselig/ </l>
                         <l>Thi raader ieg frycter han<lb rend="="/>nem aff hierte oc hu.</l>
                     </lg>
                 </div>
@@ -7313,7 +7313,7 @@
                         <l>sin <lb/> Aand hand oss tilsende. </l>
                     </lg>
                     <lg>
-                        <l><pb ana="44" n="E143"/><space extent="2blanks"/>Alle knæ de ere bøyelig/ </l>
+                        <l><pb ana="44_r" n="E143"/><space extent="2blanks"/>Alle knæ de ere bøyelig/ </l>
                         <l>J Himmelen oc paa Jorden/ </l>
                         <l>Helffuedis krafft giffuer sig </l>
                         <l>Huor Jesus neffnit vorder/ </l>
@@ -7345,7 +7345,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Her haffuer wi til Sielens gaffn/ </l>
                         <l>J denne Christelig vise/ </l>
-                        <l><pb n="E144"/>Alt huor oss alle bør Jesu naffn/ </l>
+                        <l><pb ana="44_v" n="E144"/>Alt huor oss alle bør Jesu naffn/ </l>
                         <l>Altid loffue oc prise/ </l>
                         <l>Det kand vor Siel vel lise/ </l>
                         <l>Hans naffn det kallis Frelsere/ </l>
@@ -7369,7 +7369,7 @@
                         <l>at <lb/> Adam i dig naade fand. </l>
                     </lg>
                     <lg>
-                        <l>Du est vort liff <pb ana="45" n="E145"/>oc søde trøst/ </l>
+                        <l>Du est vort liff <pb ana="45_r" n="E145"/>oc søde trøst/ </l>
                         <l>baade i modgang oc i lyst/ </l>
                         <l>paa dig wi haabe O Jesu Christe.</l>
                     </lg>
@@ -7381,7 +7381,7 @@
                     <lg>
                         <l>Wi raabe til dig aff denne grædelige dal/ </l>
                         <l>Wi sucke oc græde for saadant it fald/ </l>
-                        <l>dog <pb n="E146"/> est du fuld aff Guds gunst oc naade/ </l>
+                        <l>dog <pb ana="45_v" n="E146"/> est du fuld aff Guds gunst oc naade/ </l>
                         <l>Thi <lb/>hielp oss O naadefuld Christe.</l>
                     </lg>
                     <lg>
@@ -7393,7 +7393,7 @@
                         <l>oc lad dig mildelig altid <lb/>offuer oss forbarme.</l>
                     </lg>
                     <lg>
-                        <l>O Jesu lær oss <pb ana="46" n="E147"/>nu at kiende Fader din/ </l>
+                        <l>O Jesu lær oss <pb ana="46_r" n="E147"/>nu at kiende Fader din/ </l>
                         <l>huess Naade <lb/>oc fromhed i dig skin.</l>
                     </lg>
                     <lg>
@@ -7409,18 +7409,18 @@
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_044v.xml#mdiv-02"/>
                     </notatedMusic>
-                    <p><pb n="E148"/>Første prose.</p>
+                    <p><pb ana="46_v" n="E148"/>Første prose.</p>
                     <lg>
                         <l>Jesu Christe Guds <lb/> Søn/ </l>
                         <l>hør nu vor hiertens bøn/ </l>
                         <l>oc skil <lb/> oss ved vor fortiente løn/ </l>
                         <l>Du som frelste <lb/>Adams køn/ </l>
                         <l>hør vor Gudelig bøn/ </l>
-                        <l><pb ana="47" n="E149"/> oc som wi tro dig du oss vel røn/ </l>
+                        <l><pb ana="47_r" n="E149"/> oc som wi tro dig du oss vel røn/ </l>
                         <l>Vndertræd vor fiende den gamle slan<lb rend="="/>ge/ </l>
                         <l>at hand oss ey nu maa fange/ </l>
                         <l>som <lb/> hand haffuer giort ved mange/ </l>
-                        <l>O <pb n="E150"/>Abrahams sæd/ </l>
+                        <l>O <pb ana="47_v" n="E150"/>Abrahams sæd/ </l>
                         <l>du oss icke forgæd/ </l>
                         <l>Men deel oss din Naade met. </l>
                         <lb/>
@@ -7431,7 +7431,7 @@
                         <l>O Jesu Christe du hør nu vor bøn.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="48" n="E151"/>1. O gode Jesu.</l>
+                        <l><pb ana="48_r" n="E151"/>1. O gode Jesu.</l>
                     </lg>
                     <p>Anden prose.</p>
                     <lg>
@@ -7497,7 +7497,7 @@
                         <ptr target="Th_1569_LN1426_048r.xml"/>
                     </notatedMusic>
                     <lg>
-                        <l>Englen indgangen til Jomfru Ma<pb n="E152" rend="="/>rie/ </l>
+                        <l>Englen indgangen til Jomfru Ma<pb ana="48_v" n="E152" rend="="/>rie/ </l>
                         <l>sagde Helsel fuld met Naade/ </l>
                         <l>Herren met dig du est bene<lb rend="="/>dide/ </l>
                         <l>blant quinder i mange maade. </l>
@@ -7514,7 +7514,7 @@
                         <l>Der de hans løgn beuilgede/ </l>
                         <l>Gud truede Slangen dem til glæde/ </l>
                         <l>Oc sagde quinde<ex>n</ex>s sæd skulde ha<ex>n</ex>s hoffuit træde </l>
-                        <l><pb ana="49" n="E153"/>Det tro wi oc allesammen/ </l>
+                        <l><pb ana="49_r" n="E153"/>Det tro wi oc allesammen/ </l>
                         <l>Den Adam flyde naade/ frelste oss aff vaade </l>
                         <l>Jesus Christus/ Amen.</l>
                     </lg>
@@ -7546,7 +7546,7 @@
                         <l>Alle troløse oc Kødelige vaare/ </l>
                         <l>Huer vaar sin egen herre/ </l>
                         <l>Thi plaffuede dem Gud met vandflod/ </l>
-                        <l><pb n="E154"/>Vden Arcken vand offuer Verden stod. </l>
+                        <l><pb ana="49_v" n="E154"/>Vden Arcken vand offuer Verden stod. </l>
                         <l>Det tro wi oc allesammen/ </l>
                         <l>Den Noe flyde naade/ frelste oss aff vaade </l>
                         <l>Jesus Christus/ Amen.</l>
@@ -7578,7 +7578,7 @@
                         <l>Bleff alle de andris herre/ </l>
                         <l>Der de sluppe hannem for Vgle oc Ørn/ </l>
                         <l>Hans lycke bleff ey diss verre/ </l>
-                        <l><pb ana="50" n="E155"/>Aff dem komme alle Jsraels folck/ </l>
+                        <l><pb ana="50_r" n="E155"/>Aff dem komme alle Jsraels folck/ </l>
                         <l>Moses oc Aaron bleffue deris Tolck. </l>
                         <l>Det tro wi oc allesammen/ </l>
                         <l>Den dem flyde naade/ frelste oss aff vaade </l>
@@ -7610,7 +7610,7 @@
                     <lg>
                         <l><space extent="2blanks"/>At de skulde sig ey selffuer leffue/ </l>
                         <l>Gaff Gud dem Dommere oc Konger/ </l>
-                        <l><pb n="E156"/>Der til Propheter som Guds ord screffue/ </l>
+                        <l><pb ana="50_v" n="E156"/>Der til Propheter som Guds ord screffue/ </l>
                         <l>Oc truede met plaffue oc hunger/ </l>
                         <l>Der effter vdlagde Guds hellige bud/ </l>
                         <l>Oc spaade om Christo mand oc Gud/ </l>
@@ -7640,7 +7640,7 @@
                         <l>Emanuel/ som Gabriel </l>
                         <l>Bebudet Marie/ Amen.</l>
                     </lg>
-                    <p><pb ana="51" n="E157"/>Pater noster.</p>
+                    <p><pb ana="51_r" n="E157"/>Pater noster.</p>
                     <lg>
                         <l><space extent="2blanks"/>Wi bede vor Fader den Himmelske Gud/ </l>
                         <l>Om Siels oc Liffs nødtørffte/ </l>
@@ -7670,7 +7670,7 @@
                         <l>Hand skal vist salig bliffue/ </l>
                         <l>Men huo met andet vil være igenkiøbt/ </l>
                         <l>Til pine vil Christ hannem driffue/ </l>
-                        <l><pb n="E158"/>Der paa giffuer hand besegling god/ </l>
+                        <l><pb ana="51_v" n="E158"/>Der paa giffuer hand besegling god/ </l>
                         <l>Sit Legeme oc sit hellige Blod/ </l>
                         <l>Det vnde oss Gud allesammen/ </l>
                         <l>At wi saa Tro/ det wi maa bo </l>
@@ -7695,7 +7695,7 @@
                         <l>At wi kunde alle huer oc en</l>
                         <lb/>
                         <l>met lyst oc kierlighed siunge/ </l>
-                        <l>huad Gud <pb ana="52" n="E159"/> mod oss haffuer beteed/ </l>
+                        <l>huad Gud <pb ana="52_r" n="E159"/> mod oss haffuer beteed/ </l>
                         <l>aff sin sto<lb rend="="/>re Barmhiertighed/ </l>
                         <l>forløst haffuer hand <lb/>oss dyre. </l>
                     </lg>
@@ -7716,7 +7716,7 @@
                         <l>Jeg haffde stor angist oc møde/ </l>
                         <l>Oc altid sanck ieg dyber ned/ </l>
                         <l>Der vaar ey raad ey salighed/ </l>
-                        <l><pb n="E160"/>Jeg vaar i Synden vndfangen.</l>
+                        <l><pb ana="52_v" n="E160"/>Jeg vaar i Synden vndfangen.</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Min gode gierninger de hiulpe mig ey/ </l>
@@ -7750,7 +7750,7 @@
                         <l>Det er nu tid at forbarme/ </l>
                         <l>Du skalt det giøre for mig bøn/ </l>
                         <l>Far heden oc frels de arme/ </l>
-                        <l><pb ana="53" n="E161"/>Oc løss dem vdaff Syndens nød/ </l>
+                        <l><pb ana="53_r" n="E161"/>Oc løss dem vdaff Syndens nød/ </l>
                         <l>Oc sla ihiel den haarde død/ </l>
                         <l>Oc lad dem met dig leffue.</l>
                     </lg>
@@ -7784,7 +7784,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Mit blod det flyder paa Jorden vd/ </l>
                         <l>Jeg bær det kaarss met møde/ </l>
-                        <l><pb n="E162"/>Jeg lider for dig den haarde død/ </l>
+                        <l><pb ana="53_v" n="E162"/>Jeg lider for dig den haarde død/ </l>
                         <l>Tag tro oc lad dig døbe/ </l>
                         <l>Mit liff offueruinder den død met mact/ </l>
                         <l>All Verdens synder er paa mig lagt/ </l>
@@ -7818,7 +7818,7 @@
                         <l>Guds ord det bliffuer euindelig.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="54" n="E163"/><space extent="2blanks"/>Thi ville wi prise i
+                        <l><pb ana="54_r" n="E163"/><space extent="2blanks"/>Thi ville wi prise i
                             euighed/ </l>
                         <l>Oc loffue foruden all ende/ </l>
                         <l>Gud Faders store barmhiertighed/ </l>
@@ -7842,7 +7842,7 @@
                         <l>haffue førd oss alle</l>
                         <l>i saadan <lb/> store nød/ </l>
                         <l>at wi ere hen faldne</l>
-                        <l>til den <pb n="E164"/> euige Død.</l>
+                        <l>til den <pb ana="54_v" n="E164"/> euige Død.</l>
                         <l>Kyrie eleison/ </l>
                         <l>Christe <lb/> eleison/ </l>
                         <l>Kirie eleison. </l>
@@ -7874,7 +7874,7 @@
                         <l>Kyrie eleison.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="55" n="E165"/><space extent="2blanks"/>Saadan gunst oc Naade/ </l>
+                        <l><pb ana="55_r" n="E165"/><space extent="2blanks"/>Saadan gunst oc Naade/ </l>
                         <l>Gud beuise vil </l>
                         <l>Mod oss offuermaade/ </l>
                         <l>Wforskyldt der til/ </l>
@@ -7907,7 +7907,7 @@
                         <l>Oc bede hand bort driffuer/ </l>
                         <l>Det onde oss Dieffuelen giorde/ </l>
                         <l>At wi stedse maatte bliffue/ </l>
-                        <l><pb n="E166"/>Hoss hans hellig Ord/ </l>
+                        <l><pb ana="55_v" n="E166"/>Hoss hans hellig Ord/ </l>
                         <l>Kyrie eleison/ </l>
                         <l><space extent="4blanks"/>Christe eleison/ </l>
                         <l>Kyrie eleison.</l>
@@ -7930,7 +7930,7 @@
                         <lb/>
                         <l>det er hans Naffn foruist/ </l>
                         <l>ret ingelund <lb/>met andre fund</l>
-                        <l>den euige død ieg kand <pb ana="56" n="E167"/>vige quit bliffue/ </l>
+                        <l>den euige død ieg kand <pb ana="56_r" n="E167"/>vige quit bliffue/ </l>
                         <l>Thi maa ieg mig be<lb rend="="/>tencke</l>
                         <l>men ieg er i liffue. </l>
                     </lg>
@@ -7955,7 +7955,7 @@
                         <l>Det føler ieg obenbare </l>
                         <l>Ret hueren stund met mange fund. </l>
                         <l>Jeg er arm forbarm dig kiere Christ Herre. </l>
-                        <l><pb n="E168"/>Jeg kand ey leffue mit leffnit </l>
+                        <l><pb ana="56_v" n="E168"/>Jeg kand ey leffue mit leffnit </l>
                         <l>Som du mig monne lære.</l>
                     </lg>
                     <lg>
@@ -7986,7 +7986,7 @@
                         <l><space extent="2blanks"/>Vaare icke dit Ord/ </l>
                         <l>Som ieg altid monne høre </l>
                         <l>Aff Naaden stor/ </l>
-                        <l><pb ana="57" n="E169"/>Som Tungen monne røre/ </l>
+                        <l><pb ana="57_r" n="E169"/>Som Tungen monne røre/ </l>
                         <l>Jeg kunde ey tro </l>
                         <l>Nogen Synder saa faa ro. </l>
                         <l>Nu lærer det mig at komme til dig/ </l>
@@ -8016,7 +8016,7 @@
                     </notatedMusic>
                     <lg>
                         <l>O Jesu hør mig for din død/ </l>
-                        <l>O <pb n="E170"/>Jesu hielp mig aff min nød/ </l>
+                        <l>O <pb ana="57_v" n="E170"/>Jesu hielp mig aff min nød/ </l>
                         <l>Du vilt mig <lb/> styre oc raade/ </l>
                         <l>Du vedst min act hør <lb/> nu min røst/ </l>
                         <l>giff mig aff Himmelens <lb/> høyhed trøst</l>
@@ -8039,7 +8039,7 @@
                         <l>Som hielp aff dig ville haffue.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="58" n="E171"/><space extent="2blanks"/>Fuldkommelig er ieg en
+                        <l><pb ana="58_r" n="E171"/><space extent="2blanks"/>Fuldkommelig er ieg en
                             aff de/ </l>
                         <l>Det kærer ieg dig met hiertens vee/ </l>
                         <l>Din naade lad offuer mig skinne. </l>
@@ -8074,7 +8074,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Alle de ting som Gud haffuer skabt/ </l>
                         <l>Skulle førre forgaa oc bliffue fortabt/ </l>
-                        <l><pb n="E172"/>End nogen aff Tienere mine </l>
+                        <l><pb ana="58_v" n="E172"/>End nogen aff Tienere mine </l>
                         <l>(Som troer paa mig met Gudelig act) </l>
                         <l>Skal bliffue fordømt/ som ieg haffuer sagt/ </l>
                         <l>For brøde eller Synder sine.</l>
@@ -8107,7 +8107,7 @@
                         <l><c function="initials" rend="3">S</c>Aa legger Jesus Dieffuelen øde/ </l>
                         <l>De synden dræbte reser hand aff døde/ </l>
                         <l>Døden maa for hannem vige. </l>
-                        <l><pb ana="59" n="E173"/>Hand er alle Menniskers hielp oc haab/ </l>
+                        <l><pb ana="59_r" n="E173"/>Hand er alle Menniskers hielp oc haab/ </l>
                         <l>Som tuingis effter Verdens lob/ </l>
                         <l>En Konning aff Himmerige.</l>
                     </lg>
@@ -8129,7 +8129,7 @@
                         <l>vel dem det kunde besinde/ </l>
                         <lb/>
                         <l>at du for vor skyld døder er/ </l>
-                        <l>der met wi <pb n="E174"/> Himmerig vinde/ </l>
+                        <l>der met wi <pb ana="59_v" n="E174"/> Himmerig vinde/ </l>
                         <l>haffde du icke dit blod <lb/> vdgiffuit/ </l>
                         <l>och saa for oss betalit/ </l>
                         <l>da <lb/> haffde wi alle fortabit bleffuet/ </l>
@@ -8146,7 +8146,7 @@
                         <l>Wi vaare hans wuenner alle/ </l>
                         <l>Euig pine haffde wi fortient/ </l>
                         <l>Ret baade vnge oc gamle. </l>
-                        <l><pb ana="60" n="E175"/>Men Gud for sin miskundhed </l>
+                        <l><pb ana="60_r" n="E175"/>Men Gud for sin miskundhed </l>
                         <l>Monne sig offuer oss forbarme/ </l>
                         <l>Sin eniste Søn sende hand her ned/ </l>
                         <l>At frelse oss wsle oc arme. </l>
@@ -8172,7 +8172,7 @@
                 </div>
                 <div type="psalm" xml:id="section-3-hymn-19" n="19">
                     <head type="add">O, Kriste konning med guddoms kraft</head>
-                    <head><pb n="E176"/> XIX. <lb/> Den Hymne/ <hi rend="italics">Gloria laus et
+                    <head><pb ana="60_v" n="E176"/> XIX. <lb/> Den Hymne/ <hi rend="italics">Gloria laus et
                             honor ti<lb rend="="/>bi sit rex Christe redemptor <ex>etc</ex>.</hi>
                         <lb/>som kand siungis paa Pal<lb rend="="/>me Søndag. <lb/>Fordansket aff M.
                         Hans <lb/>Taussen.</head>
@@ -8192,13 +8192,13 @@
                     <lg>
                         <l>Wi loffue dig alle aff hu oc act/ </l>
                         <l>at du vilde bruge din mact/ </l>
-                        <l>oss alle til <pb ana="61" n="E177"/> euig gaffn oc fromme.</l>
+                        <l>oss alle til <pb ana="61_r" n="E177"/> euig gaffn oc fromme.</l>
                     </lg>
                     <lg>
                         <l>Velkommen benedidet Dauids Søn/ </l>
                         <l>som frelst haffuer oss fra Helffuedis vaade</l>
                         <l>oc haffuer opbygt hans Tempel skøn/ </l>
-                        <l><pb n="E178"/>beprydt met Guddommelig naade. </l>
+                        <l><pb ana="61_v" n="E178"/>beprydt met Guddommelig naade. </l>
                     </lg>
                     <lg>
                         <l>
@@ -8258,7 +8258,7 @@
                     </notatedMusic>
                     <lg>
                         <l>Hielp Gud at ieg nu kunde/ </l>
-                        <l>Du edele <pb ana="62" n="E179"/> skaber min/ </l>
+                        <l>Du edele <pb ana="62_r" n="E179"/> skaber min/ </l>
                         <lb/>
                         <l>Prise dig aff hiertens grunde/ </l>
                         <l>Guddo<ex>m</ex>melig <lb/> ære din.</l>
@@ -8285,7 +8285,7 @@
                         <l>Jesus den meenløse Lam.</l>
                     </lg>
                     <lg>
-                        <l><pb n="E180"/><space extent="2blanks"/>Da Jesus haffde ædit </l>
+                        <l><pb ana="62_v" n="E180"/><space extent="2blanks"/>Da Jesus haffde ædit </l>
                         <l>Met sine det Paaske Lam/ </l>
                         <l>De skulde hannem ey forgæde/ </l>
                         <l>Tog Brødet i sin haand/ </l>
@@ -8317,7 +8317,7 @@
                         <l>De komme met Hellebaarder/ </l>
                         <l>Oc ledde hannem bunden bort/ </l>
                         <l>For Dommeren som vaar den tid/ </l>
-                        <l><pb ana="63" n="E181"/>Hudstrugen oc met Torn kronit/ </l>
+                        <l><pb ana="63_r" n="E181"/>Hudstrugen oc met Torn kronit/ </l>
                         <l>Bleff saa fordømt til døde.</l>
                     </lg>
                     <lg>
@@ -8351,7 +8351,7 @@
                         <l><space extent="2blanks"/>Lucas hand monne scriffue/ </l>
                         <l>Om Christi Himmelfart/ </l>
                         <l>Dog vil hand hoss oss bliffue/ </l>
-                        <l><pb n="E182"/>Altid som hand haffuer sagt/ </l>
+                        <l><pb ana="63_v" n="E182"/>Altid som hand haffuer sagt/ </l>
                         <l>Det er alt met sit Guddoms ord/ </l>
                         <l>Der kand ingen mod stride/ </l>
                         <l>Ey gantske Helffuedis port.</l>
@@ -8381,7 +8381,7 @@
                 </div>
                 <div type="psalm" xml:id="section-4-hymn-2" n="2">
                     <head type="add">O Gud, vor Fader i evighed</head>
-                    <head><pb ana="64" n="E183"/> II. <lb/> En skøn Vise/ om vor Christelige <lb/>
+                    <head><pb ana="64_r" n="E183"/> II. <lb/> En skøn Vise/ om vor Christelige <lb/>
                         Troes Artickler/ oc besynderlige om vor <lb/> Herris Jesu Christi pines
                         Historie/ giort aff <lb/> Erlig oc Velbyrdig Mand/ Knud Gyl<lb rend="="
                         />denstiern til Tim/ oc offuer<lb rend="="/>seet aff Doctore Petro <lb/>
@@ -8396,7 +8396,7 @@
                         <l>som <lb/> scrifften giffuer til kiende/ </l>
                         <l>At du <lb/> haffuer met din Guddoms krafft/ </l>
                         <l>Him<lb rend="="/>mel oc Jord oc alting skabt/ </l>
-                        <l>Den første <pb n="E184"/> Mand oc Quinde. </l>
+                        <l>Den første <pb ana="64_v" n="E184"/> Mand oc Quinde. </l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Jeg tror ocsaa paa Jesum Christ/ </l>
@@ -8427,7 +8427,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Der nu Christus Guds eniste Søn/ </l>
-                        <l><pb ana="65" n="E185"/>Gaff sig i Dødens fare/ </l>
+                        <l><pb ana="65_r" n="E185"/>Gaff sig i Dødens fare/ </l>
                         <l>Langfredag nat hand giorde sin bøn/ </l>
                         <l>Met sued oc Blodige taare/ </l>
                         <l>Da bleff hand fangen i Vrtegaard/ </l>
@@ -8459,7 +8459,7 @@
                         <l>Hen til Pilatum føre/ </l>
                         <l>De løye paa hannem for Ræt oc dom/ </l>
                         <l>De sagde hand actede icke Keyseren aff Rom/ </l>
-                        <l><pb n="E186"/>Det maatte Pilatus høre.</l>
+                        <l><pb ana="65_v" n="E186"/>Det maatte Pilatus høre.</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Der hand forstod den sag i grund </l>
@@ -8493,7 +8493,7 @@
                         <l>Jeg kand icke andet fornemme/ </l>
                         <l>End Jesus er en wskyldig Mand/ </l>
                         <l>Huor for skal ieg hannem dømme? </l>
-                        <l><pb ana="66" n="E187"/>Da robte de Jøder huer oc en/ </l>
+                        <l><pb ana="66_r" n="E187"/>Da robte de Jøder huer oc en/ </l>
                         <l>Oc sagde/ du est icke Keyserens ven/ </l>
                         <l>Om du lader hannem vndkomme.</l>
                     </lg>
@@ -8527,7 +8527,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Oc der de komme til Golgatha/ </l>
                         <l>Jesum monne de Kaarsfeste/ </l>
-                        <l><pb n="E188"/>Mellem to Røffuere hengde hand da/ </l>
+                        <l><pb ana="66_v" n="E188"/>Mellem to Røffuere hengde hand da/ </l>
                         <l>Det skede alt for vort bæste. </l>
                         <l>Hand robte paa Kaarssit met høyer røst/ </l>
                         <l>O Fader forlad dem deris brøst/ </l>
@@ -8561,7 +8561,7 @@
                         <l>Der til hialp Nicodemus.</l>
                     </lg>
                     <lg>
-                        <l><pb ana="67" n="E189"/><space extent="2blanks"/>Christus oc ned til
+                        <l><pb ana="67_r" n="E189"/><space extent="2blanks"/>Christus oc ned til
                             Helffuede foer/ </l>
                         <l>At tage til fange oc binde/ </l>
                         <l>Den gantske Dieffuelens mact saa stor/ </l>
@@ -8594,7 +8594,7 @@
                         <l>De gode bliffuer tilskenckendis </l>
                         <l>Det euige Liff oc glæde/ </l>
                         <l>De onde faa hannem der oc at see/ </l>
-                        <l><pb n="E190"/>Saa stødis de ned til euig vee/ </l>
+                        <l><pb ana="67_v" n="E190"/>Saa stødis de ned til euig vee/ </l>
                         <l>Vdi Helffuedis Jld at brende.</l>
                     </lg>
                     <lg>
@@ -8628,7 +8628,7 @@
                         <l><space extent="2blanks"/>Jeg tror oc veed det visselig/ </l>
                         <l>At Gud vor Himmelske Fader </l>
                         <l>Hand er oss mild oc miskundelig/ </l>
-                        <l><pb ana="68" n="E191"/>Oc oss vor Synd forlader/ </l>
+                        <l><pb ana="68_r" n="E191"/>Oc oss vor Synd forlader/ </l>
                         <l>For eniste Christi Pine oc Død/ </l>
                         <l>Giør hand oss fri aff all vor nød/ </l>
                         <l>Thi kand oss aldrig skade.</l>
@@ -8662,7 +8662,7 @@
                         <ptr target="Th_1569_LN1426_068r.xml"/>
                     </notatedMusic>
                     <lg>
-                        <l><pb n="E192"/> O Mennisk begræd din Synd saa <lb/> stor/</l>
+                        <l><pb ana="68_v" n="E192"/> O Mennisk begræd din Synd saa <lb/> stor/</l>
                         <l>for huilcken Christus nederfoer/ </l>
                         <lb/>
                         <l>fra Faderens skød til Jorden/ </l>
@@ -8673,7 +8673,7 @@
                         <l>De <lb/> døde deris liff hand gaff/ </l>
                         <l>de Siugis <lb/> kranckhed lagde hand aff/ </l>
                         <l>til tiden sig <lb/> fremtrengde/ </l>
-                        <l>at hand for vor skyld offrit <pb ana="69" n="E193"/> bleff/ </l>
+                        <l>at hand for vor skyld offrit <pb ana="69_r" n="E193"/> bleff/ </l>
                         <l>oc vor suare Synder bortdreff/ </l>
                         <l>paa Kaarssit vilde hand henge. </l>
                     </lg>
@@ -8698,7 +8698,7 @@
                         <l>Jesus til sine Discipler kam/ </l>
                         <l>Oc oed met dem deris Paaske Lam/ </l>
                         <l>Oc giorde der paa en ende. </l>
-                        <l><pb n="E194"/>Hand sette oss it Testament/ </l>
+                        <l><pb ana="69_v" n="E194"/>Hand sette oss it Testament/ </l>
                         <l>Hans død til yderst ende at betenck/ </l>
                         <l>Deris Føder hand oc toede/ </l>
                         <l>Om kierlighed vnderuisde dem/ </l>
@@ -8729,7 +8729,7 @@
                         <l>Som hand da talede disse Ord/ </l>
                         <l>Da kom Judas met en Skare stor/ </l>
                         <l>Met Spedze Lycter oc Stenger/ </l>
-                        <l><pb ana="70" n="E195"/>Jt Tegn den Forræder fra sig gaff/ </l>
+                        <l><pb ana="70_r" n="E195"/>Jt Tegn den Forræder fra sig gaff/ </l>
                         <l>Paa en kyss skulle i mercke mig aff </l>
                         <l>Huilcken der i skulle fange.</l>
                     </lg>
@@ -8759,7 +8759,7 @@
                         <l>Tre gange forsoer hand Herren. </l>
                         <l>Bispen frittede Jesum fast/ </l>
                         <l>De søgte falskt Vidnisbyrd met en hast/ </l>
-                        <l><pb n="E196"/>At omkomme hannem aff Verden.</l>
+                        <l><pb ana="70_v" n="E196"/>At omkomme hannem aff Verden.</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Christus suarede hannem intet da/ </l>
