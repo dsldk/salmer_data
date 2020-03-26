@@ -1345,7 +1345,7 @@
                         <row>
                             <cell rend="font_red"><app>
                                     <lem>v</lem>
-                                    <rdg><q>x</q> orig.</rdg>
+                                    <rdg wit="#orig">x</rdg>
                                 </app></cell>
                             <cell>e</cell>
                             <cell/>
@@ -1495,7 +1495,7 @@
                             <cell>Ruffi martyris dag</cell>
                             <cell><app>
                                     <lem>x</lem>
-                                    <rdg><q>v</q> orig.</rdg>
+                                    <rdg wit="#orig">v</rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2016,7 +2016,7 @@
                             <cell>g</cell>
                             <cell rend="font_red">Martini <app>
                                     <lem>biscops</lem>
-                                    <rdg><q>biseops</q> orig.</rdg>
+                                    <rdg wit="#orig">biseops</rdg>
                                 </app> dag</cell>
                             <cell>p</cell>
                         </row>
@@ -3141,7 +3141,7 @@
                         <l> inge<ex>n</ex> bliffuer salig for loffue<ex>n</ex>s ger<lb n="E47.021"
                                 rend="="/>ninger skeer/<note place="right">(<ref target="#rom-3"><orig><app>
                                             <lem>Roma. iii</lem>
-                                            <rdg><q>Roma. ii</q> orig.</rdg>
+                                            <rdg wit="#orig">Roma. ii</rdg>
                                         </app></orig><reg>Rom 3</reg></ref>) </note></l>
                         <l> men synde<ex>n</ex> hende wi vid <lb n="E47.022"/>kende/</l>
                         <l> met troen komme wi til det for<lb n="E47.023" rend="="/>ietteland/</l>
@@ -3495,7 +3495,7 @@
                             løn/</l>
                         <l><lb n="E54.020"/>der til wor <app>
                                 <lem>trøstere</lem>
-                                <rdg> læsningen usikker </rdg>
+                                <rdg wit="#orig"> <note>læsningen usikker</note> </rdg>
                             </app> den Helligand/</l>
                         <l> loff <lb n="E54.021"/>priss oc ære i alle land</l>
                     </lg>
@@ -3971,7 +3971,7 @@
                             <lb n="E65.010"/> i Gud min frelsere</l>
                         <l><space extent="2blanks"/>Faar han saa til sin tienerskis <app>
                                 <lem>ring<lb n="E65.012" rend="="/>hed</lem>
-                                <rdg><q>ring/ <lb/> hed</q> orig.</rdg>
+                                <rdg wit="#orig">ring/ <lb/> hed</rdg>
                             </app>/ see her aff skulle alle slecter sige <lb n="E65.013"/>mig salig
                             ath vere</l>
                         <l><space extent="2blanks"/>Forthi den giorde mig stor ting som <lb
@@ -4355,7 +4355,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Men deris guder ere <app>
                                 <lem>sølffue</lem>
-                                <rdg><q>sølssue</q> orig.</rdg>
+                                <rdg wit="#orig">sølssue</rdg>
                             </app> oc guld </l>
                         <l> som mand gør met hender oc staal</l>
                     </lg>
@@ -4478,7 +4478,7 @@
                                 n="E77.013" rend="="/>de/</l>
                         <l> der paa wi nw hans <app>
                                 <lem>kerlighed</lem>
-                                <rdg><q>kerlghed</q> orig.</rdg>
+                                <rdg wit="#orig">kerlghed</rdg>
                             </app>
                             <lb n="E77.014"/> kende/</l>
                         <l> Thi tacker hannem all Christe<ex>n</ex><lb n="E77.015" rend="="
@@ -4985,7 +4985,7 @@
                         <l> Dit dy<lb n="E88.008" rend="="/>rebar blod du for oss vdgaff/</l>
                         <l> for <app>
                                 <lem>all vor</lem>
-                                <rdg><q>all<lb n="E88.009" rend="="/>vor</q> orig.</rdg>
+                                <rdg wit="#orig">all<lb n="E88.009" rend="="/>vor</rdg>
                             </app> synd til ith vederlaff/</l>
                         <l> Hellige herre <lb n="E88.010"/>Gud/</l>
                         <l> forbarme dig offuer oss/</l>
@@ -5428,7 +5428,7 @@
                         <reg>Nolite metuere</reg>
                         <orig>Nolite <app>
                                 <lem>metuere</lem>
-                                <rdg><q>meture</q> orig.</rdg>
+                                <rdg wit="#orig">meture</rdg>
                             </app></orig></head>
                     <lg>
                         <l><note place="left">(<ref target="#matt-28"><orig>Mathei
@@ -6210,7 +6210,7 @@
                         <l> Beskerm mig herre <lb n="E115.012"/>min salighedz Gud/</l>
                         <l> fra blodige <app>
                                 <lem>syn<lb rend="="/></lem>
-                                <rdg><q>syn/ der</q> orig.</rdg>
+                                <rdg wit="#orig">syn/ der</rdg>
                             </app> alle/</l>
                         <l> O Herre lad op mit hierte oc <lb n="E115.014"/>mund/</l>
                         <l> dit loff oc ære ath tale</l>
@@ -6231,8 +6231,7 @@
                         <l> wi tacke din <lb n="E115.024"/>barmhiertighed/</l>
                         <l> ath dw vilt oss styre oc <app>
                                 <lem/>
-                                <rdg><q><pb n="E116" ana="35_v"/> barmhiertighed/ ath du vilt oss styre oc </q>
-                                    orig.</rdg>
+                                <rdg wit="#orig"><pb n="E116" ana="35_v"/> barmhiertighed/ ath du vilt oss styre oc</rdg>
                             </app><lb n="E116.002"/>raade/</l>
                         <l> Der til din Søn vor frelsere <lb n="E116.003"/>mand/</l>
                         <l> skal giffuis den samme ære/</l>
@@ -7339,7 +7338,7 @@
                         <reg>Haleluja, det bør os altid synge</reg>
                         <orig><ref target="#sl-117"><orig>Den <app>
                                         <lem>cxvii</lem>
-                                        <rdg><q>cxxii</q> orig.</rdg>
+                                        <rdg wit="#orig">cxxii</rdg>
                                     </app> Psalm</orig><reg>Sl 117</reg></ref> Lau<lb n="E140.016"
                             />date dominum omnes gentes</orig></head>
                     <lg>
@@ -7524,7 +7523,7 @@
                                 143</reg></ref>)</note>denne stund/</l>
                         <l> oc hør <app>
                                 <lem>min</lem>
-                                <rdg><q>nin</q> orig.</rdg>
+                                <rdg wit="#orig">nin</rdg>
                             </app> bøn <lb n="E144.018"/>oc ver min trøst/</l>
                         <l> Thi om du vilde mig <lb n="E144.019"/>døme ret/</l>
                         <l> effter min ondskab som ieg <lb n="E144.020"/>haffuer fortient/</l>
@@ -7822,7 +7821,7 @@
                             fri/</l>
                         <l> fra alt ont baade <app>
                                 <lem>till</lem>
-                                <rdg><q>iill</q> orig.</rdg>
+                                <rdg wit="#orig">iill</rdg>
                             </app>
                             <lb n="E150.010"/>liff oc siæl/</l>
                         <l> J all wor nød wi til dig fly</l>
@@ -8575,7 +8574,7 @@
                             dig/ Vi benedide dig/ Vi tilbede dig/ Vi <lb n="E167.002"/>ere oc prise
                             dig/ Vi <app>
                                 <lem>tacke</lem>
-                                <rdg><q>iacke</q> orig.</rdg>
+                                <rdg wit="#orig">iacke</rdg>
                             </app> dig for din sto<lb n="E167.003" rend="="/>re ere oc mectighed/
                             Herre Gud oc hie<ex>m</ex><lb n="E167.004" rend="="/>melske
                             ko<ex>n</ex>ge also<ex>m</ex>mectiste fader/ herre al<lb n="E167.005"
@@ -9240,7 +9239,7 @@
                         ath i opløffte eders hierter <lb n="E186.009"/><note place="left">(<ref
                                 target="#matt-6"><orig>Mat vi</orig><reg>Matt 6</reg></ref>)</note><app>
                             <lem>til</lem>
-                            <rdg><q>tll</q> orig.</rdg>
+                            <rdg wit="#orig">tll</rdg>
                         </app> Gud/ oc bede met mig/ Pater noster <lb n="E186.010"/>saa som Jhesus
                         Christus haffuer lært <lb n="E186.011"/>oss (oc loffuit oss det til stor
                         glede) ath <lb n="E186.012"/>wi skulle bønhøris der met</p>
@@ -9267,7 +9266,7 @@
                         som er til Christu<ex>m</ex>
                         <lb n="E187.007"/>Jhesum/ ath det Christne <app>
                             <lem>menniskens</lem>
-                            <rdg><q>me<ex>n</ex>nniskens</q> orig.</rdg>
+                            <rdg wit="#orig">me<ex>n</ex>nniskens</rdg>
                         </app>
                         <lb n="E187.008"/>tal motte forøgis oc bliffue større</p>
 
@@ -9480,7 +9479,7 @@
                         />rens kalk wuerdelige han er skyldig i <lb n="E195.002"/>herrens legeme oc
                         blod/ Thi skal huer <lb n="E195.003"/>prøffue oc randsage sig <app>
                             <lem>selff</lem>
-                            <rdg><q>felff</q> orig.</rdg>
+                            <rdg wit="#orig">felff</rdg>
                         </app>/ Oc æde <lb n="E195.004"/>aff brødit/ oc dricke aff kalken/ Thi <lb
                             n="E195.005"/>huo som æder oc dricker vuerdelige der <lb n="E195.006"
                         />aff/ han æder oc dricker sig selff do<ex>m</ex>men <lb n="E195.007"/>icke
@@ -10210,7 +10209,7 @@
                         <row>
                             <cell>Vi arme syndere gøre vor bøn <app>
                                     <lem>til</lem>
-                                    <rdg><q>iil</q> orig.</rdg>
+                                    <rdg wit="#orig">iil</rdg>
                                 </app> dig</cell>
                             <cell>Hør oss o herre Gud</cell>
                         </row>
@@ -10591,7 +10590,7 @@
                         <l><space extent="2blanks"/>Thi herren vil icke forskiwde sit folk</l>
                         <l><lb n="E220.024"/> oc ey <app>
                                 <lem>forlade</lem>
-                                <rdg><q>farlade</q> orig.</rdg>
+                                <rdg wit="#orig">farlade</rdg>
                             </app> sin arff oc eyedom</l>
                     </lg>
                     <lg>
