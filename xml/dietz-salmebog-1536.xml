@@ -81,7 +81,7 @@
                forladendis mig <lb/>ther aldelis till/ att handt skulde saa flitteli<lb rend="="/>ge
                haffue ladit Corrigeret oc offuerseet same <lb/>bog/ at <app>
                   <lem>het</lem>
-                  <rdg> forud herfor lakune orig. </rdg>
+                  <rdg wit="#orig"><note>forud herfor lakune</note></rdg>
                </app> icke skulde wære aff nødt/ yder<lb rend="="/>mere att lade hende Corrigere och
                offuersee/ <pb n="E3"/>
                <lb/>Saa findis ther dog brøst vdi nogre stæder/ <lb/>hwilcken kaaes ieg haffuer lige
@@ -132,7 +132,7 @@
             <p><space extent="2blanks"/>Paa th<ex>et</ex> liiij. bladt/ vdi thet werss (wÿ tro
                <lb/>oc alle paa Jesum Christ <ex>etc</ex>.<app>
                   <lem>)</lem>
-                  <rdg><q/> orig.</rdg>
+                  <rdg wit="#orig"></rdg>
                </app> er noggre ordt <lb/>borte/ som ere thisse/ Paa tredie dag och aff <lb/>døde
                opstodt til hemmels foer.</p>
             <lb/>
@@ -150,7 +150,7 @@
                oc vdtgangne/ vdi <lb/>the sÿste smaa sang bøger/ men oc saa thÿsse <lb/>effter
                følgende Psalmer oc <app>
                   <lem>lofsange</lem>
-                  <rdg><q>loffange</q> orig.</rdg>
+                  <rdg wit="#orig">loffange</rdg>
                </app>/ hwilcke <lb/>icke wore tilforne trøckte oc vdtgangne paa <lb/>thet Danske
                tungemaall. Will ieg her mett <lb/>huer Christen haffue kierligen formanet/ fli<lb
                   rend="="/>teligen att forbedre/ hwes handt ÿ ordt eller <lb/>bogstaffue her vdi
@@ -598,7 +598,7 @@
                <l>bewise mett kierligheds ger<lb rend="="/>ninger modt wor nabo/ </l>
                <l>Oc siden mett <lb/>een <app>
                      <lem>Christelig</lem>
-                     <rdg><q>Chrstielig</q> orig.</rdg>
+                     <rdg wit="#orig">Chrstielig</rdg>
                   </app> affgang /</l>
                <l> komme <lb/>till teg wor Fader fraa all <lb/>twang Amen.</l>
             </lg>
@@ -614,7 +614,7 @@
                <l>Jeg kan thet <lb/>oc besinde /</l>
                <l> mÿn Gudt <app>
                      <lem>handt</lem>
-                     <rdg> læsningen usikker </rdg>
+                     <rdg wit="#orig"><note>læsningen usikker</note></rdg>
                   </app> war <lb/>meg wredt.</l>
                <l> Jeg thet wel wedt/ </l>
                <l>thet er mÿn <lb/>syndt wrene/ </l>
@@ -982,7 +982,7 @@
                <l>Om thu lader misbrwge <lb/>thet/ </l>
                <l><app>
                      <lem>worder</lem>
-                     <rdg> læsningen usikker </rdg>
+                     <rdg wit="#orig"><note>læsningen usikker</note></rdg>
                   </app> ieg paa teg wreder. </l>
                <l>Saa skalt <lb/>thu wide thet er mÿn low/ </l>
                <l>ath thu giør hel<lb rend="="/>lig Sabats dag. </l>
@@ -1038,7 +1038,7 @@
             </lg>
             <p>Then anden <app>
                   <lem>Tafle.</lem>
-                  <rdg> læsningen usikker </rdg>
+                  <rdg wit="#orig"><note>læsningen usikker</note></rdg>
                </app></p>
             <lg>
                <l>&#x00B6; Elsk thin Fader oc thin Moder/ </l>
@@ -1456,7 +1456,7 @@
                <l>wÿ skulde bliffue hans ewindelig/ </l>
                <l>Oc aldri <lb/>fraa <app>
                      <lem>hannom </lem>
-                     <rdg><q>hennom </q> orig.</rdg>
+                     <rdg wit="#orig">hennom</rdg>
                   </app> skillies.</l>
             </lg>
             <pb n="E37"/>
@@ -1552,7 +1552,7 @@
                <l>som <lb/>skapt haffuer himmel oc iord/ </l>
                <l>Och <lb/><app>
                      <lem>haffuer</lem>
-                     <rdg><q>hauffer</q> orig.</rdg>
+                     <rdg wit="#orig">hauffer</rdg>
                   </app> oss til sÿne børn vduald/ </l>
                <l>att <lb/>hand wilde wor Fader worde. </l>
                <l>Han wil oss <lb/>altÿdt besorge/ </l>
@@ -1594,7 +1594,7 @@
             <head type="add">Vor Gud han er så fast en borg</head>
             <head><pb n="E40"/>&#x10081; Then Xlv. <app>
                   <lem>Psalme</lem>
-                  <rdg><q>Psame</q> orig.</rdg>
+                  <rdg wit="#orig">Psame</rdg>
                </app>/ Deus noster <lb/>refugium.</head>
             <lg>
                <l><c function="initials" rend="3">V</c>Or Gudt hand er saa fast een borg/ </l>
@@ -1703,7 +1703,7 @@
                <l><space extent="2blanks"/>Men wilde Gudt platt ende wor synd/ </l>
                <l>som becke <app>
                      <lem>tyrckis</lem>
-                     <rdg><q>tyrckeis</q> orig.</rdg>
+                     <rdg wit="#orig">tyrckeis</rdg>
                   </app> aff Solens brynde.</l>
             </lg>
             <lb/>
@@ -1813,7 +1813,7 @@
                <l>Kom meg ar<lb rend="="/>me synder ihw/ </l>
                <l>att ieg giør teg <app>
                      <lem>mÿn</lem>
-                     <rdg><q>mÿm</q> orig.</rdg>
+                     <rdg wit="#orig">mÿm</rdg>
                   </app> HER<lb rend="="/>RE Gud loff.</l>
             </lg>
          </div>
@@ -1850,7 +1850,7 @@
                <l>oc wÿ <lb/>vdÿ dødtzens snare/ </l>
                <l>Giff priis thit <app>
                      <lem>naffn</lem>
-                     <rdg><q>naff</q> orig.</rdg>
+                     <rdg wit="#orig">naff</rdg>
                   </app> vdÿ <lb/>iorderig/ </l>
                <l>ladt oss ey saa hæden fare/ </l>
                <l>J thin <lb/>wgunst saa saare.</l>
@@ -1869,7 +1869,7 @@
             <lg>
                <l><space extent="2blanks"/>Giff oss ÿ dag wort <app>
                      <lem>daglige</lem>
-                     <rdg><q>dalige</q> orig.</rdg>
+                     <rdg wit="#orig">dalige</rdg>
                   </app> brødt/ </l>
                <l>thine <lb/>ordt och hellige naade. </l>
                <l>Oc frels oss fra then <pb n="E46"/>
@@ -1952,7 +1952,7 @@
                <l>Tha kand hand <lb/>ey/ om thu siger ney. </l>
                <l>Thi skal hand thet <app>
                      <lem>lade</lem>
-                     <rdg><q>lade lade</q> orig.</rdg>
+                     <rdg wit="#orig">lade lade</rdg>
                   </app> bliffue.</l>
             </lg>
             <lb/>
