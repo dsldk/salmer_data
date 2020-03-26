@@ -135,7 +135,7 @@
                         rend="="/>perintendenter/ Prouester/ Sognepræster/ och meni<lb rend="="/>ge
                     Kirckethienere/ offuer alt vort Rige Danmarck/ <lb/><app>
                         <lem>Att j</lem>
-                        <rdg><q>Attj</q> orig.</rdg>
+                        <rdg wit="#orig">Attj</rdg>
                     </app> tiltencker her effter sa<ex>m</ex>me Gradual och Sang<lb rend="="/>bog
                     for fulde at anamme och Samtøcke/ Och huer <lb/>vdi sit Stigt/ Herrit och Sogn/
                     thend at bruge/ och <lb/>lade haffue fremgang. Thesligeste met ald flijd til<lb
@@ -1074,7 +1074,7 @@
                     <p>Her effter læsis den siste Collect: Och saa <lb/> velsignelsen: Num: 6. Til
                         huilcken Menig<lb rend="="/>heden suarer/ Amen. </p>
                     <p> Dissimellem at Presten fører sig aff Messe klæderne/ oc falder paa knæ:
-                        siungis aff <lb/> den hele Menighed: <q>Da pacem <ex>etc</ex>.</q>
+                        siungis aff <lb/> den hele Menighed: <hi rend="italics">Da pacem <ex>etc</ex>.</hi>
                         <lb/> Som her effter følger.</p>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_022.xml"/>
@@ -1379,12 +1379,12 @@
                     <lg>
                         <l><app>
                                 <lem><c function="initials" rend="2">K</c>yrieleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>.</l>
                         <l>Christe eleison. </l>
                         <l><app>
                                 <lem>Kyrieleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>. </l>
                     </lg>
                 </div>
@@ -1834,7 +1834,7 @@
                         <l>Offrede Guld røgelse oc Mirrh/ </l>
                         <l><app>
                                 <lem>Haleluia</lem>
-                                <rdg><q>Halelnia</q> orig.</rdg>
+                                <rdg wit="#orig">Halelnia</rdg>
                             </app>.</l>
                     </lg>
                     <lg>
@@ -2872,7 +2872,7 @@
                     <head type="add">Introitus: Jerusalem, du hellige stad m.fl.</head>
                     <head>Introitus Danske. <lb/>Hierusalem du hellige <app>
                             <lem>Stad</lem>
-                            <rdg><q>Satd</q> orig.</rdg>
+                            <rdg wit="#orig">Satd</rdg>
                         </app><ex>etc</ex>. <hi rend="italics">vt supra.</hi> Introitus latinus. <lb/>
                         <ref target="#">Psalm: 18.</ref></head>
                     <notatedMusic>
@@ -3263,7 +3263,7 @@
                         <l>Thi ville wi alle til Gud falde ind. </l>
                         <l>Du værdige <app>
                                 <lem>liuss</lem>
-                                <rdg><q>liuff</q> orig.</rdg>
+                                <rdg wit="#orig">liuff</rdg>
                             </app> giff oss dit skin <ex>etc</ex>. <pb ana="143" n="E155"/>
                         </l>
                         <l>Wi hade alt det oss er imod/ </l>
@@ -3593,7 +3593,7 @@
                         <l>Sicut erat in principio et nunc et semper, </l>
                         <l>et in secula <app>
                                 <lem>seculorum</lem>
-                                <rdg><q>seculoxum</q> orig.</rdg>
+                                <rdg wit="#orig">seculoxum</rdg>
                             </app>, Amen. </l>
                     </lg>
                 </div>
@@ -3773,7 +3773,7 @@
                         <ref target="#">Lucæ, 22.</ref>
                         <ref target="#"><app>
                                 <lem>1. Corinth</lem>
-                                <rdg><q>Coriuth</q> orig.</rdg>
+                                <rdg wit="#orig">Coriuth</rdg>
                             </app>: 11.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_169.xml#mdiv-01"/>
@@ -4510,15 +4510,15 @@
                     <lg>
                         <l><app>
                                 <lem><c function="initials" rend="2">K</c>yrieleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>. </l>
                         <l><app>
                                 <lem>Christeleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>. </l>
                         <l><app>
                                 <lem>Kyrieleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>. </l>
                     </lg>
                     <lb/>
@@ -5558,7 +5558,7 @@
                                 n="E272"/> inclita.</l>
                         <l>Apostolos confortasti, vtj <app>
                                 <lem>tropheum</lem>
-                                <rdg><q>torpheum</q> orig.</rdg>
+                                <rdg wit="#orig">torpheum</rdg>
                             </app> Christi per totum mundu<ex>m</ex> veherent. </l>
                         <l>Qua<ex>n</ex>do machinam per verbum suum fecit Deus coeli terræ marium. </l>
                         <l>Tu super aquas foturus eas, numen tuum expandisti Spiritus. </l>
@@ -5596,7 +5596,7 @@
                         <l>der met bepryd vort hiertis huss/ </l>
                         <l>hent dem <app>
                                 <lem>tilsammen</lem>
-                                <rdg><q>tilfammen</q> orig.</rdg>
+                                <rdg wit="#orig">tilfammen</rdg>
                             </app> i Verden bo/ </l>
                         <l>aff alle tunge<pb ana="264" n="E276" rend="="/>maal til en tro.</l>
                         <l>Haleluia/ Loffuer Herren. </l>
@@ -5822,7 +5822,7 @@
                         <p rend="indent3">
                             <app>
                                 <lem>Sequentz</lem>
-                                <rdg><q>Sqeuentz </q> orig.</rdg>
+                                <rdg wit="#orig">Sqeuentz</rdg>
                             </app>. Wi arme Adams børn: oc/ Nu bede wi den hellig Aand/ <hi
                                 rend="italics">vide Domi: Inuocauit.</hi>
                         </p>
@@ -5863,7 +5863,7 @@
                         <l>met alle ret Christne <pb ana="274" n="E286"/> Menniskis act/ </l>
                         <l>at wi vndfly all <app>
                                 <lem>Dieffuelens</lem>
-                                <rdg><q>Dleffuelens</q> orig.</rdg>
+                                <rdg wit="#orig">Dleffuelens</rdg>
                             </app> list/ </l>
                         <l>met Guds Ord wi oss beuare. </l>
                         <l>Amen Amen sande<lb rend="="/>lig saa/ </l>
@@ -6094,12 +6094,12 @@
                         <l>
                             <app>
                                 <lem/>
-                                <rdg>O fjernet</rdg>
+                                <rdg wit="#orig">O<note>fjernet</note></rdg>
                             </app>Gud Fader vdi Himmerig/ </l>
                         <l><pb ana="291" n="E303"/>
                             <app>
                                 <lem>sin</lem>
-                                <rdg><q>siu</q> orig.</rdg>
+                                <rdg wit="#orig">siu</rdg>
                             </app> villie hand oss kiende/ </l>
                         <l>Der hand oss ned til Jorde<lb rend="="/>rig/ </l>
                         <l>de Ti budord vdsende. </l>
@@ -6187,7 +6187,7 @@
                     <div>
                         <p rend="indent1"> Huor paa nogen de Søndage/ mel<lb rend="="/>lem <app>
                                 <lem>Dominica</lem>
-                                <rdg><q>Domnica</q> orig.</rdg>
+                                <rdg wit="#orig">Domnica</rdg>
                             </app> Trinitatis oc primam Aduentus, icke <lb/>ere Communicantes, Da
                             skal strax effter Predic<lb rend="="/>ken siungis: Beholt oss Herre ved
                             dit ord <ex>etc</ex>. <lb/>Met/ Forlæ oss met fred <ex>etc</ex>. Siden
@@ -7087,7 +7087,7 @@
                         <l>oc skaffer huad der er inde/ </l>
                         <l>Oc sender sin <app>
                                 <lem>benedidelse</lem>
-                                <rdg><q>benedilse</q> orig.</rdg>
+                                <rdg wit="#orig">benedilse</rdg>
                             </app> huert Aar/ </l>
                         <l>at wi maa altid finde/ </l>
                         <l>hans Guddoms gaffue gifft oc laan/ </l>
@@ -8708,16 +8708,16 @@
                     <lg>
                         <l><app>
                                 <lem><c function="initials" rend="2">K</c>Yrieleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>.</l>
                         <l>
                             <app>
                                 <lem>Christeleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>.</l>
                         <l><app>
                                 <lem>Kyrieleison</lem>
-                                <rdg>rettet</rdg>
+                                <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>.</l>
                     </lg>
                 </div>
