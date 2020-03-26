@@ -125,12 +125,12 @@
                      ij.</orig><reg>Luk 2</reg></ref>) Englernis lofsang oc Simeonis tacksielse /
                <lb/>hwes textis ord her besyn<lb rend="="/>derlig ind att føre wilde wære for saare
                langt / <lb/>thÿ wil ieg for kortheds skyld paa thenne
-                        <app><lem>tÿd</lem><rdg><q>tyd</q> orig.</rdg></app> / <lb/>gaa thennom for
+                        <app><lem>tÿd</lem><rdg wit="#orig">tyd</rdg></app> / <lb/>gaa thennom for
                offuer. Ther fore fromme le<lb rend="="/>ssere (brugendis saa mange exemple /
                <lb/>fodspor <pb n="E4"/> oc efftersiun / <lb/>icke alleniste aff thet gamle /
                <lb/>men oc saa aff thet ny Testamente) haffue wÿ her wdi een god mening forsamlid
                nogre Psalmer oc aandelige wÿser / <lb/>oc ladit thennom merckeli<lb rend="="/>ge
-                     <app><lem>prenttit</lem><rdg><q>orenttit</q> orig.</rdg></app> oc flittelig
+                     <app><lem>prenttit</lem><rdg wit="#orig">orenttit</rdg></app> oc flittelig
                corrigeret / <lb/>med then hel<lb rend="="/>lige schrifft wel bewernid / <lb/>oc
                trycht meeste par<lb rend="="/>ten med theris noder och stæmme / <lb/>hwor then<lb
                   rend="="/>nom bør att siungis / <lb/>saa / <lb/>att hwor the komme mwe beholde
@@ -142,7 +142,7 @@
                fortryckis. som ere (tess wær) nw møget almenlige / <lb/>Oc att børn oc vnghe folk
                motte nw ÿ thet stæd tilwennis att lære Psal<lb rend="="/>mer oc aandelige wÿser /
                <lb/>som ere een begyndelse oc rood til all hellighed / <lb/><app><lem>tuctighet
-                        </lem><rdg><q>tuctiget </q> orig.</rdg></app> oc godhed / <lb/>Oc
+                        </lem><rdg wit="#orig">tuctiget</rdg></app> oc godhed / <lb/>Oc
                   the<ex>n</ex>nom icke alsomeniste siunge vdwortis med munden / <lb/>men oc saa
                indwortis med hiertet / <lb/>ta<lb rend="="/><note place="left">(<ref
                      target="#kor-1-7"><orig>j. Cor. vij.</orig><reg>1 Kor
@@ -180,7 +180,7 @@
                               3</reg></ref>) (<ref target="#joh-brev-1-4"><orig>j. Joh.
                               iiij.</orig><reg>1 Joh 4</reg></ref>)</note> schriffuis att Gud elste
                      werden saa/ </l>
-                  <l><app><lem>sÿn</lem><rdg><q>syn</q> orig.</rdg></app> søn for henne haffuer
+                  <l><app><lem>sÿn</lem><rdg wit="#orig">syn</rdg></app> søn for henne haffuer
                      giffuit/ </l>
                   <l>hwo ther tror paa Jesum Christ/ </l>
                   <l>skal med han<lb rend="="/>nwm salig bliffue.</l>
@@ -238,7 +238,7 @@
                   <l>ÿ kierli<lb rend="="/><note place="left">(<ref target="#matt-5"><orig>Math.
                               v.</orig><reg>Matt 5</reg></ref>) (<ref target="#rom-12"><orig>Rom.
                               xij.</orig><reg>Rom 12</reg></ref>)</note>gheds gierning
-                           <app><lem>thÿn</lem><rdg><q>thyn</q> orig.</rdg></app> næste/ </l>
+                           <app><lem>thÿn</lem><rdg wit="#orig">thyn</rdg></app> næste/ </l>
                   <l>alt saa som Gud haffuer teg bewÿst/ </l>
                   <l>mod onde oc gode menniske.</l>
                </lg>
@@ -262,7 +262,7 @@
                         <l>att bære i theris hender.</l>
                      </lg>
                   </lem>
-                  <rdg><q/> orig.; rettet</rdg>
+                  <rdg wit="#orig"><note>rettet</note></rdg>
                </app>
                <lg>
                   <l><space extent="2blanks"/>Rober nogen ÿ himmelen til meg/ </l>
@@ -311,7 +311,7 @@
                      6</reg></ref>)</note>paa teg/ </l>
                   <l>saa monne oss Paulus lære/ </l>
                   <l>ski<lb rend="="/>old/ hielm/ pa<ex>n</ex>tzer skulle nw
-                              <app><lem>werge</lem><rdg><q>wærte</q> orig.; rettet</rdg></app> teg/ </l>
+                              <app><lem>werge</lem><rdg wit="#orig">wærte<note>rettet</note></rdg></app> teg/ </l>
                   <l>ther til eet swerd/ Guds ord thet er/ </l>
                   <l>thy <note place="left">(<ref target="#pet-1-5"><orig>j Petri. v.</orig><reg>1
                               Pet 5</reg></ref>)</note>Satan thÿn grumme fiende er.</l>
@@ -326,7 +326,7 @@
                <lg>
                   <l><space extent="2blanks"/>Han haffuer offuerwundit synd/ hel<lb rend="="/>uede/
                      oc nød/ </l>
-                  <l>oc frelst <app><lem>oss</lem><rdg><q>off</q> orig.</rdg></app> fraa then ewi<lb
+                  <l>oc frelst <app><lem>oss</lem><rdg wit="#orig">off</rdg></app> fraa then ewi<lb
                         rend="="/>ge død/ </l>
                   <l>oss alle til glæde oc fromme/ </l>
                   <l><note place="left">(<ref target="#pet-1-4"><orig>j. Pet. iiij.</orig><reg>1 Pet
@@ -386,7 +386,7 @@
                   <l>Ther til then helliaand sandelig att wære alles wore trøstermand. </l>
                   <l>O Herre Christe tw æst ærens Konning. </l>
                   <l>Tw æst thÿn fa<lb rend="="/>ders ewige søn. </l>
-                  <l>Iomffruens <app><lem>lÿff</lem><rdg><q>lyff</q> orig.</rdg></app> wor teg icke
+                  <l>Iomffruens <app><lem>lÿff</lem><rdg wit="#orig">lyff</rdg></app> wor teg icke
                      wederstyggeligt </l>
                   <l>til att anna<ex>m</ex>me man<lb rend="="/>dom oc forløse alle vdwalde
                      menniske.</l>
@@ -402,7 +402,7 @@
                   <l>med thit hellige oc vdwalde folk.</l>
                   <l>O her<lb rend="="/>re frelss thit folk</l>
                   <l>oc welsigne the som ere <pb n="E11" ana="VI."/>
-                     <app><lem>thÿn</lem><rdg><q>thyn</q> orig.</rdg></app> arff oc eyedom.</l>
+                     <app><lem>thÿn</lem><rdg wit="#orig">thyn</rdg></app> arff oc eyedom.</l>
                   <l>Reghere oc lær the<ex>n</ex><lb rend="="/>nom/ oc ophoye thennom til ewindelig
                      tÿd.</l>
                   <l>Wÿ benedide teg Gud ÿ ewighed/ oc ære teg dag fraa dag.</l>
@@ -493,10 +493,9 @@
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Som han haffuer talid igiennom sÿ<lb rend="="/>ne
-                           <app><lem>hellige</lem><rdg><q>hillige</q> orig.</rdg></app> propheters
+                           <app><lem>hellige</lem><rdg wit="#orig">hillige</rdg></app> propheters
                      mund/ </l>
-                  <l>hwilke som ere aff gammel <app><lem>tÿd</lem><rdg><q>tyd</q>
-                     orig.</rdg></app>.</l>
+                  <l>hwilke som ere aff gammel <app><lem>tÿd</lem><rdg wit="#orig">tyd</rdg></app>.</l>
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Thet skulde skee att wÿ skulde frelsis fraa wore
@@ -608,7 +607,7 @@
                <lg>
                   <l><space extent="2blanks"/>Mÿne gode gierning the hiolpe meg ey/ </l>
                   <l>the kunde ey døde<ex>n</ex> offuerwinde/ </l>
-                  <l>then<note place="right"><app><lem>Lu</lem><rdg>herefter lakune
+                  <l>then<note place="right"><app><lem>Lu</lem><rdg wit="#orig">herefter lakune
                            orig.</rdg></app></note>
                      <pb n="E16"/> stercke dieffuel han sagde ney/ </l>
                   <l>han wilde icke lade seg binde/ </l>
@@ -621,7 +620,7 @@
                   <l>ther meg forløse kunde/ </l>
                   <l>ieg weed ret aldrig hwort ieg wil/ </l>
                   <l>ieg maa till heluedis gru<ex>n</ex><lb rend="="/>de/ </l>
-                  <l><app><lem>for</lem><rdg><q/> orig.; rettet</rdg></app> Guds wrede ther offuer
+                  <l><app><lem>for</lem><rdg wit="#orig"><note>rettet</note></rdg></app> Guds wrede ther offuer
                      meg er/ </l>
                   <l>oc syndzens byrde ther ieg nw bær/ </l>
                   <l>fortapt tha maa ieg bliffue.</l>
@@ -697,7 +696,7 @@
                   <l><space extent="2blanks"/>Til himmels igien till fáder mÿn/ </l>
                   <l>far <app><lem><note place="right">(<ref target="#joh-14"
                                     ><orig>Johan.|xiiij.</orig><reg>Joh 14</reg></ref>) oc
-                           </note></lem><rdg>herefter lakune orig.</rdg></app> ieg fraa thenne
+                           </note></lem><rdg wit="#orig">herefter lakune orig.</rdg></app> ieg fraa thenne
                      ælende / </l>
                   <l>ther wil ieg wæ<lb rend="="/>re Mester thÿn/ </l>
                   <l>then Helliaand teg att <pb n="E18"/> sende/ </l>
@@ -763,8 +762,8 @@
                   <l>oc ÿ thuer som the spæde lam?</l>
                </lg>
                <lg>
-                  <l><space extent="2blanks"/><app><lem>Jorden</lem><rdg><q>Jordan</q> orig.;
-                           rettet</rdg></app> skielffuer for Herrens ansigt: </l>
+                  <l><space extent="2blanks"/><app><lem>Jorden</lem><rdg wit="#orig">Jordan
+                           <note>rettet</note></rdg></app> skielffuer for Herrens ansigt: </l>
                   <l>oc for Jacobs Guds ansigt.</l>
                </lg>
                <lg>
@@ -839,7 +838,7 @@
                </lg>
                <lg>
                   <l><space extent="2blanks"/>J ere benedidet aff Herren</l>
-                  <l>som <app><lem>skap<lb rend="="/>te</lem><rdg>læsningen usikker</rdg></app>
+                  <l>som <app><lem>skap<lb rend="="/>te</lem><rdg wit="#orig"><note>læsningen usikker</note></rdg></app>
                      himmel oc iorden.</l>
                </lg>
                <lg>
@@ -927,7 +926,7 @@
                   2</reg></ref>)</note>
                <lg>
                   <l><space extent="2blanks"/>Then Engelske skare glæddis wid/ </l>
-                  <l>att <app><lem>Christ</lem><rdg><q>Chtist</q> orig.</rdg></app> wor kommen aff
+                  <l>att <app><lem>Christ</lem><rdg wit="#orig">Chtist</rdg></app> wor kommen aff
                      Abrahe sæd/ </l>
                   <l>thet hørde the hiyrder som wochtet the<lb rend="="/>ris queeg/ </l>
                   <l>att Christ wor fød oss mennis<lb rend="="/>ke lÿg.</l>
@@ -942,7 +941,7 @@
             <div xml:id="versikel-magnificat" n="5">
                <head type="add">Versikel</head>
                <head><pb n="E23" ana="XII."/>&#x00B6; Versickel fore Magnificat.</head>
-               <p>Han skall regnere <app><lem>offuer</lem><rdg><q>affuer</q> orig.</rdg></app>
+               <p>Han skall regnere <app><lem>offuer</lem><rdg wit="#orig">affuer</rdg></app>
                   Jacobs hwss ewindelig.</p>
                <p><space extent="2blanks"/>Hans rÿge faar ingen ende.</p>
             </div>
@@ -950,8 +949,8 @@
                <head type="add">Min sjæl ophøjer Herren</head>
                <head><!--<figure type="vignette"/>--> Magnificat. <!--<figure type="vignette"/>--></head>
                <lg>
-                  <l><app><lem><c function="initials" rend="3">M</c>Ÿn</lem><rdg><q><c
-                                 function="initials" rend="3">M</c>Yn</q> orig.</rdg></app> siæl
+                  <l><app><lem><c function="initials" rend="3">M</c>Ÿn</lem><rdg wit="#orig"><c
+                                 function="initials" rend="3">M</c>Yn</rdg></app> siæl
                      (taler Maria) opho<lb rend="="/><note place="right">(<ref target="#luk-1"
                               ><orig>Luce. j.</orig><reg>Luk 1</reg></ref>)</note>yer Herren.</l>
                   <l><space extent="2blanks"/>Oc mÿn aand frygder seg/ ÿ Gud mÿn frelsere.</l>
@@ -983,7 +982,7 @@
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Han haffuer
-                              <app><lem>ihukommid</lem><rdg><q>thukommid</q> orig.</rdg></app> sÿn
+                              <app><lem>ihukommid</lem><rdg wit="#orig">thukommid</rdg></app> sÿn
                         barm<lb rend="="/>hiertighed/ </l>
                   <l>oc sÿn tiæner Jsrael ophul<lb rend="="/>pid.</l>
                </lg>
@@ -1202,7 +1201,7 @@
             </div>
             <div type="psalm" xml:id="herre-krist-guds-enborne-soen" n="2">
                <head type="add">Herre Krist Gud Faders enbårne søn</head>
-               <head>&#x00B6; Een <app><lem>skøn</lem><rdg><q>skon</q> orig.</rdg></app> lofsang aff
+               <head>&#x00B6; Een <app><lem>skøn</lem><rdg wit="#orig">skon</rdg></app> lofsang aff
                   Christo.</head>
                <lg>
                   <l><c function="initials" rend="3">H</c>Er Christ Gud faders eenbor<lb rend="="
@@ -1230,7 +1229,7 @@
                   <l><space extent="2blanks"/>Wille tw oss naaden giffue/ </l>
                   <l>att wÿ <pb n="E29" ana="XV."/> motte rett forstaa/ </l>
                   <l>ÿ Christen tro att bliff<lb rend="="/>ue/ </l>
-                  <l>ÿ aanden teg <app><lem>tiæne</lem><rdg><q>næne</q> orig.; rettet</rdg></app>
+                  <l>ÿ aanden teg <app><lem>tiæne</lem><rdg wit="#orig">næne<note>rettet</note></rdg></app>
                      saa/ </l>
                   <l>wort hierte motte smage/ </l>
                   <l>thÿn sødhed alle dage/ </l>
@@ -1285,7 +1284,7 @@
                   <l>Hellige barmhiertige trøster<lb rend="="/>mand</l>
                   <l>tw ewige Gud/ </l>
                   <l>Lad oss icke ind<lb rend="="/>falle</l>
-                  <l>ÿ then ewige <app><lem>dødzens</lem><rdg><q>dodzens</q> orig.</rdg></app> nød/ </l>
+                  <l>ÿ then ewige <app><lem>dødzens</lem><rdg wit="#orig">dodzens</rdg></app> nød/ </l>
                   <l>Kyrie<lb rend="="/>leyson.</l>
                </lg>
                <lg>
@@ -1517,8 +1516,8 @@
                   <l>til Sions trøst anna<ex>m</ex>me/ </l>
                   <l>med krafft sÿne miskunds ørhne/ </l>
                   <l>wil frelse sÿne faar oc lame?</l>
-                  <l>Thet haffuer han giort oss med <app><lem>sÿn</lem><rdg><q>syn</q>
-                        orig.</rdg></app> søn/ </l>
+                  <l>Thet haffuer han giort oss med <app><lem>sÿn</lem><rdg wit="#orig">syn
+                       </rdg></app> søn/ </l>
                   <l>aff hwilken Jacob fick god løn: </l>
                   <l>oc alle Christne seg glæde.</l>
                </lg>
@@ -1684,8 +1683,7 @@
                   <l>Wor salighed.</l>
                </lg>
                <lg>
-                  <l><space extent="2blanks"/>Gud med oss <app><lem>Emanuel</lem><rdg><q>emanuel</q>
-                           orig.</rdg></app>. </l>
+                  <l><space extent="2blanks"/>Gud med oss <app><lem>Emanuel</lem><rdg wit="#orig">emanuel</rdg></app>. </l>
                   <l>Then bebu<lb rend="="/>dede Gabriel/ </l>
                   <l>Ther till er witne Ezechi<lb rend="="/>el/ </l>
                   <l>Han kom til oss wor frelsere.</l>
@@ -1712,7 +1710,7 @@
                   <l>Med Christ eder broder wærer glade oc froo/ </l>
                   <l>Giffuer hannwm loff wor Konning wÿss/ </l>
                   <l>Som oss forhwerffde then ewig prÿss/ </l>
-                  <l><app><lem>Ewindelig</lem><rdg><q>Ewindeling</q> orig.</rdg></app>.</l>
+                  <l><app><lem>Ewindelig</lem><rdg wit="#orig">Ewindeling</rdg></app>.</l>
                </lg>
             </div>
          </div>
@@ -2041,7 +2039,7 @@
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Herren wid thÿn høgre hand/ </l>
-                  <l>skall slaa konger paa <app><lem>sÿn</lem><rdg><q>syn</q> orig.</rdg></app>
+                  <l>skall slaa konger paa <app><lem>sÿn</lem><rdg wit="#orig">syn</rdg></app>
                      grumheds dag.</l>
                </lg>
                <lg>
@@ -2154,8 +2152,7 @@
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Then som loffuer sÿn næste med eed</l>
-                  <l>oc forwandler thet <app><lem>icke.</lem><rdg><q>icke..</q>
-                     orig.</rdg></app></l>
+                  <l>oc forwandler thet <app><lem>icke.</lem><rdg wit="#orig">icke..</rdg></app></l>
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Then som icke wdgiffuer sÿne pen<lb rend="="/>ninge
@@ -2256,9 +2253,9 @@
                      <space extent="2blanks"/>The menniske ere ÿ hw saa wrede/ </l>
                   <l>the reese thennom mod oss alle/ </l>
                   <l>Saa leffuen<lb rend="="/>dis hadde the sunckit oss nedder/ </l>
-                  <l>med <app><lem>grumhedt</lem><rdg><q>grunhed</q> orig.; rettet</rdg></app> oss
-                           <app><lem>offuer falle</lem><rdg><q>offuerualde</q> orig.;
-                        rettet</rdg></app>/ </l>
+                  <l>med <app><lem>grumhedt</lem><rdg wit="#orig">grunhed<note>rettet</note></rdg></app> oss
+                           <app><lem>offuer falle</lem><rdg wit="#orig">offuerualde
+                        <note>rettet</note></rdg></app>/ </l>
                   <l>Wor siæl hun gick igiennom thet wand</l>
                   <l>wÿ hadde for<lb rend="="/>sunckid alle mand/ </l>
                   <l>hadde Gud icke med oss wærid.</l>
@@ -2596,8 +2593,8 @@
                               iij.</orig><reg>Rom 3</reg></ref>)</note></l>
                </lg>
                <lg>
-                  <l><space extent="2blanks"/><app><lem>Tesse</lem><rdg><q>Te<ex>n</ex>sse</q>
-                           orig.</rdg></app> bud oss alle giffne ere/ </l>
+                  <l><space extent="2blanks"/><app><lem>Tesse</lem><rdg wit="#orig">Te<ex>n</ex>sse
+                          </rdg></app> bud oss alle giffne ere/ </l>
                   <l>att the skulle oss wor ondskab lære/ </l>
                   <l>oc sie oss hwad wÿ skulle giøre: </l>
                   <l>om wÿ wille Gud ÿ himmerig tilhøre/ </l>
@@ -2612,7 +2609,7 @@
                   <l>oc gaa ther icke fraa eet straa britt/ </l>
                   <l>
                      <pb n="E61" ana="XXXI."/>hwilkit oss er alle vmøgelicht</l>
-                  <l><app><lem>Gud miskunde oss</lem><rdg><q>Gud</q> orig.</rdg></app>.</l>
+                  <l><app><lem>Gud miskunde oss</lem><rdg wit="#orig">Gud</rdg></app>.</l>
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Forthi kom til oss Jesus Christ/ </l>
@@ -2768,14 +2765,14 @@
                   <l>her skulle wÿ Christne menniske lære/ </l>
                   <l>wor Christne tro<lb rend="="/>is krafft hÿn bolde/ </l>
                   <l>icke andet en tro mÿn Herre kiær/ </l>
-                  <l>thÿn pÿne oc død mÿn <app><lem>salig<lb rend="="/>hed</lem><rdg><q>salg<lb
-                                 rend="="/>hed</q> orig.</rdg></app> er/ </l>
+                  <l>thÿn pÿne oc død mÿn <app><lem>salig<lb rend="="/>hed</lem><rdg wit="#orig">salg<lb
+                                 rend="="/>hed</rdg></app> er/ </l>
                   <l>tw haffuer for meg betalid.</l>
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Ther paa ieg twiler inthit med alle/ </l>
                   <l>thÿne ord kunde icke bedrage/ </l>
-                  <l>tw bad <app><lem>in<lb rend="="/>gen</lem><rdg><q>in hen</q> orig.</rdg></app>
+                  <l>tw bad <app><lem>in<lb rend="="/>gen</lem><rdg wit="#orig">in hen</rdg></app>
                      mennisk ÿ mishaab falle/ </l>
                   <l>thet dra<lb rend="="/><note place="left">(<ref target="#tit-1"><orig>Titum.
                               j.</orig><reg>Tit 1</reg></ref>) (<ref target="#mark-16"><orig>Mar.
@@ -2821,8 +2818,8 @@
                               ><orig>Galat. v.</orig><reg>Gal 5</reg></ref>)</note> troen oss salig
                      allene/ </l>
                   <l>gode gierninger skulle wor
-                              <app><lem>ieffnchristen</lem><rdg><q>leffnchristen</q> orig.;
-                           rettet</rdg></app> tiæne/ </l>
+                              <app><lem>ieffnchristen</lem><rdg wit="#orig">leffnchristen
+                           <note>rettet</note></rdg></app> tiæne/ </l>
                   <l>ther paa wÿ then rette tro mercke.</l>
                </lg>
                <lg>
@@ -2960,8 +2957,8 @@
                               53</reg></ref>)</note>ther Gud aff himmelen oss betede/ </l>
                   <l>han wilde wor tiæner were/ </l>
                   <l>Wden all synd wor oss vsle lÿg/ </l>
-                  <l>ther med giorde han oss ewig <app><lem>rÿg</lem><rdg><q>ryg</q>
-                        orig.</rdg></app>/ </l>
+                  <l>ther med giorde han oss ewig <app><lem>rÿg</lem><rdg wit="#orig">ryg
+                       </rdg></app>/ </l>
                   <l>han bar wore synder alle.</l>
                </lg>
                <lg>
@@ -3004,8 +3001,8 @@
                </lg>
                <lg>
                   <l><space extent="2blanks"/>Gabrielis ord the ere
-                              <app><lem>fuldtkomne</lem><rdg><q>fulkomme</q> orig.;
-                        rettet</rdg></app><!--KOR. tjek om konjekturen er indsat korrekt--> nw/ </l>
+                              <app><lem>fuldtkomne</lem><rdg wit="#orig">fulkomme
+                        <note>rettet</note></rdg></app> nw/ </l>
                   <l>Eya Eya Een Jomffru haffuer fooster fød/ </l>
                   <l>som Gud fader hadde iætt/ ÿ for<lb rend="="/>dom tÿd/ </l>
                   <l>Nw er fød een frelsermand/ </l>
@@ -3119,8 +3116,8 @@
                   <l><space extent="2blanks"/>Then haffuer tw Herre nw satt<note place="right">(<ref
                            target="#rom-3"><orig>Roma. iij.</orig><reg>Rom 3</reg></ref>)</note>
                      fram/ </l>
-                  <l>for alle folk med stor <app><lem>naade</lem><rdg><q>maade</q> orig.;
-                           rettet</rdg></app>/ </l>
+                  <l>for alle folk med stor <app><lem>naade</lem><rdg wit="#orig">maade 
+                           <note>rettet</note></rdg></app>/ </l>
                   <l>oc til hans rÿge alle land/ lader bede oc raa<lb rend="="/>de/ </l>
                   <l>med thit dyre oc hellige ord/ </l>
                   <l>som syn<lb rend="="/>der oc nør fast klinger.</l>
@@ -3216,7 +3213,7 @@
                   <l><space extent="2blanks"/>Wÿ loffue wÿ prÿse wÿ neye teg/ </l>
                   <l>wÿ tacke teg for thÿn erlighed/ </l>
                   <l>O herre Gud fader ÿ himmerig/ </l>
-                  <l>tw haffuer oss <app><lem>giord</lem><rdg><q>giørd</q> orig.</rdg></app><note
+                  <l>tw haffuer oss <app><lem>giord</lem><rdg wit="#orig">giørd</rdg></app><note
                         place="right">(<ref target="#rom-5"><orig>Roma. v.</orig><reg>Rom
                            5</reg></ref>) (<ref target="#kron-2-20"><orig>ij. Pa. xx.</orig><reg>2
                               Kron 20</reg></ref>) </note> stor kierlighed. </l>
@@ -3361,10 +3358,10 @@
                   <l>hind anden <app><lem>el<lb rend="="/><note place="left">(<ref target="#pet-1-2"
                                     ><orig>j. Petri. ij.</orig><reg>1 Pet 2</reg></ref>) (<ref
                                  target="#joh-13"><orig>Johan. xiij</orig><reg>Joh
-                              13</reg></ref>)</note>ske</lem><rdg><q>el<lb rend="="/>ste</q> orig.;
-                           rettet</rdg></app> oc lÿde/ </l>
-                  <l>giøre them gott som oss giøre ont/<app><lem>ont</lem><rdg>herefter mangler
-                           vistnok et vers</rdg></app></l>
+                              13</reg></ref>)</note>ske</lem><rdg wit="#orig">el<lb rend="="/>ste
+                           <note>rettet</note></rdg></app> oc lÿde/ </l>
+                  <l>giøre them gott som oss giøre ont/<app><lem>ont</lem><rdg wit="#orig"><note>herefter mangler
+                           vistnok et vers</note></rdg></app></l>
                   <l>ther paa kendis wÿ att wære Guds folk/ </l>
                   <l>om wÿ oss ÿ kierlighed øffue/ </l>
                   <l>Jesu Christ wÿ tacke teg/ </l>
@@ -3424,8 +3421,8 @@
                   <l>lad op thÿn ørhen ÿ <note place="left">(<ref target="#sl-142"><orig>Psal.
                               cxlij.</orig><reg>Sl 142</reg></ref>)</note>thenne stund/ </l>
                   <l>oc hør mÿn bøn oc wer mÿn trøst/ </l>
-                  <l>Thÿ om tw wilde meg <app><lem>døm<lb rend="="/>me</lem><rdg><q>døni<lb rend="="
-                              />me</q> orig.</rdg></app> rett/ </l>
+                  <l>Thÿ om tw wilde meg <app><lem>døm<lb rend="="/>me</lem><rdg wit="#orig">døni<lb rend="="
+                              />me</rdg></app> rett/ </l>
                   <l>effter mÿn ondskab som ieg haff<lb rend="="/>uer fortiænt/ </l>
                   <l>tha er ieg borte med alle.</l>
                </lg>
@@ -3760,7 +3757,7 @@
                   <l>huil<lb rend="="/>ken allene teg/ </l>
                   <l>opdrog paa korsit for wo<lb rend="="/>re synder sleet/ </l>
                   <l>Jeg flyer til teg o Herre ÿ thit skød/ </l>
-                  <l><app><lem>meg</lem><rdg><q>med</q> orig.</rdg></app> aldrig offuergiff.</l>
+                  <l><app><lem>meg</lem><rdg wit="#orig">med</rdg></app> aldrig offuergiff.</l>
                   <l>Jeg maner teg for thÿn Guddoms foriæt/ </l>
                   <l>then tw haffuer loffuit for langen tÿd/ <note place="right">(<ref
                            target="#jer-31"><orig>Hier. xxxj.</orig><reg>Jer
@@ -4397,7 +4394,7 @@
                   som schreffuit staar. Han gaff thennom brød aff himmelen att æde. Tha sagde Jhesus
                      thenno<ex>m</ex>. Sandelig sandelig siger ieg eder/ <lb/>Moses gaff eder icke
                   thet brød/ <lb/>men mÿn fader giffuer eder sant brød aff himmelen/ <lb/>Thÿ then
-                  er Guds <app><lem>brød</lem><rdg><q>brod</q> orig.</rdg></app>/ <lb/>hwilken
+                  er Guds <app><lem>brød</lem><rdg wit="#orig">brod</rdg></app>/ <lb/>hwilken
                   nederstig aff himmelen/ <lb/>oc giff<pb n="E103" ana="LII." rend="="/>uer werden
                   lÿff. Tha sagde the til hannwm/ <lb/>Herre giff oss altÿd thet brød. Men Jesus
                      sag<lb rend="="/>de thennom. Jeg er liffzens brød. Hwo som kommer til meg/
@@ -4480,7 +4477,7 @@
                   <l>
                      <app>
                         <lem>Paa tredie dag och aff døde opstodt til hemmels foer</lem>
-                        <rdg><q/> orig.; rettet</rdg>
+                        <rdg wit="#orig"><note>rettet</note></rdg>
                      </app>
                   </l>
                   <l>wor dommer er han worden.</l>
@@ -4603,7 +4600,7 @@
                <p><space extent="2blanks"/>&#x00B6; Een kort formaning som er Pater noster med sÿn
                   beslutting oc wdlæggelse. Hwilken then Christne kirckis tiæner eller Biscop/
                      <lb/>haff<lb rend="="/>uer til then Christne forsamling/ <lb/>att
-                        <app><lem>ihukomme</lem><rdg><q>hiukomme</q> orig.</rdg></app> hwad hun skal
+                        <app><lem>ihukomme</lem><rdg wit="#orig">hiukomme</rdg></app> hwad hun skal
                   bede aff Gud/ <lb/>oc achte hwad han wil wor begæring skal wære til hannwm.</p>
             </div>
             <div xml:id="pater-noster-fadervor" n="20">
@@ -4652,8 +4649,8 @@
                      rend="="/>se/ men heller hielpe oc styrcke wor skrøbelighed med sÿn aand/ att
                   spæge legomid/ oc forsmaa werden med sÿn vbeskickelig begæring oc wæ<pb n="E111"
                      ana="LVI." rend="="/>sen/ oc offuerwinde dieffuelen/ med all sÿn
-                           <app><lem>fal<lb rend="="/>skhed</lem><rdg><q>fal<lb rend="="/>sked</q>
-                        orig.</rdg></app> oc swÿg. </p>
+                           <app><lem>fal<lb rend="="/>skhed</lem><rdg wit="#orig">fal<lb rend="="/>sked
+                        </rdg></app> oc swÿg. </p>
                <p>
                   <space extent="2blanks"/>vij. Att han wilde fremdelis frelse oss fraa ont/ bode
                   legomligt oc aandeligt/ tÿmeligt oc ewigt.</p>
@@ -4780,8 +4777,8 @@
                   Testament.</head>
                <p>
                   <c function="initials" rend="3">I</c>Eg formaner eder ÿ Jesu Chri<lb rend="="/>sti
-                  naffn/ att ÿ waare paa <app><lem>grand<lb rend="="/>givelig</lem><rdg><q>grand<lb
-                              rend="="/>gibelig</q> orig.</rdg></app> med een ret tro att
+                  naffn/ att ÿ waare paa <app><lem>grand<lb rend="="/>givelig</lem><rdg wit="#orig">grand<lb
+                              rend="="/>gibelig</rdg></app> med een ret tro att
                      anna<ex>m</ex><lb rend="="/>me Christi Testamente/ Oc besynderli<lb rend="="
                   />ge the ord/ ÿ hwilke Jesus Christus haff<lb rend="="/>uer skenckit oss sitt
                   legomme oc blod / till <pb n="E115" ana="LVIII."/> syndzens forladelse/ att the
@@ -5264,8 +5261,8 @@
                <lg>
                   <l><space extent="2blanks"/>Men tag wære teg nw Jesu Christ/ </l>
                   <l>som lod teg thet forbarme/ </l>
-                  <l>att dieffuelen sweeg oss med <app><lem>sÿn</lem><rdg><q>syn</q>
-                        orig.</rdg></app> list/ </l>
+                  <l>att dieffuelen sweeg oss med <app><lem>sÿn</lem><rdg wit="#orig">syn
+                       </rdg></app> list/ </l>
                   <l>wÿ ware nw fan<lb rend="="/>ger arme/ </l>
                   <l>nw lader tw oss faa thÿne ord/ </l>
                   <l>med thennom ret frÿ ere wÿ nw giord/ </l>
@@ -5280,7 +5277,7 @@
             <head><pb n="E128"/>&#x00B6; Eet Register offuer then<lb rend="="/>ne Sangbog. Wdi
                hwilket man kan lettelig opsøge oc finde saa mange Psalmer / <lb/>lofsange /
                <lb/>aandelig wÿser / <lb/>oc hwess andit her er
-                        <app><lem>begrebit</lem><rdg><q>begerbit</q> orig.; rettet</rdg></app> ÿ
+                        <app><lem>begrebit</lem><rdg wit="#orig">begerbit<note>rettet</note></rdg></app> ÿ
                   the<ex>n</ex>ne bog. Oc staar ther hooss hwer sang eet tal paa hwilkit blad han
                findis ÿ bogen / <lb/>oc samme tal finder man altÿd o<lb rend="="/>uerst paa hwert
                blad paa then første sÿde.</head>
@@ -5436,13 +5433,13 @@
                <label>L</label>
                <item>
                   <list rend="simple">
-                     <item rend="center">&#x00B6; Psalmus. <app><lem>cxvj</lem><rdg><q>cvj</q>
-                              orig.</rdg></app>. Laudate dominum omnes gentes.</item>
+                     <item rend="center">&#x00B6; Psalmus. <app><lem>cxvj</lem><rdg wit="#orig">cvj
+                              </rdg></app>. Laudate dominum omnes gentes.</item>
                      <item>Loffuer Herren alle hedninge. <ref target="xiij."
                            >xiij.</ref></item>
                      <item rend="center">&#x00B6; Een Sequentz / <lb/>Grates nu<ex>n</ex>c
-                              <app><lem>omnes. xviij </lem><rdg><q>omnes. </q>
-                        orig.</rdg></app></item>
+                              <app><lem>omnes. xviij </lem><rdg wit="#orig">omnes. 
+                       </rdg></app></item>
                      <item>Loffuit wære tw Jesu Christ. <ref target="xix."
                            >xix.</ref></item>
                      <item>Loffuer Gud ÿ fromme Christne. <ref target="xl."
@@ -5520,7 +5517,7 @@
                <item>
                   <list rend="simple">
                      <item rend="center">&#x00B6; Psalm. xiij. Dixit insipiens.</item>
-                     <item>Saa taler then <app><lem>vwÿse</lem><rdg><q>vwyse</q> orig.</rdg></app>
+                     <item>Saa taler then <app><lem>vwÿse</lem><rdg wit="#orig">vwyse</rdg></app>
                         mund. <ref target="xvij.">xvij.</ref></item>
                      <item rend="indent2">Sancte Powels Epistel til the Corin<lb rend="="/>ther.
                         l.</item>
