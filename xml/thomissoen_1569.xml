@@ -540,7 +540,7 @@
                             <cell>Mat</cell>
                             <cell>S. <app>
                                     <lem>Matthias </lem>
-                                    <rdg wit="#A">Marthias</rdg>
+                                    <rdg wit="#orig">Marthias</rdg>
                                 </app> Apostel.</cell>
                         </row>
                         <row>
@@ -737,7 +737,7 @@
                             <cell>Ab</cell>
                             <cell>Joseph nutrici<lb rend="=("/>us Domini. Terminus <app>
                                     <lem>Pascha<lb rend="="/>lis per </lem>
-                                    <rdg wit="#A">Pascha<lb rend="="/>lisper</rdg>
+                                    <rdg wit="#orig">Pascha<lb rend="="/>lisper</rdg>
                                 </app> dies 35.</cell>
                             <cell/>
                         </row>
@@ -1406,7 +1406,7 @@
                             <cell>Ba</cell>
                             <cell>Barnab. <app>
                                     <lem>Solstitium</lem>
-                                    <rdg wit="#A">Solstiu</rdg>
+                                    <rdg wit="#orig">Solstiu</rdg>
                                 </app> æstiuu<ex>m</ex>. Solhuer. <lb rend="("/>Solen i
                                     krabbe<ex>n</ex>. Den lengste dag/ <lb rend="("/>er 17¾. ti.
                                 lang. Natten da 6¼. <lb rend="("/>Solen op it halfft q. effter 3.
@@ -2242,7 +2242,7 @@
                         <row>
                             <cell><app>
                                     <lem>10 </lem>
-                                    <rdg wit="#A">0</rdg>
+                                    <rdg wit="#orig">0</rdg>
                                 </app></cell>
                             <cell>2</cell>
                             <cell>b</cell>
@@ -2478,7 +2478,7 @@
                             <cell>me</cell>
                             <cell>Solen <app>
                                     <lem>op </lem>
-                                    <rdg wit="#A">dp</rdg>
+                                    <rdg wit="#orig">dp</rdg>
                                 </app> til 8. Neder til 4. <lb rend="("/>Dagen er 8. ti: lang.
                                 Natten 16.</cell>
                         </row>
@@ -3456,7 +3456,7 @@
                             Aar <lb/>Søndag.</p>
                         <p><space extent="2blanks"/>☙ Men at Søndags <app>
                                 <lem>bogstaffue </lem>
-                                <rdg wit="#A">bostaffue</rdg>
+                                <rdg wit="#orig">bostaffue</rdg>
                             </app> omskifftis oc <lb/>forskiuder sig huert Aar/ det skeer for tuenne
                                 Or<lb rend="="/>sager skyld.</p>
                         <p><space extent="2blanks"/>☙ Den ene Orsag er/ at naar wi tage vore
@@ -4333,7 +4333,7 @@
                         icke altid kunde haffue Aarli<lb rend="="/>ge Almanach/ optegnit aff
                         Cypriano Leouitio saa <lb/>mange <app>
                             <lem>Formørckelser</lem>
-                            <rdg><q>Formørskelser</q> orig.</rdg>
+                            <rdg wit="#orig">Formørskelser</rdg>
                         </app>/ som der kand skee vdi Solen <lb/>oc Maanen/ vdi disse neste
                         effterfølgende 19. Aar. <lb/>Oc haffuer samme Cyprianus beregnit dem/ ad
                         <lb/>longitudinem Augustanam. </p>
@@ -8206,8 +8206,8 @@
                                 <lem><l>Wi loffue dig alle aff hu oc act/ </l>
                                     <l>at du vilde bruge din mact/ </l>
                                     <l>oss alle til euig gaffn oc fromme.</l></lem>
-                                <rdg><q>Wi loffue dig <ex>etc</ex>. <hi rend="italics">Repetitio vt
-                                            supra.</hi></q> orig.</rdg>
+                                <rdg wit="#orig">Wi loffue dig <ex>etc</ex>. <hi rend="italics">Repetitio vt
+                                            supra.</hi></rdg>
                             </app>
                         </l>
                     </lg>
@@ -8223,8 +8223,8 @@
                                 <lem><l>Wi loffue dig alle aff hu oc act/ </l>
                                     <l>at du vilde bruge din mact/ </l>
                                     <l>oss alle til euig gaffn oc fromme.</l></lem>
-                                <rdg><q>Wi loffue dig <ex>etc</ex>. <hi rend="italics">Repetitio vt
-                                            supra.</hi></q> orig.</rdg>
+                                <rdg wit="#orig">Wi loffue dig <ex>etc</ex>. <hi rend="italics">Repetitio vt
+                                            supra.</hi></rdg>
                             </app>
                         </l>
                     </lg>
@@ -8240,8 +8240,8 @@
                                 <lem><l>Wi loffue dig alle aff hu oc act/ </l>
                                     <l>at du vilde bruge din mact/ </l>
                                     <l>oss alle til euig gaffn oc fromme.</l></lem>
-                                <rdg><q>Wi loffue dig <ex>etc</ex>. <hi rend="italics">Repetitio vt
-                                            supra.</hi></q> orig.</rdg>
+                                <rdg wit="#orig">Wi loffue dig <ex>etc</ex>. <hi rend="italics">Repetitio vt
+                                            supra.</hi></rdg>
                             </app>
                         </l>
                     </lg>
@@ -8373,7 +8373,7 @@
                         <l>At Gud vil giffue dem sin naad/ </l>
                         <l>Haffuer <app>
                                 <lem>Christi</lem>
-                                <rdg><q>Ehristi</q> orig.</rdg>
+                                <rdg wit="#orig">Ehristi</rdg>
                             </app> Martyr siungit/ </l>
                         <l>Der hand i Fengsel sad.</l>
                     </lg>
@@ -9717,8 +9717,8 @@
                         <l>
                             <app>
                                 <lem>Haleluia.</lem>
-                                <rdg><q><l>Hale <ex>etc</ex>. <hi rend="italics">Repetitio vt
-                                                supra.</hi></l></q> orig.</rdg>
+                                <rdg wit="#orig"><l>Hale <ex>etc</ex>. <hi rend="italics">Repetitio vt
+                                                supra.</hi></l></rdg>
                             </app>
                         </l>
                     </lg>
@@ -9791,8 +9791,8 @@
                                 <lem><l>Saa vist vilde Gud oss det være <lb/>kiend/ </l>
                                     <l>at Christus for oss hid vdsend</l>
                                     <l>leffuer nu vden all ende.</l></lem>
-                                <rdg><q><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
-                                                vt su<lb rend="="/>pra.</hi></l></q> orig.</rdg>
+                                <rdg wit="#orig"><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
+                                                vt su<lb rend="="/>pra.</hi></l></rdg>
                             </app></l>
                     </lg>
                     <lg>
@@ -9809,8 +9809,8 @@
                                 <lem><l>Saa vist vilde Gud oss det være <lb/>kiend/ </l>
                                     <l>at Christus for oss hid vdsend</l>
                                     <l>leffuer nu vden all ende.</l></lem>
-                                <rdg><q><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
-                                                vt su<lb rend="="/>pra.</hi></l></q> orig.</rdg>
+                                <rdg wit="#orig"><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
+                                                vt su<lb rend="="/>pra.</hi></l></rdg>
                             </app></l>
                     </lg>
                     <lg>
@@ -9827,8 +9827,8 @@
                                 <lem><l>Saa vist vilde Gud oss det være <lb/>kiend/ </l>
                                     <l>at Christus for oss hid vdsend</l>
                                     <l>leffuer nu vden all ende.</l></lem>
-                                <rdg><q><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
-                                                vt su<lb rend="="/>pra.</hi></l></q> orig.</rdg>
+                                <rdg wit="#orig"><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
+                                                vt su<lb rend="="/>pra.</hi></l></rdg>
                             </app></l>
                     </lg>
                     <lg>
@@ -9845,8 +9845,8 @@
                                 <lem><l>Saa vist vilde Gud oss det være <lb/>kiend/ </l>
                                     <l>at Christus for oss hid vdsend</l>
                                     <l>leffuer nu vden all ende.</l></lem>
-                                <rdg><q><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
-                                                vt su<lb rend="="/>pra.</hi></l></q> orig.</rdg>
+                                <rdg wit="#orig"><l>Saa vist ville <ex>etc</ex>. <hi rend="italics">Repetitio
+                                                vt su<lb rend="="/>pra.</hi></l></rdg>
                             </app></l>
                     </lg>
                 </div>
@@ -10797,9 +10797,9 @@
                                 <l>met Guds Ord wi <lb/> oss beuare.</l>
                                 <l>Amen Amen sandelig saa/ </l>
                                 <l>saa siunge wi Haleluia. </l></lem>
-                            <rdg><q><l>Oc lad oss icke fordærffuis <ex>etc</ex>.</l>
+                            <rdg wit="#orig"><l>Oc lad oss icke fordærffuis <ex>etc</ex>.</l>
                                     <p>
-                                        <hi rend="italics">Vt supra.</hi></p></q> orig.</rdg>
+                                        <hi rend="italics">Vt supra.</hi></p></rdg>
                         </app>
                     </lg>
                     <lg>
@@ -10818,8 +10818,8 @@
                                 <l>met Guds Ord wi <lb/> oss beuare.</l>
                                 <l>Amen Amen sandelig saa/ </l>
                                 <l>saa siunge wi Haleluia. </l></lem>
-                            <rdg><q>
-                                    <l>Oc lad oss icke fordærffuis <ex>etc</ex>.</l></q> orig.</rdg>
+                            <rdg wit="#orig">
+                                    <l>Oc lad oss icke fordærffuis <ex>etc</ex>.</l></rdg>
                         </app>
                     </lg>
                     <lb/>
@@ -11365,7 +11365,7 @@
                         <head type="add">O Gud, vor Fader, du som est i Himmerig</head>
                         <head> II. <lb/> O Gud vor Fader du som <app>
                                 <lem>est <lb/></lem>
-                                <rdg><q>est <lb/>est</q> orig.</rdg>
+                                <rdg wit="#orig">est <lb/>est</rdg>
                             </app> i Himmerig <ex>etc</ex>.</head>
                         <notatedMusic>
                             <ptr target="Th_1569_LN1426_120r.xml"/>
@@ -12427,7 +12427,7 @@
                 <div type="psalm" xml:id="section-10-hymn-6" n="6">
                     <head type="add">Et godt beråd, vel betænkt mod (alt. tekst)</head>
                     <head> VI. <lb/> Om Guds Ords foractelse. Oc <lb/> siungis met de Noder/ som/
-                            <q>Kommer <lb/> til mig sagde Guds Søn</q>/ <lb/>siungis met.</head>
+                            <hi rend="italics">Kommer <lb/> til mig sagde Guds Søn/</hi> <lb/>siungis met.</head>
                     <lg>
                         <l><c function="initials" rend="3">J</c>T gaat beraad vel betenckt mod </l>
                         <l>Det er i alle Sager god/ </l>
@@ -17602,7 +17602,7 @@
                     <lg>
                         <l><app>
                                 <lem>Hen</lem>
-                                <rdg wit="#A">Heu</rdg>
+                                <rdg wit="#orig">Heu</rdg>
                             </app> hoss Babylonis flod/ </l>
                         <l>sade wi <lb/> tilsammen met sorrigfuld mod/ </l>
                         <l>der wi <lb/> vaare fengslede i Babylon/ </l>
@@ -18563,7 +18563,7 @@
                         <l>Synd oc Døden hand offueruand/ </l>
                         <l>Der met hand frelste <app>
                                 <lem>oss</lem>
-                                <rdg><q>ass</q> orig.</rdg>
+                                <rdg wit="#orig">ass</rdg>
                             </app> alle </l>
                         <l>Fra Helffuedis pine oc euige død/ </l>
                         <l>Som Adam monne forhuærffue/ </l>
@@ -22692,7 +22692,7 @@
                         <l>Paa yderste ende min/ </l>
                         <l>Beuar mit liff oc <app>
                                 <lem>leffnit</lem>
-                                <rdg><q>leffuit</q> orig.</rdg>
+                                <rdg wit="#orig">leffuit</rdg>
                             </app>
                         </l>
                         <l>Oc fructen i disse Land/ </l>
@@ -26154,7 +26154,7 @@
                         </lg>
                         <p>Siden skal hand atter vende sig til Fol<lb rend="="/>ckit/ <app>
                                 <lem>oc sige</lem>
-                                <rdg><q>ocsige</q> orig.</rdg>
+                                <rdg wit="#orig">ocsige</rdg>
                             </app> først</p>
                         <lg>
                             <l>Herren være met eder.</l>
@@ -27442,7 +27442,7 @@
                             </item>
                             <item><app>
                                     <lem>Hen</lem>
-                                    <rdg wit="#A">Heu</rdg>
+                                    <rdg wit="#orig">Heu</rdg>
                                 </app> hoss Babylonis flod <ref target="#section-17-hymn-13"
                                     >229.</ref>
                             </item>
