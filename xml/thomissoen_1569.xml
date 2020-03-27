@@ -18887,11 +18887,9 @@
                                     <ptr target="Th_1569_LN1426_246v.xml#mdiv-16"/>
                                 </notatedMusic> Gud forbarme dig offuer oss.</cell>
                         </row>
-                    </table>
-                    <table>
-                        <row role="label">
-                            <cell>Versickel.</cell>
-                            <cell>Versickel.</cell>
+                   
+                        <row>
+                            <cell role="label">Versickel.</cell>
                         </row>
                         <row>
                             <cell>Wi haffue Syndet met vore Forfædre. </cell>
