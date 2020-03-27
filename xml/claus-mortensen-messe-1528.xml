@@ -1332,19 +1332,25 @@
                     <l>
                         <hi rend="initial">O</hi> Gudts lam som baart tagher alle verdens <lb/>
                         <note place="margin">(<ref target="#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>
-                    <l>Forbarme tigh offuer oss</l>
+                    <l>Forbarme tigh offuer oss</l></lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
-                    <l>Mischunde tig offuer oss</l>
+               <lg> <l>
+                    <hi rend="initial">O</hi> Gudts lam som baart tagher alle verdens <lb/>
+                    <note place="margin">(<ref target="#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>    
+                <l>Mischunde tig offuer oss</l></lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
-                    <l>Giff oss thin frid</l>
+             <lg>   <l>
+                    <hi rend="initial">O</hi> Gudts lam som baart tagher alle verdens <lb/>
+                    <note place="margin">(<ref target="#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>  
+                <l>Giff oss thin frid</l></lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
-                </lg>
+               
             </div>
             <div xml:id="formaning2" n="28">
                 <head type="add">Formaning</head>
