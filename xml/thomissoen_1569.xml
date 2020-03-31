@@ -6562,7 +6562,7 @@
                 <head type="add">Kristi person og embede</head>
                 <head>Om Christi Person oc <lb/> Embede.</head>
                 <div type="psalm" xml:id="section-3-hymn-1" n="1">
-                    <head type="add">Herre Krist Gud Faders enborne søn</head>
+                    <head type="add">Herre Krist Gud Faders enbårne søn</head>
                     <head> I. <lb/>
                         <title>Her Christ Gud Faders <lb/> enborne Søn</title>
                         <ex>etc</ex>. <lb/> Elizabeth Crucigers.</head>
@@ -9303,7 +9303,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="section-4-hymn-7" n="7">
-                    <head type="add">Jesus oppå korset stod</head>
+                    <head type="add">Jesus op på korset stod</head>
                     <head> VII. <lb/> Om de VII. Ord/ vor Herre Je<lb rend="="/>sus Christus talede
                         / den tid hand <lb/> hengde paa Kaarssens <lb/> gallie.</head>
                     <notatedMusic>
@@ -10369,7 +10369,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="section-7-hymn-5" n="5">
-                    <head type="add">Vi arme Adams børn alle</head>
+                    <head type="add">Jesu Krist, dig takke vi</head>
                     <head> V. <lb/> En Sequentze til/ <title>Nu bede wi<lb/>den hellig Aand</title>.
                         <lb/>M. Hans Taussen.</head>
                     <notatedMusic>
@@ -18626,7 +18626,7 @@
                 <head type="add">Bøn og taksigelse</head>
                 <head>Om Bøn oc tacksigelse.</head>
                 <div type="psalm" xml:id="section-18-hymn-1" n="1">
-                    <head type="add">Kyrie eleison udi bededage</head>
+                    <head type="add">Kyrie eleison</head>
                     <head> I. <lb/> Kyrie eleison vdi Bededage.</head>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_246r.xml"/>
@@ -18638,7 +18638,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="section-18-hymn-2" n="2">
-                    <head type="add">Litani på dansk</head>
+                    <head type="add">Litani</head>
                     <head><pb ana="246_v" n="E548"/> II. <lb/>
                         <hi rend="italics">LITANIA</hi> Paa <lb/> Danske. <lb/>
                     </head>
@@ -21101,7 +21101,7 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="section-19-hymn-2" n="2">
-                    <head type="add">Halleluja. Lover Herren / Glæder eder i Herren uden men</head>
+                    <head type="add">Halleluja. Lover Herren</head>
                     <head><pb ana="289_r" n="E633"/> II. <lb/> Jt andet Haleluia/ aff S. Pouels <lb/>
                         Ord. <ref target="#fil-4"><orig><hi rend="italics">Philippens.</hi>
                                 4.</orig><!--<reg>Fil 4</reg>--></ref>
