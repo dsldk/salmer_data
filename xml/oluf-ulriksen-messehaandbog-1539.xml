@@ -1080,7 +1080,7 @@
                     <lb/>skulle forstaa huad testamentens ord <lb/>indeholle Ad eundem modum.</p>
             </div>
                 <div xml:id="kalken-ulriksen" type="psalm" n="18">
-                <head type="add">Kalken </head>
+                <head type="add">Indstiftelsesordene</head>
                 <notatedMusic>
                     <ptr target="Vo_1539_LN0298_000g01v.xml"/>
                 </notatedMusic>
@@ -1097,6 +1097,9 @@
                     <l>i mi<ex>n</ex> hukom<lb rend="="/>melse.</l>
                 </lg>
                 <!-- <figure type="notatedMusic"> </figure>-->
+                </div>
+                <div xml:id="naar-der-er-ingen-kommunikanter" n="19">
+                   <head type="add">Når der ikke er kommunikanter</head>
                 <p>Nar der er ingen so<ex>m</ex> viil<lb/> co<ex>m</ex>municeris da scal
                         ma<ex>n</ex>
                     <pb ana="G2_v" n="E52"/> ingelunde Co<ex>n</ex>secrere. paa det vy icke <lb/>sculle atter
@@ -1109,7 +1112,9 @@
                     Vnam atque alteram Col<lb rend="="/>lectam legat. postremo populus bene<lb
                         rend="="/>dicatur. Hec enim in ordinacio<ex>n</ex>e ita
                     <!--KOR. Latin Kristian: habentur OK?-->habentur.</p>
-                <lb/>
+                <lb/></div>
+                    <div xml:id="naar-der-er-kommunikanter" n="20">
+                        <head type="add">Med kommunikanter</head>
                 <p>Nar presten vdskiffter sacrame<ex>n</ex>tit. da <lb/>scal han disemellom intit
                     sige til com<lb rend="="/>municanterne. fordi der er obenbarli<lb rend="="/>ge
                     tilforn sagt desse ord til alle.</p>
@@ -1133,7 +1138,7 @@
                         haff<lb rend="="/>uer co<ex>m</ex>municerid dem alle. scal chorid <lb/>lade
                     aff att siunge.</p>
             </div>
-                <div xml:id="jesus-christus-er-vor-salighed" type="psalm" n="19">
+                <div xml:id="jesus-christus-er-vor-salighed" type="psalm" n="21">
                 <head type="add">Jesus Kristus er vor salighed</head>
                 <head>Jesus christus</head>
                 <notatedMusic>
@@ -1202,7 +1207,7 @@
                 </lg>
                 <lb/>
             </div>
-                <div xml:id="agnus-dei-ulriksen" type="psalm" n="20">
+                <div xml:id="agnus-dei-ulriksen" type="psalm" n="22">
                 <head type="add">O Guds Lam uskyldig</head>
                 <head>Agnus dei.</head>
                 <notatedMusic>
@@ -1224,7 +1229,7 @@
                 
             </div>
             <lb/>
-                <div xml:id="hilsen" n="21">
+                <div xml:id="hilsen" n="23">
                 <head type="add">Hilsen</head>
                 <p>Nar dette altsamme<ex>n</ex> giort er. som for<lb rend="="/>screffuit staar.
                     vender preste<ex>n</ex> sig om til <lb/>folked oc siger. </p>
@@ -1237,7 +1242,7 @@
                 <p> Oc saa leser han tacsigel<lb rend="="/>sens bøn som her effterfølger:</p>
             </div>
             <lb/>
-                <div xml:id="kollekt" n="22">
+                <div xml:id="kollekt" n="24">
                 <head type="add">Kollekt</head>
                 <head>Collecta</head>
                 <lb/>
@@ -1261,7 +1266,7 @@
                             vi</orig><reg>4 Mos 6</reg></ref>). so<ex>m</ex> her
                     efft<ex>er</ex>følger.</p>
             </div>
-                <div xml:id="velsignelsen" type="psalm" n="23">
+                <div xml:id="velsignelsen" type="psalm" n="25">
                 <head type="add">Velsignelsen</head>
                 <lb/>
                 <head>Benedictio</head>
@@ -1273,7 +1278,7 @@
                 <p>Nu siunger ma<ex>n</ex>d een dansk. Psalme <lb/>Pro pace. eller oc dee x budord.
                         so<ex>m</ex> her <lb/>efft<ex>er</ex>følger. </p>
             </div>
-                <div xml:id="de-ti-bud" type="psalm" n="24">
+                <div xml:id="de-ti-bud" type="psalm" n="26">
                 <head type="add">Gud Fader udi Himmerig</head>
                 <head>Dee x budord.</head>
                 <notatedMusic>
@@ -1352,7 +1357,7 @@
                     <l>ha<ex>n</ex>s budord vel beuare.</l>
                 </lg>
             </div>
-                <div xml:id="da-pacem-domine" type="psalm" n="25">
+                <div xml:id="da-pacem-domine" type="psalm" n="27">
                 <head type="add">Forlen os med fred nådelig</head>
                 <head>Jtem Da pacem domine <lb/>in diebus nostris</head>
                 <notatedMusic>
@@ -2015,7 +2020,7 @@
                 </div>
                 <lb/>
                 <div xml:id="dominica-14-post-trinitatis-collecta" n="55">
-                    <head>Dominica xiiii post trinitatis Ccollecta</head>
+                    <head type="add">Dominica xiiii post trinitatis Ccollecta</head>
                     <head>Dominica xiiij post trinitatis Collec.</head>
                     <lb/>
                     <p>O Almectigste euige gud. som beua<lb rend="="/>rer din hellige cristne kirke
@@ -2231,7 +2236,7 @@
                 </div>
                 <lb/>
                 <div xml:id="pro-ecclesia-collecta" n="74">
-                    <head>Pro Ecclesia collecta</head>
+                    <head type="add">Pro Ecclesia collecta</head>
                     <head>Pro Ecclesia Collecta</head>
                     <lb/>
                     <p>O Almectigste euige gud Som eene <lb/>vedst de vdualde me<ex>n</ex>niskes
@@ -2547,7 +2552,7 @@
                 </div>
                 <lb/>
                 <div xml:id="ad-ordinationem-superintendentum" n="89">
-                    <head>Ad ordinationem superintendentum</head>
+                    <head type="add">Ad ordinationem superintendentum</head>
                     <head>Ad ordinationem Superintendentum.</head>
                     <lb/>
                     <p>O Almectigste euige hi<ex>m</ex>melske fader <lb/>Som haffuer lert oss vid
@@ -3530,8 +3535,10 @@
                     <lb/>aar. Vy bede din vsigelige godhed at <lb/>du vilt verdis til att giffue
                     denne din <lb/>tienere samme naade oc forle hanne<ex>m</ex> ef<lb rend="="/>ter
                     din guddo<ex>m</ex>melige vilge. lifse<ex>n</ex>s sund<lb rend="="/>het dit
-                    hellige naffn til loff oc ere Vid <lb/>din enborne søn ie c.</p>
-                <p> Alia Collecta</p>
+                    hellige naffn til loff oc ere Vid <lb/>din enborne søn ie c.</p></div>
+                <div xml:id="alia-collecta" n="5">
+                    <head type="add">Alia collecta</head>
+                <head> Alia Collecta</head>
                 <lb/>
                 <p>O Almectigste euige gud du som ha<lb rend="="/>ffuer befallid oss ved vor herre
                     iesum <lb/>christu<ex>m</ex> oc i den hellige apostels sancte <lb/>Jacobi lerdom
@@ -3545,7 +3552,7 @@
                         rend="="/>na<ex>m</ex>melse. Ved din enborne søn ie. c. v.</p>
             </div>
             <lb/>
-                <div xml:id="benedictio-apud-infirmos" n="5">
+                <div xml:id="benedictio-apud-infirmos" n="6">
                 <head type="add">Benedictio apud infirmos</head>
                 <head>Benedictio apud infirmos.</head>
                 <lb/>
@@ -3682,145 +3689,144 @@
             </div></div>
         </body>
         <back>
-            <div type="register" n="9">
+            <div type="register" xml:id="register" n="9">
                 <head type="add">Register</head>
-                <div xml:id="index">
-                    <head type="add"><pb ana="X3_r" n="E165"/>Index</head> <!-- ana vises ikke -->
-                    <head>Jndex articulorum huius libri.</head>
+               
+                    <head><pb ana="X3_r" n="E165"/><!-- ana vises ikke -->Jndex articulorum huius libri.</head>
                     <list rend="simple">
-                        <item>Collecte Dominicales et trium festorum christi <ref>h iij</ref>
+                        <item>Collecte Dominicales et trium festorum christi <ref target="#Collecter-til-soendagene">h iij</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die purificationis Marie. <ref>l iiij</ref>
+                        <item>Collecta die purificationis Marie. <ref target="#die-purificatonis-marie-collecta">l iiij</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die Annuntiationis Marie. <ref>ibidem</ref>
+                        <item>Collecta die Annuntiationis Marie. <ref target="#die-annuntiatonis-marie-collecta">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die sancti Joannis baptiste. <ref>ibidem</ref>
+                        <item>Collecta die sancti Joannis baptiste. <ref target="#sancti-joannis-baptiste-collecta">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die visitationis Marie. <ref>ibidem</ref>
+                        <item>Collecta die visitationis Marie. <ref target="#die-visitacionis-marie-collecta">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die micaelis et anglorum. <ref>m i</ref>
+                        <item>Collecta die micaelis et anglorum. <ref target="#die-michaelis-et-sanctorum-angelorum-collecta">m i</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die omnium sanctorum. <ref>ibidem</ref>
+                        <item>Collecta die omnium sanctorum. <ref target="#die-omnium-sanctorum-collecta">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro Ecclesia. <ref>ibidem</ref>
+                        <item>Collecta pro Ecclesia. <ref target="#pro-ecclesia-collecta">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro ministris ecclesie. <ref>ibidem</ref>
+                        <item>Collecta pro ministris ecclesie. <ref target="#pro-ministris-ecclesie-collecta">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta Letaniarum in ebdomeda. <ref>m ij</ref>
+                        <item>Collecta Letaniarum in ebdomeda. <ref target="#die-letaniarum-ecclesie">m ij</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro peccatis. <ref>ibidem</ref>
+                        <item>Collecta pro peccatis. <ref target="#pro-peccatis-oratio">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro pace. <ref>ibidem</ref>
+                        <item>Collecta pro pace. <ref target="#pro-pace-oratio">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro Rege nostro. <ref>ibidem</ref>
+                        <item>Collecta pro Rege nostro. <ref target="#pro-rege-nostro-oratio">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro regibus et omnibus etc. <ref>m iij</ref>
+                        <item>Collecta pro regibus et omnibus etc. <ref target="#pro-regibus-et-omnibus">m iij</ref>
                         </item>
                         <lb/>
-                        <item>Collecta pro congregatione nostra. <ref>ibidem</ref>
+                        <item>Collecta pro congregatione nostra. <ref target="#pro-congregatione-nostra">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Collecta ad postulandam pluuiam. <ref>m iiij</ref>
+                        <item>Collecta ad postulandam pluuiam. <ref target="#ad-postulandam-pluviam">m iiij</ref>
                         </item>
                         <lb/>
-                        <item>Collecta die micaelis pro gratiarum actione. <ref>ibidem</ref>
+                        <item>Collecta die micaelis pro gratiarum actione. <ref target="#die-michaelis-pro-gratiarum-actione">ibidem</ref>
                         </item>
                         <lb/>
                         <item>Collecta pro publicis peccatoribus. homici<lb rend="="/>dis et
-                            excommunicatis. <ref>n i</ref>
+                            excommunicatis. <ref target="#pro-publicis-peccatoribus">n i</ref>
                         </item>
                         <lb/>
                         <item><pb ana="X3_v" n="E166"/><!-- ana vises ikke -->collecta pro recipiendis ad sanctorum communione. etc
-                                <ref>n ij</ref>
+                            <ref target="#pro-recipiendis-ad-sanctorum-communionem">n ij</ref>
                         </item>
                         <lb/>
-                        <item>collecta ad ordinationem sacerdotum. <ref>n iij</ref>
+                        <item>collecta ad ordinationem sacerdotum. <ref target="#ad-ordinationem">n iij</ref>
                         </item>
                         <lb/>
-                        <item>collecta ad ordinationem superintendum. <ref>o i</ref>
+                        <item>collecta ad ordinationem superintendum. <ref target="#ad-ordinationem-superintendentum">o i</ref>
                         </item>
                         <lb/>
-                        <item>collecta tempore electionis regis. <ref>o ij</ref>
+                        <item>collecta tempore electionis regis. <ref target="#tempore-electionis-regis-oratio">o ij</ref>
                         </item>
                         <lb/>
-                        <item>collecta pro rege die coronationis eius. <ref>ibidem</ref>
+                        <item>collecta pro rege die coronationis eius. <ref target="#die-coronationis">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>collecte apud infirmos. <ref>v iij</ref>
+                        <item>collecte apud infirmos. <ref target="#alia-collecta">v iij</ref>
                         </item>
                         <lb/>
-                        <item>collecta ad sepulturam. <ref>x ij</ref>
+                        <item>collecta ad sepulturam. <ref target="#kollekt-foer-eller-efter-pater-noster">x ij</ref>
                         </item>
                         <lb/>
-                        <item>Nar ingen communica<ex>n</ex>ter ere. <ref>g ij</ref>
+                        <item>Nar ingen communica<ex>n</ex>ter ere. <ref target="#naar-der-er-ingen-kommunikanter">g ij</ref>
                         </item>
                         <lb/>
                         <item>Om <app>
                                 <lem>hiemmedøpte</lem>
                                 <rdg wit="#orig.">himmedøpte <note>rettet</note></rdg>
-                            </app> børn. <ref>r iij</ref>
+                        </app> børn. <ref target="#hjemmedoebte-boern">r iij</ref>
                         </item>
                         <lb/>
                         <item>Om Messen oc he<ex>n</ex>dis <app>
                                 <lem>ceremo<ex>n</ex>ier</lem>
                                 <rdg wit="#orig.">ceremi<ex>n</ex>oer <note>rettet</note></rdg>
                             </app>
-                            <ref>a ij</ref>
+                            <ref target="#om-messen-boenner-og-ceremonier">a ij</ref>
                         </item>
                         <lb/>
-                        <item>Om børn att christne. <ref>q i</ref>
+                        <item>Om børn att christne. <ref target="#barnedaab">q i</ref>
                         </item>
                         <lb/>
-                        <item>Om bruduielse. <ref>r iiii</ref>
+                        <item>Om bruduielse. <ref target="#brudevielse-for-enfoldige-sognepræster">r iiii</ref>
                         </item>
                         <lb/>
-                        <item>Om vlofflige oc lønlige trolof. <ref>s i</ref>
+                        <item>Om vlofflige oc lønlige trolof. <ref target="#om-vielsen">s i</ref>
                         </item>
                         <lb/>
-                        <item>Om siuge atsøge paa deris yd<ex>er</ex>ste. <ref>t z</ref>
+                        <item>Om siuge atsøge paa deris yd<ex>er</ex>ste. <ref target="#ad-visitandum-infirmos">t z</ref>
                         </item>
                         <lb/>
-                        <item>Om at søge fengslede milde. etc. <ref>v iiii</ref>
+                        <item>Om at søge fengslede milde. etc. <ref target="#om-faengslede-misdaedere">v iiii</ref>
                         </item>
                         <lb/>
-                        <item>Om Jordeferdt. <ref>x i</ref>
+                        <item>Om Jordeferdt. <ref target="#om-jordefaerd">x i</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio communis <ref>e iij</ref>
+                        <item>Prefatio communis <ref target="#prefatio-communis-ulriksen">e iij</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio de nativitate christi. <ref>o ij</ref>
+                        <item>Prefatio de nativitate christi. <ref target="#prefatio-nativitate-christi">o ij</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio de passione cristi <ref>o iij</ref>
+                        <item>Prefatio de passione cristi <ref target="#prefatio-de-passione-christi">o iij</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio de resurrectione <ref>o iiij</ref>
+                        <item>Prefatio de resurrectione <ref target="#prefatio-de-resurrectione">o iiij</ref>
                         </item>
                         <lb/>
-                        <item><pb ana="X4_r" n="E167"/><!-- ana vises ikke -->Prefatio de ascensione. <ref>p i</ref>
+                        <item><pb ana="X4_r" n="E167"/><!-- ana vises ikke -->Prefatio de ascensione. <ref target="#prefatio-ascensione-domine">p i</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio de sancto spiritu. <ref>p ij</ref>
+                        <item>Prefatio de sancto spiritu. <ref target="#prefatio-sancto-spiritu">p ij</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio de sancta trinitate. <ref>ibidem</ref>
+                        <item>Prefatio de sancta trinitate. <ref target="#prefatio-trinitate">ibidem</ref>
                         </item>
                         <lb/>
-                        <item>Prefatio de beata virgine. <ref>p iiij</ref>
+                        <item>Prefatio de beata virgine. <ref target="#prefatio-virgine">p iiij</ref>
                         </item>
                     </list>
                 
@@ -3828,7 +3834,7 @@
                         xiiij. Vore fie<ex>n</ex>d<ex>er</ex> oc oss. <lb/>giff en sand kerlighedt.
                         <lb/>
                     </p>
-                </div>
+                
                 <div xml:id="ad-lectorem">
                     <head type="add">Ad lectorem</head>
                     <head>Ad Lectorem.</head>
