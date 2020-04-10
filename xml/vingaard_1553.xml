@@ -9087,13 +9087,14 @@
             <head type="add">Salmer og sange</head>
             <div type="psalm" xml:id="vel-er-den-mand-der-vandrer-ej" n="1">
                <head type="add">Vel er den mand der vandrer ej</head>
-               <head>Beatus vir. Den første Psalm/ Vnder <lb/>de noder/ Dixit insipiens eller
-                  <lb/>Apollo lacht</head>
+               <head>Beatus vir. <ref target="#sl-1"><orig>Den første Psalm</orig><reg>Sl
+                     1</reg></ref>/ Vnder <lb/>de noder/ Dixit insipiens eller <lb/>Apollo
+                  lacht</head>
                <lg>
                   <l><c function="initials" rend="3">V</c>El er den Mand der va<ex>n</ex>drer ey/ </l>
-                  <l>i de <lb/>w gudeliges raad/ </l>
+                  <l>i de <lb/>wgudeliges raad/ </l>
                   <l>Oc icke staar paa <lb/>Syndernis vey/ </l>
-                  <l>eller sider som spot <lb/>terne sade/ </l>
+                  <l>eller sider som spot<lb rend="="/>terne sade/ </l>
                   <l>Men haffuer sin lyst i Her<lb rend="="/>rens Lou/ </l>
                   <l>den er altid vdi hans hu/ </l>
                   <l>Han <lb/>idelige der paa tencker</l>
@@ -9105,14 +9106,14 @@
                   <l>Huilket sin fruct <lb/>i tiden ber/ </l>
                   <l>hendis Blad sig ey forsømme </l>
                   <l>Huad han gør skal hannem vel bekomme </l>
-                  <l>Men de forfaris som ære w fromme/ </l>
+                  <l>Men de forfaris som ære wfromme/ </l>
                   <l>som <lb/>Støff for vind hin stercke</l>
                </lg>
                <lg>
                   <l><pb ana="45_v" n_ekstra="F6v" n="E140"/><space extent="2blanks"/>&#x2055; Der
                      faare skal ey de wgudelige / </l>
                   <l>i <lb/>Dom bestandige bliffue/ </l>
-                  <l>Oc naar defro<ex>m</ex><lb rend="="/>me forsamle sig/ </l>
+                  <l>Oc naar de fro<ex>m</ex><lb rend="="/>me forsamle sig/ </l>
                   <l>Da findis de Syndere at <lb/>lyue/ </l>
                   <l>Thi Gud kender de Retferdigis <lb/>Vey/ </l>
                   <l>Men de wgudeligis sti/ </l>
@@ -9132,54 +9133,86 @@
             <lb/>
             <div type="psalm" xml:id="hvor-faare-stormede-de-hedninge" n="2">
                <head type="add">Hvor faare stormede de hedninge</head>
-               <head>Den ii Psalme Quare fremue<lb rend="="/>runt gentes</head>
-               <l><c function="initials" rend="3">H</c>Vor faare stormede de Hednin/ <lb/>ge/ oc
-                  Folckene berammede w<lb rend="="/>nytige raad</l>
-               <lb/>
-               <l>Jørderigis Konger haffue sig bestercket/ <lb/>och ære forsamlede mod Herren och
-                  hans <lb/>sinurde Mand</l>
-               <l><space extent="2blanks"/>&#x2055; Lad oss sønder bryde deris baand/ </l>
-               <l>oc <lb/>bortkaste deris Aag</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Den som haffuer sin Bolig vdi Hie<ex>m</ex><pb
-                     ana="46_r" n_ekstra="F7r" n="E141" rend="="/>melen skal dem bespaatte/ och
-                  Herren skall <lb/>dem haanlige foriage</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Da skal han dem vredelige tiltale/ </l>
-               <l>oc dem i sin grundhed forskrecke</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Men ieg haffuer skicked min Kong <lb/>offuer mit
-                  hellige Bierg Sion</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Jeg skal predicke Gudz bud at Her<lb rend="="
-                  />ren sagde/ </l>
-               <l>du est min Søn i dag fødde <lb/>ieg dig</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Eske aff mig oc ieg skal giffue dig <lb/>de
-                  Hedninge til en Arff/ </l>
-               <l>och almuen til <lb/>en Eyedom.</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Dem skalt du sønder bryde met en <lb/>Jern spire
-                  / oc som ith Lerkar søndersla</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Saa skulle i Konger nu vere kloge <lb/>oc lader
-                  eder vnderuise som ere Jorderigis <lb/>Dommere</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Tiener Herren i fryct/ </l>
-               <l>och glæder <lb/>eder i hannem met en skelffuende fare</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Kysser Sønnen ath han icke vorder <lb/>vred/ </l>
-               <l>oc at i ey saa tabis aff Veyen</l>
-               <lb/>
-               <l><space extent="2blanks"/>&#x2055; Naar hans gru<ex>m</ex>hed begynder nogit at
-                  <lb/>brende/ </l>
-               <l>da lider dem vel som sette deris loff <lb/>ue til hannem</l>
-               <pb ana="46_v" n_ekstra="F7v" n="E142"/>
-               <l><space extent="2blanks"/>&#x2055; Ere vere Gud Fader oc Gud Søn <lb/>oc Gud den
-                  Helligaand/ </l>
-               <l>Som verit haff <lb/>uer aff begyndelsen nu oc altid er/ </l>
-               <l>Och <lb/>bliffuer euindelige/ </l>
-               <l>Amen</l>
+               <head><ref target="#sl-2"><orig>Den ii Psalme</orig><reg>Sl 2</reg></ref> Quare
+                     fremue<lb rend="="/>runt gentes</head>
+               <lg>
+                  <l><c function="initials" rend="3">H</c>Vor faare stormede de Hednin<lb rend="="
+                     />ge/ </l>
+                  <l>oc Folckene berammede w<lb rend="="/>nytige raad</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l>Jørderigis Konger haffue sig bestercket/</l>
+                  <l><lb/>och ære forsamlede mod Herren och hans <lb/>smurde Mand</l>
+               </lg>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Lad oss sønderbryde deris baand/ </l>
+                  <l>oc <lb/>bortkaste deris Aag</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Den som haffuer sin Bolig vdi
+                        Hie<ex>m</ex><pb ana="46_r" n_ekstra="F7r" n="E141" rend="="/>melen skal dem
+                     bespaatte/ </l>
+                  <l>och Herren skall <lb/>dem haanlige foriage</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Da skal han dem vredelige tiltale/ </l>
+                  <l>oc dem i sin grundhed forskrecke</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Men ieg haffuer skicked min Kong <lb/>offuer
+                     mit hellige Bierg Sion</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Jeg skal predicke Gudz bud at Her<lb rend="="
+                     />ren sagde/ </l>
+                  <l>du est min Søn i dag fødde <lb/>ieg dig</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Eske aff mig oc ieg skal giffue dig <lb/>de
+                     Hedninge til en Arff/ </l>
+                  <l>och almuen til <lb/>en Eyedom.</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Dem skalt du sønder bryde met en <lb/>Jern
+                     spire/</l>
+                  <l> oc som ith Lerkar søndersla</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Saa skulle i Konger nu vere kloge <lb/>oc
+                     lader eder vnderuise som ere Jorderigis <lb/>Dommere</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Tiener Herren i fryct/ </l>
+                  <l>och glæder <lb/>eder i hannem met en skelffuende fare</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Kysser Sønnen ath han icke vorder <lb/>vred/ </l>
+                  <l>oc at i ey saa tabis aff Veyen</l>
+               </lg>
+               <lg>
+                  <lb/>
+                  <l><space extent="2blanks"/>&#x2055; Naar hans gru<ex>m</ex>hed begynder nogit at
+                     <lb/>brende/ </l>
+                  <l>da lider dem vel som sette deris loff<lb rend="="/>ue til hannem</l>
+               </lg>
+               <lg>
+                  <pb ana="46_v" n_ekstra="F7v" n="E142"/>
+                  <l><space extent="2blanks"/>&#x2055; Ere vere Gud Fader oc Gud Søn <lb/>oc Gud den
+                     Helligaand/ </l>
+                  <l>Som verit haff<lb rend="="/>uer aff begyndelsen nu oc altid er/ </l>
+                  <l>Och <lb/>bliffuer euindelige/ </l>
+                  <l>Amen</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="israels-udgang-af-egypten" n="3">
@@ -9191,7 +9224,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>Da er kommen Juda til sin hellig/ <lb/>hed/ </l>
+                  <l><space extent="2blanks"/>Da er kommen Juda til sin hellig<lb rend="="/>hed/ </l>
                   <l>oc Jsrael til sin veldighed</l>
                </lg>
                <lb/>
@@ -9201,7 +9234,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Bier gene haffue sprungit som bucke/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Biergene haffue sprungit som bucke/ </l>
                   <l>oc Tuerne som de vnge Lam</l>
                </lg>
                <lb/>
@@ -9259,9 +9292,9 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; De haffue hender oc kunde icke føle <lb/>de
-                     haffue føder oc kunde icke gaa/ </l>
-                  <l>de kun <lb/>de icke raabe i deris strube</l>
+                  <l><space extent="2blanks"/>&#x2055; De haffue hender oc kunde icke føle</l>
+                  <l><lb/>de haffue føder oc kunde icke gaa/ </l>
+                  <l>de kun<lb rend="="/>de icke raabe i deris strube</l>
                </lg>
                <lb/>
                <lg>
@@ -9281,14 +9314,13 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>O i gudfryctige forlader eder paa Her<lb rend="="/>ren
-                     /</l>
+                  <l><space extent="2blanks"/>O i gudfryctige forlader eder paa Her<lb rend="="
+                     />ren/</l>
                   <l>thi han er eders hielpere oc beskermere</l>
                </lg>
                <lg>
-                  <l>
-                     <pb ana="47_v" n_ekstra="F8v" n="E144"/><space extent="2blanks"/>&#x2055;
-                     Herren haffuer kommet oss i hu / </l>
+                  <l><pb ana="47_v" n_ekstra="F8v" n="E144"/><space extent="2blanks"/>&#x2055;
+                     Herren haffuer kommet oss i hu/ </l>
                   <l>oc <lb/>haffuer benedidet oss alle</l>
                </lg>
                <lb/>
@@ -9304,7 +9336,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; J ere benedide aff Herren/ </l>
+                  <l><space extent="4blanks"/>&#x2055; J ere benedide aff Herren/ </l>
                   <l>som <lb/>skabte Hiemmelen oc Jorden</l>
                </lg>
                <lb/>
@@ -9336,12 +9368,12 @@
             <lb/>
             <div type="psalm" xml:id="o-gud-af-himmelen-se-her-til" n="4">
                <head type="add">O Gud, af himmelen se her til</head>
-               <head>Den xii. Psalm Saluum me <lb/>fac om Euangelii <lb/>fremgang
-                  <lb/>&#x2055;</head>
+               <head><ref target="#sl-12"><orig>Den xii. Psalm</orig><reg>Sl 12</reg></ref> Saluum
+                  me <lb/>fac om Euangelii <lb/>fremgang <lb/>&#x2055;</head>
                <pb ana="48_r" n_ekstra="G1r" n="E145"/>
                <lb/>
                <lg>
-                  <l><c function="initials" rend="3">O</c>Gud aff Hiemmelen see her til/ </l>
+                  <l><c function="initials" rend="3">O</c> Gud aff Hiemmelen see her til/ </l>
                   <l>oc lad dig det forbarme/ </l>
                   <l>Gant<lb rend="="/>ske faa da ere dine Tienere til /</l>
                   <l>besuigne ere wi arme/ </l>
