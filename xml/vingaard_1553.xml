@@ -9387,16 +9387,16 @@
                   <l>huad de<lb rend="="/>ris visdom paa finder/ </l>
                   <l>deris Hierte er icke <lb/>samdrectelige/ </l>
                   <l>til Gudz ord at forkynde/ </l>
-                  <l>den ene vil dette/ </l>
-                  <l>den anden vil der/ </l>
+                  <l>den ene vil dette/ den anden vil det/ </l>
                   <l>Be<lb rend="="/>drage oss met Menniskens Sæd/ </l>
                   <l>oc synes <lb/>dog hellige vduortis</l>
                </lg>
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Gud vil den scrifft met Roden opryc<lb
-                        rend="="/>ke som falsk hellighed oss lærer/ </l>
-                  <l>der til de <lb/>ris Tunge stolt obenbare /</l>
+                        rend="="/>ke </l>
+                  <l>som falsk hellighed oss lærer/ </l>
+                  <l>der til de<lb rend="="/>ris Tunge stolt obenbare/</l>
                   <l>tale stort wi <lb/>ville oss verge/ </l>
                   <l>Vi haffue ret och mact i <lb/>hand/ </l>
                   <l>huad wi bescriffue det skal gaa frem </l>
@@ -9418,16 +9418,18 @@
                   <l>saa vorder det klart befundet/ </l>
                   <l>paa Gudz <lb/>ord mand vel vocte skal/ </l>
                   <l>desligest i alle <lb/>stunde/ </l>
-                  <l>Det vil met korssit beskermis best <lb/>saa lærer oss den Hellige lest/ </l>
+                  <l>Det vil met korssit beskermis best </l>
+                  <l><lb/>saa lærer oss den Hellige lest/ </l>
                   <l>Detz krafft <lb/>lucter i alle lande</l>
                </lg>
                <lb/>
                <lg>
                   <l><space extent="2blanks"/>&#x2055; O milde Gud beuare dine ord/ </l>
                   <l>fra <lb/>alle falske lære/ </l>
-                  <l>at alle wi her sammen bo <lb/>du vilt vor beskemmer vere/ </l>
-                  <l>De Gudz <lb/>forgangne monne du her finde dit Folck <lb/>acte dig nu offuer at
-                     vinde/ </l>
+                  <l>at alle wi her sammen bo </l>
+                  <l><lb/>du vilt vor beskemmer vere/ </l>
+                  <l>De Gudz <lb/>forgangne monne du her finde </l>
+                  <l>dit Folck <lb/>acte dig nu offuer at vinde/ </l>
                   <l>O Gud for<lb rend="="/>biud dem det Amen</l>
                </lg>
                <lb/>
@@ -9444,7 +9446,8 @@
             <lb/>
             <div type="psalm" xml:id="saa-taler-den-uvise-mund" n="5">
                <head type="add">Så taler den uvise mund</head>
-               <head>Den xiiii. Psalm Dixit insipt <lb/>ens in corde suo</head>
+               <head><ref target="#sl-14"><orig>Den xiiii. Psalm</orig><reg>Sl 14</reg></ref> Dixit
+                     insipi<lb rend="="/>ens in corde suo</head>
                <lb/>
                <lg>
                   <l><c function="initials" rend="3">S</c>Aa taler den wuise Mund/ </l>
@@ -9511,7 +9514,8 @@
             </div>
             <div type="psalm" xml:id="den-daarlige-mund-han-siger-saa" n="6">
                <head type="add">Den dårlige mund han siger så</head>
-               <head>Den samme Psalm anderledis dog <lb/>met samme Noder</head>
+               <head><ref target="#sl-14"><orig>Den samme Psalm</orig><reg>Sl 14</reg></ref>
+                  anderledis dog <lb/>met samme Noder</head>
                <lb/>
                <lg>
                   <l><c function="initials" rend="3">D</c>En daarlige Mund han siger <lb/>saa/ </l>
@@ -9529,7 +9533,7 @@
                   <l>Han lod sig det icke <pb ana="50_r" n_ekstra="G3r" n="E149"/> forsmaa/ </l>
                   <l>om han nogen kunde finde/ </l>
                   <l>Der <lb/>haffde forstand paa hans ord/ </l>
-                  <l>for dem tor <lb/>de voffue baade Liff oc Jord/ </l>
+                  <l>for dem tor<lb rend="="/>de voffue baade Liff oc Jord/ </l>
                   <l>Oc hans <lb/>vilge fuldkomme</l>
                </lg>
                <lb/>
