@@ -9558,20 +9558,19 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Derfaare er deris hierte ey stille til </l>
-                  <l>frøct oc sorg dem vende/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Derfaare er deris hierte ey stille </l>
+                  <l>til frøct oc sorg dem vende/ </l>
                   <l>Gud til de arme <lb/>sig vende vil/ </l>
                   <l>som han i Troen befinder/ </l>
-                  <l>Deris Bøn han hører/ </l>
-                  <l>bestiller deris <lb/>raad/ </l>
+                  <l>Deris Bøn han hører/ bestiller deris <lb/>raad/ </l>
                   <l>oc vil dem hielpe som han haffuer <lb/>sagt/ </l>
                   <l>dem glædis at de hannem haffue</l>
                </lg>
                <lb/>
                <lg>
                   <l>Huem vil de arme Jsraels Børn/ </l>
-                  <l>til Si<pb ana="50_v" n_ekstra="G3v" n="E150" rend="="/>ons trøst anamme /</l>
-                  <l>V den Gud all ene aff <lb/>sin miskund/ </l>
+                  <l>til Si<pb ana="50_v" n_ekstra="G3v" n="E150" rend="="/>ons trøst anamme/</l>
+                  <l>Vden Gud all ene aff <lb/>sin miskund/ </l>
                   <l>ville sig der til forbarme/ </l>
                   <l>Oc <lb/>frelse oss alle met sin Søn/ </l>
                   <l>Aff huilcken <lb/>Jacob fick god løn </l>
@@ -9581,12 +9580,16 @@
             <lb/>
             <div type="psalm" xml:id="herren-sagde-til-min-herre" n="7">
                <head type="add">Herren sagde til min herre</head>
-               <head>Den cx Psalm Dixit dominus <lb/>domino meo.</head>
+               <head><ref target="#sl-110"><orig>Den cx Psalm</orig><reg>Sl 110</reg></ref> Dixit
+                  dominus <lb/>domino meo.</head>
                <lb/>
                <lg>
                   <l><c function="initials" rend="3">H</c>Erren sagde til min Herre/ </l>
-                  <l>sid hoss <lb/>min høgre haand <lb/>
-                     <space extent="2blanks"/>Saa lenge ieg legger dine fiende/ </l>
+                  <l>sid hoss <lb/>min høgre haand</l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><space extent="2blanks"/>Saa lenge ieg legger dine fiende/ </l>
                   <l>til <lb/>en fodskammel vnder dine føder</l>
                </lg>
                <lb/>
@@ -9597,9 +9600,8 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Dit folck skal der vere veluillige /</l>
-                  <l>
-                     <lb/>hellige smycke paa din sterckhedz dage/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Dit folck skal der vere veluillige/</l>
+                  <l><lb/>hellige smycke paa din sterckhedz dage/ </l>
                   <l>vd aff Moders Liff skal komme din fød<lb rend="="/>zels dug met Morgen
                      stund</l>
                </lg>
@@ -9624,8 +9626,8 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Han skal dricke paa Veyen aff en <lb/>beck
-                     /</l>
+                  <l><space extent="2blanks"/>&#x2055; Han skal dricke paa Veyen aff en
+                     <lb/>beck/</l>
                   <l>Derfaare skal han opløffte hoffuedet</l>
                </lg>
                <lb/>
@@ -9637,11 +9639,12 @@
             <lb/>
             <div type="psalm" xml:id="herre-hvem-skal-have-sin-bolig" n="8">
                <head type="add">Herre hvem skal have sin bolig</head>
-               <head>Den xv Psalm. Domine <lb/>quis habitabit</head>
+               <head><ref target="#sl-15"><orig>Den xv Psalm.</orig><reg>SL 15</reg></ref> Domine
+                  <lb/>quis habitabit</head>
                <lb/>
                <lg>
-                  <l><c function="initials" rend="3">H</c>Erre huem skal haffue sin bolig </l>
-                  <l>i dit Paulun/ </l>
+                  <l><c function="initials" rend="3">H</c>Erre huem skal haffue sin bolig i dit
+                     Paulun/ </l>
                   <l>oc huo skal bliff<lb rend="="/>ue paa dit hellige Bierg</l>
                </lg>
                <lb/>
@@ -9693,7 +9696,12 @@
             <lb/>
             <div type="psalm" xml:id="lover-herren-alle-hedninge" n="9">
                <head type="add">Lover Herren, alle hedninge</head>
-               <head>Laudate dominum omnes gentes</head>
+               <head>
+                  <ref target="#sl-117">
+                     <orig>Laudate dominum omnes gentes</orig>
+                     <reg>Sl 117</reg>
+                  </ref>
+               </head>
                <lb/>
                <lg>
                   <l><c function="initials" rend="3">L</c>Offuer Herren alle Hedninge/ </l>
@@ -9711,16 +9719,18 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>Som verit haffuer aff begyndelsen/ nu oc al tid er
-                     /</l>
-                  <l>fra euigtid och til euighed <lb/>Amen</l>
+                  <l><space extent="2blanks"/>Som verit haffuer aff begyndelsen/ </l>
+                  <l>nu oc al tid er/ fra euigtid och til euighed </l>
+                  <l><lb/>Amen</l>
                </lg>
             </div>
             <pb ana="52_r" n_ekstra="G5r" n="E153"/>
             <lb/>
             <div type="psalm" xml:id="nisi-quia-dominus-erat-in-nobis" n="10">
                <head type="add">Var Gud ikke med os denne tid</head>
-               <head>Dem cxxiiii Psalm/ Nisi quia dominus <lb/>erat in nobis</head>
+               <head><ref target="#sl-124"><orig><app><lem>Den</lem><rdg><q>Dem</q>
+                           orig.</rdg></app> cxxiiii Psalm/</orig><reg>Sl 124</reg></ref> Nisi quia
+                  dominus <lb/>erat in nobis</head>
                <lg>
                   <l><c function="initials" rend="5">W</c>Aare Gud icke met <lb/>oss denne tid/ </l>
                   <l>saa skal <lb/>Jsrael sige </l>
@@ -9734,7 +9744,7 @@
                <lg>
                   <l><space extent="2blanks"/>&#x2055; De Menniske ere i hu saa vrede/ </l>
                   <l>de <lb/>reyse dem mod oss alle/ </l>
-                  <l>Saa leffuendis haff <lb/>de de sunckit oss ned/ </l>
+                  <l>Saa leffuendis haff<lb rend="="/>de de sunckit oss ned/ </l>
                   <l>met grumhed oss off<lb rend="="/>uerfaldet/ </l>
                   <l>vor Siel hun gick igennem det <lb/>Vand/ </l>
                   <l>Vi haffde forsunckit alle Mand </l>
@@ -9758,19 +9768,21 @@
                   <l>wi bede du oss ey vndfalle </l>
                   <l>Den ære din Søn skal vere dig lig/ </l>
                   <l>fra <lb/>nu oc indtil euig tid /</l>
-                  <l>Den Hellig Aand <lb/>ey fra skilyes</l>
+                  <l>Den HelligAand <lb/>ey fra skilyes</l>
                </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="o-herre-gud-benaade-mig" n="11">
                <head type="add">O Herre Gud benåde mig</head>
-               <head>Den li Psalm Miserere mei Deus</head>
+               <head><ref target="#sl-51"><orig>Den li Psalm</orig><reg>Sl 51</reg></ref> Miserere
+                  mei Deus</head>
                <lg>
-                  <l><c function="initials" rend="3">O</c>Herre Gud benaade mig/ </l>
+                  <l><c function="initials" rend="3">O</c> Herre Gud benaade mig/ </l>
                   <l>for din <lb/>store barmhiertighed/ </l>
                   <l>Afslet alt min <lb/>wretuished/ </l>
-                  <l>Jeg kendis min Synd <lb/>hun et mig leed/ </l>
-                  <l>Du tho mig vel aff ond <lb/>skaff min/ </l>
+                  <l>Jeg kendis min Synd <lb/>hun <app><lem>er</lem><rdg><q>et</q> orig.</rdg></app>
+                     mig leed/ </l>
+                  <l>Du tho mig vel aff ond<lb rend="="/>skaff min/ </l>
                   <l>Och gør mig reen aff all min <lb/>Synd/ </l>
                   <l>Thi ieg kender min ondskaff nu/ </l>
                   <l>min Synd er altid i min hu</l>
@@ -9793,7 +9805,7 @@
                   <l>min Moder mig i Synden fødde </l>
                   <l>sandhed hun gielder altid for dig/ </l>
                   <l>din løn<lb rend="="/>lige raad du mig tede/ </l>
-                  <l>Du haffuer vist <lb/>mig huordan ieg er /</l>
+                  <l>Du haffuer vist <lb/>mig huordan ieg er/</l>
                   <l>fuld aff ont oc Synd<lb rend="="/>zens beger/ </l>
                   <l>det kunde ieg icke føre forstaa </l>
                   <l>før du lost mig din visdom faa</l>
