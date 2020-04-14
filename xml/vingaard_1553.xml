@@ -8308,7 +8308,7 @@
                   <lb/>
                   <lg>
                      <l><space extent="2blanks"/>&#x2055; Saa holde wi nu den store høytid/ </l>
-                     <l>met <app><lem>Hiertens</lem><rdg><q>Hietrens</q> orig.</rdg></app> frøyd oc
+                     <l>met <app><lem>Hiertens</lem><rdg wit="#orig">Hietrens</rdg></app> frøyd oc
                         glæde/ </l>
                      <l>Ath Gud <lb/>er oss nu mild oc blid/ </l>
                      <l>och haffuer oss løst <lb/>aff møde/ </l>
@@ -8940,7 +8940,7 @@
                      <lg>
                         <l><space extent="2blanks"/>&#x2055; Han talede til sin kære Søn/ </l>
                         <l>det er <lb/>nu tid at forbarme/ </l>
-                        <l>Du skalt det gøre for <lb/><app><lem/><rdg><q>for</q> orig.</rdg></app>
+                        <l>Du skalt det gøre for <lb/><app><lem/><rdg wit="#orig">for</rdg></app>
                            min Bøn/ </l>
                         <l>far heden oc frels de arme </l>
                         <l>Oc løss dem vd aff Syndens nød/ </l>
@@ -9728,8 +9728,7 @@
             <lb/>
             <div type="psalm" xml:id="nisi-quia-dominus-erat-in-nobis" n="10">
                <head type="add">Var Gud ikke med os denne tid</head>
-               <head><ref target="#sl-124"><orig><app><lem>Den</lem><rdg><q>Dem</q>
-                           orig.</rdg></app> cxxiiii Psalm/</orig><reg>Sl 124</reg></ref> Nisi quia
+               <head><ref target="#sl-124"><orig><app><lem>Den</lem><rdg wit="#orig">Dem</rdg></app> cxxiiii Psalm/</orig><reg>Sl 124</reg></ref> Nisi quia
                   dominus <lb/>erat in nobis</head>
                <lg>
                   <l><c function="initials" rend="5">W</c>Aare Gud icke met <lb/>oss denne tid/ </l>
@@ -9780,7 +9779,7 @@
                   <l><c function="initials" rend="3">O</c> Herre Gud benaade mig/ </l>
                   <l>for din <lb/>store barmhiertighed/ </l>
                   <l>Afslet alt min <lb/>wretuished/ </l>
-                  <l>Jeg kendis min Synd <lb/>hun <app><lem>er</lem><rdg><q>et</q> orig.</rdg></app>
+                  <l>Jeg kendis min Synd <lb/>hun <app><lem>er</lem><rdg wit="#orig">et</rdg></app>
                      mig leed/ </l>
                   <l>Du tho mig vel aff ond<lb rend="="/>skaff min/ </l>
                   <l>Och gør mig reen aff all min <lb/>Synd/ </l>
@@ -9984,8 +9983,12 @@
                   <l>At Verden er wlydig <lb/>dig/ </l>
                   <l>det see wi alle dage/ </l>
                   <l>Dine Ord for<lb rend="="/>smaass det er diss ver/ </l>
-                  <l>ath ingen haffuer <app><lem>sa<ex>n</ex>dhed <lb n="E218.002"/>kær/ </l>
-                  <l>løgen haffuer</lem><rdg><q/> orig.</rdg></app>
+                  <l>ath ingen haffuer 
+                     
+                     <app><lem>sa<ex>n</ex>dhed <lb n="E218.002"/>kær/ </lem><rdg wit="#orig"><note>manglende tekst indsat</note></rdg></app>
+                  </l>
+                  <l>
+                       <app><lem>løgen haffuer</lem><rdg wit="#orig"><note>manglende tekst indsat</note></rdg></app>
                      <lb/> mact faangit</l>
                </lg>
                <lb/>
@@ -10387,7 +10390,7 @@
                   <l>Vd <lb/>aff min sorg mig redde/ </l>
                   <l>Ansee at ieg mis<lb rend="="/>actet er/ </l>
                   <l>aff trældom plat formødder/ </l>
-                  <l><app><lem>Aff<lb rend="="/>slet</lem><rdg><q>Afft <lb/>slet</q> orig.</rdg></app> all min wretuished/ </l>
+                  <l><app><lem>Aff<lb rend="="/>slet</lem><rdg wit="#orig">Afft <lb/>slet</rdg></app> all min wretuished/ </l>
                   <l>Thi mange gø<lb rend="="/>re mig wfred/ </l>
                   <l>Oc aff fortred mig hade</l>
                </lg>
