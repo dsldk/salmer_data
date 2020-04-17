@@ -2071,9 +2071,9 @@
            
             <pb n="F4_v"/>
           
-                <p> Arma Regis Danorum. <lb/><figure>
+                <p> Arma Regis Danorum. <lb/><!--<figure>
                         <figDesc>træsnit</figDesc>
-                    </figure> Anno Domini MDXXXv. </p>
+                    </figure>--> Anno Domini MDXXXv. </p>
             </div>
         </body>
     </text>
