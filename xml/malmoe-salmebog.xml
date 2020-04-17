@@ -25,6 +25,7 @@
                 <respStmt>
                     <resp>XML-bearbejdning ved</resp>
                     <name>Thomas Hansen</name>
+                    <name>Mette Marie Møller Svendsen</name>
                 </respStmt>
             </editionStmt>
             <publicationStmt>
@@ -484,7 +485,7 @@
                         drick/ <lb n="E20.005"/> leffue edrwelige ath man skal icke faa
                             Kol<damage>de</damage><lb n="E20.006"/>siwge/ Gess oc Ender ære icke da
                         gode a<damage>th</damage>
-                        <lb n="E20.007"/> æde/ Man maa lade sin Hoffuit aare/ oc pr{??} <lb
+                        <lb n="E20.007"/> æde/ Man maa lade sin Hoffuit aare/ oc pr<app><lem></lem><rdg wit="#orig"><note>læsningen usikker</note></rdg></app> <lb
                             n="E20.008"/> sin hand oc twmel finger</p>
                     <p><hi rend="font_red">&#x2055;</hi> Solen ko<ex>m</ex>mer i det Tegen Fisk den
                         x da{??}</p>
@@ -1304,9 +1305,9 @@
                         fastendis</p>
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Krabbe den xii dag</p>
                 </div>
-                <!-- <div type="month" xml:id="juli" n="7">
-                    <head><reg>Juli</reg><orig><pb n="E29" ana="A8_r"/>Julius Orm maanedt</orig></head>
-                    <p><space extent="2blanks"/><hi rend="Antiqua2"><hi rend="italics"
+                 <div type="month" xml:id="juli" n="7">
+                    <head><reg>[Juli mangler]</reg><orig><pb n="E29" ana="A8_r"/>Julius Orm maanedt</orig></head>
+                     <!-- <p><space extent="2blanks"/><hi rend="Antiqua2"><hi rend="italics"
                                 >Kalenderbladet for juli mangler. Maane-</hi>
                             <lb n="E29.003"/><hi rend="italics">dens lægeraad gengives efter samme
                                 kalen-</hi>
@@ -1319,8 +1320,8 @@
                             />Ost er sund/ haard mad oc stegt kød er <lb n="E29.010"/>wsunt/ bruge
                             Saluie Rude Mercke oc Sten<lb n="E29.011" rend="="/>brecke i din drick
                             Du skalt icke lade dig <lb n="E29.012"/>fra S. Margrete oc til S.
-                            Bartholomet dag <lb n="E29.013"/>thi det er da Hunde Maanet.</hi></p>
-                </div>-->
+                            Bartholomet dag <lb n="E29.013"/>thi det er da Hunde Maanet.</hi></p>-->
+                </div>
                 <div type="month" xml:id="august" n="8">
                     <head><reg>August</reg><orig><pb n="E30" ana="A8_v"/><pb n="E31" ana="B1_r"/>KL
                             Augustus Høst<lb n="E31.002" rend="="/>maanet haffuer xxxi dage
@@ -3103,7 +3104,7 @@
                                 rend="font_red">Amen</hi></hi></p>
                 </div>
             </div>
-            <div type="mainPart" n="3">
+            <div type="chapter" xml:id="kapitel-salmer" n="3">
                 <head type="add">[Salmer]</head>
 
                 <div type="psalm" xml:id="i-jesu-navn-begynde-vi" n="1">
@@ -3565,12 +3566,8 @@
                             <l><space extent="2blanks"/>Som værit haffuer aff begyndelse<ex>n</ex>
                                 nu <lb n="E56.015"/>er oc altid bliffuer til euig tid Amen</l>
                         </lg>
-                    </div>
-                    <div>
-                        <head>
-                            <reg>Benedicamus</reg>
-                            <orig>Benedicamus</orig>
-                        </head>
+                            <p>Benedicamus</p>
+                        
                         <lg>
                             <l>Loffuer Gud vor Herre Alleluia Loff<lb n="E56.018" rend="="/>uer
                                 Herren Alleluia Alleluia/</l>
@@ -8726,8 +8723,8 @@
                 <div type="psalm" xml:id="o-almaegtigste-evige-gud">
                     <head>
                         <reg>O almægtigste evige Gud</reg>
-                        <orig><figure type="vignette"/> En anden Collecte <figure type="vignette"
-                            /></orig></head>
+                        <orig><!--<figure type="vignette"/>--> En anden Collecte <!--<figure type="vignette"
+                            />--></orig></head>
 
                     <p><c function="initials" rend="3">O</c> Almectiste euige Gud/ som be<lb
                             n="E169.023" rend="="/>skermer dem alle/ som fly til dig <lb
