@@ -11437,21 +11437,21 @@
                <head>Benedicamus</head>
                <pb ana="70_v" n_ekstra="I8v" n="E192"/>
                <lg>
-                  <l><space extent="2blanks"/>Loffuer Christum vor Frelsere/ Alle<lb rend="="/>luia/
-                     Alleluia/ Alleluia </l>
+                  <l><space extent="2blanks"/>Loffuer Christum vor Frelsere/ </l>
+                  <l>Alle<lb rend="="/>luia/ Alleluia/ Alleluia </l>
                </lg>
                <p>Suar</p>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>Gud vere loff oc euig tack/ Alleluia/ <lb/>Alleluia/
-                     Alleluia.</l>
+                  <l><space extent="2blanks"/>Gud vere loff oc euig tack/ </l>
+                  <l>Alleluia/ <lb/>Alleluia/ Alleluia.</l>
                </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="kollekt-o-milde-gud-fader" n="39">
                <head type="add">Kollekt</head>
                <head>Collecta</head>
-               <p><c function="initials" rend="4">O</c>Milde Gud Fader i Hiem<lb rend="="/>melen/
+               <p><c function="initials" rend="4">O</c> Milde Gud Fader i Hiem<lb rend="="/>melen/
                   som gaffst din Søn i <lb/>Døden for vore Synder oc fly<lb rend="="/>de oss alle
                   Seyeruinding i hans <lb/>opstandelse/ Vi bede dig ydmygelige/ ath <lb/>du giffuer
                   oss naade til ath vere tacknem<lb rend="="/>melige for saadanne velgerninger Giff
@@ -11462,11 +11462,12 @@
             <lb/>
             <div type="psalm" xml:id="hvi-storme-og-fnyse-de-hedninger-saa" n="40">
                <head type="add">Hvi storme og fnyse de hedninger så</head>
-               <head>Den ii. Psalm Quare fremuerunt <lb/>gentes /</head>
+               <head><ref target="#sl-2"><orig>Den ii. Psalm</orig><reg>Sl 2</reg></ref> Quare
+                  fremuerunt <lb/>gentes/</head>
                <pb ana="71_r" n_ekstra="K1r" n="E193"/>
                <lg>
                   <l><c function="initials" rend="4">H</c>Vi storme och fnysse de Hed<lb rend="="
-                     />nige saa/ </l>
+                        />ni<ex>n</ex>ge saa/ </l>
                   <l>oc lade saa megit ilde </l>
                   <l>wnyttige raad gaar folckene <lb/>paa </l>
                   <l>som Gud icke haffue vilde </l>
@@ -11478,7 +11479,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Lad oss bryde sønderderis Baand/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Lad oss bryde sønder deris Baand/ </l>
                   <l>och deris Aag bortkaste/ </l>
                   <l>Den som bor i <lb/>Hiemmerigis Throne/ </l>
                   <l>skal det aff dem <lb/>laste </l>
@@ -11502,9 +11503,8 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Jngen skulde kunde staa dig emod /</l>
-                  <l>
-                     <pb ana="71_v" n_ekstra="K1v" n="E194"/>Du skalt dem sønder bryde/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Jngen skulde kunde staa dig emod/</l>
+                  <l><pb ana="71_v" n_ekstra="K1v" n="E194"/>Du skalt dem sønder bryde/ </l>
                   <l>oc træde dem <lb/>alle vnder din fod/ </l>
                   <l>som dig icke vil lyde/ </l>
                   <l>J Konger verer klaage saa/ </l>
@@ -11514,15 +11514,17 @@
                   <l>Saa faa i <lb/>Ro och lisse</l>
                </lg>
                <lb/>
-               <l><space extent="2blanks"/>&#x2055; Tiæner Gud met fryct/ </l>
-               <l>oc glæder <lb/>eder met fare/ </l>
-               <l>Anammer Gudz ord met <lb/>tucte </l>
-               <l>saa kunde i Veyen beuare/ </l>
-               <l>Naar <lb/>hans grumhed optendis </l>
-               <l>da lider dem vel <lb/>alle/ </l>
-               <l>som icke fra hannem vendis/ </l>
-               <l>Men <lb/>trolige paa hannem kalde/ </l>
-               <l>Gud vnde <lb/>oss glæden alle</l>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Tiæner Gud met fryct/ </l>
+                  <l>oc glæder <lb/>eder met fare/ </l>
+                  <l>Anammer Gudz ord met <lb/>tucte </l>
+                  <l>saa kunde i Veyen beuare/ </l>
+                  <l>Naar <lb/>hans grumhed optendis </l>
+                  <l>da lider dem vel <lb/>alle/ </l>
+                  <l>som icke fra hannem vendis/ </l>
+                  <l>Men <lb/>trolige paa hannem kalde/ </l>
+                  <l>Gud vnde <lb/>oss glæden alle</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="lover-herren-hedninger-alle" n="41">
