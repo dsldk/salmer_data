@@ -2360,8 +2360,8 @@
                     <p> Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Gedebuck den xiii
                         dag</p>
                 </div>
-            </div>
-            <div type="preface" xml:id="introduction1" n="2">
+            
+            <div type="preface" xml:id="introduction1" n="13">
                 <head type="add">Hvordan man finder nymåne</head>
                 <head><pb n="E41" ana="B6_r"/><hi rend="font_red">Ath finde Ny maanet</hi></head>
                 <p>Vilt dw vide paa huad dag Maanen tendis <lb n="E41.003"/> Da opled det Gyldene
@@ -2395,7 +2395,7 @@
                     altid lade sig Men <lb n="E41.028"/> ingledis paa den lem so<ex>m</ex> tegenet
                     regerer paa</p>
 
-                <div type="instructions" n="1">
+                <div xml:id="tabel-for-kopsaetning" n="14">
                     <head type="add">Tabel: dage egnede til kopsætning</head>
                     <table>
                         <row>
@@ -3020,7 +3020,7 @@
                     <p><hi rend="font_red">De Tegen som ære Rød de ære gode/ Oc de Sorte ære
                             onde</hi></p>
                     <p>De de som ære Røde oc sorte de ære middel maade gode</p>
-                </div>
+                </div></div>
                 <div type="preface" xml:id="preface" n="2">
                     <head type="add">Forord</head>
                     <p><pb n="E44" ana="B7_v"/><c function="initials" rend="6">D</c>Et er tilbørligt
@@ -3102,8 +3102,8 @@
                             vor <lb n="E46.014"/>frelsere/ Det vnde <lb n="E46.015"/>oss alle Gud
                                 <lb n="E46.016"/>Fader aff <lb n="E46.017"/>sin naade <hi
                                 rend="font_red">Amen</hi></hi></p>
-                </div>
-            </div>
+                
+            </div></div>
             <div type="chapter" xml:id="kapitel-salmer" n="3">
                 <head type="add">[Salmer]</head>
 
@@ -8418,15 +8418,15 @@
                     <lg>
                         <l>&#x2055; Forlæ oss met fred</l>
                     </lg>
-                </div>
-                <div type="part" xml:id="det-evangeliske-messeembede">
+                </div></div>
+                <div type="chapter" xml:id="det-evangeliske-messeembede">
                     <head>
                         <reg>Det evangeliske messeembede</reg>
                         <orig><pb n="E163" ana="59_r"/>Her effter følger det <lb n="E163.002"/>
                             hellige Euangeliske Messe embede/ <lb n="E163.003"/> som nw i den
                             Christne forsamling <lb n="E163.004"/> siunges/ Mit twenne skøne
                                 forma<lb n="E163.005" rend="="/>ninger til folkit</orig></head>
-                </div>
+                
                 <div xml:id="vor-hjaelp-vaere-i-herrens-navn">
                     <head>
                         <reg>Vor hjælp være i Herrens navn</reg>
@@ -9550,7 +9550,8 @@
                         vins/ det er met <lb n="E196.019"/>Christi legemis oc blodis
                             Sacrame<ex>n</ex>te</p>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="nadver">
+                    <head type="add">[Nadver]</head>
                     <head>Her effter tager preste<ex>n</ex><lb n="E196.021"/>
                         <note place="left">(<ref target="#matt-26"><orig>Ma xxvi</orig><reg>Matt
                                     26</reg></ref>) (<ref target="#mark-14"><orig>Mar
@@ -9853,7 +9854,7 @@
                         <l> Be<lb n="E204.011" rend="="/>kent din synd/ oc bed om naade/</l>
                         <l> Saa <lb n="E204.012"/>gaar du fram for vden waade</l>
                     </lg>
-                </div>
+                </div></div>
                 <div type="psalm" xml:id="gud-vaere-lovet-og-benedidet">
                     <head>
                         <reg>Gud være lovet og benedidet</reg>
@@ -9916,7 +9917,8 @@
                         <l> Kyrieleyson</l>
                     </lg>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="dominus-vobiscum">
+                    <head type="add">Dominus vobiscum</head>
                     <head>Der effter ve<ex>n</ex>der preste<ex>n</ex>
                         <lb n="E205.020"/> sig om til folkit oc siger</head>
                     <lg>
@@ -9956,7 +9958,8 @@
                         <l><lb n="E206.020"/>Oc met din aand </l>
                     </lg>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="velsignelse-over-folket">
+                    <head type="add">Velsignelse over folket efter messen</head>
                     <head>Velsignelse offuer <lb n="E206.022"/> folkit effter <lb n="E206.023"
                         />Messen </head>
                     <p><pb n="E207" ana="81_r"/><c function="initials" rend="3">V</c>Or Herre
@@ -9971,9 +9974,8 @@
 
                     <p>&#x2055; De x Gudz bud som saa begyndis <lb n="E207.008"/>Gud fader vdi
                         hiemmerig/ finder dw <lb n="E207.009"/>i det xliii blad</p>
-                </div>
-                <div type="part">
-                    <head>Dominus vobiscum</head>
+               
+                  <lg>  <l>Dominus vobiscum</l></lg>
 
                     <lg>
                         <l><lb n="E207.011"/>Herren were met eder </l>
@@ -9985,7 +9987,8 @@
                         <l><lb n="E207.013"/>Oc met din aand</l>
                     </lg>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="sursum-corda">
+                    <head type="add">Sursum corda</head>
                     <head>Sursum corda</head>
 
                     <lg>
@@ -9998,7 +10001,8 @@
                         <l><lb n="E207.017"/>Vi haffue dem til Herren</l>
                     </lg>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="gratias-agamus-domino">
+                    <head type="add">Gratias agamus domino</head>
                     <head>Gratias agamus domino</head>
 
                     <lg>
@@ -10011,7 +10015,8 @@
                         <l><lb n="E208.002"/>Det er verdigt oc retuist</l>
                     </lg>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="vere-dignum-et-justum">
+                    <head type="add">Vere dignum et iustum est</head>
                     <head>Nu siunger presten <lb n="E208.004"/>Vere dignu<ex>m</ex> et
                             iustu<ex>m</ex> est</head>
                     <p><c function="initials" rend="4">S</c>Andelige er det werdigt oc <lb
@@ -10390,8 +10395,8 @@
 
                     </table>
                 </div>
-
-                <div type="part">
+                <div type="part" xml:id="faar-synderne">
+                    <head type="add">For synderne</head>
                     <head><lb n="E214.011"/>Faar Synderne</head>
                     <p><c function="initials" rend="5">O</c> Almegtiste Gud som er <lb n="E214.013"
                         />altid mild oc miskundelig <lb n="E214.014"/>aff din guddo<ex>m</ex>melige
@@ -10402,7 +10407,8 @@
                             n="E214.020" rend="="/>lige løsis aff dem formedelst din store <lb
                             n="E214.021"/>mildhed oc barmhiertighed Amen</p>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="for-kongens-og-rigets-raad">
+                    <head type="add">For kongens og rigets råd</head>
                     <head>Faar Ko<ex>n</ex>ge<ex>n</ex> och Rige<ex>n</ex>s Raad</head>
                     <p><pb n="E215" ana="85_r"/><c function="initials" rend="4">O</c> Aldermegtiste
                         euige Gud/ <lb n="E215.002"/>so<ex>m</ex> vislige regerer baade hiem<lb
@@ -10415,7 +10421,8 @@
                         siden beside hiem<lb n="E215.010" rend="="/>merigis rige met dig euindelige
                         Amen</p>
                 </div>
-                <div type="part">
+                <div type="part" xml:id="for-fred">
+                    <head type="add">For fred></head>
                     <head>Faar fred</head>
                     <p><c function="initials" rend="4">O</c> Aldermegtiste euige Gud <lb
                             n="E215.013"/>so<ex>m</ex> er en kilde til all timelig <lb n="E215.014"
@@ -12608,7 +12615,7 @@
                         <l> oc bliffue for dit ansicte euindelige</l>
                     </lg>
                 </div>
-            </div>
+            
         </body>
         <back>
             <div type="index" xml:id="register">
