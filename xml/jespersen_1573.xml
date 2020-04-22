@@ -1157,7 +1157,7 @@
                 <div type="psalm" xml:lang="la" xml:id="section-2-1" n="1">
                     <head type="add">Introitus latinus: Populus Sion</head>
                     <head>Introitus Latinus. <lb/>
-                        <ref target="#">Esaiæ. 3.</ref></head>
+                        <ref target="#">Esaiæ. <app><lem>30</lem><rdg wit="#orig.">3<note>rettet</note></rdg></app>30.</ref></head>
                     <notatedMusic>
                         <ptr target="Je_1573_LN0981_025.xml#mdiv-01"/>
                     </notatedMusic>
