@@ -429,7 +429,7 @@
                             <cell rend="font_red">xii</cell>
                             <cell>b</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">i</cell>
@@ -488,7 +488,7 @@
                         <lb n="E20.007"/> æde/ Man maa lade sin Hoffuit aare/ oc pr<app><lem></lem><rdg wit="#orig"><note>læsningen usikker</note></rdg></app> <lb
                             n="E20.008"/> sin hand oc twmel finger</p>
                     <p><hi rend="font_red">&#x2055;</hi> Solen ko<ex>m</ex>mer i det Tegen Fisk den
-                        x da{??}</p>
+                        x da<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></p>
                 </div>
                 <div type="month" xml:id="marts" n="3">
                     <head><reg>Marts</reg><orig><pb n="E21" ana="A4_r"/><hi rend="font_red">KL
@@ -614,7 +614,7 @@
                             <cell rend="font_red">xv</cell>
                             <cell rend="font_red">A</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">iiii</cell>
@@ -626,19 +626,19 @@
                             <cell/>
                             <cell>c</cell>
                             <cell>Benedicti abbediss dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xii</cell>
                             <cell>d</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">i</cell>
                             <cell>e</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -803,7 +803,7 @@
                             <cell/>
                             <cell rend="font_red">A</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red"><pb n="E24" ana="A5_v"/>xv</cell>
@@ -815,13 +815,13 @@
                             <cell rend="font_red">iiii</cell>
                             <cell>c</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>d</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xii</cell>
@@ -985,7 +985,7 @@
                             <cell/>
                             <cell>g</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xviii</cell>
@@ -997,13 +997,13 @@
                             <cell rend="font_red">vii</cell>
                             <cell>b</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>c</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red"><pb n="E26" ana="A6_v"/> xv</cell>
@@ -1168,7 +1168,7 @@
                             <cell/>
                             <cell>f</cell>
                             <cell>Primi oc Feliciani dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">x</cell>
@@ -1180,19 +1180,19 @@
                             <cell/>
                             <cell rend="font_red">A</cell>
                             <cell>Barnabe apostoli dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xviii</cell>
                             <cell>b</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">vii</cell>
                             <cell>c</cell>
                             <cell>Felicole Jomfruess dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -1301,7 +1301,7 @@
                             n="E28.003"/>dricke lidet Kilde vand huer morgen/ oc æde <lb n="E28.004"
                         />Lectuge met edicke i de<ex>n</ex>ne maanet Det er icke <lb n="E28.005"
                         />sunt at æde haarde æg flesk/ hard ost/ eller salt <lb n="E28.006"/>steckt
-                        kød/ Bruge Saluie oc hylde blomster <lb n="E28.007"/>{??} æde Yude
+                        kød/ Bruge Saluie oc hylde blomster <lb n="E28.007"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> æde Yude
                         fastendis</p>
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Krabbe den xii dag</p>
                 </div>
@@ -1353,7 +1353,7 @@
                                 </app></cell>
                             <cell>e</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -1365,13 +1365,13 @@
                             <cell rend="font_red">xiii</cell>
                             <cell>g</cell>
                             <cell>Osualdi kongiss dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">ii</cell>
                             <cell rend="font_red">A</cell>
                             <cell>Sixti pauess dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -1518,7 +1518,7 @@
                             <cell rend="font_red">viii</cell>
                             <cell>d</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -1552,19 +1552,19 @@
                             <cell rend="font_red">xvi</cell>
                             <cell>f</cell>
                             <cell rend="font_red">Egidi <lb/> dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">v</cell>
                             <cell>g</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell rend="font_red">A</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xiii</cell>
@@ -1708,7 +1708,7 @@
                             <cell/>
                             <cell>d</cell>
                             <cell>Cosine et Damiani</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xix</cell>
@@ -1720,13 +1720,13 @@
                             <cell rend="font_red">viii</cell>
                             <cell>f</cell>
                             <cell rend="font_red">S. Michelss dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>g</cell>
                             <cell>Jeronimi dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                     </table>
                     <p>&#x2055; De<ex>n</ex> Mestere Jsaac siger Ath Man maa <lb n="E34.003"/> vel
@@ -1890,7 +1890,7 @@
                             <cell/>
                             <cell>c</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xi</cell>
@@ -1902,13 +1902,13 @@
                             <cell rend="font_red">xix</cell>
                             <cell>e</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>f</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">viii</cell>
@@ -2076,7 +2076,7 @@
                             <cell/>
                             <cell>b</cell>
                             <cell>Eadmundi kongiss dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xiiii</cell>
@@ -2088,19 +2088,19 @@
                             <cell rend="font_red">iii</cell>
                             <cell>d</cell>
                             <cell>Cecilie Jomfrwess dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>e</cell>
                             <cell rend="font_red">Clemens pauess dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xi</cell>
                             <cell>f</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xix</cell>
@@ -2268,7 +2268,7 @@
                             <cell rend="font_red">vi</cell>
                             <cell>b</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -2280,13 +2280,13 @@
                             <cell rend="font_red">xiiii</cell>
                             <cell>d</cell>
                             <cell/>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">iii</cell>
                             <cell>e</cell>
                             <cell rend="font_red">S. Thome apostoli dag</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -2429,7 +2429,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2437,13 +2437,13 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
                             <cell rend="font_red">Veder</cell>
                         </row>
                         <row>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2451,10 +2451,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2465,10 +2465,10 @@
                             <cell rend="font_red">Veder</cell>
                         </row>
                         <row>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2498,7 +2498,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2512,7 +2512,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2520,10 +2520,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2534,10 +2534,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2567,7 +2567,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2581,7 +2581,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2589,10 +2589,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>Krab<hi rend="font_red">be</hi></cell>
                         </row>
@@ -2603,10 +2603,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2620,7 +2620,7 @@
                         </row>
                         <row>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2636,7 +2636,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>Løwe</cell>
                         </row>
@@ -2650,7 +2650,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2658,13 +2658,13 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>Løwe</cell>
                         </row>
                         <row>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2672,10 +2672,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2686,10 +2686,10 @@
                         </row>
                         <row>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2719,7 +2719,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2733,7 +2733,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2741,10 +2741,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2755,10 +2755,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2788,7 +2788,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2802,7 +2802,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2810,10 +2810,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>Scorpio</cell>
                         </row>
                         <row>
@@ -2824,10 +2824,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2841,7 +2841,7 @@
                         <row>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2857,7 +2857,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell rend="font_red">Skøtte</cell>
                         </row>
                         <row>
@@ -2871,7 +2871,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2879,13 +2879,13 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>Gedebuck</cell>
                         </row>
                         <row>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2893,10 +2893,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2907,10 +2907,10 @@
                         <row>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2940,7 +2940,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2954,7 +2954,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>z</cell>
@@ -2962,10 +2962,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>Fi<hi rend="font_red">sk</hi></cell>
@@ -2976,10 +2976,10 @@
                             <cell>c</cell>
                             <cell>v</cell>
                             <cell>k</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>r</cell>
                             <cell>g</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -2993,7 +2993,7 @@
                             <cell><hi rend="font_red">Fi</hi>sk</cell>
                         </row>
                         <row>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>o</cell>
                             <cell>d</cell>
                             <cell>x</cell>
@@ -3009,7 +3009,7 @@
                             <cell>b</cell>
                             <cell>t</cell>
                             <cell>i</cell>
-                            <cell>{??}</cell>
+                            <cell><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></cell>
                             <cell>q</cell>
                             <cell>f</cell>
                             <cell>Fi<hi rend="font_red">sk</hi></cell>
@@ -3160,7 +3160,7 @@
                                 n="E48" ana="1_v" rend="="/>sum Christ/ </l>
                         <l> salig er den som det tror <lb n="E48.002"/>vist/ </l>
                         <l> sig ganske der paa forlader/ </l>
-                        <l> fordi <lb n="E48.003"/><note place="left">{??}iii|{??}a<ex>n</ex>.
+                        <l> fordi <lb n="E48.003"/><note place="left"><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>iii|<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>a<ex>n</ex>.
                                 ii</note>hans synder beteckis da/ </l>
                         <l> ey regnis huad <lb n="E48.004"/>heller de ere store eller smaa</l>
                     </lg>
@@ -3175,14 +3175,14 @@
                         <l><space extent="2blanks"/>Abraham giorde Gud tilbørlig ære/ </l>
                         <l> der han trode Gudz ord sande ath væ<lb n="E48.012" rend="="/>re/ </l>
                         <l> Til de Ro<ex>m</ex>merske i det fierde/ </l>
-                        <l> haff<lb n="E48.013" rend="="/><note place="left">{??} iiii</note>uer
+                        <l> haff<lb n="E48.013" rend="="/><note place="left"><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> iiii</note>uer
                             troen ha<ex>n</ex>nem retuished tillagt/ </l>
                         <l> oss <lb n="E48.014"/>til en euig lære</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Ath wi tro paa Christ/ gudz gierning <lb
                                 n="E48.016"/>monne det være/<note place="left">i.
-                                {??}i|ii{??}</note></l>
+                                <app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>i|ii<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></note></l>
                         <l> Joha<ex>n</ex>nis vdi det siette</l>
                         <l><lb n="E48.017"/> Han er oss fød oc giffuen gantske/ </l>
                         <l> kom <lb n="E48.018"/>aff en Jomfru ren oc klar/ </l>
@@ -3193,7 +3193,7 @@
                             /> tro/</l>
                         <l> saa bewiss dw dig en tienere tro/</l>
                         <l> i <lb n="E48.022"/>kerlighedz gerning mod din næste/ </l>
-                        <l>alt <lb n="E48.023"/><note place="left">{??} v|xii</note>saa som Gud
+                        <l>alt <lb n="E48.023"/><note place="left"><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> v|xii</note>saa som Gud
                             haffuer dig bewist/ </l>
                         <l>mod <lb n="E48.024"/>onde och gode menniske</l>
                     </lg>
@@ -3453,16 +3453,16 @@
                     <lg>
                         <l><c function="initials" rend="2">K</c>Om Gud skaber helliga<ex>n</ex>d</l>
                         <l> besøg <lb n="E53.020"/>vort hierte met din and</l>
-                        <l> oc met din <lb n="E53.021"/>{??}ade forny vor sid</l>
-                        <l> at wi ku<ex>n</ex>de ke<ex>n</ex>de skab <lb n="E53.022"/>{??}nig
+                        <l> oc met din <lb n="E53.021"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ade forny vor sid</l>
+                        <l> at wi ku<ex>n</ex>de ke<ex>n</ex>de skab <lb n="E53.022"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>nig
                             din</l>
                     </lg>
                     <lg>
                         <l> Dw so<ex>m</ex> kallis vor trøsterma<ex>n</ex>d/</l>
                         <l><lb n="E53.023"/> den høyeste noge<ex>n</ex> tid være ka<ex>n</ex>d/</l>
                         <l> met aan<note place="right">(<ref target="#joh-?"><orig>Joa<ex>n</ex>.
-                                        xv{??}</orig><reg>Joh ?</reg></ref>) (<ref
-                                    target="#joh-brev-?"><orig>i Joa{??}</orig><reg>1 Joh
+                                        xv<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></orig><reg>Joh ?</reg></ref>) (<ref
+                                    target="#joh-brev-?"><orig>i Joa<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></orig><reg>1 Joh
                                     ?</reg></ref>)</note><pb n="E54" ana="4_v" rend="="/>delig
                             salue/ salue oss met/</l>
                         <l> ath wi met <lb n="E54.002"/>dine gaffuer bliffue beset</l>
@@ -3634,7 +3634,7 @@
                     <lg>
                         <l>Der wor oc inge<ex>n</ex> i verde<ex>n</ex> til/</l>
                         <l> der mig for<lb n="E58.006" rend="="/>løse kunde/</l>
-                        <l> Jeg vid ret aldrig h{??}ort ieg <lb n="E58.007"/>vil/</l>
+                        <l> Jeg vid ret aldrig h<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ort ieg <lb n="E58.007"/>vil/</l>
                         <l> ieg maa til helffuedis gru<ex>n</ex>de/</l>
                         <l> Gudz <lb n="E58.008"/>vrede der offuer mig er/</l>
                         <l> oc syndze<ex>n</ex>s byrde <lb n="E58.009"/>der ieg nw bær/</l>
@@ -3878,8 +3878,8 @@
                         <l> fra nw och ind til euig tid</l>
                     </lg>
                     <lg>
-                        <l><pb n="E63" ana="9_r"/>{??}ære Gud fader oc Gud søn och <lb n="E63.002"
-                            />{??}ud den helligand</l>
+                        <l><pb n="E63" ana="9_r"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ære Gud fader oc Gud søn och <lb n="E63.002"
+                            /><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ud den helligand</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Som wærit haffuer aff begyndelsen <lb
@@ -3900,7 +3900,7 @@
                         <l> Marie søn then rene <lb n="E63.012"/>Jomffru/</l>
                         <l>
                             <note place="right">(<ref target="#matt-?"><orig>Math
-                                        {??}</orig><reg>Matt ?</reg></ref>)</note> saa wit som <lb
+                                        <app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></orig><reg>Matt ?</reg></ref>)</note> saa wit som <lb
                                 n="E63.013"/>sole<ex>n</ex> offuer skin/</l>
                         <l> bekende <lb n="E63.014"/>wi Jesu<ex>m</ex> en Herre all ene</l>
                     </lg>
@@ -3922,40 +3922,40 @@
                         <l> hun <lb n="E63.022"/>wiste ey fuldkommelig hwad det war </l>
                     </lg>
                     <lg>
-                        <l><pb n="E64" ana="9_v"/> Det kyske hierte<ex>n</ex>s hwss for {??}/ </l>
-                        <l>{??}<lb n="E64.002"/>g{??} anammede Jesum Christ/</l>
-                        <l> hun bleff <lb n="E64.003"/>{??} Jomfru klar och sand/</l>
-                        <l> sin Søn hun <lb n="E64.004"/>{??}ndfick aff den Helligand</l>
+                        <l><pb n="E64" ana="9_v"/> Det kyske hierte<ex>n</ex>s hwss for <app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>/ </l>
+                        <l><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app><lb n="E64.002"/>g<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> anammede Jesum Christ/</l>
+                        <l> hun bleff <lb n="E64.003"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> Jomfru klar och sand/</l>
+                        <l> sin Søn hun <lb n="E64.004"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ndfick aff den Helligand</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Den ædle moder bar oss den/</l>
                         <l> som <lb n="E64.006"/>Gabriel forkynde vdsent/</l>
-                        <l> den Jomfru <lb n="E64.007"/>{??}un søgte Elizabet/</l>
-                        <l> oc fandz ath haff<lb n="E64.008" rend="="/>{??}e det henne waar iætt</l>
+                        <l> den Jomfru <lb n="E64.007"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>un søgte Elizabet/</l>
+                        <l> oc fandz ath haff<lb n="E64.008" rend="="/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>e det henne waar iætt</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Johannes i sin moders barm/</l>
-                        <l> frøy<lb n="E64.010" rend="="/>{??}e sig bode met fod oc arm/</l>
-                        <l> Maria vd <lb n="E64.011"/>{??}ff Gudz samffund/</l>
-                        <l> sang Magnificat <lb n="E64.012"/>{??}ode met hierte oc mund</l>
+                        <l> frøy<lb n="E64.010" rend="="/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>e sig bode met fod oc arm/</l>
+                        <l> Maria vd <lb n="E64.011"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ff Gudz samffund/</l>
+                        <l> sang Magnificat <lb n="E64.012"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>ode met hierte oc mund</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Den som all werden haffuer i wold/</l>
                         <l> han fødis i en asne stold/</l>
-                        <l> en lide<ex>n</ex> mil{??} <lb n="E64.015"/>fødde hans nature/</l>
-                        <l> so<ex>m</ex> føder oc weder{??}<lb n="E64.016" rend="="/>queger alle
+                        <l> en lide<ex>n</ex> mil<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> <lb n="E64.015"/>fødde hans nature/</l>
+                        <l> so<ex>m</ex> føder oc weder<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app><lb n="E64.016" rend="="/>queger alle
                             creature</l>
                     </lg>
                     <lg>
-                        <l><space extent="2blanks"/>Den Engelske skare glædis we{??}</l>
-                        <l> ath Christ vor komme<ex>n</ex> aff Abrahe seed{??} </l>
+                        <l><space extent="2blanks"/>Den Engelske skare glædis we<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></l>
+                        <l> ath Christ vor komme<ex>n</ex> aff Abrahe seed<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> </l>
                         <l> det hørde de hyrder/</l>
-                        <l> som voctede der{??} <lb n="E64.020"/> queg/</l>
+                        <l> som voctede der<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> <lb n="E64.020"/> queg/</l>
                         <l> ath Christ vor fød oss menniske <lb n="E64.021"/>lig</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Ere wære dig Christ met ko<ex>n</ex>ge naffn</l>
-                        <l> som føddis aff en Jomffru werden til <lb n="E64.024"/>{??} gaffn/</l>
+                        <l> som føddis aff en Jomffru werden til <lb n="E64.024"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> gaffn/</l>
                         <l> holt din spyre met kongelig act/</l>
                         <l><pb n="E65" ana="10_r"/> ath dieffuelsens rige faar icke mact</l>
                     </lg>
@@ -4249,7 +4249,7 @@
                         <l><space extent="2blanks"/>Dig loffue vnge oc gamle/</l>
                         <l> desligest <lb n="E72.010"/>smaa børn o Christe/</l>
                         <l> viduers skare oc <lb n="E72.011"/> io<ex>m</ex>fruer/</l>
-                        <l> der til alle kyske hierter sa<ex>n</ex>dr{??}cte<lb n="E72.012" rend="="
+                        <l> der til alle kyske hierter sa<ex>n</ex>dr<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>cte<lb n="E72.012" rend="="
                             />lig met ith stemme/</l>
                         <l> for din store barm<lb n="E72.013" rend="="/>hiertighed/</l>
                         <l> fra nu oc ind til euig tid</l>
@@ -5896,7 +5896,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Tiener Herren vdi frøct/</l>
-                        <l> och gleder <lb n="E107.024"/>{??}eder i hannem met en skelffuende
+                        <l> och gleder <lb n="E107.024"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app>eder i hannem met en skelffuende
                             fare</l>
                     </lg>
                     <pb n="E108" ana="31_v"/>
@@ -10506,7 +10506,7 @@
                         <l><lb n="E217.021"/> wi maa det alle klage/</l>
                         <l> ath <lb n="E217.022"/>verde<ex>n</ex> er vlydig dig/</l>
                         <l> det se wi <lb n="E217.023"/>alle dage</l>
-                        <l> Dine ord forsmaa{??}<pb n="E218" ana="86_v" rend="="/>det er dess
+                        <l> Dine ord forsmaa<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app><pb n="E218" ana="86_v" rend="="/>det er dess
                             ver</l>
                         <l> ath ingen haffuer sa<ex>n</ex>dhed <lb n="E218.002"/>kær/</l>
                         <l> løgen haffuer macten fangit</l>
@@ -13241,7 +13241,7 @@
                             />&#x2055;</hi></p>
                 </div>
                 <div>
-                    <p><pb n="E277"/>{??} skal ingen forundre der paa ath <lb n="E277.002"/>ieg
+                    <p><pb n="E277"/><app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app> skal ingen forundre der paa ath <lb n="E277.002"/>ieg
                         haffuer icke nu anderledis forda<ex>n</ex>sket <lb n="E277.003"/>somme aff
                         Psalmerne i denne bog en <lb n="E277.004"/>de vaare førre prentede Jeg lod
                         det nu <lb n="E277.005"/>saa bliffue paa denne tid/ Thi ieg for<lb
