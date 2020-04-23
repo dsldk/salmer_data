@@ -14240,18 +14240,18 @@
                <head type="add">Bøn for kongen og rigets råd</head>
                <head>For Kongen och Rigens <lb/>Raad</head>
                <pb ana="95_r_II" n_ekstra="O3r" n="E261"/>
-               <p><c function="initials" rend="4">O</c>Almectiste euige Gud/ Som <lb/>vislige regere
-                  baade Hiemmel <lb/>oc Jord/ See miskundelige til <lb/>vor naadige Herre Kongen N
-                  <lb/>oc til Sigens Raad/ Oc til alle andre som <lb/>styre oc regere skulle Land
-                  Rige / Stæder <lb/>oc Byer/ Och lad dem alle Retferdelige <lb/>regere deris almue
-                  her i Verden/ Ath de <lb/>mue siden beside Hiemmeriges Rige met <lb/>dig
-                  euindelige Amen</p>
+               <p><c function="initials" rend="4">O</c> Almectiste euige Gud/ Som <lb/>vislige
+                  regere baade Hiemmel <lb/>oc Jord/ See miskundelige til <lb/>vor naadige Herre
+                  Kongen N <lb/>oc til Sigens Raad/ Oc til alle andre som <lb/>styre oc regere
+                  skulle Land Rige/ Stæder <lb/>oc Byer/ Och lad dem alle Retferdelige <lb/>regere
+                  deris almue her i Verden/ Ath de <lb/>mue siden beside Hiemmeriges Rige met
+                  <lb/>dig euindelige Amen</p>
             </div>
             <lb/>
             <div type="psalm" xml:id="boen-om-fred" n="76">
                <head type="add">Bøn om fred</head>
                <head>Faar Fred en Bøn</head>
-               <p><c function="initials" rend="3">O</c>Almectigste euige Gud/ som er en <lb/>Kielde
+               <p><c function="initials" rend="3">O</c> Almectigste euige Gud/ som er en <lb/>Kielde
                   til alt timelig och Aandelig <lb/>fred/ och alle hiertens rolighed/ wi <lb/>bede
                   dig ydmygelige/ at du for din god<lb rend="="/>hed vil verdis til ath giffue oss
                   den sande <lb/>fred/ som Verden icke giffue kan/ Ath wi <lb/>mue leffue effter
@@ -14268,7 +14268,13 @@
                   <l>Herre <lb/>Gud i vore dage/ </l>
                   <l>der er dog ingen <lb/>anden mere/ </l>
                   <l>som for oss kunde stride </l>
-                  <l>end du selff vor Gud all ene <hi rend="right">Der er.</hi></l>
+                  <l>end du selff vor Gud all ene </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l>
+                     <hi rend="right">Der er.</hi>
+                  </l>
                </lg>
                <lb/>
                <lg>
@@ -14297,85 +14303,124 @@
                <head type="add">Versikel</head>
                <head>Zacharie lofsang som han aff den Hel<lb rend="="/>ligaand Propheterede/
                   <lb/>Versickel fore Benedictus</head>
-               <p>Zacharias vor opfylt met den Helligaand</p>
-               <lb/>
-               <p>Han propheterede och spaade saa sigendis</p>
+               <lg>
+                  <l>Zacharias vor opfylt met den Helligaand</l>
+                  <lb/>
+                  <l>Han propheterede och spaade saa sigendis</l>
+               </lg>
             </div>
             <pb ana="96_r_II" n_ekstra="O4r" n="E263"/>
             <lb/>
             <div type="psalm" xml:id="benedictus" n="79">
                <head type="add">Benedictus</head>
                <head>Benedictus.</head>
-               <p><c function="initials" rend="3">B</c>Enedidet vere Jsraels Gud och <lb/>Herre/
-                  Fordi han haffuer søgt och <lb/>forløst sit Folck</p>
+               <lg>
+                  <l><c function="initials" rend="3">B</c>Enedidet vere Jsraels Gud och <lb/>Herre/ </l>
+                  <l>Fordi han haffuer søgt och <lb/>forløst sit Folck</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Oc han haffuer opræt oss salighedens <lb/>børn i Dauidz
-                  huss sin Tiæneris</p>
+               <lg>
+                  <l><space extent="2blanks"/>Oc han haffuer opræt oss salighedens <lb/>børn </l>
+                  <l>i Dauidz huss sin Tiæneris</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Som han haffuer altid igennem sine <lb/>hellige
-                  Propheters Mund/ huilcke som <lb/>ere aff gammel tid</p>
+               <lg>
+                  <l><space extent="2blanks"/>Som han haffuer altid igennem sine <lb/>hellige
+                     Propheters Mund/ </l>
+                  <l>huilcke som <lb/>ere aff gammel tid</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Det skulle ske at wi skulle frelsis fra <lb/>vaare
-                  wuenner/ och aff alle deris haand <lb/>huilcke oss før haddede</p>
+               <lg>
+                  <l><space extent="2blanks"/>Det skulle ske at wi skulle frelsis fra <lb/>vaare
+                     wuenner/ </l>
+                  <l>och aff alle deris haand <lb/>huilcke oss før haddede</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Paa det han skulle bruge sin barmhier<lb rend="="
-                  />tighed/ met vaare foreldre/ och vere ihu<lb rend="="/>kommende sit Testamente oc
-                  løffte</p>
+               <lg>
+                  <l><space extent="2blanks"/>Paa det han skulle bruge sin barmhier<lb rend="="
+                     />tighed/ met vaare foreldre/ </l>
+                  <l>och vere ihu<lb rend="="/>kommende sit Testamente oc løffte</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Och fuldkomme den eed han sor A<lb rend="="/>braham vor
-                  Fader/ ath han skulle giffue <lb/>oss sig alle</p>
+               <lg>
+                  <l><space extent="2blanks"/>Och fuldkomme den eed han sor A<lb rend="="/>braham
+                     vor Fader/ </l>
+                  <l>ath han skulle giffue <lb/>oss sig alle</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Paa det at wi som vaare frelste aff <lb/>vore wuenners
-                  hender/ skulle tiæne han<lb rend="="/>nem wden redtzel</p>
+               <lg>
+                  <l><space extent="2blanks"/>Paa det at wi som vaare frelste aff <lb/>vore wuenners
+                     hender/ </l>
+                  <l>skulle tiæne han<lb rend="="/>nem wden redtzel</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Met hellighed och Retferdighed/ for</p>
-               <pb ana="96_v_II" n_ekstra="O4v" n="E264"/>
-               <p>hans ansict i alle vore liffs tid</p>
+               <lg>
+                  <l><space extent="2blanks"/>Met hellighed och Retferdighed/ </l>
+                  <l>for <pb ana="96_v_II" n_ekstra="O4v" n="E264"/> hans ansict i alle vore liffs
+                     tid</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Oc du Barn skalt kallis den høyestis <lb/>Prophete/ Thi
-                  du skalt gaa for Herrens <lb/>Ansict/ oc berede hans Veye</p>
+               <lg>
+                  <l><space extent="2blanks"/>Oc du Barn skalt kallis den høyestis <lb/>Prophete/ </l>
+                  <l>Thi du skalt gaa for Herrens <lb/>Ansict/ oc berede hans Veye</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Til at giffue hans Folck salighedz lær <lb/>dom/ til
-                  deris Synders forladelse</p>
+               <lg>
+                  <l><space extent="2blanks"/>Til at giffue hans Folck salighedz lær<lb rend="="
+                     />dom/ </l>
+                  <l>til deris Synders forladelse</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Vid vor Gudz storre oc hierte barm<lb rend="="
-                  />hiertighed/ met huilcken han søgte oss op<lb rend="="/>runden aff det
-                  høyeste</p>
+               <lg>
+                  <l><space extent="2blanks"/>Vid vor Gudz storre oc hierte barm<lb rend="="
+                     />hiertighed/ </l>
+                  <l>met huilcken han søgte oss op<lb rend="="/>runden aff det høyeste</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Ath han skulle liuse dem som side vdi <lb/>Mørcke oc i
-                  dødens skugge/ at stille vore <lb/>føder til fredzens veye</p>
+               <lg>
+                  <l><space extent="2blanks"/>Ath han skulle liuse dem som side vdi <lb/>Mørcke oc i
+                     dødens skugge/ </l>
+                  <l>at stille vore <lb/>føder til fredzens veye</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Ere vere Gud Fader oc Gud Søn oc <lb/>saa Gud den
-                  Helligaand</p>
+               <lg>
+                  <l><space extent="2blanks"/>Ere vere Gud Fader oc Gud Søn oc <lb/>saa Gud den
+                     Helligaand</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Som verit haffuer aff begyndelse/ nu <lb/>er oc altid
-                  bliffuer til euig tid Amen</p>
+               <lg>
+                  <l><space extent="2blanks"/>Som verit haffuer aff begyndelse/ </l>
+                  <l>nu <lb/>er oc altid bliffuer til euig tid Amen</l>
+               </lg>
             </div>
          </div>
          <lb/>
          <div type="chapter" subtype="Messen" xml:id="det-hellige-evangeliske-messeembede" n="5">
             <head type="add">Det hellige evangeliske messeembede</head>
-            <head><c function="initials" rend="2">H</c>Er effter følger det</head>
-            <lb/>
-            <head>hellige Euangeliske <lb/>Messe embede/ met nogre skøne formanin <lb/>ger til
-               Folckit/ Paa det ny <lb/>Corrigeret oc forbedret <lb/>M. D. Liii.</head>
+            <head><c function="initials" rend="2">H</c>Er effter følger det <lb/>hellige Euangeliske
+               <lb/>Messe embede/ met nogre skøne formanin<lb rend="="/>ger til Folckit/ Paa det ny
+               <lb/>Corrigeret oc forbedret <lb/>M. D. Liii.</head>
             <pb ana="97_r_II" n_ekstra="O5r" n="E265"/>
             <lb/>
             <div type="psalm" xml:id="vor-hjaelp-vaere-i-herrens-navn" n="1">
                <head type="add">Vor hjælp være i Herrens navn</head>
                <head>Adiutorium nostrum in nomi<lb rend="="/>ne domini</head>
-               <p>Vor hielp vere i Herrens naffn/ <lb/>Som skaffte Hiemmel oc iorden. <lb/>Bekender
-                  Herren fordi han er god/ <lb/>Oc hans barmhiertighed er euig</p>
+               <lg>
+                  <l>Vor hielp vere i Herrens naffn/ </l>
+                  <l><lb/>Som skaffte Hiemmel oc iorden. </l>
+                  <l><lb/>Bekender Herren fordi han er god/ </l>
+                  <l><lb/>Oc hans barmhiertighed er euig</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="bekendelse" n="2">
                <head type="add">Kort bekendelse</head>
                <head>Confiteor. <lb/>En kort bekendelse i Gudz Ansict</head>
-               <p><c function="initials" rend="3">J</c>Eg arme Syndige Menniske/ beken <lb/>der mig
-                  for Gud Almectigste min <lb/>skabere oc forløsere/ Ath ieg icke all <lb/>ene
-                  haffuer Syndet met tancker/ ord/ och <lb/>gerninger/ Men er och saa vndfangen i
-                  <lb/>Synderne/ Saa at min gantske nature oc <lb/>vesen er straffelig oc
-                  fordømmelig for ha<ex>n</ex>s <lb/>strenghedz oc retferdighedz angist/ Thi
+               <p><c function="initials" rend="3">J</c>Eg arme Syndige Menniske/ beken<lb rend="="
+                  />der mig for Gud Almectigste min <lb/>skabere oc forløsere/ Ath ieg icke all
+                  <lb/>ene haffuer Syndet met tancker/ ord/ och <lb/>gerninger/ Men er och saa
+                  vndfangen i <lb/>Synderne/ Saa at min gantske nature oc <lb/>vesen er straffelig
+                  oc fordømmelig for ha<ex>n</ex>s <lb/>strenghedz oc retferdighedz angist/ Thi
                   <lb/>flyer ieg til hans grundløse barmhiertig<lb rend="="/>hed/ Søger oc beder
                   naade aff hannem/ <lb/>Herre ver mig arme Syndere barmhiertig</p>
             </div>
@@ -14384,108 +14429,174 @@
                <head type="add">Evangelisk afløsning</head>
                <head>En Euangelisk affløsning offuer menig<lb rend="="/>heden</head>
                <pb ana="97_v_II" n_ekstra="O5v" n="E266"/>
-               <p><c function="initials" rend="3">D</c>En almectigste barmhiertige gud <lb/>somfor
+               <p><c function="initials" rend="3">D</c>En almectigste barmhiertige gud <lb/>som for
                   vore Synders skyld/ i dø<lb rend="="/>den haffuer giffuit sin enbaarne <lb/>Søn
-                  Jesum Christum/ Forbarme sig off <lb/>uer oss/ oc forlade oss vore synder for hans
-                  <lb/>skyld Oc begaffue met den Helligaand/ <lb/>alle dem som tro paa hannem / At
-                  wi ved <lb/>hannem kunde fuldko<ex>m</ex>me hans Guddom <lb/>melige vilge/ Oc faa
-                  det euige liff Amen</p>
+                  Jesum Christum/ Forbarme sig off<lb rend="="/>uer oss/ oc forlade oss vore synder
+                  for hans <lb/>skyld Oc begaffue met den Helligaand/ <lb/>alle dem som tro paa
+                  hannem/ At wi ved <lb/>hannem kunde fuldko<ex>m</ex>me hans Guddom<lb rend="="
+                  />melige vilge/ Oc faa det euige liff Amen</p>
                <lb/>
                <p>
                   <hi rend="center">Nu begynder Chorid eller den Christne <lb/>forsamling ath siunge
-                     begyndel <lb/>sen til Messen</hi>
+                        begyndel<lb rend="="/>sen til Messen</hi>
                </p>
             </div>
             <lb/>
             <div type="psalm" xml:id="af-dybsens-noed-raaber-jeg-til-dig" n="4">
                <head type="add">Af dybsens nød råber jeg til dig</head>
                <head>De profundis/ met tuenne noder</head>
-               <p><c function="initials" rend="4">A</c>F dybsens nød raaber ieg til dig <lb/>Herre
-                  Gud vilt du mig høre. <lb/>Din naadens øren vent du til <lb/>mig min røst ieg nu
-                  fremfører. <lb/>Giffuer du paa vor gerning act/ ath <lb/>heffne Synden met din
-                  mact/ O Herre <lb/>huo kan det taale</p>
-               <pb ana="98_r_II" n_ekstra="O6r" n="E267"/>
+               <lg>
+                  <l><c function="initials" rend="4">A</c>F dybsens nød raaber ieg til dig </l>
+                  <l><lb/>Herre Gud vilt du mig høre. </l>
+                  <l><lb/>Din naadens øren vent du til <lb/>mig </l>
+                  <l>min røst ieg nu fremfører. </l>
+                  <l><lb/>Giffuer du paa vor gerning act/ </l>
+                  <l>ath <lb/>heffne Synden met din mact/ </l>
+                  <l>O Herre <lb/>huo kan det taale</l>
+                  <pb ana="98_r_II" n_ekstra="O6r" n="E267"/>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Hoss dig all ene gielder naade och <lb/>gunst
-                  til Synden ath forlade/ Naar wi <lb/>dig nogen tid haffue mist/ wi vide oss ey
-                  <lb/>ath raade/ Faar dig ingen sig rose kan/ <lb/>Thi maa dig frycte alle Mand/
-                  och trø<lb rend="="/>ste dem paa din naade</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Hoss dig all ene gielder naade och <lb/>gunst </l>
+                  <l>til Synden ath forlade/ </l>
+                  <l>Naar wi <lb/>dig nogen tid haffue mist/ </l>
+                  <l>wi vide oss ey <lb/>ath raade/ </l>
+                  <l>Faar dig ingen sig rose kan/ </l>
+                  <l><lb/>Thi maa dig frycte alle Mand/ </l>
+                  <l>och trø<lb rend="="/>ste dem paa din naade</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Til Gud staar alt mit haab <lb/>och trøst min
-                  gerning kan mig ey baade <lb/>J det du ene haffuer mig forløst/ aff din
-                  <lb/>wsigelige naade/ Dine ord de ere en dy<lb rend="="/>rebar skat/ som du oss
-                  haffuer effter lat/ <lb/>Dem ville wi gerne høre</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Til Gud staar alt mit haab <lb/>och trøst </l>
+                  <l>min gerning kan mig ey baade </l>
+                  <l><lb/>J det du ene haffuer mig forløst/ </l>
+                  <l>aff din <lb/>wsigelige naade/ </l>
+                  <l>Dine ord de ere en dy<lb rend="="/>rebar skat/ </l>
+                  <l>som du oss haffuer effter lat/ </l>
+                  <l><lb/>Dem ville wi gerne høre</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Skulde det vare fra Morgen stund <lb/>oc end til
-                  Afftens ende/ Da skulle mit <lb/>hierte ingelund/ fortuile eller fra dig ven<lb
-                     rend="="/>dis/ Saa bør at vere ræt Jsraels art/ <lb/>ath haabe och Tro aff
-                  hiertet snart/ Oc <lb/>naade aff hannem begere</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Skulde det vare fra Morgen stund </l>
+                  <l><lb/>oc end til Afftens ende/ </l>
+                  <l>Da skulle mit <lb/>hierte ingelund/ </l>
+                  <l>fortuile eller fra dig ven<lb rend="="/>dis/ </l>
+                  <l>Saa bør at vere ræt Jsraels art/ </l>
+                  <l><lb/>ath haabe och Tro aff hiertet snart/ </l>
+                  <l>Oc <lb/>naade aff hannem begere</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Dog Synden hoss oss er mangefuld <lb/>hoss Gud er meget
-                  mer naade/ At hielpe <lb/>oss er hand vel huld/ Aff nød och all</p>
-               <pb ana="98_v_II" n_ekstra="O6v" n="E268"/>
-               <p>skøns vaade/ Han er foruist den rette <lb/>Tolck/ Som haffuer forløst alt Jsraels
-                  <lb/>Folck/ Aff sorg oc Synder alle</p>
+               <lg>
+                  <l><space extent="2blanks"/>Dog Synden hoss oss er mangefuld </l>
+                  <l><lb/>hoss Gud er meget mer naade/ </l>
+                  <l>At hielpe <lb/>oss er hand vel huld/ </l>
+                  <l>Aff nød och all<pb ana="98_v_II" n_ekstra="O6v" n="E268" rend="="/>skøns vaade/ </l>
+                  <l>Han er foruist den rette <lb/>Tolck/ </l>
+                  <l>Som haffuer forløst alt Jsraels <lb/>Folck/ </l>
+                  <l>Aff sorg oc Synder alle</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="kyrie-gud-fader-alsomhoejeste-troest" n="5">
                <head type="add">Kyrie Gud Fader alsomhøjeste trøst</head>
-               <p><c function="initials" rend="4">K</c>yrie Gud Fader alsom høyeste <lb/>trøst/ Du
-                  est vor glæde oc løst <lb/>spar oss elende/ beuare oss fra <lb/>Synd/ forbarme dig
-                  offuer oss <lb/>Christe du est vor vey oc det sande Liuss/ <lb/>sandhedens port
-                  kerlighedens speyl/ Alle <lb/>Christnes Liff och raad/ Du oss til vor
-                  <lb/>salighed giffuen vost/ Forbarme dig off<lb rend="="/>uer oss</p>
+               <lg>
+                  <l><c function="initials" rend="4">K</c>yrie Gud Fader alsom høyeste <lb/>trøst/ </l>
+                  <l>Du est vor glæde oc løst </l>
+                  <l><lb/>spar oss elende/ </l>
+                  <l>beuare oss fra <lb/>Synd/ </l>
+                  <l>forbarme dig offuer oss </l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Kyrie Helligaand i euighed/ ver <lb/>hoss oss
-                  met din miskundelighed/ vor synd <lb/>ville wi begræde/ Lad oss ey fortabis/ wi
-                  <lb/>paa dig nu haabe/ Forbarme dig offuer oss</p>
+               <lg>
+                  <l><lb/>Christe du est vor vey oc det sande Liuss/ </l>
+                  <l><lb/>sandhedens port </l>
+                  <l>kerlighedens speyl/ </l>
+                  <l>Alle <lb/>Christnes Liff och raad/ </l>
+                  <l>Du oss til vor <lb/>salighed giffuen vost/ </l>
+                  <l>Forbarme dig off<lb rend="="/>uer oss</l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Kyrie Helligaand i euighed/ </l>
+                  <l>ver <lb/>hoss oss met din miskundelighed/ </l>
+                  <l>vor synd <lb/>ville wi begræde/ </l>
+                  <l>Lad oss ey fortabis/ </l>
+                  <l>wi <lb/>paa dig nu haabe/ </l>
+                  <l>Forbarme dig offuer oss</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="kyrie-gud-fader-af-himmerig" n="6">
                <head type="add">Kyrie Gud Fader af Himmerig</head>
                <head>Kyrie eleyson Paa Christi fødsels høytid</head>
-               <p><c function="initials" rend="3">K</c>yrie Gud Fader aff Hiemmerige/ <lb/>Du sende
-                  oss din Søn till Jorde<lb rend="="/>rige/ fordi du vilde vere oss miskun<lb
-                     rend="="/>delig</p>
-               <pb ana="99_r_II" n_ekstra="O7r" n="E269"/>
+               <lg>
+                  <l><c function="initials" rend="3">K</c>yrie Gud Fader aff Hiemmerige/ </l>
+                  <l><lb/>Du sende oss din Søn till Jorde<lb rend="="/>rige/ </l>
+                  <l>fordi du vilde vere oss miskun<lb rend="="/>delig</l>
+                  <pb ana="99_r_II" n_ekstra="O7r" n="E269"/>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Christe Gudz Søn aff Hiemmerige <lb/>du lost dig
-                  føde til Jorderige/ At wi mot <lb/>te vorde Gudz børn met dig</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Christe Gudz Søn aff Hiemmerige </l>
+                  <l><lb/>du lost dig føde til Jorderige/ </l>
+                  <l>At wi mot<lb rend="="/>te vorde Gudz børn met dig</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>O Helligaand som vost i den gerning <lb/>mestermand/ at
-                  Jomfru fødde for wden <lb/>mand/ Lad oss ey dø i Syndens baand/ <lb/>Men fød
-                  Christum i oss o Helligaand.</p>
+               <lg>
+                  <l><space extent="2blanks"/>O Helligaand som vost i den gerning <lb/>mestermand/ </l>
+                  <l>at Jomfru fødde for wden <lb/>mand/ </l>
+                  <l>Lad oss ey dø i Syndens baand/ </l>
+                  <l><lb/>Men fød Christum i oss o Helligaand.</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="kyrie-gud-fader-forbarme-dig-over-os" n="7">
                <head type="add">Kyrie Gud Fader forbarme dig over os</head>
                <head>Kyrie eleyson/ som siungis om <lb/>Paaske høytid</head>
-               <p><c function="initials" rend="2">K</c>yrie Gud Fader forbarme dig off<lb rend="="
-                  />uer oss</p>
+               <lg>
+                  <l><c function="initials" rend="2">K</c>yrie Gud Fader forbarme dig off<lb
+                        rend="="/>uer oss</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Christe du est vort liff oc opstandelse/ <lb/>Forbarme
-                  dig offuer oss</p>
+               <lg>
+                  <l><space extent="2blanks"/>Christe du est vort liff oc opstandelse/ <lb/>Forbarme
+                     dig offuer oss</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>Kyrie Helligaand hielp oss vor trøster<lb rend="="/>mand
-                  / forbarme dig offuer oss</p>
+               <lg>
+                  <l><space extent="2blanks"/>Kyrie Helligaand hielp oss vor trøster<lb rend="="
+                     />mand/ forbarme dig offuer oss</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="gloria-in-excelsis-deo" n="8">
                <head type="add">Gloria in excelsis deo/ Gloria ære og pris være Gud</head>
                <head>Gloria in Excelsis deo</head>
-               <p><c function="initials" rend="4">G</c>Loria/ ære oc priiss vere Gud <lb/>i det
-                  høyeste/ Oc paa Jorden <lb/>fred/ oc dine Menniske en vel<lb rend="="
-                  />behagelighed/ Vi loffue dig/ <lb/>Vi benedide dig/ Vi til bede dig Vi ære oc</p>
-               <pb ana="99_v_II" n_ekstra="O7v" n="E270"/>
-               <p>prise dig. Vi tacke dig for din store ære oc <lb/>mectighed/ Herre Gud och
-                  Hiemmelske <lb/>Kong/ altsommectigste Fader Herre alt<lb rend="="/>sommectigste
-                  Søn Jesu Christe och den <lb/>Helligaand Herre Gud Gudz Lam och <lb/>Gud Faders
-                  Søn den som bortager all <lb/>Verdens Synder/ forbarme dig offuer oss <lb/>Du som
-                  borttager alle Verdens Synder/ <lb/>Tag til dig vor bøn/ oc miskunde dig at
-                  <lb/>høre oss/ Du som sider hoss din Faders <lb/>høyre haand/ forbarme dig offuer
-                  oss For <lb/>di saa du est all eniste hellig/ Du est all <lb/>ene en Herre Du est
-                  all ene den høyste Je<lb rend="="/>su Christe/ met den Helligaand i Gud
-                  <lb/>Faders ære Amen</p>
+               <lg>
+                  <l><c function="initials" rend="4">G</c>Loria/ ære oc priiss vere Gud <lb/>i det
+                     høyeste/ </l>
+                  <l>Oc paa Jorden <lb/>fred/ </l>
+                  <l>oc dine Menniske en vel<lb rend="="/>behagelighed/ </l>
+                  <l>Vi loffue dig/ <lb/>Vi benedide dig/ </l>
+                  <l>Vi til bede dig Vi ære oc <pb ana="99_v_II" n_ekstra="O7v" n="E270"/>prise dig. </l>
+                  <l>Vi tacke dig for din store ære oc <lb/>mectighed/ </l>
+                  <l>Herre Gud och Hiemmelske <lb/>Kong/ </l>
+                  <l>altsommectigste Fader </l>
+                  <l>Herre alt<lb rend="="/>sommectigste Søn Jesu Christe och den <lb/>Helligaand </l>
+                  <l>Herre Gud Gudz Lam och <lb/>Gud Faders Søn </l>
+                  <l>den som bortager all <lb/>Verdens Synder/ </l>
+                  <l>forbarme dig offuer oss </l>
+                  <l><lb/>Du som borttager alle Verdens Synder/ </l>
+                  <l><lb/>Tag til dig vor bøn/ </l>
+                  <l>oc miskunde dig at <lb/>høre oss/ </l>
+                  <l>Du som sider hoss din Faders <lb/>høyre haand/ </l>
+                  <l>forbarme dig offuer oss </l>
+                  <l>For <lb/>di saa du est all eniste hellig/ </l>
+                  <l>Du est all <lb/>ene en Herre </l>
+                  <l>Du est all ene den høyste Je<lb rend="="/>su Christe/ </l>
+                  <l>met den Helligaand i Gud <lb/>Faders ære </l>
+                  <l>Amen</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="aleneste-gud-i-himmerig" n="9">
