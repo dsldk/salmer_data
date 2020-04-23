@@ -13890,7 +13890,7 @@
                <lg>
                   <l><space extent="2blanks"/>&#x2055; Mit naffn skalt du icke vanære/ </l>
                   <l><pb ana="91_v_II" n_ekstra="N7v" n="E254"/> men holde det i heder oc ære/ </l>
-                  <l>om du det no <lb/>git misbruger/ </l>
+                  <l>om du det no<lb rend="="/>git misbruger/ </l>
                   <l>da vorder ieg paa dig vre<lb rend="="/>der/ </l>
                   <l>saa skalt du vide det er min Lou/ </l>
                   <l>ath <lb/>du gør hellig Sabbatz Dag/ </l>
@@ -13904,7 +13904,7 @@
                   <l>Oc hord skalt du ey bedriffue/ </l>
                   <l>Du <lb/>skalt ey stiæle/ Ey falst vidne bære/ </l>
                   <l>Och <lb/>ey din nestis Hustru begære/ </l>
-                  <l>Eller hans <lb/>eye domme</l>
+                  <l>Eller hans <lb/>eyedomme</l>
                </lg>
                <lb/>
                <lg>
@@ -14034,7 +14034,7 @@
                      <cell>Forbarme dig offuer oss</cell>
                   </row>
                   <row>
-                     <cell>Herre Jesu Verdins fielssere</cell>
+                     <cell>Herre Jesu Verdins frelssere</cell>
                      <cell>Forbarme dig offuer oss</cell>
                   </row>
                   <row>
@@ -14119,7 +14119,7 @@
                   </row>
                   <row>
                      <cell>Vi arme Syndere gøre vor bøn til dig </cell>
-                     <cell> Hør osso Herre Gud </cell>
+                     <cell> Hør oss o Herre Gud </cell>
                   </row>
                   <row>
                      <cell>Styr och regere din Hellige Christelige Kircke.</cell>
@@ -14213,7 +14213,7 @@
                      <cell>
                         <pb ana="94_v_II" n_ekstra="O2v" n="E260"/>Vi haffue syndet met vore
                         forfædre</cell>
-                     <cell>Vi haffue misha<ex>n</ex>dler/ oc hafft oss vgudelige</cell>
+                     <cell>Vi haffue misha<ex>n</ex>dlet/ oc hafft oss vgudelige</cell>
                   </row>
                   <row>
                      <cell>O Herre handle icke met oss effter vaare <lb/>Synder</cell>
@@ -14228,12 +14228,12 @@
             <div type="psalm" xml:id="almaegtigste-gud" n="74">
                <head type="add">Bøn: O almægtigste Gud</head>
                <head>Lader oss alle bede <lb/>Faar vore Synder En bøn til Gud</head>
-               <p><c function="initials" rend="2">O</c>Almectigste Gud/ som er altid <lb/>mild oc
-                  miskundelig aff din Gud<lb rend="="/>dommelige nature til ath forlade Synde
-                  <lb/>ne/ Verdis nu til at anamme vore ydmy<lb rend="="/>gelige bøner/ Ath wi
-                  fattige Menniske <lb/>som bundne ere met vore Synders oc ond <lb/>skabs baand/ mue
-                  snarlige løsis aff dem <lb/>formedelst din store mildhed oc barmhier <lb/>tighed
-                  Amen</p>
+               <p><c function="initials" rend="2">O</c> Almectigste Gud/ som er altid <lb/>mild oc
+                  miskundelig aff din Gud<lb rend="="/>dommelige nature til ath forlade Synde<lb
+                     rend="="/>ne/ Verdis nu til at anamme vore ydmy<lb rend="="/>gelige bøner/ Ath
+                  wi fattige Menniske <lb/>som bundne ere met vore Synders oc ond<lb rend="="/>skabs
+                  baand/ mue snarlige løsis aff dem <lb/>formedelst din store mildhed oc barmhier<lb
+                     rend="="/>tighed Amen</p>
             </div>
             <lb/>
             <div type="psalm" xml:id="boen-for-kongen-og-rigets-raad" n="75">
