@@ -1241,14 +1241,13 @@
          </div>
          <lb/>
          <div type="psalm" xml:id="salige-er-alle-i-guds-frygt-staar" n="20">
-            <head type="add">Salige er alle i Guds frygt står</head>
+            <head type="add">Salig er den i Guds frygt står</head>
             <head>&#x10081; Psalmus Cxxvij. Beati omnes <lb/>qui timent dominum.</head>
             <lg>
                <l><pb n="E32" ana="d4_v"/><c function="initials" rend="3">S</c>Alige ere alle ÿ Guds fryct staa
                   / </l>
                <l>Oc gerne paa hans wæye gaa.</l>
-            </lg>
-            <lg>
+            
                <l><space extent="2blanks"/>Aff thit arbeyde nære teg met skel/ </l>
                <l>Saa leffuer tw rett oc gaar teg wel.</l>
             </lg>
@@ -1729,7 +1728,7 @@
          </div>
          <lb/>
          <div type="psalm" xml:id="antiphona-igen" n="29">
-            <head type="add">Nu glæder eder, Adams børn alsammen</head>
+            <head type="add">Nu glæder eder, Adams børn alle sammen</head>
             <head>&#x10081; Antiphona.</head>
             <lg>
                <l><c function="initials" rend="3">N</c>V glæder eder Adams børn alsam<lb rend="="
@@ -2307,7 +2306,7 @@
             </lg>
          </div>
          <div type="psalm" xml:id="alle-kristne-fryde-sig-nu" n="40">
-            <head type="add">Alle kristne fryde sig nu </head>
+            <head type="add">Alle kristne fryde sig nu</head>
             <head>&#x10081; Thenne Sang siungis om Julen.</head>
             <lg>
                <l><c function="initials" rend="3">A</c>Lle Cristne frøyde seg nw/ </l>
