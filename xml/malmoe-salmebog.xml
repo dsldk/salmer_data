@@ -299,12 +299,12 @@
                             bade.</hi></p>
                 </div>-->
                 <div type="month" xml:id="februar" n="2">
-                    <head>
-                        <reg>Februar</reg>
-                        <orig><pb n="E18"/><pb n="E19" ana="A3_r"/><hi rend="font_red">KL Februarius
+                    
+                        <head type="add">Februar</head>
+                        <head><pb n="E18"/><pb n="E19" ana="A3_r"/><hi rend="font_red">KL Februarius
                                     Bli<lb n="E19.002" rend="="/>dilmaanet haffuer xxviii dage Naten
-                                    <lb n="E19.003"/> xiiii tyme och dagen x tyme</hi></orig>
-                    </head>
+                                    <lb n="E19.003"/> xiiii tyme och dagen x tyme</hi></head>
+                   
                     <table>
                         <row>
                             <cell rend="font_red">Gyl<lb rend="="/>de<ex>n</ex> tal</cell>
@@ -492,10 +492,11 @@
                         x da<app><lem></lem><rdg wit="#orig"> <note>læsningen usikker</note></rdg></app></p>
                 </div>
                 <div type="month" xml:id="marts" n="3">
-                    <head><reg>Marts</reg><orig><pb n="E21" ana="A4_r"/><hi rend="font_red">KL
+                    <head type="add">Marts</head>
+                    <head><pb n="E21" ana="A4_r"/><hi rend="font_red">KL
                                 Martius Thor <lb n="E21.002"/>maanet haffuer xxxi dage Natten xii
                                     ty<lb n="E21.003" rend="="/>me oc dagen xii
-                        tyme</hi></orig></head>
+                        tyme</hi></head>
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -700,9 +701,10 @@
                         dag</p>
                 </div>
                 <div type="month" xml:id="april" n="4">
-                    <head><reg>April</reg><orig><pb n="E23" ana="A5_r"/>KL Aprilis Fare maa<lb
+                    <head type="add">April</head>
+                    <head><pb n="E23" ana="A5_r"/>KL Aprilis Fare maa<lb
                                 n="E23.002" rend="="/>net haffuer xxx dage Natten x tyme oc <lb
-                                n="E23.003"/>dagen xiiii tyme</orig></head>
+                                n="E23.003"/>dagen xiiii tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gyl<lb rend="="/>de<ex>n</ex> tal</cell>
@@ -900,9 +902,10 @@
                     <p>&#x2055; Sole<ex>n</ex> ko<ex>m</ex>mer i det Tegen Tiwr den xi dag</p>
                 </div>
                 <div type="month" xml:id="maj" n="5">
-                    <head><reg>Maj</reg><orig><pb n="E25" ana="A6_r"/>KL Maius May maa<lb
+                    <head type="add">Maj</head>
+                    <head><pb n="E25" ana="A6_r"/>KL Maius May maa<lb
                                 n="E25.002" rend="="/>net haffuer xxxi dage Natten viii tyme <lb
-                                n="E25.003"/>oc dagen xvi tyme</orig></head>
+                                n="E25.003"/>oc dagen xvi tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -1106,10 +1109,11 @@
                             n="E26.008"/> xii dag</p>
                 </div>
                 <div type="month" xml:id="juni" n="6">
-                    <head><reg>Juni</reg><orig><pb n="E27" ana="A7_r"/>KL Junius Skier
+                    <head type="add">Juni</head>
+                    <head><pb n="E27" ana="A7_r"/>KL Junius Skier
                                 so<ex>m</ex><lb n="E27.002" rend="="/>mer haffuer xxx dage
                                 Natte<ex>n</ex> vi tyme och <lb n="E27.003"/>dagen xviii
-                        tyme</orig></head>
+                        tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gyl<lb rend="="/>de<ex>n</ex> tal</cell>
@@ -1307,7 +1311,8 @@
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Krabbe den xii dag</p>
                 </div>
                  <div type="month" xml:id="juli" n="7">
-                    <head><reg>[Juli mangler]</reg><orig><pb n="E29" ana="A8_r"/>Julius Orm maanedt</orig></head>
+                     <head type="add">[Juli mangler]</head>
+                     <head><pb n="E29" ana="A8_r"/>Julius Orm maanedt</head>
                      <!-- <p><space extent="2blanks"/><hi rend="Antiqua2"><hi rend="italics"
                                 >Kalenderbladet for juli mangler. Maane-</hi>
                             <lb n="E29.003"/><hi rend="italics">dens lægeraad gengives efter samme
@@ -1324,10 +1329,10 @@
                             Bartholomet dag <lb n="E29.013"/>thi det er da Hunde Maanet.</hi></p>-->
                 </div>
                 <div type="month" xml:id="august" n="8">
-                    <head><reg>August</reg><orig><pb n="E30" ana="A8_v"/><pb n="E31" ana="B1_r"/>KL
+                    <head type="add">August</head><head><pb n="E30" ana="A8_v"/><pb n="E31" ana="B1_r"/>KL
                             Augustus Høst<lb n="E31.002" rend="="/>maanet haffuer xxxi dage
                                 Natte<ex>n</ex> x tyme <lb n="E31.003"/> och dagen xiiii
-                        tyme</orig></head>
+                        tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -1539,9 +1544,9 @@
                         i det Tege<ex>n</ex> Jo<ex>m</ex>frue den xiiii dag</p>
                 </div>
                 <div type="month" xml:id="september" n="9">
-                    <head><reg>September</reg><orig><pb n="E33" ana="B2_r"/>KL September Filke <lb
+                    <head type="add">September</head><head><pb n="E33" ana="B2_r"/>KL September Filke <lb
                                 n="E33.002"/>maanet haffuer xxx dage Natten xii ty<lb n="E33.003"
-                                rend="="/>me och dagen xii tyme</orig></head>
+                                rend="="/>me och dagen xii tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -1739,9 +1744,9 @@
                         dag</p>
                 </div>
                 <div type="month" xml:id="oktober" n="10">
-                    <head><reg>Oktober</reg><orig><pb n="E35" ana="B3_r"/>KL October Sede <lb
+                    <head type="add">Oktober</head><head><pb n="E35" ana="B3_r"/>KL October Sede <lb
                                 n="E35.002"/>maanet haffuer xxxi dage Natten xiiii <lb n="E35.003"/>
-                            tyme oc dagen x tyme</orig></head>
+                            tyme oc dagen x tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -1946,9 +1951,9 @@
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det Tege<ex>n</ex> Scorpio den xiii dag</p>
                 </div>
                 <div type="month" xml:id="november" n="11">
-                    <head><reg>November</reg><orig><pb n="E37" ana="B4_r"/>KL Nouember Slagte <lb
+                    <head type="add">November</head><head><pb n="E37" ana="B4_r"/>KL Nouember Slagte <lb
                                 n="E37.002"/>maanet haffuer xxx dage Natten xvi ty<lb n="E37.003"
-                                rend="="/>me och dagen viii tyme</orig></head>
+                                rend="="/>me och dagen viii tyme</head>
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -2150,12 +2155,12 @@
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det Tegen Skøtte den xiii dag</p>
                 </div>
                 <div type="month" xml:id="december" n="12">
-                    <head>
-                        <reg>December</reg>
-                        <orig><pb n="E39" ana="B5_r"/>KL December Jule <lb n="E39.002"/>maanet
+                  
+                    <head type="add">December</head>
+                        <head><pb n="E39" ana="B5_r"/>KL December Jule <lb n="E39.002"/>maanet
                             haffuer xxxi dage Natten xvi <lb n="E39.003"/> tyme oc dagen viii
-                            tyme</orig>
-                    </head>
+                            tyme</head>
+                    
                     <table>
                         <row>
                             <cell rend="font_red">Gylden <lb/>tall</cell>
@@ -3109,11 +3114,11 @@
                 <head type="add">[Salmer]</head>
 
                 <div type="psalm" xml:id="i-jesu-navn-begynde-vi" n="1">
-                    <head>
-                        <reg>I Jesu navn begynde vi</reg>
-                        <orig><pb n="E47" ana="1_r"/> En merckelig Euange<lb n="E47.002" rend="="
-                            />liske vise/ vor salighedz vey anrørindis</orig>
-                    </head>
+                    
+                    <head type="add">I Jesu navn begynde vi</head>
+                        <head><pb n="E47" ana="1_r"/> En merckelig Euange<lb n="E47.002" rend="="
+                            />liske vise/ vor salighedz vey anrørindis</head>
+                    
                     <lg>
                         <l><c function="initials">I</c> Jesu naffn begynde <lb n="E47.004"/> wi/</l>
                         <l>det beste der wi <lb n="E47.005"/>kunde/</l>
@@ -3315,11 +3320,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="te-deum-laudamus" n="2">
-                    <head>
-                        <reg>O Gud, vi love dig</reg>
-                        <orig>Sancti Ambrosii oc S. <lb n="E51.014"/> Augustini lofsang som heder
-                            paa latine <title>Te deum laudamus</title></orig>
-                    </head>
+                    
+                    <head type="add">O Gud, vi love dig</head>
+                        <head>Sancti Ambrosii oc S. <lb n="E51.014"/> Augustini lofsang som heder
+                            paa latine <title>Te deum laudamus</title></head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">O</c> Gud wi loffue dig/</l>
                         <l>wi be<lb n="E51.017" rend="="/>kende dig en herre</l>
@@ -3447,10 +3452,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kom-gud-skaber-o-helligaand" n="3">
-                    <head>
-                        <reg>Kom, Gud skaber, o Helligånd</reg>
-                        <orig>Himnus Veni creator</orig>
-                    </head>
+                    
+                    <head type="add">Kom, Gud skaber, o Helligånd</head>
+                        <head>Himnus Veni creator</head>
+                    
                     <lg>
                         <l><c function="initials" rend="2">K</c>Om Gud skaber helliga<ex>n</ex>d</l>
                         <l> besøg <lb n="E53.020"/>vort hierte met din and</l>
@@ -3512,12 +3517,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="lovet-vaere-herren-israels-gud" n="4">
-                    <head>
-                        <reg>Lovet være Herren Israels Gud</reg>
-                        <orig>Versickel fore B<ex>e</ex>n<ex>e</ex>dict<ex>us</ex><note place="left"
+                   
+                    <head type="add">Lovet være Herren Israels Gud</head>
+                        <head>Versickel fore B<ex>e</ex>n<ex>e</ex>dict<ex>us</ex><note place="left"
                                     >(<ref target="#luk-1"><orig>Luce i</orig><reg>Luk
-                                1</reg></ref>)</note></orig>
-                    </head>
+                                1</reg></ref>)</note></head>
+                    
                     <p>&#x2055; Zacharias er opfylt met den Hellig<pb n="E55" ana="5_r" rend="="
                         />and/ Han propheterede och spaade saa <lb n="E55.002"/> sigendis</p>
                     <div xml:id="benedictus" n="1">
@@ -3582,7 +3587,7 @@
                 </div>
                 <div xml:id="nu-fryder-eder-alle-kristne" n="5">
                     <head type="add">Nu fryder eder, alle kristne mænd</head>
-                    <p>Till afftensang</p>
+                    <head>Till afftensang</head>
                     <p><space extent="2blanks"/>Nu frøyder eder/ met tuende begyn<lb n="E56.023"
                             rend="="/>delse <hi rend="center"> Den første</hi></p>
                     <lg>
@@ -3754,10 +3759,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="israels-udgang-af-aegypten" n="7">
-                    <head>
-                        <reg>Israels udgang af Ægypten</reg>
-                        <orig>Jn exitu Jsrael de egyp<ex>to</ex></orig>
-                    </head>
+                 
+                    <head type="add">Israels udgang af Ægypten</head>
+                        <head>Jn exitu Jsrael de egyp<ex>to</ex></head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">I</c>Sraels vdga<ex>n</ex>g aff
                                 Egypte<ex>n</ex>
@@ -3890,12 +3895,11 @@
                     <l>AMEN</l>
                 </div>
                 <div type="psalm" xml:id="kristum-vi-skulle-love-nu" n="8">
+                    <head type="add">Kristum vi skulle love nu</head>
                     <head>Antiphona</head>
-                    <head>
-                        <reg>Kristum vi skulle love nu</reg>
-                        <orig>Vi som leffue benedide Herren <lb n="E63.008"/> En hymne aff Christi
-                                <lb n="E63.009"/> Fødzel A solis ortus</orig>
-                    </head>
+                        <head>Vi som leffue benedide Herren <lb n="E63.008"/> En hymne aff Christi
+                                <lb n="E63.009"/> Fødzel A solis ortus</head>
+                    
                     <lg>
                         <l><c function="initials" rend="5">C</c>Hristum wi skulle loffue <lb
                                 n="E63.011"/> nu/</l>
@@ -4021,10 +4025,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-herre-gud-miskunde-dig" n="11">
-                    <head>
-                        <orig>Till Natsang</orig>
-                        <reg>O Herre Gud miskunde dig</reg>
-                    </head>
+                   
+                        <head type="add">Till Natsang</head>
+                        <head>O Herre Gud miskunde dig</head>
+                    
                     <p><space extent="2blanks"/>Vor fader/ som gaar met de <pb n="E67" ana="11_r"/>
                         noder der Deus misereatur <lb n="E67.002"/> siungis met</p>
                     <lg>
@@ -4133,8 +4137,8 @@
                 </div>
                 <div type="psalm" xml:id="laudate-dominum" n="13">
                     <head type="add">Lover Herren alle hedninge</head>
-                    <head><reg>Laudate dominum</reg><orig><pb n="E70" ana="12_v"/>LAUDATE DOMINUM.
-                                <lb n="E70.002"/>omnes gentes.</orig></head>
+                  <head><pb n="E70" ana="12_v"/>LAUDATE DOMINUM.
+                                <lb n="E70.002"/>omnes gentes.</head>
                     <lg>
                         <l><space extent="2blanks"/><hi rend="Antiqua2">LOffuer Herren alle
                                 hedninge: oc tilhaabe <lb n="E70.004"/>loffuer Gud alle
@@ -4163,10 +4167,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="nunc-dimittis" n="14">
-                    <head>
-                        <reg>Nunc dimittis / Forlad nu din svend, o Herre</reg>
-                        <orig>NUNC DIMITTIS.</orig>
-                    </head>
+                    
+                    <head type="add">Nunc dimittis / Forlad nu din svend, o Herre</head>
+                        <head>NUNC DIMITTIS.</head>
+                    
                     <lg>
                         <l><space extent="2blanks"/>FOrlad nw thijn swend o Herre,</l>
                         <l> effter <lb n="E70.014"/>thit ord ij freden.</l>
@@ -4205,10 +4209,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kristus-af-guds-faders" n="15">
-                   
-                    <head>
-                        <reg>Kristus af Gud Faders hjerte</reg>
-                        <orig>En Hymne aff Christi <lb n="E71.007"/> Fødzel</orig></head>
+                  
+                    <head type="add">Kristus af Gud Faders hjerte</head>
+                        <head>En Hymne aff Christi <lb n="E71.007"/> Fødzel</head>
                     <lg>
                         <l><c function="initials" rend="4">C</c>hristus aff Gudz faders hier<lb
                                 n="E71.009" rend="="/>te fød/</l>
@@ -4267,11 +4270,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="et-lidet-barn" n="16">
-                    <head>
-                        <reg>Et lidet barn så lysteligt</reg>
-                        <orig>En anden loffsang aff <lb n="E72.019"/> Christi fødelse met de noder
-                            som Di<lb n="E72.020" rend="="/>es est letitie siungis met</orig>
-                    </head>
+               
+                    <head type="add">Et lidet barn så lysteligt</head>
+                        <head>En anden loffsang aff <lb n="E72.019"/> Christi fødelse met de noder
+                            som Di<lb n="E72.020" rend="="/>es est letitie siungis met</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">I</c>Th lidit barn saa løsteligt/</l>
                         <l> er fød for oss paa iorde<ex>n</ex>/</l>
@@ -4323,9 +4326,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="en-jomfru-foedte-et-barn" n="17">
-                    <head>
-                        <reg>En jomfru fødte et barn i dag</reg>
-                        <orig> Antiphona <lb n="E74.006"/> Dies est letitie</orig></head>
+                
+                    <head type="add">En jomfru fødte et barn i dag</head>
+                        <head> Antiphona <lb n="E74.006"/> Dies est letitie</head>
                     <lg>
                         <l><c function="initials" rend="4">E</c>N Jo<ex>m</ex>fru fødde ith barn i
                             dag </l>
@@ -4343,11 +4346,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="gud-aere-dit-navn-og-ikke-vort" n="18">
-                    <head>
-                        <reg>Gud ære dit navn og ikke vort</reg>
-                        <orig>(<ref target="#sl-115"><orig>Psalmus C xiiii</orig><reg>Sl
+                  
+                    <head type="add">Gud ære dit navn og ikke vort</head>
+                        <head>(<ref target="#sl-115"><orig>Psalmus C xiiii</orig><reg>Sl
                                 115</reg></ref>) Non <lb n="E74.017"/> nobis domine non
-                        nobis</orig></head>
+                        nobis</head>
                     <lg>
                         <l><c function="initials" rend="4">G</c>Vd ære dit naffn och icke <lb
                                 n="E74.019"/>waart/</l>
@@ -4404,9 +4407,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="nu-lader-os-alle" n="19">
-                    <head>
-                        <reg>Nu lader os alle takke Gud</reg>
-                        <orig>En Sequentz Grates <lb n="E75.022"/> nunc omnes</orig></head>
+               
+                    <head type="add">Nu lader os alle takke Gud</head>
+                        <head>En Sequentz Grates <lb n="E75.022"/> nunc omnes</head>
                     <lg>
                         <l><c function="initials" rend="1">N</c>V lader oss alle tacke Gud vor <pb
                                 n="E76" ana="15_v"/> Herre/</l>
@@ -4423,10 +4426,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="lovet-vaere-du-jesus" n="20">
-                    <head>
-                        <reg>Lovet være du, Jesus Krist</reg>
-                        <orig>En lofsang aff Chri<lb n="E76.008"/>sti fødzel</orig>
-                    </head>
+                   
+                    <head type="add">Lovet være du, Jesus Krist</head>
+                        <head>En lofsang aff Chri<lb n="E76.008"/>sti fødzel</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">L</c>offuit være dw Jesu Christ </l>
                         <l> ath dw me<ex>n</ex>niske worden est/</l>
@@ -4498,11 +4501,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="et-lidet-barn-saa-aerefuldt" n="21">
-                    <head>
-                        <reg>Et lidet barn så ærefuldt</reg>
-                        <orig>En anden skøn vise aff <lb n="E77.018"/> Christi Fødzel/ oc haffuer de
+                
+                    <head type="add">Et lidet barn så ærefuldt</head>
+                        <head>En anden skøn vise aff <lb n="E77.018"/> Christi Fødzel/ oc haffuer de
                             noder so<ex>m</ex>
-                            <lb n="E77.019"/> Dies est letitie siungis met</orig></head>
+                            <lb n="E77.019"/> Dies est letitie siungis met</head>
                     <lg>
                         <l><c function="initials" rend="3">I</c>Th lidet barn saa ærefult/</l>
                         <l> i <lb n="E77.021"/> dag oss fødis til hilsen/</l>
@@ -4562,13 +4565,13 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="nu-er-foedt-os" n="22">
-                    <head>
-                        <reg>Nu er født os Jesus Krist</reg>
-                        <orig>Christus natus hodie <note place="right">(<ref target="#matt-1"
+                  
+                    <head type="add">Nu er født os Jesus Krist</head>
+                        <head>Christus natus hodie <note place="right">(<ref target="#matt-1"
                                         ><orig>Math i</orig><reg>Matt 1</reg></ref>) (<ref
                                     target="#luk-2"><orig>Luce ii</orig><reg>Luk
-                                2</reg></ref>)</note></orig>
-                    </head>
+                                2</reg></ref>)</note></head>
+                    
                     <lg>
                         <l><c function="initials" rend="5">N</c>V er oss fød Jesus Christ </l>
                         <l> Aff en Jo<ex>m</ex>ffru det er vist/</l>
@@ -4617,10 +4620,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="vi-love-dig-alle" n="23">
-                    <head>
-                        <reg>Vi love dig alle, Jesu Krist</reg>
-                        <orig>En lofsang af Christi <lb n="E80.007"/> fødzel</orig>
-                    </head>
+                    
+                    <head type="add">Vi love dig alle, Jesu Krist</head>
+                        <head>En lofsang af Christi <lb n="E80.007"/> fødzel</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">V</c>J loffue dig alle Jesu Christ </l>
                         <l> ath dw menniske worden est <note place="left">(<ref target="#luk-2"
@@ -4691,10 +4694,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="al-den-ganske-kristenhed" n="24">
-                    <head>
-                        <reg>Al den ganske kristenhed</reg>
-                        <orig>En lofsang met de<ex>n</ex> me<lb n="E81.014" rend="="/>lodie
-                                so<ex>m</ex> Resonet in laudibus siu<ex>n</ex>gis met</orig></head>
+                   
+                    <head type="add">Al den ganske kristenhed</head>
+                        <head>En lofsang met de<ex>n</ex> me<lb n="E81.014" rend="="/>lodie
+                                so<ex>m</ex> Resonet in laudibus siu<ex>n</ex>gis met</head>
                     <lg>
                         <l><c function="initials" rend="4">A</c>L den gantske Christenhed </l>
                         <l> priser Gudz barmhiertighed </l>
@@ -4786,9 +4789,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kyrie-gud-fader-af-himmerig" n="25">
-                    <head>
-                        <reg>Kyrie Gud Fader af Himmerig</reg>
-                        <orig> Kyrieleyson ath siunge <lb n="E83.011"/> om Jule høytid</orig></head>
+                   
+                    <head type="add">Kyrie Gud Fader af Himmerig</head>
+                        <head> Kyrieleyson ath siunge <lb n="E83.011"/> om Jule høytid</head>
                     <lg>
                         <l><c function="initials" rend="3">K</c>yrye Gud fader aff himerig</l>
                         <l> dw <lb n="E83.013"/>sende oss din Søn til iørderig</l>
@@ -4806,10 +4809,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="gud-fader-bliv-du" n="26">
-                    <head>
-                        <reg>Gud fader, bliv du nu med os</reg>
-                        <orig>Gud faders Søns oc <lb n="E83.023"/> den Helligandz
-                        paakalelse</orig></head>
+                    
+                    <head type="add">Gud fader, bliv du nu med os</head>
+                        <head>Gud faders Søns oc <lb n="E83.023"/> den Helligandz
+                        paakalelse</head>
                     <lg>
                         <l><pb n="E84" ana="19_v"/><c function="initials" rend="5">G</c>ud fader
                             bliff dw nw met <lb n="E84.002"/> oss/</l>
@@ -4834,12 +4837,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="herre-gud-fader-staa-os" n="27">
-                    <head>
-                        <reg>Herre Gud Fader, stå os bi</reg>
-                        <orig>En bøn til hellig trefol<lb n="E84.017" rend="="/>dighed om bistand
+                
+                    <head type="add">Herre Gud Fader, stå os bi</head>
+                        <head>En bøn til hellig trefol<lb n="E84.017" rend="="/>dighed om bistand
                             och beskermelse met <lb n="E84.018"/> de noder som/ Gud Fader bliff du
-                                <lb n="E84.019"/> nu met oss/ siungis met</orig>
-                    </head>
+                                <lb n="E84.019"/> nu met oss/ siungis met</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">H</c>Erre Gud Fader staa oss bi </l>
                         <l> hielp oss aff vor tra<ex>n</ex>g oc nød</l>
@@ -4879,9 +4882,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="herre-krist-gud-faders" n="28">
-                    <head>
-                        <reg>Herre Krist Gud Faders enbårne søn</reg>
-                        <orig>En skøn loffsa<ex>n</ex>g aff Christo</orig></head>
+                   
+                    <head type="add">Herre Krist Gud Faders enbårne søn</head>
+                        <head>En skøn loffsa<ex>n</ex>g aff Christo</head>
                     <lg>
                         <l><c function="initials">H</c>Er christ gud faders enbor<lb n="E85.021"/>ne
                             Søn <note place="right">(<ref target="#joh-9"><orig>Joan
@@ -4943,9 +4946,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="men-vi-leve-paa-jorden-her" n="29">
-                    <head>
-                        <reg>Men vi leve på jorden her</reg>
-                        <orig>Media vita</orig></head>
+                   
+                    <head type="add">Men vi leve på jorden her</head>
+                        <head>Media vita</head>
                     <lg>
                         <l><c function="initials" rend="5">M</c>En wi leffue paa iorden <lb
                                 n="E87.005"/>her</l>
@@ -5009,11 +5012,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-gud-af-himmelen-se" n="30">
-                    <head>
-                        <reg>O Gud af Himmelen se hertil</reg>
-                        <orig>Den xii Psalm Saluu<ex>m</ex>
+                    
+                    <head type="add">O Gud af Himmelen se hertil</head>
+                        <head>Den xii Psalm Saluu<ex>m</ex>
                             <lb n="E88.016"/> me fac Til ath siunge om det hellige <lb n="E88.017"/>
-                            Euangelii framgang</orig></head>
+                            Euangelii framgang</head>
                     <lg>
                         <l><note place="left">(<ref target="#sl-12"><orig>Psal xii.</orig><reg>Sl
                                         12</reg></ref>)</note><c function="initials" rend="4">O</c>
@@ -5091,11 +5094,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="saa-taler-den-uvise-mund" n="31">
-                    <head>
-                        <reg>Så taler den uvise mund</reg>
-                        <orig><ref target="#sl-14"><orig>Den xiiii Psalm Dixit <lb n="E90.014"
+                  
+                    <head type="add">Så taler den uvise mund</head>
+                        <head><ref target="#sl-14"><orig>Den xiiii Psalm Dixit <lb n="E90.014"
                                     />insipiens in corde suo</orig><reg>Sl
-                        14</reg></ref></orig></head>
+                        14</reg></ref></head>
                     <lg>
                         <l><c function="initials" rend="4">S</c>Aa taler den vwise mund</l>
                         <l><lb n="E90.016"/>de<ex>n</ex> rette Gud wi mene/</l>
@@ -5159,10 +5162,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="den-daarlige-mund" n="32">
-                    <head>
-                        <reg>Den dårlige mund han siger så</reg>
-                        <orig>Den samme Psalm an<lb n="E92.006" rend="="/>derledis/ dog met samme
-                            noder</orig></head>
+                   
+                    <head type="add">Den dårlige mund han siger så</head>
+                        <head>Den samme Psalm an<lb n="E92.006" rend="="/>derledis/ dog met samme
+                            noder</head>
                     <lg>
                         <l><c function="initials" rend="4">D</c>En daarlige mund han siger <lb
                                 n="E92.008"/>saa/</l>
@@ -5227,10 +5230,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="krist-laa-i-doedsens-baande" n="33">
-                    <head>
-                        <reg>Krist lå i dødsens bånde</reg>
-                        <orig><pb n="E94" ana="24_v"/>En løfsang aff Christi <lb n="E94.002"
-                            />opstandelse</orig></head>
+                   
+                    <head type="add">Krist lå i dødsens bånde</head>
+                        <head><pb n="E94" ana="24_v"/>En løfsang aff Christi <lb n="E94.002"
+                            />opstandelse</head>
                     <lg>
                         <l><c function="initials" rend="5">C</c>Hrist laa i dødens bond <lb
                                 n="E94.004"/><note place="left">(<ref target="#matt-28"><orig>Mathei
@@ -5350,9 +5353,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kyrie-1" n="34">
-                    <head>
-                        <reg>Kyrie</reg>
-                        <orig>Kyrieleyson Paschale</orig></head>
+                
+                    <head type="add">Kyrie</head>
+                        <head>Kyrieleyson Paschale</head>
                     <lg>
                         <l><c function="initials" rend="3">K</c>yrie Gud fader</l>
                         <l> forbarme dig off<lb n="E96.018" rend="="/>uer oss</l>
@@ -5373,9 +5376,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kyrie-o-herre-gud-fader-med-din-kraft" n="35">
-                    <head>
-                        <reg>Kyrie / O Herre Gud Fader, med din kraft</reg>
-                        <orig><pb n="E97" ana="26_r"/>Jth andet Kyrieleyson</orig></head>
+                   
+                    <head type="add">Kyrie / O Herre Gud Fader, med din kraft</head>
+                        <head><pb n="E97" ana="26_r"/>Jth andet Kyrieleyson</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Herre Gud Fader met din <lb
                                 n="E97.003"/>krafft</l>
@@ -5408,9 +5411,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="guds-engel-sidder-ved-graven" n="36">
-                    <head>
-                        <reg>Guds engel sidder hos graven</reg>
-                        <orig>Sedit angelus</orig></head>
+                 
+                    <head type="add">Guds engel sidder hos graven</head>
+                        <head>Sedit angelus</head>
                     <lg>
                         <l><c function="initials" rend="3">G</c>Vdz Engel sider hoss graffuen/</l>
                         <l><note place="right">(<ref target="#matt-28"><orig>Math
@@ -5425,10 +5428,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="crucifixum-in-carne" n="37">
-                    <head>
-                        <reg>Crucifixum in carne laudate</reg>
-                        <orig>Crucifixu<ex>m</ex> in carne laudate</orig>
-                    </head>
+                   
+                    <head type="add">Crucifixum in carne laudate</head>
+                        <head>Crucifixu<ex>m</ex> in carne laudate</head>
+                    
                     <lg>
                         <l><pb n="E98" ana="26_v"/><space extent="2blanks"/>Den korsfeste paa
                                 mando<ex>m</ex>me<ex>n</ex> loffuer/</l>
@@ -5437,12 +5440,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="nolite-metuere" n="38">
-                    <head>
-                        <reg>Nolite metuere</reg>
-                        <orig>Nolite <app>
+                   
+                    <head type="add">Nolite metuere</head>
+                        <head>Nolite <app>
                                 <lem>metuere</lem>
                                 <rdg wit="#orig">meture</rdg>
-                            </app></orig></head>
+                            </app></head>
                     <lg>
                         <l><note place="left">(<ref target="#matt-28"><orig>Mathei
                                         xxviii</orig><reg>Matt 28</reg></ref>) (<ref
@@ -5456,11 +5459,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="aerens-konge" n="39">
-                    <head>
-                        <reg>Ærens konning o Kriste</reg>
-                        <orig>Cum Rex glorie <lb n="E98.011"/> Forsamlinge<ex>n</ex> siunger <note
+                  
+                    <head type="add">Ærens konning o Kriste</head>
+                        <head>Cum Rex glorie <lb n="E98.011"/> Forsamlinge<ex>n</ex> siunger <note
                                 place="left">(<ref target="#sl-33"><orig>Psal xxliii</orig><reg>Sl
-                                        33</reg></ref>)</note></orig></head>
+                                        33</reg></ref>)</note></head>
                     <lg>
                         <l><hi rend="center">Erens konning o Christe Alleluia</hi></l>
                     </lg>
@@ -5537,9 +5540,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kristus-jesus-for-os-ofret" n="40">
-                    <head>
-                        <reg>Kristus Jesus for os ofret</reg>
-                        <orig>Victime paschali lau<ex>des</ex></orig></head>
+                   
+                    <head type="add">Kristus Jesus for os ofret</head>
+                        <head>Victime paschali lau<ex>des</ex></head>
                     <lg>
                         <l><c function="initials" rend="5">C</c>Hristus Jesus for oss er <lb
                                 n="E100.012"/> offrid/</l>
@@ -5580,10 +5583,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="jesus-krist-vor-frelsermand" n="41">
-                    <head>
-                        <reg>Jesus Krist vor frelsermand</reg>
-                        <orig>En lofsang som siu<ex>n</ex>gis <lb n="E101.012"/> om Paaske
-                            høytid</orig></head>
+                 
+                    <head type="add">Jesus Krist vor frelsermand</head>
+                        <head>En lofsang som siu<ex>n</ex>gis <lb n="E101.012"/> om Paaske
+                            høytid</head>
                     <lg>
                         <l><c function="initials" rend="4">I</c>Esus Christ wor
                             frelserma<ex>n</ex>d</l>
@@ -5612,9 +5615,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="krist-stod-op-af-doede-2" n="42">
-                    <head>
-                        <reg>Krist stod op af døde</reg>
-                        <orig>Den lofsang Victime <lb n="E102.003"/> paschali laudes</orig></head>
+                   
+                    <head type="add">Krist stod op af døde</head>
+                        <head>Den lofsang Victime <lb n="E102.003"/> paschali laudes</head>
                     <lg>
                         <l><c function="initials" rend="4">N</c>V ville wi Christne siunge <lb
                                 n="E102.005"/> oc loffue vort paaske lam</l>
@@ -5660,9 +5663,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="krist-stod-op-af-doede" n="43">
-                    <head>
-                        <reg>Krist stod op af døde</reg>
-                        <orig>En lofsang aff Christi <lb n="E103.007"/> opstandelse</orig></head>
+                  
+                    <head type="add">Krist stod op af døde</head>
+                        <head>En lofsang aff Christi <lb n="E103.007"/> opstandelse</head>
                     <lg>
                         <l><c function="initials" rend="4">C</c>Hrist stod op aff døde/</l>
                         <l> Frelste <lb n="E103.009"/>all verden aff nøde/</l>
@@ -5674,10 +5677,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="krist-laa-i-doedsens-vaande" n="44">
-                    <head>
-                        <reg>Krist lå i dødsens vånde</reg>
-                        <orig>En Lofsa<ex>n</ex>g aff Christi <lb n="E103.014"/>
-                        opstandelse</orig></head>
+                   
+                    <head type="add">Krist lå i dødsens vånde</head>
+                        <head>En Lofsa<ex>n</ex>g aff Christi <lb n="E103.014"/>
+                        opstandelse</head>
                     <lg>
                         <l><c function="initials" rend="4">C</c>Hrist laa i dødzens wonde</l>
                         <l><lb n="E103.016"/> for wore synder giffuen/</l>
@@ -5792,9 +5795,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="dixit-dominus-domino-meo" n="45">
-                    <head>
-                        <reg>Herren sagde til min herre</reg>
-                        <orig>Den cx Psalm Dixit <lb n="E105.014"/> dominus domino meo</orig></head>
+                   
+                    <head type="add">Herren sagde til min herre</head>
+                        <head>Den cx Psalm Dixit <lb n="E105.014"/> dominus domino meo</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>Erren sagde til min Herre/</l>
                         <l> sidh hoss min høgre hand</l>
@@ -5853,10 +5856,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="hvorfor-stormede-de-hedninge" n="46">
-                    <head>
-                        <reg>Hvorfor stormede de hedninge</reg>
-                        <orig><ref target="#sl-2"><orig>De<ex>n</ex> ii Psalm</orig><reg>Sl
-                                2</reg></ref> Quare fre<ex>muerunt</ex></orig></head>
+                   
+                    <head type="add">Hvorfor stormede de hedninge</head>
+                        <head><ref target="#sl-2"><orig>De<ex>n</ex> ii Psalm</orig><reg>Sl
+                                2</reg></ref> Quare fre<ex>muerunt</ex></head>
                     <lg>
                         <l><c function="initials" rend="3">H</c>Vor fore stormede de
                                 hedni<ex>n</ex><lb n="E106.021" rend="="/>ge/</l>
@@ -5930,10 +5933,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="herre-hvem-skal-have-sin-bolig" n="47">
-                    <head>
-                        <reg>Dominus quis habitabit</reg>
-                        <orig><ref target="#sl-15"><orig>Den xv Psalm</orig><reg>Sl 15</reg></ref>
-                                Domi<lb n="E108.011"/>ne quis habitabit</orig></head>
+                   
+                    <head type="add">Dominus quis habitabit</head>
+                        <head><ref target="#sl-15"><orig>Den xv Psalm</orig><reg>Sl 15</reg></ref>
+                                Domi<lb n="E108.011"/>ne quis habitabit</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>Erre huem skal haffue sin bo<lb
                                 n="E108.013" rend="="/>lig i dit paulun? oc hwo skall <lb
@@ -5975,9 +5978,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="veni-creator-spiritus" n="48">
-                    <head>
-                        <reg>Veni creator spiritus</reg>
-                        <orig>Veni creator spiritus</orig></head>
+                  
+                    <head type="add">Veni creator spiritus</head>
+                        <head>Veni creator spiritus</head>
                     <lg>
                         <l><c function="initials" rend="4">K</c>Om Helligand herre Gud/</l>
                         <l> opfyll met din naade oc mis<lb n="E109.013" rend="="/>kund/</l>
@@ -6053,11 +6056,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="var-gud-ikke-med-os" n="49">
-                    <head>
-                        <reg>Var Gud ikke med os denne tid</reg>
-                        <orig><ref target="#sl-124"><orig>Den cxxiiii Psalm</orig><reg>Sl
+                 
+                    <head type="add">Var Gud ikke med os denne tid</head>
+                        <head><ref target="#sl-124"><orig>Den cxxiiii Psalm</orig><reg>Sl
                                 124</reg></ref> Nisi <lb n="E111.006"/>quia dominus erat in
-                            nobis</orig></head>
+                            nobis</head>
                     <lg>
                         <l><c function="initials" rend="4">W</c>Aare Gud icke met oss
                                 de<ex>n</ex><lb n="E111.008" rend="="/>ne tid/</l>
@@ -6103,9 +6106,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="alene-gud-i-hojeste" n="50">
-                    <head>
-                        <reg>Alene Gud i det højeste</reg>
-                        <orig>Gloria in excelsis deo</orig></head>
+                   
+                    <head type="add">Alene Gud i det højeste</head>
+                        <head>Gloria in excelsis deo</head>
                     <p> met de noder som det Gloria Alenis<lb rend="="/>te Gud i hie<ex>m</ex>merige
                         siungis met </p>
                     <lg>
@@ -6160,10 +6163,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-herre-gud-benaade-mig" n="51">
-                    <head>
-                        <reg>O Herre Gud benåde mig</reg>
-                        <orig>(<ref target="#sl-51"><orig>Den li Psalm</orig><reg>Sl 51</reg></ref>)
-                            Miserere <lb n="E113.017"/>meo deus</orig></head>
+                
+                    <head type="add">O Herre Gud benåde mig</head>
+                        <head>(<ref target="#sl-51"><orig>Den li Psalm</orig><reg>Sl 51</reg></ref>)
+                            Miserere <lb n="E113.017"/>meo deus</head>
                     <lg>
                         <l><c function="initials" rend="5">O</c> Herre Gud benaade mig <lb
                                 n="E113.019"/>for din store barmhiertighed</l>
@@ -6377,9 +6380,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="esajas-den-profet" n="54">
-                    <head>
-                        <reg>Sanctus / Esajas den profet monne det så gå</reg>
-                        <orig>Sanctus som siungis <lb n="E118.017"/> vdi Nørenberg</orig></head>
+               
+                    <head type="add">Sanctus / Esajas den profet monne det så gå</head>
+                        <head>Sanctus som siungis <lb n="E118.017"/> vdi Nørenberg</head>
                     <lg>
                         <l><c function="initials" rend="4">E</c>Saias den Prophete mo<ex>n</ex>ne
                                 <lb n="E118.019"/>det saa gaa/</l>
@@ -6403,9 +6406,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="sanctus-2" n="55">
-                    <head>
-                        <reg>Sanctus / Hellig er Gud vor Fader</reg>
-                        <orig>Sanctus</orig></head>
+                   
+                    <head type="add">Sanctus / Hellig er Gud vor Fader</head>
+                        <head>Sanctus</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>Ellig er Gud fader/</l>
                         <l> Hellig <note place="right">(<ref target="#es-6"><orig>Esa
@@ -6440,9 +6443,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-guds-lam-uskyldig" n="56">
-                    <head>
-                        <reg>O Guds lam skyldig</reg>
-                        <orig>Agnus dei</orig></head>
+                  
+                    <head type="add">O Guds lam skyldig</head>
+                        <head>Agnus dei</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Gudz lam vskyldig/</l>
                         <l> paa <lb n="E120.008"/> korssit vor slactet/</l>
@@ -6459,10 +6462,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-jesu-bold-med-meget-vold" n="57">
-                    <head>
-                        <reg>O Jesu bold med meget vold</reg>
-                        <orig>Maria bold christelige <lb n="E120.017"/> foruent oc Corrigerit
-                            Christo til loff</orig></head>
+                  
+                    <head type="add">O Jesu bold med meget vold</head>
+                        <head>Maria bold christelige <lb n="E120.017"/> foruent oc Corrigerit
+                            Christo til loff</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Jesu bold met megit vold/</l>
                         <l> Gud Faders Søn och ere/</l>
@@ -6565,12 +6568,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="hjaelp-gud-hvor-stor" n="58">
-                    <head>
-                        <reg>Hjælp Gud, hvor stor er menneskens sorrig og nød</reg>
-                        <orig>En skøn vise vdi huilke<ex>n</ex>
+                    
+                    <head type="add">Hjælp Gud, hvor stor er menneskens sorrig og nød</head>
+                        <head>En skøn vise vdi huilke<ex>n</ex>
                             <lb n="E123.018"/> ith menniske bekender och begræder sin <lb
                                 n="E123.019"/> elendighed begerendis forbedring/ hielp <lb
-                                n="E123.020"/> oc trøst aff Gudz ord</orig></head>
+                                n="E123.020"/> oc trøst aff Gudz ord</head>
                     <lg>
                         <l><c function="initials" rend="3">H</c>Jelp Gud huor stoer er men<lb
                                 n="E123.022" rend="="/>niskens sorg oc nød/</l>
@@ -6660,11 +6663,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="hvo-som-vil-leve-kristeligt" n="59">
-                    <head>
-                        <reg>Hvo som vil leve kristelig</reg>
-                        <orig>De x Gudz bud met no<lb n="E126.008" rend="="/>gre andre Psalmer
+                 
+                    <head type="add">Hvo som vil leve kristelig</head>
+                        <head>De x Gudz bud met no<lb n="E126.008" rend="="/>gre andre Psalmer
                             loffsange oc aande<lb n="E126.009" rend="="/>lige wiser/ i den hellige
-                            scrifft wel <lb n="E126.010"/>begrundede</orig></head>
+                            scrifft wel <lb n="E126.010"/>begrundede</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>wo som wil leffue Christelige</l>
                         <l><lb n="E126.012"/> oc hoss Gud bliffue euindeli<lb n="E126.013" rend="="
@@ -6744,9 +6747,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="gud-lod-sin-roest-af-skyen-lyde" n="60">
-                    <head>
-                        <reg>Gud lod sin røst af skyen lyde</reg>
-                        <orig>De x gudz bud anderledis</orig></head>
+                   
+                    <head type="add">Gud lod sin røst af skyen lyde</head>
+                        <head>De x gudz bud anderledis</head>
                     <lg>
                         <l><c function="initials" rend="4">G</c>Vd lod røst aff skyen lyde/</l>
                         <l>Jsrael han monne tilbiude/</l>
@@ -6830,10 +6833,10 @@
                 </div>
                 <lb n="E129.022"/>
                 <div type="psalm" xml:id="den-som-vil-en-kristen-hedde" n="61">
-                    <head>
-                        <reg>Den som vil en kristen hedde</reg>
-                        <orig>De x Gudz bud met de <lb n="E129.023"/> noder/ som/ Saa taler den
-                            vuise mund/ <lb n="E129.024"/>siungis met </orig></head>
+                    
+                    <head type="add">Den som vil en kristen hedde</head>
+                        <head>De x Gudz bud met de <lb n="E129.023"/> noder/ som/ Saa taler den
+                            vuise mund/ <lb n="E129.024"/>siungis met </head>
                     <lg>
                         <l><pb n="E130" ana="42_v"/><c function="initials" rend="4">D</c>En som vil
                             en Christen he<lb n="E130.002" rend="="/>de/</l>
@@ -6882,14 +6885,14 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="gud-fader-udi-himmerig" n="62">
-                    <head>
-                        <reg>Gud fader udi himmerig</reg>
-                        <orig>De x Gudz bud ord <lb n="E131.007"/> so<ex>m</ex> lære oss alt det wi
+                    
+                    <head type="add">Gud fader udi himmerig</head>
+                        <head>De x Gudz bud ord <lb n="E131.007"/> so<ex>m</ex> lære oss alt det wi
                             ere Gud plictige<note place="right">(<ref target="#mos-2-20"><orig>Exo
                                         xx</orig><reg>2 Mos 20</reg></ref>) (<ref target="#mos-5-5"
                                         ><orig>Deu v</orig><reg>5 Mos 5</reg></ref>) oc (<ref
                                     target="#mos-5-6"><orig>vi</orig><reg>5 Mos
-                                6</reg></ref>)</note></orig></head>
+                                6</reg></ref>)</note></head>
                     <lg>
                         <l><c function="initials" rend="3">G</c>Vd Fader vdi hie<ex>m</ex>merig/</l>
                         <l> sin vilge <lb n="E131.009"/>han oss kende/</l>
@@ -6974,10 +6977,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="nu-bede-vi-den-helligaand" n="63">
-                    <head>
-                        <reg>Nu bede vi den helligånd</reg>
-                        <orig><pb n="E133" ana="44_r"/>En lofsang at bede den <lb n="E133.002"/>
-                            Helligandz naade met</orig></head>
+                    
+                    <head type="add">Nu bede vi den helligånd</head>
+                        <head><pb n="E133" ana="44_r"/>En lofsang at bede den <lb n="E133.002"/>
+                            Helligandz naade met</head>
                     <lg>
                         <l><c function="initials" rend="4">N</c>V bede wi den Helligand/</l>
                         <l>om den Christelig tro oc ret <lb n="E133.005"/>forstand/</l>
@@ -7022,11 +7025,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="guds-soen-er-kommen-af-himmelen-ned" n="64">
-                    <head>
-                        <reg>Guds søn er kommen af himmelen ned</reg>
-                        <orig>En vise til ath bekende <pb n="E134" ana="44_v"/>troe<ex>n</ex> met
+                   
+                    <head type="add">Guds søn er kommen af himmelen ned</head>
+                        <head>En vise til ath bekende <pb n="E134" ana="44_v"/>troe<ex>n</ex> met
                             det gamle oc Ny Testame<ex>n</ex>te <lb n="E134.002"/>vel
-                            stadfestet</orig></head>
+                            stadfestet</head>
                     <lg>
                         <l><note place="left">(<ref target="#es-9"><orig>Esaie ix</orig><reg>Es
                                         9</reg></ref>)</note><c function="initials" rend="3"
@@ -7243,11 +7246,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="med-glaede-og-fred-farer-jeg-nu-hen" n="65">
-                    <head>
-                        <reg>Med glæde og fred far jeg nu hen</reg>
-                        <orig>Simeonis lofsa<ex>n</ex>g Nu<ex>n</ex>c <lb n="E138.011"/> dimittis/
+                  
+                    <head type="add">Med glæde og fred far jeg nu hen</head>
+                        <head>Simeonis lofsa<ex>n</ex>g Nu<ex>n</ex>c <lb n="E138.011"/> dimittis/
                                 <ref target="#luk-2"><orig>Luce ii</orig><reg>Luk
-                            2</reg></ref></orig></head>
+                            2</reg></ref></head>
                     <lg>
                         <l><c function="initials" rend="4">M</c>Et glede oc fred far ieg nu <lb
                                 n="E138.013"/>hen/</l>
@@ -7289,9 +7292,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-fader-vor-barmhjertig-og-god" n="66">
-                    <head>
-                        <reg>Fader vor barmhjertig og god</reg>
-                        <orig>Vor fader</orig></head>
+                
+                    <head type="add">Fader vor barmhjertig og god</head>
+                        <head>Vor fader</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Fader vor/ barmhiertig oc <lb
                                 n="E139.010"/>god</l>
@@ -7356,13 +7359,13 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="haleluja-det-boer-os-altid-synge" n="67">
-                    <head>
-                        <reg>Halleluja det bør os altid sjunge</reg>
-                        <orig><ref target="#sl-117"><orig>Den <app>
+                
+                    <head type="add">Halleluja det bør os altid sjunge</head>
+                        <head><ref target="#sl-117"><orig>Den <app>
                                         <lem>cxvii</lem>
                                         <rdg wit="#orig">cxxii</rdg>
                                     </app> Psalm</orig><reg>Sl 117</reg></ref> Lau<lb n="E140.016"
-                            />date dominum omnes gentes</orig></head>
+                            />date dominum omnes gentes</head>
                     <lg>
                         <l><c function="initials" rend="5">A</c>Lleluia det bør oss altid <lb
                                 n="E140.018"/> siunge/</l>
@@ -7404,10 +7407,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="jesu-krist-dig-takke-vi" n="68">
-                    <head>
-                        <reg>Jesu Krist, vi takke dig</reg>
-                        <orig>En aandelige vise met <lb n="E141.017"/>de noder som/ Gud Fader bliff
-                            du <lb n="E141.018"/>nu hoss oss/ siungiss met</orig></head>
+                  
+                    <head type="add">Jesu Krist, vi takke dig</head>
+                        <head>En aandelige vise met <lb n="E141.017"/>de noder som/ Gud Fader bliff
+                            du <lb n="E141.018"/>nu hoss oss/ siungiss met</head>
                     <lg>
                         <l><c function="initials" rend="4">I</c>Esu Christ dig tacke wi/</l>
                         <l> du<note place="right">(<ref target="#fil-2"><orig>Phil ii</orig><reg>Fil
@@ -7480,9 +7483,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-vor-fader-vi-bede-dig" n="69">
-                    <head>
-                        <reg>O Vor Fader, vi bede dig</reg>
-                        <orig>Vor fader</orig></head>
+                   
+                    <head type="add">O Vor Fader, vi bede dig</head>
+                        <head>Vor fader</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Vor fader wi bede dig/</l>
                         <l> so<ex>m</ex>
@@ -7526,16 +7529,16 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="til-dig-raaber-jeg-af-hjertens-grund" n="70">
-                    <head>
-                        <reg>Til dig råber jeg af hjertens grund</reg>
-                        <orig><ref target="#sl-130"><orig>De<ex>n</ex> cxxx Psalm</orig><reg>Sl
+                   
+                    <head type="add">Til dig råber jeg af hjertens grund</head>
+                        <head><ref target="#sl-130"><orig>De<ex>n</ex> cxxx Psalm</orig><reg>Sl
                                     130</reg></ref> De pro<lb n="E144.006" rend="="/>fundis/ wdi
                             huilken en bedrøffuit aand <lb n="E144.007"/>rober til Gud/
                                 beke<ex>n</ex>ne<ex>n</ex>dis syn synd oc <lb n="E144.008"
                             />ondskaff/ oc ath all me<ex>n</ex>niske<ex>n</ex>s krafft <lb
                                 n="E144.009"/>er vduelig thi skal huer sette sit <lb n="E144.010"
                             />haab oc tro til Gudz <lb n="E144.011"/>miskundhed och <lb n="E144.012"
-                            />naade all ene <lb n="E144.013"/>sigendis</orig></head>
+                            />naade all ene <lb n="E144.013"/>sigendis</head>
                     <lg>
                         <l><c function="initials" rend="4">T</c>Jll dig rober ieg aff hiertens <lb
                                 n="E144.015"/>grund/</l>
@@ -7620,12 +7623,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="lover-gud-i-fromme-kristne" n="71">
-                    <head>
-                        <reg>Lover Gud i fromme kristne</reg>
-                        <orig>En gantske skøn Euan<lb n="E146.005" rend="="/>geliske vise om Gudz
+                
+                    <head type="add">Lover Gud i fromme kristne</head>
+                        <head>En gantske skøn Euan<lb n="E146.005" rend="="/>geliske vise om Gudz
                             ord och lærdo<ex>m</ex>me<note place="left">(<ref target="#sl-81"
                                         ><orig>Psa lxxxi</orig><reg>Sl
-                        81</reg></ref>)</note></orig></head>
+                        81</reg></ref>)</note></head>
                     <lg>
                         <l><c function="initials" rend="4">L</c>Offuer Gud i fro<ex>m</ex>me Chri<lb
                                 n="E146.007" rend="="/>stne</l>
@@ -7814,10 +7817,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kaptajn-herre-gud-fader-min" n="72">
-                    <head>
-                        <reg>Capitan Herre Gud Fader min</reg>
-                        <orig>En christelige vise som <lb n="E149.019"/> Casimirus Margreue till
-                                Branden<lb n="E149.020" rend="="/>borg giorde</orig></head>
+                   
+                    <head type="add">Capitan Herre Gud Fader min</head>
+                        <head>En christelige vise som <lb n="E149.019"/> Casimirus Margreue till
+                                Branden<lb n="E149.020" rend="="/>borg giorde</head>
                     <lg>
                         <l><c function="initials" rend="3">C</c>Apitan Herre Gud Fader min/</l>
                         <l><note place="right">(<ref target="#sl-44"><orig>Psal xliiii</orig><reg>Sl
@@ -7988,10 +7991,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="vaag-op-og-vag-op-i-guds-navn" n="73">
-                    <head>
-                        <reg>Våg op og vag op i Guds navn</reg>
-                        <orig>En christelige vise mod <lb n="E153.018"/> det grwselig Satans
-                            trwsel</orig></head>
+                    
+                    <head type="add">Våg op og vag op i Guds navn</head>
+                        <head>En christelige vise mod <lb n="E153.018"/> det grwselig Satans
+                            trwsel</head>
                     <lg>
                         <l><c function="initials" rend="3">V</c>Ag op wag op i Gudz naffn<note
                                 place="right">(<ref target="#es-60"><orig>Esaie lx</orig><reg>Es
@@ -8159,9 +8162,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-krist-hvor-var-din-kundskab" n="74">
-                    <head>
-                        <reg>O Kriste, hvor var din kundskab</reg>
-                        <orig>En skøn vise om Gudz <lb n="E157.003"/> bekendelse</orig></head>
+                 
+                    <head type="add">O Kriste, hvor var din kundskab</head>
+                        <head>En skøn vise om Gudz <lb n="E157.003"/> bekendelse</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Christe huor vor din kund<lb
                                 n="E157.005" rend="="/>skab/</l>
@@ -8355,11 +8358,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="jerusalem-du-hellige-stad" n="76">
-                    <head>
-                        <reg>Jerusalem, du hellige stad</reg>
-                        <orig>(<ref target="#sl-147"><orig>Den C oc xlviii psalm</orig><reg>Sl
+                   
+                    <head type="add">Jerusalem, du hellige stad</head>
+                        <head>(<ref target="#sl-147"><orig>Den C oc xlviii psalm</orig><reg>Sl
                                     147</reg></ref>) <lb n="E161.008"/> Lauda
-                        Hierusalem</orig></head>
+                        Hierusalem</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>Jerusalem dw hellige stad/</l>
                         <l> loffue herren alle dage/</l>
@@ -8391,10 +8394,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="forlae-os-med-fred" n="77">
-                    <head>
-                        <reg>Forlen os med fred nådelig</reg>
-                        <orig>Da pacem Domine <lb n="E162.008"/> En sang ath bede om fred
-                        met</orig></head>
+                   
+                    <head type="add">Forlen os med fred nådelig</head>
+                        <head>Da pacem Domine <lb n="E162.008"/> En sang ath bede om fred
+                        met</head>
                     <lg>
                         <l><c function="initials" rend="3">F</c>Orlæ oss met fred nadelige/</l>
                         <l> herre <lb n="E162.010"/>Gud i vore dage/</l>
@@ -8428,17 +8431,17 @@
                     </lg>
                 </div></div>
                 <div type="chapter" xml:id="det-evangeliske-messeembede" n="4">
-                    <head>
-                        <reg>Det evangeliske messeembede</reg>
-                        <orig><pb n="E163" ana="59_r"/>Her effter følger det <lb n="E163.002"/>
+                   
+                    <head type="add">Det evangeliske messeembede</head>
+                        <head><pb n="E163" ana="59_r"/>Her effter følger det <lb n="E163.002"/>
                             hellige Euangeliske Messe embede/ <lb n="E163.003"/> som nw i den
                             Christne forsamling <lb n="E163.004"/> siunges/ Mit twenne skøne
-                                forma<lb n="E163.005" rend="="/>ninger til folkit</orig></head>
+                                forma<lb n="E163.005" rend="="/>ninger til folkit</head>
                 
                 <div xml:id="vor-hjaelp-vaere-i-herrens-navn" n="1">
-                    <head>
-                        <reg>Vor hjælp være i Herrens navn</reg>
-                        <orig>Adiutorium nostrum</orig></head>
+                 
+                    <head type="add">Vor hjælp være i Herrens navn</head>
+                        <head>Adiutorium nostrum</head>
                     <p><space extent="2blanks"/>Vor hielp wære i Herrens naffn/<note place="right"
                                 >(<ref target="#sl-124"><orig>Psa. cxxiiii</orig><reg>Sl
                                 124</reg></ref>)</note>
@@ -8451,10 +8454,10 @@
                         <lb n="E163.010"/>oc hans barmhiertighed er ewig</p>
                 </div>
                 <div type="psalm" xml:id="jeg-arme-syndige-menneske" n="2">
-                    <head>
-                        <reg>Jeg arme syndige menneske</reg>
-                        <orig>Confiteor <lb n="E163.012"/> En kort bekendelse i Gudz
-                        ansicte</orig></head>
+                
+                    <head type="add">Jeg arme syndige menneske</head>
+                        <head>Confiteor <lb n="E163.012"/> En kort bekendelse i Gudz
+                        ansicte</head>
                     <lg>
                         <l><c function="initials" rend="4">I</c>Eg arme syndige menniske <lb
                                 n="E163.014"/>bekender mig for Gud al<note place="right">(<ref
@@ -8477,10 +8480,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="den-almaegtigste-barmhjertige-gud" n="3">
-                    <head>
-                        <reg>Den almægtigste barmhjertige Gud, som for vore synders skyld</reg>
-                        <orig>Absolutio <lb n="E164.004"/> En Euangelisk affløssning offuer <lb
-                                n="E164.005"/>menigheden</orig></head>
+                  
+                    <head type="add">Den almægtigste barmhjertige Gud, som for vore synders skyld</head>
+                        <head>Absolutio <lb n="E164.004"/> En Euangelisk affløssning offuer <lb
+                                n="E164.005"/>menigheden</head>
                     <p>
                         <c function="initials" rend="4">D</c>En almectiste barmhiertige <lb
                             n="E164.007"/><note place="left">(<ref target="#joh-3"><orig>Johan
@@ -8618,6 +8621,7 @@
                                 rend="="/>ders ære Amen</p>
                     </div>
                     <div type="psalm" xml:id="gloria-aleneste-gud-i-himmerig" n="4">
+                        <head type="add">Aleneste Gud i Himmerig</head>
                         <head>Gloria in excelsis deo</head>
                         <lg>
                             <l><c function="initials" rend="5">A</c>L eniste Gud i hiemme<lb
@@ -8711,7 +8715,7 @@
                     </lg>
                 </div>
                 </div>
-                <div type="psalm" xml:id="o-herre-jesus-krist-du-som-har-ladet" n="4">
+                <div type="psalm" xml:id="o-herre-jesus-krist-du-som-har-ladet" n="5">
                     <head type="add">O Herre Jesus Krist, du som har efterladt os dit brød at
                         æde</head>
                     <head>
@@ -8726,11 +8730,11 @@
                             affte<ex>n</ex> maaltid/ Huilke<ex>n</ex>
                         <lb n="E169.020"/>du som regnerer euindelige Amen </p>
                 </div>
-                <div type="psalm" xml:id="o-almaegtigste-evige-gud" n="5">
-                    <head>
-                        <reg>O almægtigste evige Gud</reg>
-                        <orig><!--<figure type="vignette"/>--> En anden Collecte <!--<figure type="vignette"
-                            />--></orig></head>
+                <div type="psalm" xml:id="o-almaegtigste-evige-gud" n="6">
+                    
+                    <head type="add">O almægtigste evige Gud</head>
+                        <head><!--<figure type="vignette"/>--> En anden Collecte <!--<figure type="vignette"
+                            />--></head>
 
                     <p><c function="initials" rend="3">O</c> Almectiste euige Gud/ som be<lb
                             n="E169.023" rend="="/>skermer dem alle/ som fly til dig <lb
@@ -8747,14 +8751,14 @@
                         <l> AMEN</l>
                     </lg>
                 </div>
-                <div xml:id="broedre-i-de-ting" n="6">
-                    <head>
-                        <reg>Epistel</reg>
-                        <orig>Her effter maa mand <lb n="E170.009"/> læse encthen de<ex>n</ex>ne
+                <div xml:id="broedre-i-de-ting" n="7">
+                  
+                    <head type="add">Epistel</head>
+                        <head>Her effter maa mand <lb n="E170.009"/> læse encthen de<ex>n</ex>ne
                             effterfølgende Epistel <lb n="E170.010"/>eller en anden i det Gamle
                                 Testa<lb n="E170.011" rend="="/>mente &#x2055; <ref
                                 target="#kor-1-11"><orig>i. Corinthiorum xi</orig><reg>1 Kor
-                                    11</reg></ref></orig></head>
+                                    11</reg></ref></head>
                     <p>
                         <c function="initials" rend="4">B</c>Rødre/ J de ting ieg biuder <lb
                             n="E170.013"/>eder/ da loffuer ieg icke ati <lb n="E170.014"
@@ -8803,11 +8807,11 @@
                         selff <lb n="E172.005"/>dommen/ om han icke dømer om Her<lb n="E172.006"
                             rend="="/>rens legeme </p>
                 </div>
-                <div type="psalm" xml:id="gladelig-ville-vi-halleluja" n="7">
-                    <head>
-                        <reg>Halleluja. Gladelig ville vi halleluja sjunge</reg>
-                        <orig>Her efter følger en lof<lb n="E172.008" rend="="/>sang met Alleluia
-                                <lb n="E172.009"/>Alleluia Alleluia Alleluia</orig></head>
+                <div type="psalm" xml:id="gladelig-ville-vi-halleluja" n="8">
+                  
+                    <head type="add">Halleluja. Gladelig ville vi halleluja sjunge</head>
+                        <head>Her efter følger en lof<lb n="E172.008" rend="="/>sang met Alleluia
+                                <lb n="E172.009"/>Alleluia Alleluia Alleluia</head>
                     <lg>
                         <l><c function="initials" rend="4">G</c>Ladelig ville wi Alleluia
                                 siu<ex>n</ex><lb n="E172.011" rend="="/>ge</l>
@@ -8850,7 +8854,7 @@
                             ende</l>
                     </lg>
                 </div>
-                <div type="chapter" xml:id="evangelium-om-aandelig-foede" n="8">
+                <div type="chapter" xml:id="evangelium-om-aandelig-foede" n="9">
                     <head type="add">Evangelium</head>
                     <head>Der nest lesis ith Eua<ex>n</ex><lb n="E173.015" rend="="/>gelium aff
                         Euangelisterne huor som <lb n="E173.016"/> teckis effter tidsens
@@ -8944,10 +8948,10 @@
                         ath nogen saa faderen/ vden den so<ex>m</ex>
                         <lb n="E176.020"/>er aff gud/ han saa faderen </p>
                 </div>
-                <div type="psalm" xml:id="divisio" n="9">
-                    <head>
-                        <reg>Divisio</reg>
-                        <orig>Diuisio</orig></head>
+                <div type="psalm" xml:id="divisio" n="10">
+                
+                    <head type="add">Divisio</head>
+                        <head>Diuisio</head>
 
                     <p><space extent="2blanks"/>Sandelige Sandelige siger ieg eder <lb n="E176.023"
                         />Huo som tror paa mig/ han haffuer <lb n="E176.024"/>det ewige liff/ ieg er
@@ -8970,10 +8974,10 @@
                             <lb n="E177.018"/>Oc ieg skal opreyse hannem paa den <lb n="E177.019"
                         />yderste dag </p>
                 </div>
-                <div type="psalm" xml:id="divisio-2" n="10">
-                    <head>
-                        <reg>Divisio</reg>
-                        <orig>Diuisio</orig></head>
+                <div type="psalm" xml:id="divisio-2" n="11">
+                
+                    <head type="add">Divisio</head>
+                        <head>Diuisio</head>
 
                     <p>Men mit kød er sa<ex>n</ex>t mad/ oc mit blod <lb n="E177.022"/>er
                             sa<ex>n</ex>t dricke Huo so<ex>m</ex> æder mit kød och <lb n="E177.023"
@@ -8990,7 +8994,7 @@
                         dette brød ha<ex>n</ex>
                         <lb n="E178.007"/>skal leffue euindelige </p>
                 </div>
-                <div xml:id="vi-tro-allesammen-paa-en-gud-alt" n="11">
+                <div xml:id="vi-tro-allesammen-paa-en-gud-alt" n="12">
                     <head type="add">Credo / Vi tro allesammen på en Gud</head>
                     <head>De<ex>n</ex> Christne forsa<ex>m</ex>ling <lb n="E178.009"/> oc Chorid
                         siunge tilhobe Credo</head>
@@ -9027,10 +9031,10 @@
                         />liff er oss bered/ i ewighed til euig tid</p>
                 </div>
                 <lb n="E179.013"/>
-                <div type="psalm" xml:id="dansk-patrem" n="12">
-                    <head>
-                        <reg>Dansk trosbekendelse / Vi tro på almægtigste Gud</reg>
-                        <orig>Det danske patrem</orig></head>
+                <div type="psalm" xml:id="dansk-patrem" n="13">
+                 
+                    <head type="add">Dansk trosbekendelse / Vi tro på almægtigste Gud</head>
+                        <head>Det danske patrem</head>
                     <p><c function="initials" rend="4">V</c>J tro paa almectigste Gud/ som skapt
                         haffuer hie<ex>m</ex>mel och <lb n="E179.016"/>iord Och haffuer oss till
                         sine <lb n="E179.017"/>børn vduald/ ath han vilde <lb n="E179.018"/>vor
@@ -9059,10 +9063,10 @@
                     </p>
                 </div>
                 <lb n="E180.017"/>
-                <div type="psalm" xml:id="trosbekendelse" n="13">
-                    <head>
-                        <reg>Trosbekendelse / Vi tro allesammen på en Gud</reg>
-                        <orig>Credo</orig></head>
+                <div type="psalm" xml:id="trosbekendelse" n="14">
+                    
+                    <head type="add">Trosbekendelse / Vi tro allesammen på en Gud</head>
+                        <head>Credo</head>
                     <lg>
                         <l><c function="initials" rend="4">W</c>J tro alsa<ex>m</ex>me<ex>n</ex> paa
                             en Gud</l>
@@ -9102,13 +9106,13 @@
                         <l> Som Christus haffuer oss <lb n="E181.021"/>foruerffuit Amen</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="nu-bede-vi-den-helligaand-1" n="14">
-                    <head>
-                        <reg>Nu bede vi den helligånd</reg>
-                        <orig>En lofsa<ex>n</ex>g so<ex>m</ex> siungis for pre<lb n="E181.023"
+                <div type="psalm" xml:id="nu-bede-vi-den-helligaand-1" n="15">
+                   
+                    <head type="add">Nu bede vi den helligånd</head>
+                        <head>En lofsa<ex>n</ex>g so<ex>m</ex> siungis for pre<lb n="E181.023"
                                 />dicke<ex>n</ex> met huilke<ex>n</ex> de<ex>n</ex> christne kircke
                                 chri<lb n="E181.024" rend="="/>sti brud paa kaller den
-                                helliga<ex>n</ex>dz naade </orig></head>
+                                helliga<ex>n</ex>dz naade </head>
                     <lg>
                         <l><pb n="E182" ana="68_v"/><c function="initials" rend="5">N</c>V bede wi
                             den Helligand</l>
@@ -9144,11 +9148,11 @@
                         <l> om dette elende/ Kyrieleyss</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="nu-bede-vi-den-helligaand-2" n="15">
-                    <head>
-                        <reg>Nu bede vi den helligånd (2)</reg>
-                        <orig>Den samme sang an<lb n="E182.023" rend="="/>derledis fordansket
-                        </orig></head>
+                <div type="psalm" xml:id="nu-bede-vi-den-helligaand-2" n="16">
+                  
+                    <head type="add">Nu bede vi den helligånd (2)</head>
+                        <head>Den samme sang an<lb n="E182.023" rend="="/>derledis fordansket
+                        </head>
                     <lg>
                         <l><pb n="E183" ana="69_r"/><c function="initials" rend="4">N</c>V bede wi
                             den Helligand</l>
@@ -9177,20 +9181,20 @@
                             Kyrieleyss</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="nu-bede-vi-helligaand" n="16">
-                    <head>
-                        <reg>Nu bede vi den helligånd</reg>
-                        <orig>En anden lofsang ath <lb n="E183.018"/> bede om den Helligandz naade/
+                <div type="psalm" xml:id="nu-bede-vi-helligaand" n="17">
+                  
+                    <head type="add">Nu bede vi den helligånd</head>
+                        <head>En anden lofsang ath <lb n="E183.018"/> bede om den Helligandz naade/
                             som <lb n="E183.019"/> saa begyndis/ Nu bede wi den <lb n="E183.020"/>
                             Helligand om den Christeli<lb n="E183.021" rend="="/>ge tro oc ret
                             forstand ath <lb n="E183.022"/>wi Gud elske kunde <lb n="E183.023"
                             />&#x2055; Det skalt du finde <lb n="E183.024"/> i det xliiii
-                            blad</orig></head>
+                            blad</head>
                 </div>
-                <div type="psalm" xml:id="nu-er-os-gud-miskundelig" n="17">
-                    <head>
-                        <reg>Nu er os Gud miskundelig</reg>
-                        <orig><pb n="E184" ana="69_v"/>Deus miseriatur nostri</orig></head>
+                <div type="psalm" xml:id="nu-er-os-gud-miskundelig" n="18">
+                    
+                    <head type="add">Nu er os Gud miskundelig</head>
+                        <head><pb n="E184" ana="69_v"/>Deus miseriatur nostri</head>
                     <p> Denne Psalm siungis effter <lb n="E184.003"/>predicken met huilken den
                         Christne for<lb n="E184.004" rend="="/>sa<ex>m</ex>ling tacker Gud for alle
                         sine velger<lb n="E184.005" rend="="/>ninger Oc serdelis for det glædelige
@@ -9246,7 +9250,7 @@
                     </lg>
                 </div>
                 <lb n="E185.016"/>
-                <div xml:id="en-kort-formaning-pater-noster" n="18">
+                <div xml:id="en-kort-formaning-pater-noster" n="19">
                     <head type="add">En kort formaning: Pater noster</head>
                     <head>Paraclesis siue succinc<lb n="E185.017" rend="="/>ta Dominice precationis
                         enarratio</head>
@@ -9338,15 +9342,15 @@
                             tilsi<lb n="E188.019" rend="="/>gelse/ Ath huad i bede/ tror ath i
                         skulle <lb n="E188.020"/>faa det/ oc det skal eder giffuis Amen</p>
                 </div>
-                <div type="psalm" xml:id="trosbekendelse-foer-nadver" n="19">
-                    <head>
-                        <reg>Trosbekendelse før nadveren</reg>
-                        <orig>Den Christelige Trois <lb n="E188.022"/>beke<ex>n</ex>delse/ met ith
+                <div type="psalm" xml:id="trosbekendelse-foer-nadver" n="20">
+                    
+                    <head type="add">Trosbekendelse før nadveren</head>
+                        <head>Den Christelige Trois <lb n="E188.022"/>beke<ex>n</ex>delse/ met ith
                             ret Euangelisk scriff<lb n="E188.023" rend="="/>temaal so<ex>m</ex>
                             pleyes at opregnis aff prest<lb n="E188.024" rend="="/>en effter
                                 predicke<ex>n</ex>/ før man ana<ex>m</ex>mer vor <pb n="E189"
                                 ana="72_r"/> herris Jesu Christi legemis oc blodis <lb n="E189.002"
-                            />verdige Sacramente</orig></head>
+                            />verdige Sacramente</head>
                     <p><c function="initials" rend="4">I</c>Eg arme syndige me<ex>n</ex>niske/ Jeg
                         vedersiger dieffuelen/ oc <lb n="E189.005"/>all ha<ex>n</ex>s metfart/ raad/
                         oc ind<lb n="E189.006" rend="="/>skydelse/ Jeg tror stadelige <lb
@@ -9411,7 +9415,7 @@
                         ieg maa bliffue Gudz barn <lb n="E191.018"/>oc hie<ex>m</ex>merigis arffuing
                         (met alle andre <lb n="E191.019"/>gudz børn) til euig tid Amen </p>
                 </div>
-                <div xml:id="den-evangeliske-afloesning" n="20">
+                <div xml:id="den-evangeliske-afloesning" n="21">
                     <head type="add">Den evangeliske afløsning</head>
                     <head>De<ex>n</ex> Eua<ex>n</ex>geliske affløsning</head>
                     <p><c function="initials" rend="3">V</c>aar hie<ex>m</ex>melske Fader som gaff
@@ -9421,7 +9425,7 @@
                         alle dine synder/ <lb n="E192.002"/>Gack i fred och synde icke mere/ din <lb
                             n="E192.003"/>tro gør dig salig</p>
                 </div>
-                <div xml:id="foer-en-trosbekendelse" n="21">
+                <div xml:id="foer-en-trosbekendelse" n="22">
                     <head type="add">Tekst før en trosbekendelse</head>
                     <head>Dette maa man lese før <lb n="E192.005"/>en Trois bekendelse læsis </head>
                     <p><c function="initials" rend="4">K</c>Ere venner Christi lader oss <lb
@@ -9463,7 +9467,7 @@
 
                     <p> Leser en Pater noster</p>
                 </div>
-                <div xml:id="en-formaning" n="22">
+                <div xml:id="en-formaning" n="23">
                     <head type="add">En formaning</head>
                     <head>En formani<ex>n</ex>g til de<ex>n</ex> so<ex>m</ex> vil for <lb
                             n="E193.015"/> alterit ana<ex>m</ex>me det hellige Sacramente </head>
@@ -9523,7 +9527,7 @@
                         naffn skyld</p>
                 </div>
                 <lb n="E195.021"/>
-                <div type="psalm" xml:id="hellig-hellig-hellig" n="23">
+                <div type="psalm" xml:id="hellig-hellig-hellig" n="24">
                     <head type="add">Hellig, hellig, hellig er du</head>
                     <head>En loffsang som Cho<lb n="E195.022" rend="="/>rid/ oc den Christne
                         forsamling siunge</head>
@@ -9556,7 +9560,7 @@
                         vins/ det er met <lb n="E196.019"/>Christi legemis oc blodis
                             Sacrame<ex>n</ex>te</p>
                 </div>
-                <div type="part" xml:id="nadver" n="24">
+                <div type="part" xml:id="nadver" n="25">
                     <head type="add">[Nadver]</head>
                     <head>Her effter tager preste<ex>n</ex><lb n="E196.021"/>
                         <note place="left">(<ref target="#matt-26"><orig>Ma xxvi</orig><reg>Matt
@@ -9591,11 +9595,11 @@
                             />de<ex>n</ex> Christne forsamling <lb n="E197.018"/>en lofsang som
                         følger <lb n="E197.019"/>effter Messe embedet.</p>
                 </div>
-                <div type="psalm" xml:id="dig-vaere-lov-og-pris" n="25">
-                    <head rend="center">
-                        <reg>Dig være lov og pris, o Herre</reg>
-                        <orig>Tibi laus</orig>
-                    </head>
+                <div type="psalm" xml:id="dig-vaere-lov-og-pris" n="26">
+                   
+                    <head type="add">Dig være lov og pris, o Herre</head>
+                        <head>Tibi laus</head>
+                    
                     <lg>
                         <l><pb n="E198" ana="76_v"/><c function="initials" rend="4">D</c>Jg være
                             loff oc priss o Herre <lb n="E198.002"/>Christ</l>
@@ -9619,7 +9623,7 @@
                         <l> Hel<lb n="E198.012" rend="="/>lig hellig hellig hun siunger dig</l>
                     </lg>
                 </div>
-                <div xml:id="agnus-dei" n="26">
+                <div xml:id="agnus-dei" n="27">
                     <head type="add">Agnus dei</head>
 
                     <p> Nw wender presten sig<lb n="E198.014"/>til folkit oc siger</p>
@@ -9652,7 +9656,7 @@
                             <lb n="E199.002"/>Giff oss din fred</l>
                     </lg>
                 </div>
-                <div xml:id="en-kort-formaning" n="27">
+                <div xml:id="en-kort-formaning" n="28">
                     <head type="add">En kort formaning</head>
                     <head>En kort formaning och <lb n="E199.004"/>serdelis til dem som ville
                             ana<ex>m</ex>me <lb n="E199.005"/>Christi Testamente</head>
@@ -9684,7 +9688,7 @@
                     </lg>
                 </div>
 
-                <div xml:id="introduktion-til-jesus-kristus-er-vor-salighed" n="28">
+                <div xml:id="introduktion-til-jesus-kristus-er-vor-salighed" n="29">
                     <head type="add">Introduktion til salme</head>
                     <p>En gudelig oc krafftig <lb n="E200.008"/>loffsang ath siunge i Christi
                         naduere/ <lb n="E200.009"/>naar Christi brud skall gaa til Gudz <lb
@@ -9709,7 +9713,7 @@
                         en fyllist gørelse och <lb n="E200.024"/>vederlag for all verdens synder</p>
                 </div>
 
-                <div type="psalm" xml:id="jesus-kristus-er-vor-salighed" n="29">
+                <div type="psalm" xml:id="jesus-kristus-er-vor-salighed" n="30">
                     <head type="add">Jesus Kristus er vor salighed</head>
                     <lg>
                         <l><pb n="E201" ana="78_r"/><c function="initials" rend="4">I</c>Esus
@@ -9790,11 +9794,11 @@
                         <l> der met dem hielp <lb n="E202.016"/>som Gud haffuer budit</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="jesus-kristus-er-vor-frelsermand" n="30">
-                    <head>
-                        <reg>Jesus Kristus er vor frelsermand</reg>
-                        <orig>En anden fordanskni<ex>n</ex>g <lb n="E202.018"/>paa samme
-                        vise</orig></head>
+                <div type="psalm" xml:id="jesus-kristus-er-vor-frelsermand" n="31">
+                   
+                    <head type="add">Jesus Kristus er vor frelsermand</head>
+                        <head>En anden fordanskni<ex>n</ex>g <lb n="E202.018"/>paa samme
+                        vise</head>
                     <lg>
                         <l><c function="initials" rend="4">I</c>Esus Christus er vor frelser<lb
                                 n="E202.020" rend="="/>mand/</l>
@@ -9863,10 +9867,10 @@
                 <div type="chapter" xml:id="salmer-litani-m-v" n="5">
                     <head type="add">[Salmer, litani m.fl.]</head>
                     <div type="psalm" xml:id="gud-vaere-lovet-og-benedidet" n="1">
-                    <head>
-                        <reg>Gud være lovet altid og benedidet</reg>
-                        <orig>Communio <lb n="E204.014"/>En lofsang met huilcke<ex>n</ex> den
-                            Christne forfamling tacker oc <lb n="E204.016"/> ærer Gud</orig></head>
+                  
+                        <head type="add">Gud være lovet altid og benedidet</head>
+                        <head>Communio <lb n="E204.014"/>En lofsang met huilcke<ex>n</ex> den
+                            Christne forfamling tacker oc <lb n="E204.016"/> ærer Gud</head>
                     <lg>
                         <l><note place="left">(<ref target="#kor-1-11"><orig>i Cor. xi</orig><reg>1
                                         Kor 11</reg></ref>)</note><c function="initials" rend="4"
@@ -10047,14 +10051,14 @@
                         aff ret falsk grund <lb n="E209.006"/>forraske folkit met falske fund</p>
                 </div>
                 <div type="psalm" xml:id="vor-gud-han-er-saa-staerk-en-borg" n="8">
-                    <head>
-                        <reg>Vor Gud han er så fast en borg</reg>
-                        <orig><ref target="#sl-46"><orig>De<ex>n</ex> xlvi psalm</orig><reg>Sl
+                  
+                    <head type="add">Vor Gud han er så fast en borg</head>
+                        <head><ref target="#sl-46"><orig>De<ex>n</ex> xlvi psalm</orig><reg>Sl
                                     46</reg></ref> deus nos<lb n="E209.008" rend="="/>ter
                                 refugiu<ex>m</ex> et virtus paaminder oss at <lb n="E209.009"/>wi
                             skulle inge<ex>n</ex> ting lade trenge oss fra <lb n="E209.010"/>Gudz
                             ord/ men bliffue hard der vit <lb n="E209.011"/>Thi Gud er vaar skiold
-                            och vern</orig></head>
+                            och vern</head>
                     <lg>
                         <l><c function="initials" rend="4">W</c>Or Gud han er saa sterck <lb
                                 n="E209.013"/>en borg/</l>
@@ -10103,9 +10107,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="litani-dansk" n="9">
-                    <head>
-                        <reg>Litani</reg>
-                        <orig>Letania paa Danske</orig></head>
+               
+                    <head type="add">Litani</head>
+                        <head>Letania paa Danske</head>
 
                     <table>
 
@@ -10503,11 +10507,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-herre-gud-af-himmerig" n="14">
-                    <head>
-                        <reg>O Herre Gud af himmerig</reg>
-                        <orig><ref target="#sl-12"><orig>Den xii Psalm</orig><reg>Sl 12</reg></ref>
+              
+                    <head type="add">O Herre Gud af himmerig</head>
+                        <head><ref target="#sl-12"><orig>Den xii Psalm</orig><reg>Sl 12</reg></ref>
                             Salua <lb n="E217.018"/>me domine/ Met de noder som denne neste <lb
-                                n="E217.019"/>forscreffne vise siungis met</orig></head>
+                                n="E217.019"/>forscreffne vise siungis met</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Herre Gud aff hiemmerig</l>
                         <l><lb n="E217.021"/> wi maa det alle klage/</l>
@@ -10849,11 +10853,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="ved-babylons-floder" n="4">
-                    <head>
-                        <reg>Ved Babylons floder sad vi og græd</reg>
-                        <orig><ref target="#sl-137"><orig>Psalmus Cxxxvii</orig><reg>Sl
+                   
+                    <head type="add">Ved Babylons floder sad vi og græd</head>
+                        <head><ref target="#sl-137"><orig>Psalmus Cxxxvii</orig><reg>Sl
                                 137</reg></ref><lb n="E225.015"/> Super flumina
-                        Babilonis</orig></head>
+                        Babilonis</head>
                     <lg>
                         <l><c function="initials" rend="5">V</c>J sade oc graade i Babi<lb
                                 n="E225.017" rend="="/>lon/</l>
@@ -10909,10 +10913,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="gud-fader-i-himmelen-skaber-min" n="5">
-                    <head>
-                        <reg>Gud fader i himmelen skaber min</reg>
-                        <orig><pb n="E227" ana="91_r"/>Antiphona</orig>
-                        <space extent="2blanks"/>Met de noder som Capitan siungis <lb n="E227.003"
+                  
+                    <head type="add">Gud fader i himmelen skaber min</head>
+                        <head><pb n="E227" ana="91_r"/>Antiphona</head>
+                       <head> <space extent="2blanks"/>Met de noder som Capitan siungis <lb n="E227.003"
                         />met</head>
 
                     <lg>
@@ -10939,9 +10943,9 @@
                         dw finde paa det xiiii blad </p>
                 </div>
                 <div type="psalm" xml:id="den-tid-er-kommen" n="6">
-                    <head>
-                        <reg>Den tid er kommen</reg>
-                        <orig>Antiphona</orig></head>
+                    
+                    <head type="add">Den tid er kommen</head>
+                        <head>Antiphona</head>
                     <lg>
                         <l><c function="initials" rend="1">D</c>En tid er kommen som før wor <lb
                                 n="E227.020"/>spaat/</l>
@@ -10960,12 +10964,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="naar-gud-fanger-loest" n="7">
-                    <head>
-                        <reg>Når Gud fanger løst Sions fængsel</reg>
-                        <orig><ref target="#sl-126"><orig>Den Cxxvi Psalm</orig><reg>Sl
+                  
+                    <head type="add">Når Gud fanger løst Sions fængsel</head>
+                        <head><ref target="#sl-126"><orig>Den Cxxvi Psalm</orig><reg>Sl
                                 126</reg></ref>
                             <lb n="E228.009"/> Jn conuertendo dominus captiui<lb n="E228.010"
-                                rend="="/>tatem Sion</orig></head>
+                                rend="="/>tatem Sion</head>
                     <lg>
                         <l><c function="initials" rend="5">N</c>Aar Gud fo<ex>n</ex>ger løst Si<lb
                                 n="E228.012" rend="="/>ons fengsel/</l>
@@ -10998,9 +11002,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="visdom-og-raad-og-salighed" n="8">
-                    <head>
-                        <reg>Visdom og råd og salighed</reg>
-                        <orig>Antiphona</orig></head>
+               
+                    <head type="add">Visdom og råd og salighed</head>
+                        <head>Antiphona</head>
                     <lg>
                         <l><c function="initials" rend="4">W</c>Jsdom och rad och salighed <lb
                                 n="E229.007"/>sent mig her ned/</l>
@@ -11021,9 +11025,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="min-sjael-holder-meget" n="9">
-                    <head>
-                        <reg>Min sjæl holder meget af Herren</reg>
-                        <orig>Magnificat</orig></head>
+                   
+                    <head type="add">Min sjæl holder meget af Herren</head>
+                        <head>Magnificat</head>
                     <lg>
                         <l><c function="initials" rend="4">M</c>Jn siel holder megit aff <lb
                                 n="E229.019"/>herren</l>
@@ -11240,9 +11244,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="fred-giv-os-o-kaere-herre" n="12">
-                    <head>
-                        <reg>Fred giv os, kære Herre</reg>
-                        <orig>Kong Fredericks vise</orig></head>
+                    
+                    <head type="add">Fred giv os, kære Herre</head>
+                        <head>Kong Fredericks vise</head>
                     <lg>
                         <l><c function="initials" rend="4">F</c>Red giff oss o kere herre i <lb
                                 n="E235.019"/>troen ren/</l>
@@ -11340,12 +11344,12 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="kom-helligaand-herre-gud" n="13">
-                    <head>
-                        <reg>Kom helligånd, Herre Gud</reg>
-                        <orig>Veni creator spiritus <note place="right">(<ref target="#rom-5"
+                    
+                    <head type="add">Kom helligånd, Herre Gud</head>
+                        <head>Veni creator spiritus <note place="right">(<ref target="#rom-5"
                                         ><orig>Rom v</orig><reg>Rom 5</reg></ref>) (<ref
                                     target="#joh-16"><orig>Joa<ex>n</ex>. xvi</orig><reg>Joh
-                                        16</reg></ref>)</note></orig></head>
+                                        16</reg></ref>)</note></head>
                     <lg>
                         <l><c function="initials" rend="4">K</c>Om Helligand herre Gud</l>
                         <l><lb n="E237.023"/> opfylt met din naade och <lb n="E237.024"/>miskund</l>
@@ -11399,10 +11403,10 @@
                             <lb n="E239.002"/>iiii oc xxxii blad anderledis fordansket </p>
                 </div>
                 <div type="psalm" xml:id="vaer-glad-du-hellige-kristenhed" n="14">
-                    <head>
-                        <reg>Vær glad du hellige kristenhed</reg>
-                        <orig>En hymne aff Christi <lb n="E239.004"/> fødzel A solis ortus
-                            cardine</orig></head>
+                   
+                    <head type="add">Vær glad du hellige kristenhed</head>
+                        <head>En hymne aff Christi <lb n="E239.004"/> fødzel A solis ortus
+                            cardine</head>
                     <lg>
                         <l><c function="initials" rend="4">W</c>Er glad dw hellige christe<ex>n</ex>
                             <lb n="E239.006" rend="="/>hed/</l>
@@ -11462,9 +11466,9 @@
                         anderledis fordansket</p>
                 </div>
                 <div type="psalm" xml:id="alle-kristne-fryde-dem-nu" n="15">
-                    <head>
-                        <reg>Alle kristne fryde sig nu</reg>
-                        <orig>Denne sang siu<ex>n</ex>gis om <lb n="E240.018"/> Julen</orig></head>
+                   
+                    <head type="add">Alle kristne fryde sig nu</head>
+                        <head>Denne sang siu<ex>n</ex>gis om <lb n="E240.018"/> Julen</head>
                     <lg>
                         <l><c function="initials" rend="4">A</c>lle christne frøyde dem nw/</l>
                         <l> oc <lb n="E240.020"/>gledis i denne tid/</l>
@@ -11542,10 +11546,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="af-hu-og-sind" n="16">
-                    <head>
-                        <reg>Af hu og sind og al vor agt</reg>
-                        <orig>En skøn vise och Dicht <lb n="E242.013"/> aff den hellige
-                            skrifft</orig></head>
+                   
+                    <head type="add">Af hu og sind og al vor agt</head>
+                        <head>En skøn vise och Dicht <lb n="E242.013"/> aff den hellige
+                            skrifft</head>
                     <lg>
                         <l><c function="initials" rend="5">A</c>F hu och sind och all vor <lb
                                 n="E242.015"/>acth/</l>
@@ -11636,10 +11640,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-herre-gud-det-kommer-nu-ud" n="17">
-                    <head>
-                        <reg>O herre Gud, det kommer nu ud</reg>
-                        <orig>En skøn aandelige vise <lb n="E245.014"/>om Gudz ordz krafft oc <lb
-                                n="E245.015"/>mact</orig></head>
+                 
+                    <head type="add">O herre Gud, det kommer nu ud</head>
+                        <head>En skøn aandelige vise <lb n="E245.014"/>om Gudz ordz krafft oc <lb
+                                n="E245.015"/>mact</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Herre Gud/ det ko<ex>m</ex>mer nw
                                 <lb n="E245.017"/>vd/</l>
@@ -11855,14 +11859,14 @@
                             />xxxv blad anderlediss fordansket</hi></p>
                 </div>
                 <div type="psalm" xml:id="fra-menneskene-har-jeg-vendt-min-hu" n="19">
-                    <head>
-                        <reg>Fra menneskene har jeg vendt min hu</reg>
-                        <orig>(<ref target="#sl-25"><orig>Den xxv Psalm</orig><reg>Sl
+                   
+                    <head type="add">Fra menneskene har jeg vendt min hu</head>
+                        <head>(<ref target="#sl-25"><orig>Den xxv Psalm</orig><reg>Sl
                             25</reg></ref>) Ad te <lb n="E251.010"/> leuaui/ Som er en ret skickelig
                                 <lb n="E251.011"/>bøn til ath begere hielp <lb n="E251.012"/>och
                             trøst aff Gud <lb n="E251.013"/>met i all nød oc <lb n="E251.014"
-                            />trang</orig>
-                    </head>
+                            />trang</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">F</c>Ra mennisken haffuer ieg <lb
                                 n="E251.016"/>went min hw/</l>
@@ -11977,13 +11981,13 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="salig-er-den-mand-der-gud-frygter" n="20">
-                    <head>
-                        <reg>Salig er den mand, der Gud frygter</reg>
-                        <orig><ref target="#sl-128"><orig>Den Cxxviii Psalm</orig><reg>Sl
+                    
+                    <head type="add">Salig er den mand, der Gud frygter</head>
+                        <head><ref target="#sl-128"><orig>Den Cxxviii Psalm</orig><reg>Sl
                                 128</reg></ref>
                             <lb n="E254.019"/> Beati omnes qui time<ex>n</ex>t dominum/ met de <lb
-                                n="E254.020"/> noder Gloria tibi domine/ siungis met</orig>
-                    </head>
+                                n="E254.020"/> noder Gloria tibi domine/ siungis met</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">S</c>Alig er den mand der Gud <lb
                                 n="E254.022"/>frøcter/</l>
@@ -12034,11 +12038,11 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="salig-er-alle-som-i-guds-frygt-staa" n="21">
-                    <head>
-                        <reg>Salig er alle som i Guds frygt stå</reg>
-                        <orig><ref target="#sl-128"><orig>Den Cxxviii Psalm</orig><reg>Sl
+                   
+                    <head type="add">Salig er alle som i Guds frygt stå</head>
+                        <head><ref target="#sl-128"><orig>Den Cxxviii Psalm</orig><reg>Sl
                                 128</reg></ref>
-                            <lb n="E256.005"/> Beati omnes qui timent dominum</orig></head>
+                            <lb n="E256.005"/> Beati omnes qui timent dominum</head>
                     <lg>
                         <l><c function="initials" rend="6">S</c>Alige ere alle so<ex>m</ex> i gudz
                                 <lb n="E256.007"/>frøct staa/</l>
@@ -12077,13 +12081,13 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="vi-arme-adams-boern" n="22">
-                    <head>
-                        <reg>Jesu Krist, dig takke vi</reg>
-                        <orig>Salue regina Christeli<lb n="E257.003" rend="="/>ge foruent oc
+                  
+                    <head type="add">Jesu Krist, dig takke vi</head>
+                        <head>Salue regina Christeli<lb n="E257.003" rend="="/>ge foruent oc
                             forbedret oc siungis disse <lb n="E257.004"/>fire sange/ før en Salue
                             begyndis/ och <lb n="E257.005"/>emellem hwer sang ith werss aff Nw <lb
                                 n="E257.006"/>bede wi den Helligand/ som her effter <lb n="E257.007"
-                            />følger</orig></head>
+                            />følger</head>
                     <lg>
                         <l><c function="initials" rend="4">V</c>J arme Adams børn alle/</l>
                         <l> wi ere saa dypt i synden fal<lb n="E257.010" rend="="/>dne</l>
@@ -12145,9 +12149,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="salve-jesus-kristus-vor-frelsermand" n="23">
-                    <head>
-                        <reg>Salve Jesus Krist vor frelsermand</reg>
-                        <orig>Nu begyndis Salue</orig></head>
+                  
+                    <head type="add">Salve Jesus Krist vor frelsermand</head>
+                        <head>Nu begyndis Salue</head>
                     <lg>
                         <l><c function="initials" rend="4">S</c>Alue Jesu Christe wor frel<lb
                                 n="E258.019" rend="="/>sermand/</l>
@@ -12201,9 +12205,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="salve-hel-selv" n="24">
-                    <head>
-                        <reg>Salve</reg>
-                        <orig>En anden Salue</orig></head>
+                   
+                    <head type="add">Salve</head>
+                        <head>En anden Salue</head>
                     <lg>
                         <l><c function="initials" rend="4">S</c>Alue hæl selff milde Jesu <lb
                                 n="E259.022"/>Christe/</l>
@@ -12301,9 +12305,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="jesus-du-er-vor-vej" n="27">
-                    <head>
-                        <reg>Jesus, du er vor vej</reg>
-                        <orig>Tredie Prose</orig></head>
+                   
+                    <head type="add">Jesus, du er vor vej</head>
+                        <head>Tredie Prose</head>
                     <lg>
                         <l><c function="initials" rend="4">I</c>Hesu du est vor vey</l>
                         <l> til hiem<lb n="E262.015" rend="="/>melss/ och vor sti/</l>
@@ -12325,10 +12329,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="benaade-os-evige-gud" n="28">
-                    <head>
-                        <reg>Benåd os, evig Gud</reg>
-                        <orig>En Sequentz aff Aue <lb n="E263.006"/>preclara/ Fra det Verss Audi nos
-                                <lb n="E263.007"/>oc til enden</orig></head>
+                   
+                    <head type="add">Benåd os, evig Gud</head>
+                        <head>En Sequentz aff Aue <lb n="E263.006"/>preclara/ Fra det Verss Audi nos
+                                <lb n="E263.007"/>oc til enden</head>
                     <lg>
                         <l><c function="initials" rend="4">B</c>Enade oss euig Gud som <lb
                                 n="E263.009"/>haffuer alle helgen naaden <lb n="E263.010"/>ted/</l>
@@ -12347,9 +12351,9 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-gud-vi-love-dig" n="29">
-                    <head>
-                        <reg>O Gud vi love dig</reg>
-                        <orig>Te Deum laudamus</orig></head>
+                    
+                    <head type="add">O Gud vi love dig</head>
+                        <head>Te Deum laudamus</head>
                     <lg>
                         <l><pb n="E264" ana="109_v"/><c function="initials" rend="4">O</c> Gud w
                             loffiue dig/</l>
@@ -12492,10 +12496,10 @@
                     </lg>
                 </div>
                 <div type="psalm" xml:id="men-vi-leve-paa-jorden-her-1" n="31">
-                    <head>
-                        <reg>Men vi leve på jorden her</reg>
-                        <orig>Media vita</orig>
-                    </head>
+                   
+                    <head type="add">Men vi leve på jorden her</head>
+                        <head>Media vita</head>
+                    
                     <lg>
                         <l><c function="initials" rend="4">W</c>J som leffue paa iorde<ex>n</ex> her </l>
                         <l><lb n="E266.021"/> wi ere dødsens fa<ex>n</ex>ger/</l>
@@ -12552,14 +12556,14 @@
                         det xxi blad </p>
                 </div>
                 <div type="psalm" xml:id="herre-frels-mig-fra-onde" n="32">
-                    <head>
-                        <reg>Herre, frels mig fra onde mennesker</reg>
-                        <orig><ref target="#sl-140"><orig>Den cxl Psalm</orig><reg>Sl
+                   
+                    <head type="add">Herre, frels mig fra onde mennesker</head>
+                        <head><ref target="#sl-140"><orig>Den cxl Psalm</orig><reg>Sl
                                 140</reg></ref> Eripe <lb n="E268.007"/>me Domine/ Maa huer læse mod
                                 <lb n="E268.008"/> sine wvenner som hannem forta<lb n="E268.009"
                                 rend="="/>le oc forfølge/ Ath Gud vil <lb n="E268.010"/>frelse
                             hannem fra dem <lb n="E268.011"/>oc aff hanss nød <lb n="E268.012"/>oc
-                            sorg</orig></head>
+                            sorg</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>Erre frelss mig fra onde
                                 me<ex>n</ex><lb n="E268.014" rend="="/>niske/</l>
