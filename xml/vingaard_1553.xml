@@ -14894,7 +14894,12 @@
                      oss:</hi>
                </p>
 
-               <p>Textus Euangelii Joannis vi.</p>
+               <p>
+                  <ref target="#joh-6">
+                     <orig>Textus Euangelii Joannis vi.</orig>
+                     <reg>Joh 6</reg>
+                  </ref>
+               </p>
                <p><c function="initials" rend="3">D</c>Er almuen saa at Jesus vor ic<lb rend="="/>ke
                   der/ oc ey heller hans Disci<lb rend="="/>ple/ Da fore de offuer met de <lb/>smaa
                   Skib til Capernaum ath lede effter <lb/>Jesum</p>
@@ -14909,15 +14914,15 @@
                   men effter den som bliffuer i det eui<lb rend="="/>ge Liff/ huilcken som
                   menniskens Søn <lb/>skal giffue eder/ Thi Gud Fader beteg<lb rend="="/>nede
                   hannem/ De sagde til hannem/ huad <lb/>skulle wi gøre ath wi kunde gøre Gudz
-                  <lb/>gerning &#x1F670; Jesus suarede dem oc sagde/ det <lb/>er Gudz gerning At tro
-                  paa hannem som <lb/>han vdsende/ De sagde til hannem/ huad <lb/>tegn vilt du gøre
-                  for oss/ at wi kunde det <lb/>see oc Tro paa dig &#x1F670; Vaare forfædre aade
-                  <lb/>Brød aff Hiemmelen i ørcken som der er <lb/>screffuit/ Han gaff dem brød aff
-                     Hiemme<lb rend="="/>len at æde/ Jesus sagde til dem/ Sande<lb rend="="/>lige
-                  Sandelige siger ieg eder/ Moses gaff <lb/>eder icke det brød aff Hiemmelen / Men
-                  <lb/>min Fader giffuer eder sant brød aff hiem<pb ana="105_v" n_ekstra="P5v"
-                     n="E282" rend="="/>melen/ Thi det er Gudz brød som ko<ex>m</ex>mer <lb/>aff
-                  Hiemmelen oc giffuer verden Liff</p>
+                  <lb/>gerning? Jesus suarede dem oc sagde/ det <lb/>er Gudz gerning At tro paa
+                  hannem som <lb/>han vdsende/ De sagde til hannem/ huad <lb/>tegn vilt du gøre for
+                  oss/ at wi kunde det <lb/>see oc Tro paa dig? Vaare forfædre aade <lb/>Brød aff
+                  Hiemmelen i ørcken som der er <lb/>screffuit/ Han gaff dem brød aff Hiemme<lb
+                     rend="="/>len at æde/ Jesus sagde til dem/ Sande<lb rend="="/>lige Sandelige
+                  siger ieg eder/ Moses gaff <lb/>eder icke det brød aff Hiemmelen/ Men <lb/>min
+                  Fader giffuer eder sant brød aff hiem<pb ana="105_v" n_ekstra="P5v" n="E282"
+                     rend="="/>melen/ Thi det er Gudz brød som ko<ex>m</ex>mer <lb/>aff Hiemmelen oc
+                  giffuer verden Liff</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; De sagde til hannem/ Herre giff oss <lb/>altid
                   det brød/ Jesus suarede dem/ ieg er <lb/>Liffens brød/ Huo som kommer til mig
@@ -14935,10 +14940,8 @@
                      rend="="/>ge Liiff/ Oc ieg skal opreyse hannem paa <lb/>den yderste dag</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Jøderne knurrede for han sagde/ Jeg <lb/>er det
-                  Brød som kom ned aff Hiemmelen</p>
-               <pb ana="106_r" n_ekstra="P6r" n="E283"/>
-               <lb/>
-               <p>oc de sagde Er denne icke Jesus Joseps <lb/>søn/ huess Fader och Moder wi kende/
+                  Brød som kom ned aff Hiemmelen <pb ana="106_r" n_ekstra="P6r" n="E283"/><lb/>oc de
+                  sagde Er denne icke Jesus Joseps <lb/>søn/ huess Fader och Moder wi kende/
                   <lb/>hui siger han/ ieg kom ned aff Hiemme<lb rend="="/>len/ Jesus suarede dem oc
                   sagde/ Knur<lb rend="="/>rer icke mellem eder selffue</p>
                <lb/>
@@ -14949,22 +14952,22 @@
                   Jcke saa <lb/>at nogen saa Faderen/ vden den som er <lb/>aff Gud/ han saa
                   Faderen</p>
 
-               <p>Diuisio</p>
+               <head>Diuisio</head>
                <p><space extent="2blanks"/>&#x2055; Sandelige Sandelige siger ieg eder <lb/>Huo som
                   tror paa mig/ han haffuer det <lb/>euige Liff/ ieg er Liffens Brød/ Eders
                   <lb/>forfædre ode Hiemmelens Brød i ørcken <lb/>oc de ere Døde/ Dette er det Brød
-                  som <lb/>kom ned aff Hiemmelen/ Ath huo som <lb/>æder der aff/ Han skal icke Dø /
+                  som <lb/>kom ned aff Hiemmelen/ Ath huo som <lb/>æder der aff/ Han skal icke Dø/
                   Jeg er <lb/>det leffuende brød som kom ned aff Hiem<pb ana="106_v" n_ekstra="P6v"
                      n="E284" rend="="/>melen/ Huilcken som æder aff dette brød <lb/>han skal leffue
                   euindelige/ Och det brød <lb/>som ieg giffuer/ Det er mit Kød som ieg <lb/>skal
-                  giffue for Verdens Liff/ Jødernne <lb/>trette mellem dem selffue oc sagde/ Huor
-                  <lb/>ledis kan han giffue oss sit Kød ath æde/ <lb/>Jesus sagde til dem/ Sandelige
-                     Sandeli<lb rend="="/>ge siger ieg eder. Vden i æde menniskens <lb/>Søns kød oc
-                  dricke hans Blod Da haff <lb/>ue i icke liff i eder/ Huo som æder mit kød <lb/>oc
-                  dricker mit blod/ han haffuer det euige <lb/>liiff/ Oc ieg skal opreyse hannem paa
-                  den <lb/>yderste dag</p>
+                  giffue for Verdens Liff/ Jødernne <lb/>trette mellem dem selffue oc sagde/ Huor<lb
+                     rend="="/>ledis kan han giffue oss sit Kød ath æde/ <lb/>Jesus sagde til dem/
+                  Sandelige Sandeli<lb rend="="/>ge siger ieg eder. Vden i æde menniskens <lb/>Søns
+                  kød oc dricke hans Blod Da haff<lb rend="="/>ue i icke liff i eder/ Huo som æder
+                  mit kød <lb/>oc dricker mit blod/ han haffuer det euige <lb/>liiff/ Oc ieg skal
+                  opreyse hannem paa den <lb/>yderste dag</p>
 
-               <p>Diuisio.</p>
+               <head>Diuisio.</head>
                <lb/>
                <p>&#x2055; Men mit kød er sand mad/ oc mit blod <lb/>er sand dricke/ Huo som æder
                   mit kød oc <lb/>dricker mit Blod/ han bliffuer i mig och <lb/>ieg i hannem/ Som
@@ -14985,79 +14988,132 @@
                <notatedMusic>
                   <ptr target="Vi_1553_LN1421_107r.xml"/>
                </notatedMusic>
-               <p><c function="initials" rend="5">W</c>J Tro alle sammen <lb/>paa en Gud/ Hiem<lb
-                     rend="="/>mels skabere oc iorde<ex>n</ex>s <lb/>Gudz søn sin Faders <lb/>vilge
-                  giorde/ paa det <lb/>wi sine børn skulle bliffue/ Han vil oss for <lb/>se vor
-                  nering/ liff oc Siæl i hans beuaring <lb/>Altid han oss vil beuare/ inted ont skal
-                  oss <lb/>vederfare/ Han sørger for oss dag oc nat/ <lb/>for han haffuer alting i
-                  sin mact</p>
+               <lg>
+                  <l><c function="initials" rend="5">W</c>J Tro alle sammen <lb/>paa en Gud/ </l>
+                  <l>Hiem<lb rend="="/>mels skabere oc iorde<ex>n</ex>s </l>
+                  <l><lb/>Gudz søn sin Faders <lb/>vilge giorde/ </l>
+                  <l>paa det <lb/>wi sine børn skulle bliffue/ </l>
+                  <l>Han vil oss for<lb rend="="/>se vor nering/ </l>
+                  <l>liff oc Siæl i hans beuaring </l>
+                  <l><lb/>Altid han oss vil beuare/ </l>
+                  <l>inted ont skal oss <lb/>vederfare/ </l>
+                  <l>Han sørger for oss dag oc nat/ </l>
+                  <l><lb/>for han haffuer alting i sin mact</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Vi tro oc alle paa Jesum Christ/ <lb/>som er
-                  Gudz Søn oc vor Herre/ Som aff <lb/>den Helligaand vndfangen vor/ aff Gud<lb
-                     rend="="/>dommelig krafft oc ære/ Aff Maria den</p>
-               <pb ana="107_v" n_ekstra="P7v" n="E286"/>
-               <p>rene Jomfrue/ ith sant helligt menniske <lb/>er vorden/ Pint vnder Pontio Pilato /
-                  <lb/>Kaarssfest/ død/ oc Jordet/ til Helffuedis <lb/>foer/ Paa Tredie dag høy aff
-                  døde op<lb rend="="/>stod/ til Hiemmels foer/ Vor Dommere <lb/>er han vorden</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Vi tro oc alle paa Jesum Christ/ </l>
+                  <l><lb/>som er Gudz Søn oc vor Herre/ </l>
+                  <l>Som aff <lb/>den Helligaand vndfangen vor/ </l>
+                  <l>aff Gud<lb rend="="/>dommelig krafft oc ære/ </l>
+                  <l>Aff Maria den <pb ana="107_v" n_ekstra="P7v" n="E286"/>rene Jomfrue/ </l>
+                  <l>ith sant helligt menniske <lb/>er vorden/ </l>
+                  <l>Pint vnder Pontio Pilato/ </l>
+                  <l><lb/>Kaarssfest/ død/ oc Jordet/ til Helffuedis <lb/>foer/ </l>
+                  <l>Paa Tredie dag høy aff døde op<lb rend="="/>stod/ til Hiemmels foer/ </l>
+                  <l>Vor Dommere <lb/>er han vorden</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Vi Tro oc paa den Helligaand/ lig <lb/>met Fader
-                  och met Søn/ Som alle be<lb rend="="/>drøffuedis husualere er/ Met dyrebar
-                  <lb/>gaffuer och naader skøne/ All gantske <lb/>Christenhed paa Jorden/ Jth
-                  samfund <lb/>giort met sine Ord/ Met hannem vaare <lb/>Synder till giffne vorde/
-                  Vi Menniske <lb/>skulle alle opstande/ effter dette ælende/ <lb/>Jth nyt leffnit
-                  er oss forred i euihed till <lb/>euig tid</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Vi Tro oc paa den Helligaand/ </l>
+                  <l>lig <lb/>met Fader och met Søn/ </l>
+                  <l>Som alle be<lb rend="="/>drøffuedis husualere er/ </l>
+                  <l>Met dyrebar <lb/>gaffuer och naader skøne/ </l>
+                  <l>All gantske <lb/>Christenhed paa Jorden/ </l>
+                  <l>Jth samfund <lb/>giort met sine Ord/ </l>
+                  <l>Met hannem vaare <lb/>Synder till giffne vorde/ </l>
+                  <l>Vi Menniske <lb/>skulle alle opstande/ </l>
+                  <l>effter dette ælende/ <lb/>Jth nyt leffnit er oss forred </l>
+                  <l>i euihed till <lb/>euig tid</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="vi-tro-paa-almaegtigste-gud" n="18">
                <head type="add">Vi tro på almægtigste Gud</head>
                <head>Det Danske Patrem</head>
-               <p><c function="initials" rend="4">W</c>J Tro paa almectigste Gud <lb/>som skafft
-                  haffuer Hiemmel <lb/>oc Jord/ oc haffuer oss til sine <lb/>Børn vduald/ at han
-                  vilde <lb/>vaar Fader vorde/ Han vil oss altid be<pb ana="108_r" n_ekstra="P8r"
-                     n="E287" rend="="/>sørge/ Liff och Siæl wil han foruare/ All <lb/>wlycke vill
-                  han bort køre/ Jnted ont <lb/>skal oss offuerfalde/ Han sørger for oss <lb/>Nat
-                  och Dag/ Huo er den oss kan gø<lb rend="="/>re skade</p>
+               <lg>
+                  <l><c function="initials" rend="4">W</c>J Tro paa almectigste Gud </l>
+                  <l><lb/>som skafft haffuer Hiemmel <lb/>oc Jord/ </l>
+                  <l>oc haffuer oss til sine <lb/>Børn vduald/ </l>
+                  <l>at han vilde <lb/>vaar Fader vorde/ </l>
+                  <l>Han vil oss altid be<pb ana="108_r" n_ekstra="P8r" n="E287" rend="="/>sørge/ </l>
+                  <l>Liff och Siæl wil han foruare/ </l>
+                  <l>All <lb/>wlycke vill han bort køre/ </l>
+                  <l>Jnted ont <lb/>skal oss offuerfalde/ </l>
+                  <l>Han sørger for oss <lb/>Nat och Dag/ </l>
+                  <l>Huo er den oss kan gø<lb rend="="/>re skade</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Vi Tro oc paa Jesum Christ/ <lb/>Gudz eniste
-                  Søn/ vaar egen Herre/ <lb/>Som er euig oc det er vist/ lige met Gud <lb/>Fader i
-                  all ære/ Aff Maria Jomfru re<lb rend="="/>ne/ met sand Mandom lod han sig føde
-                  <lb/>aff den Helligaandz hielp all ene/ Faar <lb/>Synder lod han sig Døde/ och der
-                  met <lb/>Døden offueruant/ Sider hoss Gud Fa<lb rend="="/>ders høyre haand</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Vi Tro oc paa Jesum Christ/ </l>
+                  <l><lb/>Gudz eniste Søn/ vaar egen Herre/ </l>
+                  <l><lb/>Som er euig oc det er vist/ </l>
+                  <l>lige met Gud <lb/>Fader i all ære/ </l>
+                  <l>Aff Maria Jomfru re<lb rend="="/>ne/ </l>
+                  <l>met sand Mandom lod han sig føde </l>
+                  <l><lb/>aff den Helligaandz hielp all ene/ </l>
+                  <l>Faar <lb/>Synder lod han sig Døde/ </l>
+                  <l>och der met <lb/>Døden offueruant/ </l>
+                  <l>Sider hoss Gud Fa<lb rend="="/>ders høyre haand</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Vi tro paa den Helligaand/ som er <lb/>Gud met
-                  Fader oc Sønnen/ De fattigis <lb/>trøstere kallis han/ Lærer dem all sand<lb
-                     rend="="/>hed all ene/ den hellige Christelige kirc<lb rend="="/>ke/ som er
-                  alle Helgens samfund/ Den <lb/>Gud selff pleger styrcke/ han vil oss for<lb
-                     rend="="/>lade all vaar Synd/ oc legemet reysse aff <lb/>Døde/ Ath wi
-                  euindelige skulle met han<lb rend="="/>nem leffue vden møde/ Amen</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Vi tro paa den Helligaand/ </l>
+                  <l>som er <lb/>Gud met Fader oc Sønnen/ </l>
+                  <l>De fattigis <lb/>trøstere kallis han/ </l>
+                  <l>Lærer dem all sand<lb rend="="/>hed all ene/ </l>
+                  <l>den hellige Christelige kirc<lb rend="="/>ke/ </l>
+                  <l>som er alle Helgens samfund/ </l>
+                  <l>Den <lb/>Gud selff pleger styrcke/ </l>
+                  <l>han vil oss for<lb rend="="/>lade all vaar Synd/ </l>
+                  <l>oc legemet reysse aff <lb/>Døde/ </l>
+                  <l>Ath wi euindelige skulle met han<lb rend="="/>nem leffue vden møde/ </l>
+                  <l>Amen</l>
+               </lg>
             </div>
             <pb ana="108_v" n_ekstra="P8v" n="E288"/>
             <div type="psalm" xml:id="credo-vi-tro-allesammen-paa-en-gud" n="19">
                <head type="add">Vi tro allesammen på en Gud</head>
                <head>Credo Anderledis</head>
                <lb/>
-               <p><c function="initials" rend="3">V</c>J Tro allesammen paa en Gud/ <lb/>som Hiemmel
-                  och Jord och alting <lb/>skob/ Han kalder sig vor Fader kær/ <lb/>som Børn røre wi
-                  hannem paa nær/ han <lb/>holder oss op vort daglige Brød/ ath vor <lb/>Siæl ey
-                  maalide nød/ Liff oc Legeme va<lb rend="="/>rer han oc han seer oss for at wi faa
-                  nock/ <lb/>dess haffuer han oc vel stor mact/ Thi al<lb rend="="/>ting er hannem
-                  vnderlagt</p>
+               <lg>
+                  <l><c function="initials" rend="3">V</c>J Tro allesammen paa en Gud/ </l>
+                  <l><lb/>som Hiemmel och Jord och alting <lb/>skob/ </l>
+                  <l>Han kalder sig vor Fader kær/ </l>
+                  <l><lb/>som Børn røre wi hannem paa nær/ </l>
+                  <l>han <lb/>holder oss op vort daglige Brød/ </l>
+                  <l>ath vor <lb/>Siæl ey maa lide nød/ </l>
+                  <l>Liff oc Legeme va<lb rend="="/>rer han oc </l>
+                  <l>han seer oss for at wi faa nock/ </l>
+                  <l><lb/>dess haffuer han oc vel stor mact/ </l>
+                  <l>Thi al<lb rend="="/>ting er hannem vnderlagt</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Vi Tro oc saa paa Jesum Christ/ <lb/>vor Herre
-                  oc skabere altsomkærist/ Som er <lb/>Gud Faders euige Søn/ hannem lig i <lb/>mact
-                  offuer huert køn/ Aff Jomfru Ma<lb rend="="/>ria fødis Mand/ det besteller den
-                     Hellig<lb rend="="/>aand Død paa Kaarssit/ Helffuede han <lb/>brød frelste oss
-                  saa aff all vor nød/ Han op <lb/>stod oc i/ rigit for/ rede oss rum i Engle
-                  kor</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Vi Tro oc saa paa Jesum Christ/ </l>
+                  <l><lb/>vor Herre oc skabere altsomkærist/ </l>
+                  <l>Som er <lb/>Gud Faders euige Søn/ </l>
+                  <l>hannem lig i <lb/>mact offuer huert køn/ </l>
+                  <l>Aff Jomfru Ma<lb rend="="/>ria fødis Mand/ </l>
+                  <l>det besteller den Hellig<lb rend="="/>aand </l>
+                  <l>Død paa Kaarssit/ Helffuede han <lb/>brød </l>
+                  <l>frelste oss saa aff all vor nød/ </l>
+                  <l>Han op<lb rend="="/>stod oc i/ rigit for/ </l>
+                  <l>rede oss rum i Engle kor</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Vi Tro oc paa den Helligaand/ <lb/>met Fader oc
-                  Søn en Gud sand/ Som <lb/>oss i en Christen samfund Sambler och <lb/>pryder
-                  mangelund/ Vocter oss fra synde<lb rend="="/>lig id/ och i vor brøst er han oss
-                  blid/ Vi</p>
-               <pb ana="109_r" n_ekstra="Q1r" n="E289"/>
-               <lb/>
-               <p>skulle oc alle igen opstaa/ met vor idret <lb/>for dommen gaa/ Riget skulle wi da
-                  faa <lb/>sammen/ Som Christus haffuer oss for<lb rend="="/>huerffuit/ Amen.</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Vi Tro oc paa den Helligaand/ </l>
+                  <l><lb/>met Fader oc Søn en Gud sand/ </l>
+                  <l>Som <lb/>oss i en Christen samfund </l>
+                  <l>Sambler och <lb/>pryder mangelund/ </l>
+                  <l>Vocter oss fra synde<lb rend="="/>lig id/ </l>
+                  <l>och i vor brøst er han oss blid/ </l>
+                  <l>Vi <pb ana="109_r" n_ekstra="Q1r" n="E289"/><lb/>skulle oc alle igen opstaa/ </l>
+                  <l>met vor idret <lb/>for dommen gaa/ </l>
+                  <l>Riget skulle wi da faa <lb/>sammen/ </l>
+                  <l>Som Christus haffuer oss for<lb rend="="/>huerffuit/ Amen.</l>
+               </lg>
             </div>
             <div xml:id="fader-vor-med-sin-udlaeggelse" n="20">
                <head type="add">Fadervor</head>
@@ -15065,99 +15121,105 @@
                   <hi rend="center">Fader vor/ met sin vdleggelse/ Och en <lb/>kort formaning/ Som
                      den Christne kirc<lb rend="="/>kis tiænere eller Biscop maa haffue til <lb/>den
                      Christne forsamling/ At ihukomme <lb/>huad mand skal bede aff Gud/ Oc <lb/>acte
-                     huad han vil at vor bege/ <lb/>ring skal altid vere til <lb/>hannem.
-                     <lb/>&#x2055;</hi>
+                     huad han vil at vor <app><lem>bege<lb rend="="/>ring</lem><rdg wit="#orig"
+                           >bege/ <lb/>ring<note>rettet</note></rdg></app> skal altid vere til
+                     <lb/>hannem. <lb/>&#x2055;</hi>
                </p>
                <p><c function="initials" rend="3">A</c>Ltsomkæriste Jesu Christi venner <lb/>Men saa
                   er at wi ere her forsamle<lb rend="="/>de i vor Herris Jesu Christi naffn
                   <lb/>hans hellige Testamente ath anamme/ <lb/>Saa formaner ieg eder i det første
-                  at i op<lb rend="="/>løffte eders hierter til Gud ath bede met <lb/>mig Fader vor
-                  / saa som Jesus Christus <lb/>haffuer lært oss/ Oc loffuit oss der til stor
-                  <lb/>glæde/ at wi skulle bønhøris der mrt.</p>
+                  at i op<lb rend="="/>løffte eders hierter til Gud ath bede met <lb/>mig Fader vor/
+                  saa som Jesus Christus <lb/>haffuer lært oss/ Oc loffuit oss der til stor
+                  <lb/>glæde/ at wi skulle bønhøris der <app><lem>met.</lem><rdg wit="#orig"
+                           >mrt.<note>rettet</note></rdg></app></p>
                <pb ana="109_v" n_ekstra="Q1v" n="E290"/>
                <p><c function="initials" rend="2">A</c>Th Gud vor Hiemmelske Fader <lb/>vilde
-                  miskundelige see til oss sine e<lb rend="="/>lende børn her paa Jodren/ oc giffue
-                  oss <lb/>naade/ at hans hellige naffn iblant oss oc <lb/>i all verden maatte
-                  helligt gøris met sine <lb/>egne ord/ oc hans rene oc sande lærdom<lb rend="="
-                  />me/ oc vid en brendendis kærlighed i vort <lb/>leffnet/ At han oc mildelige
-                  vilde affuen<lb rend="="/>de all ketterske oc falske lærdom/ der hans <lb/>verdige
-                  och Hellige Naffnmaa lastis oc <lb/>skemmis met.</p>
+                  miskundelige see til oss sine e<lb rend="="/>lende børn her paa
+                        <app><lem>Jorden/</lem><rdg wit="#orig"
+                     >Jodren/<note>rettet</note></rdg></app> oc giffue oss <lb/>naade/ at hans
+                  hellige naffn iblant oss oc <lb/>i all verden maatte helligt gøris met sine
+                  <lb/>egne ord/ oc hans rene oc sande lærdom<lb rend="="/>me/ oc vid en brendendis
+                  kærlighed i vort <lb/>leffnet/ At han oc mildelige vilde affuen<lb rend="="/>de
+                  all ketterske oc falske lærdom/ der hans <lb/>verdige och Hellige Naffn maa lastis
+                  oc <lb/>skemmis met.</p>
                <lb/>
-               <p>ii At hans rige maatte tilkomme och <lb/>forøgis/ Och forblindede Menniske och
-                  <lb/>fangne i Dieffuelens Rigemaatte hentis <lb/>til bage igen fra hannem/ til den
-                  sande tro<lb rend="="/>is bekendelse/ som er til Christum Jesum <lb/>at det
-                  Christne Menniskens tall maatte <lb/>forøgis oc bliffue storre</p>
+               <p>ii <space extent="2blanks"/>At hans rige maatte tilkomme och <lb/>forøgis/ Och
+                  forblindede Menniske och <lb/>fangne i Dieffuelens Rige maatte hentis <lb/>tilbage
+                  igen fra hannem/ til den sande tro<lb rend="="/>is bekendelse/ som er til Christum
+                  Jesum <lb/>at det Christne Menniskens tall maatte <lb/>forøgis oc bliffue
+                  storre</p>
                <lb/>
-               <p>iii At wi ocsaa met hans Aand maat<lb rend="="/>te styrckis/ til ath fulkomme hans
-                  vilge/ <lb/>Oc at fordrage saa vel i liffuit som i dø<lb rend="="/>den/ saa vel i
-                  modgang som i metgang <lb/>baade ont oc gaat/ saat ath wi vor vilge <lb/>bryde
-                  offre oc døde hannem</p>
+               <p>iii <space extent="2blanks"/>At wi ocsaa met hans Aand maat<lb rend="="/>te
+                  styrckis/ til ath fulkomme hans vilge/ <lb/>Oc at fordrage saa vel i liffuit som i
+                     dø<lb rend="="/>den/ saa vel i modgang som i metgang <lb/>baade ont oc gaat/
+                  saat ath wi vor vilge <lb/>bryde offre oc døde hannem</p>
                <pb ana="110_r" n_ekstra="Q2r" n="E291"/>
                <lb/>
-               <p>iiii Ath han vilde oc verdis til at giffue <lb/>oss vort daglige brød/ och foruare
-                  oss fra <lb/>all gerighed/ Liffens wbeskickelig forsø<lb rend="="/>ring/ oc
-                  timelig nærings omhyggelighed/ <lb/>Oc gøre oss saa til sinde/ ath wi maatte
-                  <lb/>forlade oss paa hannem i all vor nødtørt<lb rend="="/>telighed</p>
+               <p>iiii <space extent="2blanks"/>Ath han vilde oc verdis til at giffue <lb/>oss vort
+                  daglige brød/ och foruare oss fra <lb/>all gerighed/ Liffens wbeskickelig forsø<lb
+                     rend="="/>ring/ oc timelig nærings omhyggelighed/ <lb/>Oc gøre oss saa til
+                  sinde/ ath wi maatte <lb/>forlade oss paa hannem i all vor nødtørt<lb rend="="
+                  />telighed</p>
                <lb/>
-               <p>v At han oc vilde forlade oss vor skyld <lb/>saa som wi forlade vorre skyldere/ at
-                  vort <lb/>hierte maatte haffue en glad oc tryg sam<lb rend="="/>uittighed/ oc
-                  aldrig forferde sig eller frycte <lb/>for nogen Synd/ och ey forskrecke sig aff
-                  <lb/>Syndens storhed</p>
+               <p>v <space extent="2blanks"/>At han oc vilde forlade oss vor skyld <lb/>saa som wi
+                  forlade vorre skyldere/ at vort <lb/>hierte maatte haffue en glad oc tryg sam<lb
+                     rend="="/>uittighed/ oc aldrig forferde sig eller frycte <lb/>for nogen Synd/
+                  och ey forskrecke sig aff <lb/>Syndens storhed</p>
                <lb/>
-               <p>vi Ath han oc icke vilde indledde oss i <lb/>fristelse/ men heller hielpe oc
-                  styrcke vor <lb/>skrøbelighed met sin Aand/ at spæge lege<lb rend="="/>mit/ oc
-                  forsmaa Verden met hendis wbe<lb rend="="/>skickelige begering oc vesen/ oc
-                     offueruin<lb rend="="/>de Dieffuelen/ met all hans falskhed oc <lb/>suig.</p>
+               <p>vi <space extent="2blanks"/>Ath han oc icke vilde indledde oss i <lb/>fristelse/
+                  men heller hielpe oc styrcke vor <lb/>skrøbelighed met sin Aand/ at spæge lege<lb
+                     rend="="/>mit/ oc forsmaa Verden met hendis wbe<lb rend="="/>skickelige
+                  begering oc vesen/ oc offueruin<lb rend="="/>de Dieffuelen/ met all hans falskhed
+                  oc <lb/>suig.</p>
                <lb/>
-               <p>vii Ath han vilde fremdelis frelse oss <lb/>fra ont baade Legemligt och Aandeligt
-                  / <lb/>Timeligt och euigt</p>
+               <p>vii <space extent="2blanks"/>Ath han vilde fremdelis frelse oss <lb/>fra ont baade
+                  Legemligt och Aandeligt/ <lb/>Timeligt och euigt</p>
                <pb ana="110_v" n_ekstra="Q2v" n="E292"/>
-               <p>viii. Huilcke dette sandelige begære/ <lb/>de sige aff hiertet/ Amen</p>
+               <p>viii. <space extent="2blanks"/>Huilcke dette sandelige begære/ <lb/>de sige aff
+                  hiertet/ Amen</p>
                <lb/>
-               <p>ix For wden all tuil troendis at dette <lb/>er vist oc ia/ oc hørt i Hiemmelen/
-                  effter <lb/>Christi eget løffte oc tilsigelse/ Ath huad <lb/>i bede/ Tror at i
-                  skulle faa det/ oc det skal <lb/>eder giffuis/ Amen</p>
+               <p>ix <space extent="2blanks"/>For wden all tuil troendis at dette <lb/>er vist oc
+                  ia/ oc hørt i Hiemmelen/ effter <lb/>Christi eget løffte oc tilsigelse/ Ath huad
+                  <lb/>i bede/ Tror at i skulle faa det/ oc det skal <lb/>eder giffuis/ Amen</p>
             </div>
             <div xml:id="trosbekendelse" n="21">
                <head type="add">Den kristelige trosbekendelse</head>
                <p>
                   <hi rend="center">Den Christelige Trois bekendelse met <lb/>ith ret Euangelisk
                      scrifftemaal/ som pley<lb rend="="/>is at opregnis aff Presten effter predicken
-                     <lb/>før mand anammer vaar Herris Jesu <lb/>Christi Legemis oc Blodz verdi
-                     <lb/>ge Sacramente.</hi>
+                     <lb/>før mand anammer vaar Herris Jesu <lb/>Christi Legemis oc Blodz verdi<lb
+                        rend="="/>ge Sacramente.</hi>
                </p>
                <p><c function="initials" rend="6">I</c>Eg arme Syndige me<ex>n</ex><lb rend="="
-                  />niske/ Jeg vedersiger <lb/>Dieffuelen/ oc all hans <lb/>metfart/ raad oc indsky
-                  <lb/>delse/ Jeg tror stadelige <lb/>paa Gud Fader Al<lb rend="="/>mectigste
-                  Hiemmelens oc Jordens skabe<lb rend="="/>re/ Oc paa hans eniste Søn Jesum Chri<lb
-                     rend="="/>stum vor Herre/ Som er vndfangen aff</p>
-               <pb ana="111_r" n_ekstra="Q3r" n="E293"/>
-               <lb/>
-               <p>den Helligaand/ Fød aff Maria en ren <lb/>Jomfru/ Pint vnder Pontio Pilato/
-                  <lb/>Kaarsffest/ Døder/ Jordet/ nederfoer til <lb/>Helffuede/ Tredie dag opstod
-                  aff døde/ <lb/>Opfor til Hiemmels sider hoss Gudz Fa <lb/>ders altmectigis høyre
-                  haand/ oc skal ko<ex>m</ex><lb rend="="/>me oc dømme leffuendis oc døde.</p>
+                  />niske/ Jeg vedersiger <lb/>Dieffuelen/ oc all hans <lb/>metfart/ raad oc
+                     indsky<lb rend="="/>delse/ Jeg tror stadelige <lb/>paa Gud Fader Al<lb rend="="
+                  />mectigste Hiemmelens oc Jordens skabe<lb rend="="/>re/ Oc paa hans eniste Søn
+                  Jesum Chri<lb rend="="/>stum vor Herre/ Som er vndfangen aff <pb ana="111_r"
+                     n_ekstra="Q3r" n="E293"/><lb/>den Helligaand/ Fød aff Maria en ren <lb/>Jomfru/
+                  Pint vnder Pontio Pilato/ <lb/>Kaarsffest/ Døder/ Jordet/ nederfoer til
+                  <lb/>Helffuede/ Tredie dag opstod aff døde/ <lb/>Opfor til Hiemmels sider hoss
+                  Gudz Fa<lb rend="="/>ders altmectigis høyre haand/ oc skal ko<ex>m</ex><lb
+                     rend="="/>me oc dømme leffuendis oc døde.</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Jeg tror oc paa den Helligaand/ <lb/>oc at der
                   er en Christen kircke til/ som er <lb/>alle deris samfund som haffue en ret
                      Chri<lb rend="="/>stelig Tro til Gud oc vor Herre Jesum <lb/>Christum/ J alle
-                  de ord och artickle som <lb/>hans hellige Apostle hende predickede och <lb/>lærde
-                  / Oc i denne ene Christne Kircke er <lb/>Syndernis forladelse/ Jeg Tror oc at wi
+                  de ord och artickle som <lb/>hans hellige Apostle hende predickede och <lb/>lærde/
+                  Oc i denne ene Christne Kircke er <lb/>Syndernis forladelse/ Jeg Tror oc at wi
                   <lb/>skulle opstaa aff døde met disse samme <lb/>Legeme/ Oc siden leffue
                   euindelige hoss <lb/>Gud/ Amen.</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Met den samme Christelige oc min <lb/>stadige
                   Tro giffuer ieg mig skyldig for <lb/>Gud. At vere ith armt syndigt menniske
                   <lb/>vndfangen oc fød i Synd och ondskaff/ <lb/>Oc at min nature er saa
-                  forkrenckit i mig</p>
-               <pb ana="111_v" n_ekstra="Q3v" n="E294"/>
-               <p>At ieg kan inted gaat gøre/ tale eller tenc <lb/>ke aff mig selff/ Men ieg haffuer
-                  brugit <lb/>mit legeme i kødelig løst oc ond begering <lb/>til Synderne/ min Gud
-                  oc skabere til stor <lb/>fortørnelse/ Och der offuer forglemt han<lb rend="="
-                  />nem/ oc icke hafft hannem for øyen och <lb/>kær offuer alting som mig burde/ Oc
-                  ey <lb/>fryctet hannem aff hu oc hierte Men ieg <lb/>haffuer mere fryctet for
+                  forkrenckit i mig <pb ana="111_v" n_ekstra="Q3v" n="E294"/>At ieg kan inted gaat
+                  gøre/ tale eller tenc<lb rend="="/>ke aff mig selff/ Men ieg haffuer brugit
+                  <lb/>mit legeme i kødelig løst oc ond begering <lb/>til Synderne/ min Gud oc
+                  skabere til stor <lb/>fortørnelse/ Och der offuer forglemt han<lb rend="="/>nem/
+                  oc icke hafft hannem for øyen och <lb/>kær offuer alting som mig burde/ Oc ey
+                  <lb/>fryctet hannem aff hu oc hierte Men ieg <lb/>haffuer mere fryctet for
                   Menniskene Oc <lb/>mere elsket verden/ oc mig selff end han<lb rend="="/>nem/ oc
-                  det offuer forglemt hans Bud oc <lb/>vilge/ Och øffuit mig i mange atskillige
+                  der offuer forglemt hans Bud oc <lb/>vilge/ Och øffuit mig i mange atskillige
                   <lb/>Synder/ Jeg haffuer icke heller elsket <lb/>min Jeffn Christen lige som mig
                   selff/ <lb/>Oc ey giort hannem det skell som ieg be<lb rend="="/>gerde aff
                   hannem</p>
@@ -15192,13 +15254,13 @@
                   met Christi ord oc Euangelio <lb/>at de met fuldhardige hierter mue forkyn<lb
                      rend="="/>de oss det rene Gudz ord til vor forbedrel<lb rend="="/>se/ at wi maa
                   bliffue voctede for all vild<lb rend="="/>farelse/ Och bestyrckede til alt gaat
-                  mod <lb/>Dieffuelen oc alle vore fiende oc modstan <lb/>dere/ at Christi
-                  Euangelium maa nu bliff <lb/>ue reent oc fast hoss oss i alle maade</p>
+                  mod <lb/>Dieffuelen oc alle vore fiende oc modstan<lb rend="="/>dere/ at Christi
+                  Euangelium maa nu bliff<lb rend="="/>ue reent oc fast hoss oss i alle maade</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Beder ocsaa for Keyserlig Maiestat <lb/>For
                   Konger/ Herrer/ Første/ For Rigens <lb/>raad oc Byess raad/ For Fribaarne folck
                   <lb/>Borgemestere/ oc Raadmend/ Fogeder oc <lb/>Dommere/ Och for dem alle som det
-                  <lb/>verdslige suerd befalet er/ Besynderlige <lb/>for vor naadige Herre / Kong N.
+                  <lb/>verdslige suerd befalet er/ Besynderlige <lb/>for vor naadige Herre/ Kong N.
                   och Ri<lb rend="="/>gens Raad/ At Gud vilde met sin naade <lb/>stedsse hoss dem
                   vere/ at de mue wstraffe<lb rend="="/>lige regere de verdslige ting som dem be<lb
                      rend="="/>falet er/ At wi vnder dem mue haffue ith <lb/>roligt oc stille
@@ -15213,7 +15275,7 @@
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Beder ydmygelige oc Gudelige den <lb/>bøn som
                   Jesus Christus vor kæriste her<lb rend="="/>re oc eniste Frelsere haffuer selff
-                  lært oss <lb/>Fader vor som est etcet.</p>
+                  lært oss <lb/>Fader vor som est etcet<ex>era</ex></p>
             </div>
             <div xml:id="formaning" n="23">
                <head type="add">Formaning / Kære venner</head>
@@ -15223,52 +15285,54 @@
                <p><c function="initials" rend="3">K</c>ære venner/ Effterdi at i ere her nu
                   <lb/>forsamlede i vor Herris Jesu Chri<lb rend="="/>sti naffn ath anamme hans
                   hellige <lb/>Testamente/ Saa formaner ieg eder først <lb/>at i giffue vel act paa
-                  met en fast Tro at <lb/>i bruge samme Testamete tilbørlige/ och <lb/>acte de ord
-                  besynderlige J huilcke Jesus <lb/>Christus haffuer skenckit oss sit Legeme</p>
-               <pb ana="113_v" n_ekstra="Q5v" n="E298"/>
-               <p>Christus haffuer skenckit oss sit Legeme <lb/>oc blod til vore Synders forladelse
-                  / Och <lb/>indtrøcker dem fast i eders Hierte/ Ath i <lb/>kunde altid komme dem i
-                  hu/ och tacke <lb/>hannem for sin wbegribelige kærlighed <lb/>som han oss beuist
-                  haffuer/ J det ath han <lb/>frelste oss fra Gud Faders vrede/ Syn<lb rend="="
-                  />den/ Døden Dieffuelen oc Helffuede/ met <lb/>sit Legems offer oc Blodz
-                  vdgydelse/ der <lb/>fore skal huer som vill verdelige æde och <lb/>dricke dette
-                  Sacramente/ tro Jesu Chri<lb rend="="/>sti egne ord som han sagde/ Dette er mit
-                  <lb/>Legeme som skal giffuis for eder/ Dette <lb/>er mit Blod som skal vdstyrtis
-                  for eder <lb/>til Syndens forladelse</p>
+                  met en fast Tro at <lb/>i bruge samme <app><lem>Testamente</lem><rdg wit="#orig"
+                           >Testamete<note>rettet</note></rdg></app> tilbørlige/ och <lb/>acte de
+                  ord besynderlige J huilcke Jesus <lb/>Christus haffuer skenckit oss sit Legeme <pb
+                     ana="113_v" n_ekstra="Q5v" n="E298"/><app><lem/><rdg wit="#orig">Christus
+                        haffuer skenckit oss sit Legeme<note>rettet</note></rdg></app>
+                  <lb/>oc blod til vore Synders forladelse/ Och <lb/>indtrøcker dem fast i eders
+                  Hierte/ Ath i <lb/>kunde altid komme dem i hu/ och tacke <lb/>hannem for sin
+                  wbegribelige kærlighed <lb/>som han oss beuist haffuer/ J det ath han <lb/>frelste
+                  oss fra Gud Faders vrede/ Syn<lb rend="="/>den/ Døden Dieffuelen oc Helffuede/ met
+                  <lb/>sit Legems offer oc Blodz vdgydelse/ der <lb/>fore skal huer som vill
+                  verdelige æde och <lb/>dricke dette Sacramente/ tro Jesu Chri<lb rend="="/>sti
+                  egne ord som han sagde/ Dette er mit <lb/>Legeme som skal giffuis for eder/ Dette
+                  <lb/>er mit Blod som skal vdstyrtis for eder <lb/>til Syndens forladelse</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Det andet er det/ At huer skal bru<lb rend="="
                   />ge det effter Christi befalning som saa ly<lb rend="="/>der/ Tager det hen oc
                   æder det/ Om kal<lb rend="="/>ken sagde han/ Tager oc dricker alle sam<lb rend="="
                   />men der aff/ och gøre det i min ihukom<lb rend="="/>melse/ S. Pouil siger. Saa
                   tiit som i æde <lb/>aff dette Brød oc dricke aff denne Kalck <lb/>da skulle i
-                  kundgøre Herrens død ind til <lb/>han kommer/ Dette skulle i gøre effter</p>
-               <pb ana="114_r" n_ekstra="Q6r" n="E299"/>
-               <lb/>
-               <p>Christi befalning/ oc Tro hans ord fuld<lb rend="="/>kommelige/ Thi S. Pouil
-                  siger/ At huo <lb/>som æder dette Brød oc dricker aff Her<lb rend="="/>rens Kalck
-                  wuerdelige/ Han er skyldig i <lb/>Herrens Legeme och Blod/ Thi skall <lb/>huer
-                  prøffue oc ransage sig selff/ oc æde aff <lb/>Brødit/ oc dricke aff Kalcken/ Thi
-                  huo <lb/>som æder och dricker wuerdelige der aff/ <lb/>Han æder oc dricker sig
-                  selff Dommen/ <lb/>Jcke dømendis ræt om Herrens Legeme</p>
+                  kundgøre Herrens død ind til <lb/>han kommer/ Dette skulle i gøre effter <pb
+                     ana="114_r" n_ekstra="Q6r" n="E299"/><lb/>Christi befalning/ oc Tro hans ord
+                     fuld<lb rend="="/>kommelige/ Thi S. Pouil siger/ At huo <lb/>som æder dette
+                  Brød oc dricker aff Her<lb rend="="/>rens Kalck wuerdelige/ Han er skyldig i
+                  <lb/>Herrens Legeme och Blod/ Thi skall <lb/>huer prøffue oc ransage sig selff/ oc
+                  æde aff <lb/>Brødit/ oc dricke aff Kalcken/ Thi huo <lb/>som æder och dricker
+                  wuerdelige der aff/ <lb/>Han æder oc dricker sig selff Dommen/ <lb/>Jcke dømendis
+                  ræt om Herrens Legeme</p>
                <lb/>
                <p><space extent="2blanks"/>&#x2055; Der fore ligger der stor mact paa/ at <lb/>huer
                   randsager och prøffuer sig selff i sit <lb/>hierte oc samuittighed/ huad han her
                   tror <lb/>Oc huor fore han vil anamme dette ver<lb rend="="/>dige Sacramente/ Oc
                   paa det at wi mue <lb/>faa den Helligaandz naade til at anam<lb rend="="/>me det
-                  tilbørlige/ Da ville wi alle falle <lb/>paa Knæ oc bede Gud Fader ydmygeliy
-                  <lb/>ge aff alt vort Hierte met den Hiemmel<lb rend="="/>ske Bøn Fader vaar/ Som
-                  Jesus Chri<lb rend="="/>stus oss lærde/ Oc loffuede at wi skulle <lb/>Bønhøris
-                  hoss hans Fader for hans <lb/>naffn skyld</p>
-               <p>
-                  <pb ana="114_v" n_ekstra="Q6v" n="E300"/> Herren vere met æder. </p>
+                  tilbørlige/ Da ville wi alle falle <lb/>paa Knæ oc bede Gud Fader ydmygeliy<lb
+                     rend="="/>ge aff alt vort Hierte met den Hiemmel<lb rend="="/>ske Bøn Fader
+                  vaar/ Som Jesus Chri<lb rend="="/>stus oss lærde/ Oc loffuede at wi skulle
+                  <lb/>Bønhøris hoss hans Fader for hans <lb/>naffn skyld</p>
+               <lg>
+                  <l>
+                     <pb ana="114_v" n_ekstra="Q6v" n="E300"/> Herren vere met æder. </l>
+               </lg>
                <lb/>
                <p> Suar. </p>
                <lg>
                   <l>Och met din Aand</l>
                </lg>
                <lb/>
-               <p> Sursum corda. <lb/>
-               </p>
+               <head> Sursum corda. <lb/>
+               </head>
                <lg>
                   <l>Vi løffte vore hierte op i Hiemmelen</l>
                </lg>
@@ -15278,7 +15342,7 @@
                   <l>Vi haffue dem til Herren</l>
                </lg>
                <lb/>
-               <p> Gratias agamus domino.<lb/></p>
+               <head> Gratias agamus domino.<lb/></head>
                <lg>
                   <l>Lader oss tacke Herren.</l>
                </lg>
