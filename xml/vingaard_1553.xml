@@ -17803,22 +17803,21 @@
             <lb/>
             <div type="psalm" xml:id="o-herre-hvor-laenge-vil-du-saa-slaet-forglemme-mig" n="12">
                <head type="add">O Herre, hvor længe vil du så slæt forglemme mig</head>
-               <head>Den Trettende Psalme. <lb/>Vsquequo d<ex>omin</ex>e obliuisceris me etc.
-                  <lb/>Til at bede i nød</head>
-               <p><hi rend="Antiqua2"><c function="initials" rend="2">O</c></hi>Herre huor lenge
+               <head><ref target="#sl-13"><orig>Den Trettende Psalme.</orig><reg>Sl 13</reg></ref>
+                  <lb/>Vsquequo d<ex>omin</ex>e obliuisceris me etc. <lb/>Til at bede i nød</head>
+               <p><hi rend="Antiqua2"><c function="initials" rend="2">O</c></hi> Herre huor lenge
                   viltu saa slæt for<lb rend="="/>glemme mig/ Huor lenge skiuler du <lb/>dit Ansicte
                   for mig/ Huor lenge skal ieg li<lb rend="="/>de attraa i min Siæl/ Huor lenge skal
                   ieg <lb/>bære bedrøffuelse i mit hierte dag oc Nat <lb/>Huor lenge skal fienden
-                  forheffue sig off<lb rend="="/>uer mig/ O Herre kom mig ihu/ see till</p>
-               <pb ana="155_r" n_ekstra="X7r" n="E381"/>
-               <lb/>
-               <p>mig met miskundhed/ och hør min Bøn <lb/>min Herre oc min Gud/ Opliuss mine
-                  <lb/>øyen/ at de icke bliffue forblindede met de <lb/>onde wgudelige Menniske/ oc
-                  at ieg icke <lb/>dør i Synd. Tilsted icke ath mine Fiende <lb/>skulle rose dem /
-                  oc sige at de haffue offuer <lb/>uundet mig/ oc lad min modstandere icke
-                  <lb/>glædis der aff at ieg er omkuldkast/ Jeg <lb/>haabis til din miskundhed lad
-                  mit hierte <lb/>vere gald/ i din salighed at ieg maa siunge <lb/>deg loff oc tacke
-                  deg/ naar du hielper mig <lb/>op igen/ Amen.</p>
+                  forheffue sig off<lb rend="="/>uer mig/ O Herre kom mig ihu/ see till <pb
+                     ana="155_r" n_ekstra="X7r" n="E381"/><lb/>mig met miskundhed/ och hør min Bøn
+                  <lb/>min Herre oc min Gud/ Opliuss mine <lb/>øyen/ at de icke bliffue forblindede
+                  met de <lb/>onde wgudelige Menniske/ oc at ieg icke <lb/>dør i Synd. Tilsted icke
+                  ath mine Fiende <lb/>skulle rose dem/ oc sige at de haffue offuer<lb rend="="
+                  />uundet mig/ oc lad min modstandere icke <lb/>glædis der aff at ieg er
+                  omkuldkast/ Jeg <lb/>haabis til din miskundhed lad mit hierte <lb/>vere gald/ i
+                  din salighed at ieg maa siunge <lb/>deg loff oc tacke deg/ naar du hielper mig
+                  <lb/>op igen/ Amen.</p>
             </div>
          </div>
          <lb/>
@@ -17858,7 +17857,8 @@
                   <l><space extent="2blanks"/>&#x2055; Din vilge ske i Jorderig/ </l>
                   <l>Lige som <lb/>han er i Hiemmerig/ </l>
                   <l>Giff oss en goder <lb/>taalmodighed/ </l>
-                  <l>Naar wi skulle lide sor/ <lb/>rig oc nød/ </l>
+                  <l>Naar wi skulle lide <app><lem>sor<lb rend="="/>rig</lem><rdg wit="#orig">sor/
+                              <lb/>rig<note>rettet</note></rdg></app> oc nød/ </l>
                   <l>Fordriff all Legomlig beger/ </l>
                   <l>Som altid mod din vilge er.</l>
                </lg>
@@ -17900,7 +17900,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Amen det ord ersandt oc vist/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Amen det ord er sandt oc vist/ </l>
                   <l>Der <lb/>til bestyrcke vor Tro vel fast/ </l>
                   <l>At wi och <lb/>icke tuiffle der paa/ </l>
                   <l>hues wi her met nu <lb/>bede saa/ </l>
@@ -17914,7 +17914,7 @@
                <head>En Letanie paa Danske met de Noder <lb/>Fader vor vdi Hiemmerig.</head>
                <lg>
                   <l><c function="initials" rend="3">G</c>Vd Fader vdi hie<ex>m</ex>merig/ </l>
-                  <l>Gud Søn <lb/>met Hellig Aand til lig/ </l>
+                  <l>Gud Søn <lb/>met HelligAand til lig/ </l>
                   <l>Du hellige <lb/>Trefoldighed/ </l>
                   <l>en enniste Gud i e<lb rend="="/>uighed/ </l>
                   <l>paa din foriet bede wi deg/ </l>
@@ -17973,7 +17973,7 @@
                   <l>styr hinne met ord oc rene ler/ </l>
                   <l>hennis for<lb rend="="/>stander oc Predicker/ </l>
                   <l>Lad leffue et helligt <lb/>leffnit met ære/ </l>
-                  <l>met dit ord giff din Aand <lb/>oc krafft / </l>
+                  <l>met dit ord giff din Aand <lb/>oc krafft/ </l>
                   <l>at det gør fruct oc er vid mact.</l>
                </lg>
                <lb/>
@@ -18001,7 +18001,7 @@
                   <l>Keyser Konger oc alle Førster/ </l>
                   <l>giff naade at de maa ret regere/ </l>
                   <l>vnd dem ath leffue met fred altid/ </l>
-                  <l>foruar dem fra tuedract oc strid /</l>
+                  <l>foruar dem fra tuedract oc strid/</l>
                </lg>
                <lb/>
                <lg>
@@ -18017,7 +18017,7 @@
                   <l>send <lb/>dem din hielp oc vel beuar/ </l>
                   <l>trøst alle dem <lb/>som bedrøffuit ere/ </l>
                   <l>Deris anger fuld hier<lb rend="="/>te for dig beter/ </l>
-                  <l>Faderløse Børn oc Enc<lb rend="="/>ker met / </l>
+                  <l>Faderløse Børn oc Enc<lb rend="="/>ker met/ </l>
                   <l>forse dem vel huer i sit stedt.</l>
                </lg>
                <lb/>
@@ -18034,14 +18034,14 @@
                   <l><space extent="2blanks"/>&#x2055; O Kære Herre giff dem gaat taal/ </l>
                   <l>som lider forfylgelse vden brøden all/ </l>
                   <l>och <lb/>red dem aff deris Fienders vold/</l>
-                  <l>lad feng <lb/>sellit dem ey lenger hold/ </l>
-                  <l>trøst dem oc saa <lb/>i døzens kiff/</l>
-                  <l> som for nogen sag skal lade <lb/>deris Liff.</l>
+                  <l>lad feng<lb rend="="/>sellit dem ey lenger hold/ </l>
+                  <l>trøst dem oc saa <lb/>i døzens kiff/ </l>
+                  <l>som for nogen sag skal lade <lb/>deris Liff.</l>
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Alle dem som monne vore fiender vere/</l>
-                  <l> forlad deris Synd er vor begere/ </l>
+                  <l><space extent="2blanks"/>&#x2055; Alle dem som monne vore fiender vere/ </l>
+                  <l>forlad deris Synd er vor begere/ </l>
                   <l>vnd <lb/>oss at wi oc gierne til giffue/ </l>
                   <l>oc kerlig met <lb/>huer mand at leffue/ </l>
                   <l>hielp vaare fiender <lb/>sig om at kere/ </l>
@@ -18049,8 +18049,7 @@
                </lg>
                <lb/>
                <lg>
-                  <l>
-                     <pb ana="158_r" n_ekstra="Y2r" n="E387"/><space extent="2blanks"/>&#x2055; O
+                  <l><pb ana="158_r" n_ekstra="Y2r" n="E387"/><space extent="2blanks"/>&#x2055; O
                      Herre giff fruct vdi vaare Land </l>
                   <l>oc signe hinde met din milde haand/ </l>
                   <l>be<lb rend="="/>uar hinde fra wuenner oc skade/ </l>
@@ -18074,91 +18073,188 @@
                <head>En deylig ny Vise om Christi fødsel met <lb/>de Noder som A solis ortus Car<lb
                      rend="="/>dine siungis met.</head>
                <lb/>
-               <p><c function="initials" rend="3">J</c>Th Barn er fød i Bethlehem <lb/>Thi gleder
-                  sig Hierusalem. <lb/><space extent="2blanks"/>Her ligger han i ith krubbe rum/
-                  <lb/>Vden ende er hans Herredum <lb/><space extent="2blanks"/>&#x2055; En Oxe oc
-                  Asen hoss hannem stod <lb/>De kende deris Herre oc Gud /</p>
-               <pb ana="158_v" n_ekstra="Y2v" n="E388"/>
-               <p>De Konger aff Saba komme der/ <lb/>Offrede Guld/ Røgelse oc Mirre/ <lb/><space
-                     extent="2blanks"/>&#x2055; Hans Moder er den rene Mø <lb/>Som foruden Mand
-                  haffuer fød. <lb/>Satan kan icke staa hannem emod/ <lb/>Vden Synd er han vorden
-                  vort Blod <lb/><space extent="2blanks"/>&#x2055; Effter Kødet er han oss lig/
-                  <lb/>Men effter Synden gantske wlig. <lb/>Der met giorde han sig selff oss lig/
-                  <lb/>Oc førde oss saa til Hiemmerige. <lb/><space extent="2blanks"/>&#x2055; For
-                  samme sin store naadelig tid/ <lb/>Herre Gud ske loff i euighed. <lb/>Fra
-                  Hiemmelen kom den Engele skar/ <lb/>Oc syntes for hyurderne obenbar. <lb/><space
-                     extent="2blanks"/>&#x2055; Oc bade dem hen til Barnet gaa/ <lb/>Der ind til
-                  Krubben som det laa. <lb/>Til Bethlehem i Dauids Stad/ <lb/>Der om Micheas hagde
-                  før spaad. <lb/><space extent="2blanks"/>&#x2055; Han er den Herre Jesus Christ
-                  /</p>
-               <pb ana="159_r" n_ekstra="Y3r" n="E389"/>
+               <lg>
+                  <l><c function="initials" rend="3">J</c>Th Barn er fød i Bethlehem </l>
+                  <l><lb/>Thi gleder sig Hierusalem. </l>
+                  <l><lb/><space extent="2blanks"/>Her ligger han i ith krubbe rum/ </l>
+                  <l><lb/>Vden ende er hans Herredum </l>
+               </lg>
                <lb/>
-               <p>Eders trøst oc salighed for vist/ <lb/>Thi skulle wi alle gledis der ved/ <lb/>At
-                  Gud met eder er vorden eth <lb/><space extent="2blanks"/>&#x2055; Han er nu fød
-                  eders Kød oc blod/ <lb/>Oc er eders Broder mild oc god/ <lb/>Huad kan eder skade
-                  Synd eller død. <lb/>Men i haffue Gud i all eders nød. <lb/><space
-                     extent="2blanks"/>&#x2055; Lad storme Helffuede oc Sathan/ <lb/>Gudz Søn er
-                  vorden eders Frelsermand. <lb/>Han kan oc vil alt met eder staa/ <lb/>Der som i
-                  sette til hannem eders Tro. <lb/><space extent="2blanks"/>&#x2055; Der maa eder
-                  friste huo som vil <lb/>Met tradz mue i binde dem til <lb/>J vinde dog før legen
-                  gaar vd/ <lb/>For i ere bleffne slect met Gud. <lb/><space extent="2blanks"
-                  />&#x2055; Thi tacker Gud i euighed/ <lb/>Tolmodige oc glade i alle tid. <lb/>At
-                  eder er fød en Frelsermand/ <lb/>Christus Jesus saa heder hand</p>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; En Oxe oc Asen hoss hannem stod </l>
+                  <l><lb/>De kende deris Herre oc Gud/</l>
+                  <pb ana="158_v" n_ekstra="Y2v" n="E388"/>
+                  <l>De Konger aff Saba komme der/ </l>
+                  <l><lb/>Offrede Guld/ Røgelse oc Mirre/ </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Hans Moder er den rene Mø </l>
+                  <l><lb/>Som foruden Mand haffuer fød. </l>
+                  <l><lb/>Satan kan icke staa hannem emod/ </l>
+                  <l><lb/>Vden Synd er han vorden vort Blod </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Effter Kødet er han oss lig/ </l>
+                  <l><lb/>Men effter Synden gantske wlig. </l>
+                  <l><lb/>Der met giorde han sig selff oss lig/ </l>
+                  <l><lb/>Oc førde oss saa til Hiemmerige. </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; For samme sin store naadelig tid/ </l>
+                  <l><lb/>Herre Gud ske loff i euighed. </l>
+                  <l><lb/>Fra Hiemmelen kom den Engele skar/ </l>
+                  <l><lb/>Oc syntes for hyurderne obenbar. </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Oc bade dem hen til Barnet gaa/ </l>
+                  <l><lb/>Der ind til Krubben som det laa. </l>
+                  <l><lb/>Til Bethlehem i Dauids Stad/ </l>
+                  <l><lb/>Der om Micheas hagde før spaad. </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Han er den Herre Jesus Christ/</l>
+                  <pb ana="159_r" n_ekstra="Y3r" n="E389"/>
+                  <lb/>
+                  <l>Eders trøst oc salighed for vist/ </l>
+                  <l><lb/>Thi skulle wi alle gledis der ved/ </l>
+                  <l><lb/>At Gud met eder er vorden eth </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Han er nu fød eders Kød oc blod/ </l>
+                  <l><lb/>Oc er eders Broder mild oc god/ </l>
+                  <l><lb/>Huad kan eder skade Synd eller død. </l>
+                  <l><lb/>Men i haffue Gud i all eders nød. </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Lad storme Helffuede oc Sathan/ </l>
+                  <l><lb/>Gudz Søn er vorden eders Frelsermand. </l>
+                  <l><lb/>Han kan oc vil alt met eder staa/ </l>
+                  <l><lb/>Der som i sette til hannem eders Tro. </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Der maa eder friste huo som vil </l>
+                  <l><lb/>Met tradz mue i binde dem til </l>
+                  <l><lb/>J vinde dog før legen gaar vd/ </l>
+                  <l><lb/>For i ere bleffne slect met Gud. </l>
+               </lg>
+               <lb/>
+               <lg>
+                  <l><lb/><space extent="2blanks"/>&#x2055; Thi tacker Gud i euighed/ </l>
+                  <l><lb/>Tolmodige oc glade i alle tid. </l>
+                  <l><lb/>At eder er fød en Frelsermand/ </l>
+                  <l><lb/>Christus Jesus saa heder hand</l>
+               </lg>
             </div>
             <pb ana="159_v" n_ekstra="Y3v" n="E390"/>
             <div type="psalm" xml:id="o-almaegtige-evige-gud-andet-tillaeg" n="4">
                <head type="add">O almægtige evige Gud</head>
                <head>En Christen Lofsang ath bekende sin <lb/>Synds wselhed met/ oc hielp aff
                   <lb/>Gud ath begere. N. E.</head>
-               <p><c function="initials" rend="3">O</c>Almectig euige Gud/ till dig nu <lb/>sucker
-                  ieg saa saare/ Jeg haff<lb rend="="/>uer foracted dine Bud/ ah mine syn<lb
-                     rend="="/>der ere store/ for min Synd och ondskaff <lb/>leed/ som du mig
-                  obenbared/ skemmis ieg <lb/>gantske Siel oc Krop/ mit ansict til Him<lb rend="="
-                  />melen ath løffte op/ Thi ieg haffuer dig <lb/>fortørned.</p>
+               <lg>
+                  <l><c function="initials" rend="3">O</c> Almectig euige Gud/ </l>
+                  <l>till dig nu <lb/>sucker ieg saa saare/ </l>
+                  <l>Jeg haff<lb rend="="/>uer foracted dine Bud/ </l>
+                  <l>ah mine syn<lb rend="="/>der ere store/ </l>
+                  <l>for min Synd och ondskaff <lb/>leed/ </l>
+                  <l>som du mig obenbared/ </l>
+                  <l>skemmis ieg <lb/>gantske Siel oc Krop/ </l>
+                  <l>mit ansict til Him<lb rend="="/>melen ath løffte op/ </l>
+                  <l>Thi ieg haffuer dig <lb/>fortørned.</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Min Synd met suck bekiender ieg/ <lb/>for dig
-                  Herre Gud all ene/ huor du vilt <lb/>gaa i rette met mig/ din glæde kan du mig
-                  <lb/>formene/ ath styrttis ned till Helffuedis <lb/>grund/ met Dieffuelen at pinis
-                     allenstu<ex>n</ex>d <lb/>er min rette fortiente løn/ och aldrig skue <lb/>dit
-                  Ansict skøn/ Men euig fordømbt ath <lb/>bliffue.</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Min Synd met suck bekiender ieg/ </l>
+                  <l><lb/>for dig Herre Gud all ene/ </l>
+                  <l>huor du vilt <lb/>gaa i rette met mig/ </l>
+                  <l>din glæde kan du mig <lb/>formene/ </l>
+                  <l>ath styrttis ned till Helffuedis <lb/>grund/ </l>
+                  <l>met Dieffuelen at pinis allenstu<ex>n</ex>d </l>
+                  <l><lb/>er min rette fortiente løn/ </l>
+                  <l>och aldrig skue <lb/>dit Ansict skøn/ </l>
+                  <l>Men euig fordømbt ath <lb/>bliffue.</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; O Barmhiertig oc gode Gud/ som <lb/>Mennisken
-                  inderlig elskte/ du skabte han<lb rend="="/>nem from oc god/ dit Billede du hannem
-                  <lb/>indbleste/ en Herre han vaar offuer Cr<pb ana="160_r" n_ekstra="Y4r" n="E391"
-                     rend="="/>atur/ Bleff selff dog ond aff sin natur/ <lb/>Derfaare gantske
-                  Menniske Slect/ bleff <lb/>Synd/ Død/ Helffuede vnderlagt/ oc vor <lb/>met
-                  Dieffuelen forlaaren</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; O Barmhiertig oc gode Gud/ </l>
+                  <l>som <lb/>Mennisken inderlig elskte/ </l>
+                  <l>du skabte han<lb rend="="/>nem from oc god/ </l>
+                  <l>dit Billede du hannem <lb/>indbleste/ </l>
+                  <l>en Herre han vaar offuer Cr<pb ana="160_r" n_ekstra="Y4r" n="E391" rend="="
+                     />atur/ </l>
+                  <l>Bleff selff dog ond aff sin natur/ </l>
+                  <l><lb/>Derfaare gantske Menniske Slect/ </l>
+                  <l>bleff <lb/>Synd/ Død/ Helffuede vnderlagt/ </l>
+                  <l>oc vor <lb/>met Dieffuelen forlaaren</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Du dog aff din Barmhiertighed/ <lb/>som sider i
-                  Hiemmelens throne/ yncken<lb rend="="/>dis vor elendighed/ Mennisken du vilde
-                  <lb/>da skone/ Verden du elskte saa inderlig/ <lb/>din Søn du vilde oss vorde lig/
-                  Oc bliff<lb rend="="/>ue ith Offer for vor Synd/ Der met at <lb/>stilles vreden
-                  din/ Och ved hannem dig <lb/>teckis alle</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Du dog aff din Barmhiertighed/ </l>
+                  <l><lb/>som sider i Hiemmelens throne/ </l>
+                  <l>yncken<lb rend="="/>dis vor elendighed/ </l>
+                  <l>Mennisken du vilde <lb/>da skone/ </l>
+                  <l>Verden du elskte saa inderlig/ </l>
+                  <l><lb/>din Søn du vilde oss vorde lig/ </l>
+                  <l>Oc bliff<lb rend="="/>ue ith Offer for vor Synd/ </l>
+                  <l>Der met at <lb/>stilles vreden din/ </l>
+                  <l>Och ved hannem dig <lb/>teckis alle</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Der paa du giffuer och din ed/ O <lb/>kære
-                  Hiemmelske Fader/ at du vilt ingen <lb/>Synders Død/ men deris Synder at for<lb
-                     rend="="/>lade/ om de til dig omuende sig/ sin synd <lb/>fortryde inderlig/ Oc
-                  Jesum Christ sin <lb/>Frelsermand/ bekiende oc tilfly aff troen <lb/>sand/ oc
-                  Syndsens lyst forsage</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Der paa du giffuer och din ed/ </l>
+                  <l>O <lb/>kære Hiemmelske Fader/ </l>
+                  <l>at du vilt ingen <lb/>Synders Død/ </l>
+                  <l>men deris Synder at for<lb rend="="/>lade/ </l>
+                  <l>om de til dig omuende sig/ </l>
+                  <l>sin synd <lb/>fortryde inderlig/ </l>
+                  <l>Oc Jesum Christ sin <lb/>Frelsermand/ </l>
+                  <l>bekiende oc tilfly aff troen <lb/>sand/ </l>
+                  <l>oc Syndsens lyst forsage</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Derfor ieg vsel Adams Barn/ aff <lb/>Syndsens
-                  byrde plat forsmectid/ som fan<lb rend="="/>gen ligger i Dødsens Garn/ Herre Gud
-                  <lb/>mig ey fornecte/ Till dig ieg sucker aff</p>
-               <pb ana="160_v" n_ekstra="Y4v" n="E392"/>
-               <p>hiertens grund/ som dig fortørnet mange<lb rend="="/>lund/ for din Søns Christi
-                  pine oc død/ <lb/>Frels mig vdaff dødsens nød/ at ieg maa <lb/>met dig leffue.</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Derfor ieg vsel Adams Barn/ </l>
+                  <l>aff <lb/>Syndsens byrde plat forsmectid/ </l>
+                  <l>som fan<lb rend="="/>gen ligger i Dødsens Garn/ </l>
+                  <l>Herre Gud <lb/>mig ey fornecte/ </l>
+                  <l>Till dig ieg sucker aff <pb ana="160_v" n_ekstra="Y4v" n="E392"/>hiertens
+                     grund/ </l>
+                  <l>som dig fortørnet mange<lb rend="="/>lund/ </l>
+                  <l>for din Søns Christi pine oc død/ </l>
+                  <l><lb/>Frels mig vdaff dødsens nød/ </l>
+                  <l>at ieg maa <lb/>met dig leffue.</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; O Jesu Christ Gudz euige Søn/ <lb/>der paa
-                  Kaarsset wdracte dine arme/ at du <lb/>det fortabte Menniskens køn/ ville faun<lb
-                     rend="="/>tage oc der offuer forbarme/ Forbarme dig <lb/>mig Herre Jesu Christ/
-                  som for min synd <lb/>giorde fyllist/ gør mig delactig i dine gode <lb/>at din
-                  Hellig Aand maa i mig Bo/ oc ieg <lb/>han Synden laste</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; O Jesu Christ Gudz euige Søn/ </l>
+                  <l><lb/>der paa Kaarsset wdracte dine arme/ </l>
+                  <l>at du <lb/>det fortabte Menniskens køn/ </l>
+                  <l>ville faun<lb rend="="/>tage oc der offuer forbarme/ </l>
+                  <l>Forbarme dig <lb/>mig Herre Jesu Christ/ </l>
+                  <l>som for min synd <lb/>giorde fyllist/ </l>
+                  <l>gør mig delactig i dine gode </l>
+                  <l><lb/>at din HelligAand maa i mig Bo/ </l>
+                  <l>oc ieg <lb/>kan Synden laste</l>
+               </lg>
                <lb/>
-               <p><space extent="2blanks"/>&#x2055; Loff ære oc priiss til euighed/ dig ske <lb/>o
-                  Herre Gud all ene/ en Fader vdi enig<lb rend="="/>hed/ met Christ din Søn vor
-                  broder ven<lb rend="="/>ne/ oc den Hellig Aand vor Trøstermand <lb/>en Gud skal
-                  kendis aff Quinde oc mand <lb/>som alt regerer oc haffuer mact/ alting op
-                  <lb/>holler oc giffuer paa act/ euindelige vden <lb/>all ende/ Amen</p>
+               <lg>
+                  <l><space extent="2blanks"/>&#x2055; Loff ære oc priiss til euighed/ </l>
+                  <l>dig ske <lb/>o Herre Gud all ene/ </l>
+                  <l>en Fader vdi enig<lb rend="="/>hed/ </l>
+                  <l>met Christ din Søn vor broder ven<lb rend="="/>ne/ </l>
+                  <l>oc den Hellig Aand vor Trøstermand </l>
+                  <l><lb/>en Gud skal kendis aff Quinde oc mand </l>
+                  <l><lb/>som alt regerer oc haffuer mact/ </l>
+                  <l>alting op<lb rend="="/>holler oc giffuer paa act/ </l>
+                  <l>euindelige vden <lb/>all ende/ Amen</l>
+               </lg>
             </div>
             <lb/>
             <div type="psalm" xml:id="nu-lader-os-hans-legem-begrave" n="5">
