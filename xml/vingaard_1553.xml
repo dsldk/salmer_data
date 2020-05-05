@@ -55,13 +55,13 @@
    </teiHeader>
    <text>
       <front>
-         <div type="preface" xml:id="preface">
+         <!--  <div type="preface" xml:id="preface">
             <head type="add">En ny salmebog 1553</head>
             <pb n="E1"/>
             <head>En Ny Psalmebog 1553 <lb/>I</head>
             <pb n="E2"/>
             <pb n="E3"/>
-            <head>En Ny Psalmebog <lb/>1553 <lb/> Faksimileudgave <lb/> ---------- <lb/>
+            <head>En Ny Psalmebog <lb/>1553 <lb/> Faksimileudgave <lb/>  <lb/>
                Universitets-Jubilæets danske Samfund <lb/>Akademisk Forlag <lb/>København
                1983</head>
             <pb n="E4"/>
@@ -141,22 +141,22 @@
             <head>Indholdsoversigt</head>
             <lb/>
             <list type="numbered" rend="simple">
-               <item>Kalendarium<ref target="#kalendarium">A2r--C4v</ref></item>
-               <item>Fortale<ref target="#fortalen-til-laeseren">1r--2r</ref></item>
-               <item>Kirkeårets salmer<ref target="#kirkeaarets-salmer">2v--45r</ref></item>
-               <item>Salmer og sange<ref target="#salmer-og-sange">45r--96IIv</ref></item>
+               <item>Kalendarium<ref target="#kalendarium">A2r-C4v</ref></item>
+               <item>Fortale<ref target="#fortalen-til-laeseren">1r-2r</ref></item>
+               <item>Kirkeårets salmer<ref target="#kirkeaarets-salmer">2v-45r</ref></item>
+               <item>Salmer og sange<ref target="#salmer-og-sange">45r-96IIv</ref></item>
                <item>Messen<ref target="#det-hellige-evangeliske-messeembede"
-                  >96IIv--121r</ref></item>
+                  >96IIv-121r</ref></item>
                <item>Kollekter til årets søn- og helligdage<ref
-                     target="#kollekter-til-aarets-soendage-og-helligdage">121r--139r</ref></item>
-               <item>Første tillæg<ref target="#foerste-tillaeg">139r--150v</ref></item>
-               <item>Bønner<ref target="#boenner">150v--155r</ref></item>
-               <item>Andet tillæg<ref target="#andet-tillaeg">155r--172v</ref></item>
+                     target="#kollekter-til-aarets-soendage-og-helligdage">121r-139r</ref></item>
+               <item>Første tillæg<ref target="#foerste-tillaeg">139r-150v</ref></item>
+               <item>Bønner<ref target="#boenner">150v-155r</ref></item>
+               <item>Andet tillæg<ref target="#andet-tillaeg">155r-172v</ref></item>
                <item>Tredie tillæg. Latinske sange<ref target="#tredje-tillaeg-latinske-sange"
-                     >173r--176v</ref></item>
-               <item>Register<ref target="#register">Bblr--8r</ref></item>
+                     >173r-176v</ref></item>
+               <item>Register<ref target="#register">Bblr-8r</ref></item>
             </list>
-         </div>
+         </div>-->
          <pb n="E8"/>
       </front>
       <body>
@@ -506,8 +506,10 @@
             <div type="month" xml:id="kalendarium-januar" n="1">
                <head type="add">Januar</head>
                <figure type="image"/>
-               <head>Januarius Glugmaa<lb rend="="/>net haffuer xxxi dage Natten xvi <lb/>time oc
-                  dagen viii time</head>
+               <head><app><lem>Januarius</lem><rdg wit="#orig">Januarius<note>Opsætningen af hele
+                           kalendariet er uklar og derfor sammenholdt med Malmøsalmebogen 1533 og
+                           Thomissøn 1569</note></rdg></app> Glugmaa<lb rend="="/>net haffuer xxxi
+                  dage Natten xvi <lb/>time oc dagen viii time</head>
                <table>
                   <row>
                      <cell/>
@@ -5330,7 +5332,9 @@
                         at æde meget en at dricke.</p>
                      <lb/>
                      <head>Verbum <lb/>Domini <lb/>manet in <lb/>eternum <lb/><ref target="#es-40"
-                              ><orig>Esaiae xl.</orig><reg>Es 40</reg></ref></head>
+                                    ><orig><app><lem>Esaiae</lem><rdg wit="#orig">Esaiae<note>rettet
+                                       i trykket</note></rdg></app> xl.</orig><reg>Es
+                        40</reg></ref></head>
                   </div>
                </div>
             </div>
@@ -9216,7 +9220,12 @@
             <lb/>
             <div type="psalm" xml:id="israels-udgang-af-egypten" n="3">
                <head type="add">Israels udgang af Egypten</head>
-               <head>Jn exitu Jsrael de Egipto</head>
+               <head>
+                  <ref target="#sl-114">
+                     <orig>Jn exitu Jsrael de Egipto</orig>
+                     <reg>Sl 114</reg>
+                  </ref>
+               </head>
                <lg>
                   <l><c function="initials" rend="3">J</c>Sraels vdgaang aff Egipten/ </l>
                   <l>och <lb/>Jacobs huss fra det groffue folck.</l>
@@ -9260,7 +9269,8 @@
                </lg>
                <lb/>
                <lg>
-                  <l><space extent="2blanks"/>&#x2055; Jcke oss o Gud icke oss/ </l>
+                  <l><space extent="2blanks"/>&#x2055; <ref target="#sl-115"
+                           ><orig>Jcke</orig><reg>Sl 115</reg></ref> oss o Gud icke oss/ </l>
                   <l>men dit <pb ana="47_r" n_ekstra="F8r" n="E143"/> naffn giff den ære/ </l>
                   <l>paa den barmhiertig<lb rend="="/>hedz oc sandheds vegne</l>
                </lg>
@@ -9984,11 +9994,12 @@
                   <l>det see wi alle dage/ </l>
                   <l>Dine Ord for<lb rend="="/>smaass det er diss ver/ </l>
                   <l>ath ingen haffuer <app><lem>sa<ex>n</ex>dhed <lb n="E218.002"/>kær/ </lem><rdg
-                           wit="#orig"><note>manglende tekst indsat</note></rdg></app>
+                           wit="#orig"><note>manglende tekst indsat fra Malmøsalmebogen
+                           1533</note></rdg></app>
                   </l>
                   <l>
-                     <app><lem>løgen haffuer</lem><rdg wit="#orig"><note>manglende tekst
-                              indsat</note></rdg></app>
+                     <app><lem>løgen haffuer</lem><rdg wit="#orig"><note>manglende tekst indsat fra
+                              Malmøsalmebogen 1533</note></rdg></app>
                      <lb/> mact faangit</l>
                </lg>
                <lb/>
@@ -10410,7 +10421,8 @@
                   <l>Mit stadige <lb/>haab haffuer ieg til dig/ </l>
                   <l>Din vilge lad <lb/>hoss mig fremmis/ </l>
                   <l>Oc hielp nu <space extent="2blanks"/>&#x2055; Herre aff sorg oc ve/ </l>
-                  <l>Jsrael dine <lb/>Tienere/ </l>
+                  <l><app><lem>Jsrael</lem><rdg wit="#orig">Jsrael<note>originalen nyt vers;
+                              rettet</note></rdg></app> dine <lb/>Tienere/ </l>
                   <l>Som dig all ene tilhøre</l>
                </lg>
             </div>
@@ -12582,7 +12594,8 @@
                   <l>Vor Raad est du/ oc wi di<lb rend="="/>ne grene/ </l>
                   <l>Oc Liuss offuer alle/ lad oss ey <lb/>falle </l>
                   <l>i syndens bryst/ <app><lem>aff Verdens lyst/</lem><rdg wit="#orig"
-                              ><note>rettet</note></rdg></app></l>
+                              ><note>manglende tekst indsat fra Thomissøn
+                     1569</note></rdg></app></l>
                   <l>Vi dig ere brødre al<lb rend="="/>le/ </l>
                   <l>i vor nød/ O Jesu sød/ </l>
                   <l>Lad oss dig <lb/>ene paa kalle</l>
@@ -12933,7 +12946,7 @@
                   <l>Met din naade <lb/>mit hierte vent omkring/ </l>
                   <l>oc skab i mig en <lb/>retter Aand/ </l>
                   <l>Du kant vel vide <app><lem>huad mig giør møde oc vonde</lem><rdg wit="#orig"
-                              ><note>rettet</note></rdg></app>
+                              ><note>manglende tekst indsat fra Thomissøn 1569</note></rdg></app>
                   </l>
                   <l><app><lem>Thi alt</lem><rdg wit="#orig"><note>rettet</note></rdg></app> mit
                      haab <lb/>haffuer ieg til dig/ kom mig </l>
@@ -15779,14 +15792,10 @@
                <head>[Hilsen]</head>
                <lb/>
                <p> Der effter vender Presten sig om <lb/>til Folckit oc siger</p>
-               <p>
-                 HERren vere met eder
-               </p>
+               <p> HERren vere met eder </p>
                <lb/>
                <p> Suar <lb/></p>
-               <p>
-                  Oc met din aand
-               </p>
+               <p> Oc met din aand </p>
                <lb/>
             </div>
             <div type="psalm" xml:id="kollekt" n="44">
@@ -15807,9 +15816,7 @@
                <p>
                   <hi rend="center">Chorid suarer </hi>
                </p>
-               <p>
-                 Amen
-               </p>
+               <p> Amen </p>
                <lb/>
             </div>
             <div type="psalm" xml:id="hilsen" n="45">
@@ -15820,28 +15827,24 @@
                   <hi rend="center">Nu vender Presten sig til folckit oc siger </hi>
                </p>
                <p>
-                 <lb/>HERren vere met eder
-               </p>
+                  <lb/>HERren vere met eder </p>
                <lb/>
                <p>
                   <hi rend="center">Suar. </hi>
                </p>
                <p>
-                 <lb/>Oc met din Aand
-               </p>
+                  <lb/>Oc met din Aand </p>
             </div>
             <div type="psalm" xml:id="velsignelse" n="46">
                <head type="add">Velsignelse</head>
                <head>Velsignelse offuer Folckit effter Messen</head>
                <lb/>
-               <p>Vor Herre velsigne eder/ oc beskerme eder <lb/>alle/ Oc obenbare eder sit
-                  Ansict/ oc vere <lb/>eder miskundelig/ Oc vende sit milde an<lb rend="="/>sict til
-                  eder och giffue eder den euige fred.</p>
+               <p>Vor Herre velsigne eder/ oc beskerme eder <lb/>alle/ Oc obenbare eder sit Ansict/
+                  oc vere <lb/>eder miskundelig/ Oc vende sit milde an<lb rend="="/>sict til eder
+                  och giffue eder den euige fred.</p>
                <lb/>
                <p>Suar </p>
-               <p>
-                 Amen.
-               </p>
+               <p> Amen. </p>
             </div>
          </div>
          <lb/>
