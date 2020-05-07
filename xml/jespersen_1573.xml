@@ -2,7 +2,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Niels Jespersens Graduale</title>
+                <title>Graduale</title>
+                <author xml:id="niels-jespersen">Niels Jespersen</author>
                 <editor>
                     <name xml:id="mette.svendsen">
                         <persName>
