@@ -738,7 +738,14 @@
                      <cell>c</cell>
                      <cell>S. Thimoteus</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>25</cell>
@@ -747,7 +754,14 @@
                      <cell>d</cell>
                      <cell>S. Pouelss dag</cell>
                      <cell>18</cell>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>26</cell>
@@ -756,7 +770,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell>7</cell>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>27</cell>
@@ -765,7 +786,14 @@
                      <cell>f</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>28</cell>
@@ -1032,7 +1060,14 @@
                      <cell>b</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>21</cell>
@@ -1041,7 +1076,14 @@
                      <cell>c</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>22</cell>
@@ -1050,7 +1092,14 @@
                      <cell>d</cell>
                      <cell>S. Pederss dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>23</cell>
@@ -1059,7 +1108,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>24</cell>
@@ -1315,7 +1371,14 @@
                      <cell>A</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <pb ana="A6_r" n_ekstra="iA6r" n="E19"/>
                   <row>
@@ -1325,7 +1388,14 @@
                      <cell>b</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>21</cell>
@@ -1334,7 +1404,14 @@
                      <cell>c</cell>
                      <cell>Benedicti abbedis dag</cell>
                      <cell>16</cell>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>22</cell>
@@ -1343,7 +1420,14 @@
                      <cell>d</cell>
                      <cell/>
                      <cell>5</cell>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>23</cell>
@@ -1352,7 +1436,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>24</cell>
@@ -1606,7 +1697,14 @@
                      <cell>A</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>17</cell>
@@ -1615,7 +1713,14 @@
                      <cell>b</cell>
                      <cell/>
                      <cell>19</cell>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>18</cell>
@@ -1624,7 +1729,14 @@
                      <cell>c</cell>
                      <cell/>
                      <cell>8</cell>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <pb ana="A7_r" n_ekstra="iA7r" n="E21"/>
                   <row>
@@ -1634,7 +1746,14 @@
                      <cell>d</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>20</cell>
@@ -1887,7 +2006,14 @@
                      <cell>g</cell>
                      <cell>Solen gaar op til iiii<lb/> oc neder til viii</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>14</cell>
@@ -1896,7 +2022,14 @@
                      <cell>A</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>15</cell>
@@ -1905,7 +2038,14 @@
                      <cell>b</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>16</cell>
@@ -1914,7 +2054,14 @@
                      <cell>c</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>17</cell>
@@ -2166,7 +2313,14 @@
                      <cell>f</cell>
                      <cell>Primi oc Feliciani dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>10</cell>
@@ -2175,7 +2329,14 @@
                      <cell>g</cell>
                      <cell>Maurini ab<ex>bediss</ex> dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>xi</cell>
@@ -2184,7 +2345,14 @@
                      <cell>A</cell>
                      <cell>Barnabe apostoli dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>12</cell>
@@ -2193,7 +2361,14 @@
                      <cell>b</cell>
                      <cell>Solen i Krabbe tegen</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>13</cell>
@@ -2202,7 +2377,14 @@
                      <cell>c</cell>
                      <cell>Felicole Jomfruess dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>14</cell>
@@ -2459,7 +2641,14 @@
                      <cell>f</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>8</cell>
@@ -2468,7 +2657,14 @@
                      <cell>g</cell>
                      <cell>Solen gaar op til iiii <lb/>Oc neder til viii</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>9</cell>
@@ -2477,7 +2673,14 @@
                      <cell>A</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>10</cell>
@@ -2486,7 +2689,14 @@
                      <cell>b</cell>
                      <cell>S. Knud Kongiss dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>11</cell>
@@ -2745,7 +2955,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>4</cell>
@@ -2754,7 +2971,14 @@
                      <cell>f</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>5</cell>
@@ -2763,7 +2987,14 @@
                      <cell>g</cell>
                      <cell>Osualdi kongiss dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>6</cell>
@@ -2772,7 +3003,14 @@
                      <cell>A</cell>
                      <cell>Sixti pauess dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>7</cell>
@@ -2989,7 +3227,14 @@
                      <cell>d</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>31</cell>
@@ -2998,7 +3243,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                </table>
                <p>&#x2055; Seneca den Mestere siger At man skal <lb/>icke tage nogen induortis
@@ -3050,7 +3302,14 @@
                      <cell>f</cell>
                      <cell>Egidi dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>2</cell>
@@ -3059,7 +3318,14 @@
                      <cell>g</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>3</cell>
@@ -3068,7 +3334,14 @@
                      <cell>A</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>4</cell>
@@ -3285,7 +3558,14 @@
                      <cell>d</cell>
                      <cell>Cosme et Damiani</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>28</cell>
@@ -3294,7 +3574,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>29</cell>
@@ -3303,7 +3590,14 @@
                      <cell>f</cell>
                      <cell>S. Michelss dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>30</cell>
@@ -3312,7 +3606,14 @@
                      <cell>g</cell>
                      <cell>Jeronimi dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                </table>
                <p>&#x2055; De<ex>n</ex> Mestere Jsaac siger/ at man maa <lb/>vel æde Gede milk/ oc
@@ -3566,7 +3867,14 @@
                      <cell>c</cell>
                      <cell>Solen gaar op til vii <lb/>Oc neder til v</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>25</cell>
@@ -3575,7 +3883,14 @@
                      <cell>d</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>26</cell>
@@ -3584,7 +3899,14 @@
                      <cell>e</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>27</cell>
@@ -3593,7 +3915,14 @@
                      <cell>f</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>28</cell>
@@ -3848,7 +4177,14 @@
                      <cell>b</cell>
                      <cell>Eadmundi kongiss dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>21</cell>
@@ -3857,7 +4193,14 @@
                      <cell>c</cell>
                      <cell>Vor froe dag presentationis</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>22</cell>
@@ -3866,7 +4209,14 @@
                      <cell>d</cell>
                      <cell>Cecilie Jomfruess dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>23</cell>
@@ -3875,7 +4225,14 @@
                      <cell>e</cell>
                      <cell>Clemens pauiss dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>24</cell>
@@ -3884,7 +4241,14 @@
                      <cell>f</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>25</cell>
@@ -4142,7 +4506,14 @@
                      <cell>b</cell>
                      <cell>Solen gaar op til viii <lb/>Oc neder til iiii</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>#</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>19</cell>
@@ -4151,7 +4522,14 @@
                      <cell>c</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>¤</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <pb ana="B7_r" n_ekstra="iB7r" n="E37"/>
                   <row>
@@ -4161,7 +4539,14 @@
                      <cell>d</cell>
                      <cell/>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>%</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>21</cell>
@@ -4170,7 +4555,14 @@
                      <cell>e</cell>
                      <cell>S, Thome apostoli dag</cell>
                      <cell/>
-                     <cell>{??}</cell>
+                     <cell>
+                        <app>
+                           <lem>$</lem>
+                           <rdg wit="#orig">
+                              <note>originalen har specialtegn</note>
+                           </rdg>
+                        </app>
+                     </cell>
                   </row>
                   <row>
                      <cell>22</cell>
@@ -18733,13 +19125,19 @@
                   <l>huo paa <lb/>sin krafft vil falde.</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Di huilcken Stad <lb/>Gud met sit Raad.</hi>
+                     <hi rend="center">Di huilcken Stad </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>Gud met sit Raad.</hi>
                   </l>
                   <lb/>
                   <l>Ey selff hielper oc raader.</l>
                   <lb/>
                   <l>
-                     <hi rend="center">mand gør der til. <lb/>ehuad mand vil</hi>
+                     <hi rend="center">mand gør der til. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>ehuad mand vil</hi>
                   </l>
                   <lb/>
                   <l>det vist plat intet baader</l>
@@ -18752,13 +19150,19 @@
                   <l>end som Gud det selff vil føye.</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Enddog dit Brød. <lb/>met sued oc nød.</hi>
+                     <hi rend="center">Enddog dit Brød. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>met sued oc nød.</hi>
                   </l>
                   <lb/>
                   <l>J arbeyde monne forhuerffuis/</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Naar Gud ey vil. <lb/>velsigne til.</hi>
+                     <hi rend="center">Naar Gud ey vil. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>velsigne til.</hi>
                   </l>
                   <lb/>
                   <l>dit arbeyde dig forderffuis.</l>
@@ -18772,13 +19176,19 @@
                   <l>huor denne Hyrde omberes.</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Huert regiment. <lb/>bleff ilde ænt</hi>
+                     <hi rend="center">Huert regiment. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>bleff ilde ænt</hi>
                   </l>
                   <lb/>
                   <l>Huor det end vor høymectigt/</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Gud naade Folck <lb/>oc vere tolck.</hi>
+                     <hi rend="center">Gud naade Folck </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>oc vere tolck.</hi>
                   </l>
                   <lb/>
                   <l>at Troen ey forsmecter</l>
@@ -18791,13 +19201,19 @@
                   <l>deris sorg <lb/>kan dem ey nere.</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Om de met hast. <lb/>sig møye fast.</hi>
+                     <hi rend="center">Om de met hast. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>sig møye fast.</hi>
                   </l>
                   <lb/>
                   <l>Han det for dem omuender/</l>
                   <lb/>
                   <l>
-                     <hi rend="center">som en fuld skerck <lb/>gør Pilen fert.</hi>
+                     <hi rend="center">som en fuld skerck </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>gør Pilen fert.</hi>
                   </l>
                   <lb/>
                   <l>den hende haffuer i hender.</l>
@@ -18810,14 +19226,20 @@
                   <l>den aff Gud paa sin <lb/>Vey ledes.</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Der fore see til. <pb ana="168_r" n_ekstra="Z4r" n="E407"/>
-                        <lb/>at din Tro stil.</hi>
+                     <hi rend="center">Der fore see til. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><pb ana="168_r" n_ekstra="Z4r" n="E407"/><lb/>at din Tro
+                        stil.</hi>
                   </l>
                   <lb/>
                   <l>Paa hannem all ene sig trøster/</l>
                   <lb/>
                   <l>
-                     <hi rend="center">Vden hans haand. <lb/>huer Konges land.</hi>
+                     <hi rend="center">Vden hans haand. </hi>
+                  </l>
+                  <l>
+                     <hi rend="center"><lb/>huer Konges land.</hi>
                   </l>
                   <lb/>
                   <l>vist i sit beste brøster.</l>
@@ -19530,7 +19952,8 @@
                   <l><lb/>Quem antea promiserat, </l>
                   <l><lb/>E coelo mittit Spiritum. </l>
                   <l><lb/>Auditur tanquam sonitus, </l>
-                  <l><lb/>Linguæ uedentur igneæ. </l>
+                  <l><lb/>Linguæ <app><lem>uidentur</lem><rdg wit="#orig"
+                              >uedentur<note>rettet</note></rdg></app> igneæ. </l>
                   <pb ana="175_r" n_ekstra="Aa3r" n="E421"/>
                </lg>
                <lg>
@@ -19879,7 +20302,9 @@
                      <item><hi rend="center">Om Tro haab oc kerlighed</hi>
                         <lb/>Dig tacker ieg kære Herre<ref target="#dig-takker-jeg-kaere-herre"
                            >cxl</ref></item>
-                     <item>Distubuit Jesus<ref target="#discubuit-jesus">clxxv</ref></item>
+                     <item><app><lem>Discubuit</lem><rdg wit="#orig"
+                              >Distubuit<note>rettet</note></rdg></app> Jesus<ref
+                           target="#discubuit-jesus">clxxv</ref></item>
                   </list>
                </div>
             </div>
@@ -20038,10 +20463,10 @@
             <lb/>
             <div type="section" xml:id="section-j">
                <head type="add"><pb ana="180_r" n_ekstra="Bb4r" n="E431"/>Sektion J</head>
-               <head>J</head>
+               <head><app><lem>J</lem><rdg wit="#orig"><note>rettet</note></rdg></app>J</head>
                <div type="list">
                   <list rend="simple">
-                     <item> Jesu naffn begynde wi<ref target="#i-jesu-navn-begynde-vi"
+                     <item>J Jesu naffn begynde wi<ref target="#i-jesu-navn-begynde-vi"
                         >ii</ref></item>
                      <item><hi rend="center">Om Christi fødelse</hi>
                         <lb/>Jth lidet barn saa ærefult<ref target="#et-lidet-barn-så-aerefuldt"
@@ -20388,7 +20813,9 @@
                      <item><hi rend="center">Den anderledis</hi>
                         <lb/>Salige ere alle som i Gudz<ref
                            target="#salig-er-alle-som-i-guds-frygt-staar">lxiii</ref></item>
-                     <item>Si bona susepimus<ref target="#bona-suscepimus">clxxvi</ref></item>
+                     <item>Si bona <app><lem>suscepimus</lem><rdg wit="#orig"
+                                 >susepimus<note>rettet</note></rdg></app><ref
+                           target="#bona-suscepimus">clxxvi</ref></item>
                      <item>Scio quod redemptor<ref target="#scio-quod-redemptor">clxxvi</ref></item>
                   </list>
                </div>
