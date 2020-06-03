@@ -67,7 +67,7 @@
                     <pb n="A1_r"/>Th<ex>et</ex> cristelighe mes<lb rend="="/>sze embedhe paa
                         da<ex>n</ex><lb rend="="/>sche </titlePart>
             </titlePage>
-            <div type="preface" xml:id="fortale">
+            <div type="preface" xml:id="preface">
                 <head type="add">Fortale</head>
                 <head>
                     <pb n="A1_v"/>
@@ -97,7 +97,7 @@
                     </figure>-->
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
-                    </figure>-->Vale lector</p>
+                    </figure>--> Vale lector</p>
             </div>
         </front>
         <body>
