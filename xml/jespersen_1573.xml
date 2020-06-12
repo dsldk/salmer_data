@@ -501,7 +501,7 @@
         </div>
         <div type="psalm" xml:id="section-1-2" xml:lang="la" n="2">
           <head type="add">Introitus latinus</head>
-          <head> Introitus lat. <lb/><ref target="#sl-25">Psalm. 25.</ref></head>
+          <head> Introitus lat. <lb/><ref target="christian-3-bibel.xml#sl-25">Psalm. 25.</ref></head>
           <notatedMusic>
             <ptr target="Je_1573_LN0981_003.xml"/>
           </notatedMusic>
@@ -615,7 +615,7 @@
         <div type="psalm" xml:id="section-1-5" xml:lang="la" n="5">
           <head type="add">Haleluia. Ostende nobis Domine misericordiam tuam</head>
           <head><pb ana="9" n="E21"/>HALELVIA. <lb/>
-            <ref target="#sl-85">Psalm. 85.</ref></head>
+            <ref target="christian-3-bibel.xml#sl-85">Psalm. 85.</ref></head>
           <notatedMusic>
             <ptr target="Je_1573_LN0981_009.xml"/>
           </notatedMusic>
@@ -9558,16 +9558,16 @@
             <item>Alle Helligens dag/ <ref target="#allehelgensdag" type="SheetNumber"
                 >407.</ref>
             </item>
-            <item>S. Hans baptiste dag/ <ref target="#hans-baptiste-dag"
+            <item>S. Hans baptiste dag/ <ref target="christian-3-bibel.xml#hans-baptiste-dag"
                 type="SheetNumber">304.</ref>
             </item>
-            <item>Marie Renselsis dag/ <ref target="#marie-renselses-dag"
+            <item>Marie Renselsis dag/ <ref target="christian-3-bibel.xml#marie-renselses-dag"
                 type="SheetNumber">110.</ref>
             </item>
-            <item>Marie Bebudelsis dag/ <ref target="#marie-bebudelsesdag"
+            <item>Marie Bebudelsis dag/ <ref target="christian-3-bibel.xml#marie-bebudelsesdag"
                 type="SheetNumber">158.</ref>
             </item>
-            <item>Marie Besøgelsis dag/ <ref target="#marie-besoegelsesdag"
+            <item>Marie Besøgelsis dag/ <ref target="christian-3-bibel.xml#marie-besoegelsesdag"
                 type="SheetNumber">313.</ref>
             </item>
             <item>S. Michels dag/ <ref target="#skt-michels-dag" type="SheetNumber"
@@ -9626,7 +9626,7 @@
                   type="SheetNumber">199.</ref>
               </item>
               <item>Christus Jesus for oss offrit/ <ref
-                  target="#kristus-jesus-for-os-ofret" type="SheetNumber"
+                  target="christian-3-bibel.xml#kristus-jesus-for-os-ofret" type="SheetNumber"
                   >217.</ref>
               </item>
               <item>Christus kom selff til Jordans Flod/ <ref target="#section-19-1"
@@ -9661,7 +9661,7 @@
               <item>Ære være Gud Fader i Himmerig/ <ref target="#section-1-8"
                   type="SheetNumber">13.</ref>
               </item>
-              <item>Esaias den Prophet monne <ref target="#esaias-den-prophet"
+              <item>Esaias den Prophet monne <ref target="christian-3-bibel.xml#esaias-den-prophet"
                   type="SheetNumber">367.</ref>
               </item>
             </list>
@@ -9757,14 +9757,14 @@
             <head>K.</head>
             <list rend="simple">
               <item>Kom Gud skaber O Hellig Aand/ <ref
-                  target="#kom-gud-skaber-helligaand" type="SheetNumber"
+                  target="christian-3-bibel.xml#kom-gud-skaber-helligaand" type="SheetNumber"
                   >267.</ref>
               </item>
               <item>Kom Hellig Aand O Herre Gud/ <ref
-                  target="#kom-helligaand-o-herre-gud" type="SheetNumber"
+                  target="christian-3-bibel.xml#kom-helligaand-o-herre-gud" type="SheetNumber"
                   >263.</ref>
               </item>
-              <item>Kom O Herre Hellig Aand/ <ref target="#kom-o-herre-hellig-aand"
+              <item>Kom O Herre Hellig Aand/ <ref target="christian-3-bibel.xml#kom-o-herre-hellig-aand"
                   type="SheetNumber">269.</ref>
               </item>
             </list>
@@ -9972,7 +9972,7 @@
               </item>
               <item>
                 <hi rend="italics">Domine in tua misericordia sperauj</hi> , <ref
-                  target="#domine-in-tua" type="SheetNumber">286.</ref>
+                  target="christian-3-bibel.xml#domine-in-tua" type="SheetNumber">286.</ref>
               </item>
               <item>
                 <hi rend="italics">Domine ne longe facias auxilium</hi>
@@ -9980,11 +9980,11 @@
               </item>
               <item>
                 <hi rend="italics">Dominus fortitudo plebis suæ</hi> , <ref
-                  target="#dominus-fortitudo" type="SheetNumber">321.</ref>
+                  target="christian-3-bibel.xml#dominus-fortitudo" type="SheetNumber">321.</ref>
               </item>
               <item>
                 <hi rend="italics">Dominus illuminatio mea, et salus mea</hi> , <ref
-                  target="#dominus-illuminatio-mea" type="SheetNumber">300.</ref>
+                  target="christian-3-bibel.xml#dominus-illuminatio-mea" type="SheetNumber">300.</ref>
               </item>
               <item>
                 <hi rend="italics">Dum clamarem ad Dominum, exaudiuit</hi>
@@ -10057,7 +10057,7 @@
             <list rend="simple">
               <item>
                 <hi rend="italics">Gaudeamus omnes in Domino, diem festum</hi>
-                <ref target="#gaudeamus-omnes-in-domino" type="SheetNumber">315.</ref>
+                <ref target="christian-3-bibel.xml#gaudeamus-omnes-in-domino" type="SheetNumber">315.</ref>
               </item>
               <item>
                 <hi rend="italics">Gaudete in domino semper, iterum dico</hi>
@@ -10189,7 +10189,7 @@
               </item>
               <item>
                 <hi rend="italics">Protector noster aspice Deus, et respice</hi>
-                <ref target="#protector-noster" type="SheetNumber">357.</ref>
+                <ref target="christian-3-bibel.xml#protector-noster" type="SheetNumber">357.</ref>
               </item>
               <item>
                 <hi rend="italics">Puer natus est nobis, et filius datus est
@@ -10286,7 +10286,7 @@
             <list rend="simple">
               <item>
                 <hi rend="italics">Viri galilæi, quid admiramini, aspicientes</hi>
-                <ref target="#viri-galilaei" type="SheetNumber">237.</ref>
+                <ref target="christian-3-bibel.xml#viri-galilaei" type="SheetNumber">237.</ref>
               </item>
               <item>
                 <hi rend="italics">Vocem iucunditatis annunciate, et audiatur</hi> ,
@@ -10325,24 +10325,24 @@
               <item>
                 <hi rend="italics">Angelus domini descendit de coelo, et
                   accedens</hi>
-                <ref target="#haleluia-angelus-domini" type="SheetNumber">222.</ref>
+                <ref target="christian-3-bibel.xml#haleluia-angelus-domini" type="SheetNumber">222.</ref>
               </item>
               <item>
                 <hi rend="italics">Angelus domini nunciauit Mariæ</hi> , <ref
-                  target="#haleluia-angelus-domini-nuntiauit-mariae" type="SheetNumber">160.</ref>
+                  target="christian-3-bibel.xml#haleluia-angelus-domini-nuntiauit-mariae" type="SheetNumber">160.</ref>
               </item>
               <item>
                 <hi rend="italics">Ascendens Christus in altum, captiuam
                   duxit</hi>
-                <ref target="#haleluia-ascendens-christus" type="SheetNumber">243.</ref>
+                <ref target="christian-3-bibel.xml#haleluia-ascendens-christus" type="SheetNumber">243.</ref>
               </item>
               <item>
                 <hi rend="italics">Ascendit Deus in iubilatione, et dominus</hi>
-                <ref target="#haleluia-ascendit-deus" type="SheetNumber">239.</ref>
+                <ref target="christian-3-bibel.xml#haleluia-ascendit-deus" type="SheetNumber">239.</ref>
               </item>
               <item>
                 <hi rend="italics">Attendite popule meus legem meam.</hi>
-                <ref target="#haleluia-attendite-popule-meus-in-legem-meam" type="SheetNumber">336.</ref>
+                <ref target="christian-3-bibel.xml#haleluia-attendite-popule-meus-in-legem-meam" type="SheetNumber">336.</ref>
               </item>
             </list>
 
@@ -10354,7 +10354,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Benedictus es domine deus patrum</hi>
-                  <ref target="#haleluia-benedictus-es-domine-deus" type="SheetNumber">276.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-benedictus-es-domine-deus" type="SheetNumber">276.</ref>
                 </item>
               </list>
             </div>
@@ -10367,7 +10367,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Concussum est mare, et contremuit terra</hi>
-                  , <ref target="#haleluia-concussum-est-mare" type="SheetNumber">372.</ref>
+                  , <ref target="christian-3-bibel.xml#haleluia-concussum-est-mare" type="SheetNumber">372.</ref>
                 </item>
               </list>
             </div>
@@ -10383,15 +10383,15 @@
                 </item>
                 <item>
                   <hi rend="italics">De profundis clamaui ad te Domine</hi> , <ref
-                    target="#haleluia-de-profundis-clamaui-ad-te-domine" type="SheetNumber">416.</ref>
+                    target="christian-3-bibel.xml#haleluia-de-profundis-clamaui-ad-te-domine" type="SheetNumber">416.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Deus iudex iustus, fortis et paciens</hi> ,
-                  <ref target="#haleluia-deus-iudex-iustus" type="SheetNumber">295.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-deus-iudex-iustus" type="SheetNumber">295.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Dextera Dei fecit virtutem, dextera</hi>
-                  <ref target="#haleluia-dextera-dei" type="SheetNumber">401.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-dextera-dei" type="SheetNumber">401.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Dies sanctificatus illuxit nobis, venite</hi>
@@ -10403,24 +10403,24 @@
                 </item>
                 <item>
                   <hi rend="italics">Dilexi quoniam exaudiuit Dominus vocem</hi>
-                  <ref target="#haleluia-dilexi" type="SheetNumber">392.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-dilexi" type="SheetNumber">392.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Diligam te Domine virtus mea, Dominus</hi>
-                  <ref target="#haleluia-diligam-te-domine" type="SheetNumber">298.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-diligam-te-domine" type="SheetNumber">298.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Domine Deus meus, in te speraui, saluum</hi>
-                  <ref target="#haleluia-domine-deus-meus" type="SheetNumber">288.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-domine-deus-meus" type="SheetNumber">288.</ref>
                 </item>
                 <item>
                   <hi rend="italics"><pb n="E478"/>Domine Deus salutis meæ, in
                     die</hi>
-                  <ref target="#haleluia-domine-deus-salutis-meae" type="SheetNumber">345.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-domine-deus-salutis-meae" type="SheetNumber">345.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Domine in virtute tua lætabitur rex</hi> ,
-                  <ref target="#haleluia-domine-in-virtute" type="SheetNumber">302.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-domine-in-virtute" type="SheetNumber">302.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Domine non secundum peccata nostra</hi>
@@ -10428,7 +10428,7 @@
                 </item>
                 <item>
                   <hi rend="italics">Domine refugium factus es nobis</hi> , <ref
-                    target="#haleluia-domine-refugium" type="SheetNumber">348.</ref>
+                    target="christian-3-bibel.xml#haleluia-domine-refugium" type="SheetNumber">348.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Dominus regnauit, decorem induit</hi> , <ref
@@ -10448,7 +10448,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Eripe me de inimicis meis Deus meus</hi> ,
-                  <ref target="#haleluia-eripe-me" type="SheetNumber">327.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-eripe-me" type="SheetNumber">327.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Excita Domine potentiam tuam, et venj</hi> ,
@@ -10456,7 +10456,7 @@
                 </item>
                 <item>
                   <hi rend="italics">Exultate Deo adiutori nostro, iubilate</hi>
-                  <ref target="#haleluia-exultate-deo" type="SheetNumber">342.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-exultate-deo" type="SheetNumber">342.</ref>
                 </item>
               </list>
             </div>
@@ -10484,15 +10484,15 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">In exitu Israel ex Ægypto, domus</hi>
-                  <ref target="#haleluia-in-exitu-israel-ex-egypto" type="SheetNumber">366.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-in-exitu-israel-ex-egypto" type="SheetNumber">366.</ref>
                 </item>
                 <item>
                   <hi rend="italics">In te Domine speraui, non confundar</hi>
-                  <ref target="#haleluia-in-te-domine-speraui" type="SheetNumber">320.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-in-te-domine-speraui" type="SheetNumber">320.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Inter natos mulierum non surrexit maior</hi>
-                  <ref target="#haleluia-inter-natos" type="SheetNumber">308.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-inter-natos" type="SheetNumber">308.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Iudicabunt sancti nationes</hi> , <ref
@@ -10516,7 +10516,7 @@
                 </item>
                 <item>
                   <hi rend="italics">Lauda anima mea Dominum</hi> , <ref
-                    target="#haleluia-lauda-anima" type="SheetNumber">421.</ref>
+                    target="christian-3-bibel.xml#haleluia-lauda-anima" type="SheetNumber">421.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Laudate Deum omnes Angeli eius</hi> , <ref
@@ -10524,7 +10524,7 @@
                 </item>
                 <item>
                   <hi rend="italics">Laudate Dominum omnes gentes</hi> , <ref
-                    target="#haleluia-laudate-dominum-omnes-gentes" type="SheetNumber">398.</ref>
+                    target="christian-3-bibel.xml#haleluia-laudate-dominum-omnes-gentes" type="SheetNumber">398.</ref>
                 </item>
                 <item>
                   <hi>Loffuer Gud i Hedninger alle /</hi>
@@ -10540,7 +10540,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Non vos me elegistis, sed ego vos elegj:</hi>
-                  <ref target="#haleluia-non-vos-me-elegistis" type="SheetNumber">445.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-non-vos-me-elegistis" type="SheetNumber">445.</ref>
                 </item>
               </list>
             </div>
@@ -10552,7 +10552,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Omnes gentes plaudite manibus</hi> , <ref
-                    target="#haleluia-omnes-gentes-plaudite" type="SheetNumber">324.</ref>
+                    target="christian-3-bibel.xml#haleluia-omnes-gentes-plaudite" type="SheetNumber">324.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Ostende nobis domine misericordiam tuam</hi>
@@ -10568,7 +10568,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Paratum cor meum Deus, paratum</hi>
-                  <ref target="#haleluia-paratum-cor-meum-deus" type="SheetNumber">363.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-paratum-cor-meum-deus" type="SheetNumber">363.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Pascha nostrum immolatus est Christus.</hi>
@@ -10585,15 +10585,15 @@
                 <item>
                   <hi rend="italics">Qui confidunt in Domino, sicut mons
                     Sion.</hi>
-                  <ref target="#haleluia-qui-confidunt-in-domino" type="SheetNumber">406.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-qui-confidunt-in-domino" type="SheetNumber">406.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Qui sanat contritos corde, et alligat</hi>
-                  <ref target="#haleluia-qui-sanat-contritos-corde" type="SheetNumber">424.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-qui-sanat-contritos-corde" type="SheetNumber">424.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Quoniam Deus magnus Dominus</hi> , <ref
-                    target="#haleluia-quoniam-deus-magnus-dominus" type="SheetNumber">359.</ref>
+                    target="christian-3-bibel.xml#haleluia-quoniam-deus-magnus-dominus" type="SheetNumber">359.</ref>
                 </item>
               </list>
             </div>
@@ -10605,15 +10605,15 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Surgens Iesus Dominus noster, stans</hi>
-                  <ref target="#haleluia-surgens-jesus-dominus-noster" type="SheetNumber">230.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-surgens-jesus-dominus-noster" type="SheetNumber">230.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Surrexit pastor bonus, qui posuit animam</hi>
-                  <ref target="#haleluia-surrexit-pastor-bonus" type="SheetNumber">226.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-surrexit-pastor-bonus" type="SheetNumber">226.</ref>
                 </item>
                 <item>
                   <hi rend="italics"><pb n="E479"/>Surrexit Christus et illuxit
-                    populo suo</hi> , <ref target="#haleluia-surrexit-christus" type="SheetNumber"
+                    populo suo</hi> , <ref target="christian-3-bibel.xml#haleluia-surrexit-christus" type="SheetNumber"
                     >236.</ref>
                 </item>
               </list>
@@ -10626,7 +10626,7 @@
               <list rend="simple">
                 <item>
                   <hi rend="italics">Te decet hymnus Deus in Sion</hi> , <ref
-                    target="#haleluia-te-decet-hymnus-deus-in-syon" type="SheetNumber">331.</ref>
+                    target="christian-3-bibel.xml#haleluia-te-decet-hymnus-deus-in-syon" type="SheetNumber">331.</ref>
                 </item>
               </list>
             </div>
@@ -10642,11 +10642,11 @@
                 </item>
                 <item>
                   <hi rend="italics">Veni sancte Spiritus, reple tuorum corda</hi>
-                  <ref target="#haleluia-veni-sancte-spiritus" type="SheetNumber">253.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-veni-sancte-spiritus" type="SheetNumber">253.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Venite exultemus Domino, iubilemus</hi>
-                  <ref target="#haleluia-venite-exultemus-domino" type="SheetNumber">354.</ref>
+                  <ref target="christian-3-bibel.xml#haleluia-venite-exultemus-domino" type="SheetNumber">354.</ref>
                 </item>
                 <item>
                   <hi rend="italics">Video coelos apertos, et Iesum stantem</hi>
@@ -10710,7 +10710,7 @@
               </item>
               <item>
                 <hi rend="italics">Te Deum laudamus, te dominum confitemur.</hi>
-                <ref target="#te-deum-laudamus" type="SheetNumber">373.</ref>
+                <ref target="christian-3-bibel.xml#te-deum-laudamus" type="SheetNumber">373.</ref>
               </item>
               <item>
                 <hi rend="italics">Quicun{que} vult saluus esse, ipsum
