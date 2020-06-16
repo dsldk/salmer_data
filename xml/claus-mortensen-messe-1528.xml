@@ -108,20 +108,20 @@
                     nadheren</head>
                 <head>Adiutorium nostrum et cetera</head>
                 <p>Uor hielp wære y herrens nauffen/ som schaffthe hi<lb rend="="/>mmil <note
-                        place="margin">(<ref target="christian-3-bibel.xml#sl-123"><orig>Psal cxxiii</orig><reg>Sl
+                        place="margin">(<ref target="#sl-123"><orig>Psal cxxiii</orig><reg>Sl
                                 123</reg></ref>)</note> och ioerdhen Co<ex>n</ex>fitemini
                         do<ex>mi</ex>n<ex>o</ex> Bekender herre<ex>n</ex>
                     <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#sl-105"><orig>Ps<ex>al</ex>.
+                    <note place="margin">(<ref target="#sl-105"><orig>Ps<ex>al</ex>.
                                 cv</orig><reg>Sl 105</reg></ref>)</note> forthi han er godh/ oc hans
                         barmhiertigh<ex>ed</ex> er ewig <note place="margin">
-                        <ex>et</ex> (<ref target="christian-3-bibel.xml#sl-105"><orig>cv</orig><reg>Sl
+                        <ex>et</ex> (<ref target="#sl-105"><orig>cv</orig><reg>Sl
                         105</reg></ref>)</note>
                     <note place="margin">
-                        <ex>et</ex> (<ref target="christian-3-bibel.xml#sl-116"><orig>cxvi</orig><reg>Sl
+                        <ex>et</ex> (<ref target="#sl-116"><orig>cxvi</orig><reg>Sl
                         116</reg></ref>)</note>
                     <note place="margin">
-                        <ex>et</ex> (<ref target="christian-3-bibel.xml#sl-135"><orig>cxxxv</orig><reg>Sl
+                        <ex>et</ex> (<ref target="#sl-135"><orig>cxxxv</orig><reg>Sl
                         135</reg></ref>)</note>
                 </p>
             </div>
@@ -131,18 +131,18 @@
                 <head>En korth bekiændilsze y gudz ansycth</head>
                 <p>
                     <c function="initials" rend="4">I</c>egh arme syndighe mennische/ bekie<ex>n</ex><lb
-                        rend="-"/>dher <note place="margin">(<ref target="christian-3-bibel.xml#sl-51"
+                        rend="-"/>dher <note place="margin">(<ref target="#sl-51"
                                     ><orig>Ps<ex>al</ex>. li</orig><reg>Sl 51</reg></ref>)</note>
                     gudh almectigste/ myn scabere <lb/> och forløszere/ ath iegh icke allene <lb/>
                     haffuer syndet m<ex>eth</ex> tancke/ ord/ och <lb/> gierning/ men er och saa
                         wndtfange<ex>n</ex>
                     <lb/> wdy synden/ saa ath myn ganske na<lb rend="="/>ture och wæsszen/ y hans
                     strængheds och rethferdig<lb rend="="/>heds <note place="margin">(<ref
-                            target="christian-3-bibel.xml#ef-2"><orig>Eph. ii</orig><reg>Ef 2</reg></ref>)</note>
+                            target="#ef-2"><orig>Eph. ii</orig><reg>Ef 2</reg></ref>)</note>
                     nærwærilsze/ straffeligh och fordømmeligh er <lb/> for huilkedh iegh flyer til
                     hans grundløse barmhier<lb rend="="/>tigh<ex>ed</ex>/ søgher och bedher naadhe
                     aff hannom/ herre <lb/> wer barmhiertigh megh arme syndere<note place="margin"
-                            >(<ref target="christian-3-bibel.xml#luk-8"><orig>Luce viii</orig><reg>Luk
+                            >(<ref target="#luk-8"><orig>Luce viii</orig><reg>Luk
                         8</reg></ref>)</note>
                 </p>
             </div>
@@ -152,18 +152,18 @@
                 <head>En<ex>n</ex> ewangelisch affløessningh offwer <lb/> menheden</head>
                 <p>
                     <c function="initials" rend="4">T</c>hen almectigsthe barmhiertighe gud (som for <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-3"><orig>Joh. iii</orig><reg>Joh
+                    <note place="margin">(<ref target="#joh-3"><orig>Joh. iii</orig><reg>Joh
                             3</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#rom-7"><orig>Rom. vii</orig><reg>Rom
+                    <note place="margin">(<ref target="#rom-7"><orig>Rom. vii</orig><reg>Rom
                             7</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-4"><orig>Joh. iiii</orig><reg>Joh
+                    <note place="margin">(<ref target="#joh-4"><orig>Joh. iiii</orig><reg>Joh
                                 4</reg></ref>)</note> wore synders skyldh/ y døeden haffwer gy<lb
                         rend="-"/>ffweth syn <app>
                         <lem>enborne</lem>
                         <rdg wit="#orig">enborue</rdg>
                     </app> søn/ iesum christum) wil <pb n="A2_v"/> forbarme sigh offuer oss/ och for
                     syn skyldh gyffwe <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-7"><orig>Joha<ex>n</ex>:
+                    <note place="margin">(<ref target="#joh-7"><orig>Joha<ex>n</ex>:
                                 vii</orig><reg>Joh 7</reg></ref>)</note> oss wor syndh till/ och
                     begaffue m<ex>eth</ex> then helligeand <lb/> alle the som thro paa hannum Ath wy
                     wiid hannum <lb/> kundhe fuldhko<ex>m</ex>me hans gudo<ex>m</ex>melighe wyllie/
@@ -179,7 +179,7 @@
                         <notatedMusic>
                             <ptr target="Mo_1528_LN0174_000a02v.xml"/>
                         </notatedMusic> Aff dybhedszens nøedh roeber iegh tiil tigh/ <note
-                            place="margin">(<ref target="christian-3-bibel.xml#sl-129"><orig>Ps<ex>al</ex>.
+                            place="margin">(<ref target="#sl-129"><orig>Ps<ex>al</ex>.
                                     cxxix</orig><reg>Sl 129</reg></ref>)</note>
                     </l>
                     <l>herre <lb/> gudh wil thu migh høere <lb/>
@@ -192,10 +192,10 @@
                 </lg>
                 <lg>
                     <l>Hoess tigh allene giælder naadhe och gwnst/<note place="margin">(<ref
-                                target="christian-3-bibel.xml#rom-8"><orig>Roma. <lb/> viii.</orig><reg>Rom
+                                target="#rom-8"><orig>Roma. <lb/> viii.</orig><reg>Rom
                             8</reg></ref>)</note>
                     </l>
-                    <l>til syn<lb rend="="/>den <note place="margin">(<ref target="christian-3-bibel.xml#ef-2"
+                    <l>til syn<lb rend="="/>den <note place="margin">(<ref target="#ef-2"
                                     ><orig>Ephe. ii</orig><reg>Ef 2</reg></ref>)</note> ath
                         forladhe</l>
                     <l>Naar wy tig noeghen tidth haffue <lb/> myst/</l>
@@ -285,7 +285,7 @@
             <div xml:id="gloria" n="6">
                 <head type="add">Gloria</head>
                 <head>
-                    <pb n="A4_v"/>Gloria in excelsis deo <note place="margin">(<ref target="christian-3-bibel.xml#luk-2"
+                    <pb n="A4_v"/>Gloria in excelsis deo <note place="margin">(<ref target="#luk-2"
                                 ><orig>Luce. ii</orig><reg>Luk 2</reg></ref>)</note>
                 </head>
                 <lg>
@@ -309,7 +309,7 @@
                         </app>
                                 <pb n="B1_r" rend="="/>milske konghe allsommectigste fadher/</l>
                     <l>Herre alsom enisthe szøn ihesu christhe och then helligandh<note
-                            place="margin">(<ref target="christian-3-bibel.xml#joh-1"><orig>Joh. i.</orig><reg>Joh
+                            place="margin">(<ref target="#joh-1"><orig>Joh. i.</orig><reg>Joh
                                     1</reg></ref>)</note>
                     </l>
                     <l>
@@ -323,10 +323,10 @@
                     <l>Thw som baarth tager allwerdtzens syn<lb rend="="/>der/ </l>
                     <l>tagh tiill tigh wor bøn/</l>
                     <l>och mischunde tigh ath <pb n="B1_v"/> høre oss <note place="margin">(<ref
-                                target="christian-3-bibel.xml#mark-16"><orig>Mar. xvi</orig><reg>Mark 16</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#joh-1"><orig>Joh. i.</orig><reg>Joh
+                                target="#mark-16"><orig>Mar. xvi</orig><reg>Mark 16</reg></ref>)</note>
+                        <note place="margin">(<ref target="#joh-1"><orig>Joh. i.</orig><reg>Joh
                                     1</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#hebr-8"><orig><app>
+                        <note place="margin">(<ref target="#hebr-8"><orig><app>
                             <lem>heb.</lem>
                             <rdg wit="#orig">eb</rdg>
                         </app> viii</orig><reg>Hebr
@@ -427,7 +427,7 @@
             <div xml:id="indledning-til-epistellaesning" n="10">
                 <head type="add">Indledning til epistellæsning</head>
                 <head>Her effter lesszis en epistel <lb/> enthen aff thet ga<ex>m</ex>ble eller
-                    <lb/> ny testamente <lb/>(<ref target="christian-3-bibel.xml#kor-1-11"><orig>i Cor xi</orig><reg>1 Kor 11</reg></ref>)</head>
+                    <lb/> ny testamente <lb/>(<ref target="#kor-1-11"><orig>i Cor xi</orig><reg>1 Kor 11</reg></ref>)</head>
                 <lb/>
                 <head type="add">Epistellæsning</head>
                 <p>
@@ -447,11 +447,11 @@
                     />ffuer anammeth aff herren th<ex>et</ex> som iegh haffuer anth<lb rend="="
                     />wordet edher Ath wor herre iesus y then nath ther <lb/> han bleff faarroedh
                     toegh han brødh/ och tackede oc <lb/> brød th<ex>et</ex>/ syghendis <note
-                        place="margin">(<ref target="christian-3-bibel.xml#matt-26"><orig>Mat. xxvi</orig><reg>Matt
+                        place="margin">(<ref target="#matt-26"><orig>Mat. xxvi</orig><reg>Matt
                                 26</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#mark-14"><orig>Mar. xiiii.</orig><reg>Mark
+                    <note place="margin">(<ref target="#mark-14"><orig>Mar. xiiii.</orig><reg>Mark
                                 14</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#luk-22"><orig>Luce. xxii.</orig><reg>Luk
+                    <note place="margin">(<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk
                                 22</reg></ref>)</note> Anammer/ ædher/ th<ex>et</ex> er mith
                         <lb/>lego<ex>m</ex>me/ som bliffuer brødeth for edher/ thæthe giø<lb
                         rend="-"/>rer y myn hugkommelsze Theslighesthe och kaelken <lb/> effther
@@ -500,7 +500,7 @@
                 </lg>
                 <lg>
                     <l>Alltyngh szom leffuer paa iorden schall gudh ære <note place="margin">(<ref
-                                target="christian-3-bibel.xml#sl-150"><orig>Ps<ex>al</ex>. cl</orig><reg>Sl
+                                target="#sl-150"><orig>Ps<ex>al</ex>. cl</orig><reg>Sl
                                 150</reg></ref>)</note>
                     </l>
                     <lb/>
@@ -529,7 +529,7 @@
                     <l>so<ex>m</ex>
                         <lb/> christhne giør altydth bestandh/</l>
                     <l>fraa euigh<ex>ed</ex> och till <lb/> euigh<ex>ed</ex>/ <note place="margin"
-                                >(<ref target="christian-3-bibel.xml#rom-16"><orig>Roma. <lb/> xvi</orig><reg>Rom 16</reg></ref>)</note>
+                                >(<ref target="#rom-16"><orig>Roma. <lb/> xvi</orig><reg>Rom 16</reg></ref>)</note>
                     </l>
                     <l>haffuer wæridth och bliffue schal/</l>
                     <l>for vden <lb/> endhe</l>
@@ -543,7 +543,7 @@
                <!--<figure>
                         <figDesc>blomst</figDesc>
                     </figure>-->
-                <head>(<ref target="christian-3-bibel.xml#joh-11"><orig>Joannis xi</orig><reg>Joh 11</reg></ref>)</head>
+                <head>(<ref target="#joh-11"><orig>Joannis xi</orig><reg>Joh 11</reg></ref>)</head>
                <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
@@ -574,12 +574,12 @@
                         rend="-"/>re gudts gierningher Jhesus suaredhe och sagdhe <pb n="B4_v"/>
                     thennom Th<ex>et</ex> er gudts gierningh/ ath y skulle thro <lb/> paa then han
                     vdsændhe Forthy sagde the til ha<ex>n</ex>nom <lb/> Huadh tæghen giør thu forthy
-                    At vy kundhe see oc <lb/> thro tig <note place="margin">(<ref target="christian-3-bibel.xml#rom-16"
-                        ><orig>Roma. <lb/> xvi</orig><reg>Rom 16</reg></ref>) (<ref target="christian-3-bibel.xml#mos-2-16"
+                    At vy kundhe see oc <lb/> thro tig <note place="margin">(<ref target="#rom-16"
+                        ><orig>Roma. <lb/> xvi</orig><reg>Rom 16</reg></ref>) (<ref target="#mos-2-16"
                             ><orig>Exodi xvi</orig><reg>2 Mos 16</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#sl-77"><orig>Ps<ex>al</ex>.
+                    <note place="margin">(<ref target="#sl-77"><orig>Ps<ex>al</ex>.
                                 lxxvii</orig><reg>Sl 77</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#visd-16"><orig>Sapie<ex>ntia</ex>
+                    <note place="margin">(<ref target="#visd-16"><orig>Sapie<ex>ntia</ex>
                                 xvi</orig><reg>Visd 16</reg></ref>)</note> Huad giør thu Uore
                     forfædre aade hymmil<lb rend="="/>ske brødh vdy ørcken Szom schreffueth staar/
                     han <lb/> gaff the<ex>n</ex>nom brødh aff himmlen ath ædhe Tha sagde <lb/>
@@ -801,7 +801,7 @@
                 <lg>
                     <l>
                         <c function="initials" rend="4">N</c>w er oss gudh mischundeligh/ <note place="margin"
-                                >(<ref target="christian-3-bibel.xml#sl-66"><orig>Ps<ex>al</ex>. lxvi.</orig><reg>Sl
+                                >(<ref target="#sl-66"><orig>Ps<ex>al</ex>. lxvi.</orig><reg>Sl
                                     66</reg></ref>)</note>
                     </l>
                     <l>och hand vil <pb n="C4_r"/> oss weellsygne</l>
@@ -916,7 +916,7 @@
                         m<ex>eth</ex> migh Pater noster/ saa som <lb/> Jhesus christus haffuer lerth
                     oss/ och loffuet oss th<ex>et</ex>
                     <lb/>
-                    <note place="margin"> (<ref target="christian-3-bibel.xml#matt-21"><orig>Mat. xxi</orig><reg>Matt 21</reg></ref>) </note> (til stor glæde) ath vy schulle bønhøres</p>
+                    <note place="margin"> (<ref target="#matt-21"><orig>Mat. xxi</orig><reg>Matt 21</reg></ref>) </note> (til stor glæde) ath vy schulle bønhøres</p>
             </div>
             <!--<figure>
                 <figDesc>blomst</figDesc>
@@ -934,14 +934,14 @@
                     </figure>-->
                     <p>
                         <c function="initials" rend="4">A</c>Th gud the<ex>n</ex> wor himmelsche fader/ vil<lb
-                            rend="-"/>le <note place="margin"> (<ref target="christian-3-bibel.xml#matt-6"><orig>Mat.
+                            rend="-"/>le <note place="margin"> (<ref target="#matt-6"><orig>Mat.
                                     vi.</orig><reg>Matt 6</reg></ref>) </note>
                         <app>
                             <lem>mischundelighe</lem>
                             <rdg wit="#orig">
                                 mischundelihe</rdg>
                         </app> see til oss syne ellende <lb/>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#luk-11"><orig>Luce. xi.</orig><reg>Luk
+                        <note place="margin"> (<ref target="#luk-11"><orig>Luce. xi.</orig><reg>Luk
                                     11</reg></ref>)</note> børn her paa iorden/ och giffue oss syn
                         <lb/> naadhe/ ath ha<ex>n</ex>s hellighe naffn y bland <lb/> oss och all
                         verden maatthe helligt giø<lb rend="="/>res/ m<ex>eth</ex> sin eghen ordts
@@ -1167,9 +1167,9 @@
                         <c function="initials" rend="4">F</c>Or vden all tuil throendes ath thetthe er <lb/>
                         viisth och Ja/ och er hørth wdy hymme<lb rend="="/>len/ effther Christi
                         egeth løffthe och tilsi<lb rend="="/>gelse/ <note place="margin"> (<ref
-                                target="christian-3-bibel.xml#matt-21"><orig>Mat xxi.</orig><reg>Matt
+                                target="#matt-21"><orig>Mat xxi.</orig><reg>Matt
                             21</reg></ref>)</note> alth huad y bede/ thror ath y schul<lb rend="="
-                            />le <note place="margin"> (<ref target="christian-3-bibel.xml#mark-11"><orig>Mar. xi.</orig><reg>Mark 11</reg></ref>)</note> faa
+                            />le <note place="margin"> (<ref target="#mark-11"><orig>Mar. xi.</orig><reg>Mark 11</reg></ref>)</note> faa
                             th<ex>et</ex> och th<ex>et</ex> schal edher giffues amen </p>
                 </div>
             </div>
@@ -1183,7 +1183,7 @@
                 <head type="add">Sanctus (helligsangen)</head>
                 <head>En loffsa<ex>n</ex>g som chored oc christe<ex>n</ex>
                     <lb/> forsa<ex>m</ex>li<ex>n</ex>g siunger: som er S<ex>an</ex>ctus: <note
-                        place="margin">(<ref target="christian-3-bibel.xml#es-6"><orig>Esaie. vi.</orig><reg>Es 6</reg></ref>)</note>
+                        place="margin">(<ref target="#es-6"><orig>Esaie. vi.</orig><reg>Es 6</reg></ref>)</note>
                 </head>
                 <lg>
                     <l>
@@ -1192,10 +1192,10 @@
                     <l>Herre gudh sabaoth</l>
                     <l>Hymmel och iorden ere wpfylthe/ <lb/> m<ex>eth</ex> thin ære</l>
                     <l>Salig giør oss wdy th<ex>et</ex> øffuersthe <lb/>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#matt-21"><orig>Mat. xxi.</orig><reg>Matt 21</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#mark-11"><orig>Mar. xi.</orig><reg>Mark 11</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#luk-19"><orig>Luce. xix</orig><reg>Luk 19</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#joh-12"><orig>Joh. xii.</orig><reg>Joh 12</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#matt-21"><orig>Mat. xxi.</orig><reg>Matt 21</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#mark-11"><orig>Mar. xi.</orig><reg>Mark 11</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#luk-19"><orig>Luce. xix</orig><reg>Luk 19</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#joh-12"><orig>Joh. xii.</orig><reg>Joh 12</reg></ref>)</note>
                     </l>
                     <l>Benedictus qui venit</l>
                     <lb/>
@@ -1218,7 +1218,7 @@
                         yhuko<ex>m</ex>me och kundgiøre <lb/> herre<ex>n</ex>s dødh til han kommer <lb/>
                     <note place="margin">
                         <app>
-                            <lem>(<ref target="christian-3-bibel.xml#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</lem>
+                            <lem>(<ref target="#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</lem>
                             <rdg wit="#orig"><note>læsningen usikker</note></rdg>
                         </app>
                     </note> ved huilcken vy haffue synd<lb rend="="/>se<ex>n</ex>s forladelse
@@ -1237,10 +1237,10 @@
                     och sygher:</head>
                 <lg>
                     <l>
-                        <c function="initials" rend="4">W</c>or herre Jhesus<note place="margin"> (<ref target="christian-3-bibel.xml#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#matt-26"><orig>Mat xxvi.</orig><reg>Matt 26</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note> chris<lb rend="="/><pb n="cc3_v"
+                        <c function="initials" rend="4">W</c>or herre Jhesus<note place="margin"> (<ref target="#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#matt-26"><orig>Mat xxvi.</orig><reg>Matt 26</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note> chris<lb rend="="/><pb n="cc3_v"
                         />tus y the<ex>n</ex> nat ther ha<ex>n</ex> bleff faar<lb rend="="/>raad:
                         togh han brødet: tackede <lb/> oc brød<ex>et</ex>: oc gaff syne discipeler
                         <lb/> oc sagde Tager th<ex>et</ex> hen oc edhe<lb rend="="/>reth:
@@ -1255,10 +1255,10 @@
                     kalcken y <lb/> henderne oc syger:</head>
                 <lg>
                     <l>
-                        <c function="initials" rend="4">L</c>Jge maade tog han <note place="margin">(<ref target="christian-3-bibel.xml#matt-26"><orig>Mat xxvi.</orig><reg>Matt 26</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note>
-                        <note place="margin"> (<ref target="christian-3-bibel.xml#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> oc kalcken effther
+                        <c function="initials" rend="4">L</c>Jge maade tog han <note place="margin">(<ref target="#matt-26"><orig>Mat xxvi.</orig><reg>Matt 26</reg></ref>)</note>
+                        <note place="margin">(<ref target="#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
+                        <note place="margin">(<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note>
+                        <note place="margin"> (<ref target="#kor-1-11"><orig>1. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> oc kalcken effther
                         affthe<ex>n</ex>s maal<lb rend="="/><pb n="cc4_v"/>tid oc sagde Tager oc
                         dricker al<lb rend="="/>lesame<ex>n</ex> ther aff: thette er th<ex>et</ex>
                         ny <lb/> testame<ex>n</ex>tis kalck y mitt blodh: <lb/> th<ex>et</ex>
@@ -1331,21 +1331,21 @@
                 <lg>
                     <l>
                         <c function="initials" rend="4">O</c> Gudts lam som baart tagher alle verdens <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>
+                        <note place="margin">(<ref target="#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>
                     <l>Forbarme tigh offuer oss</l></lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
                <lg> <l>
                     <c function="initials" rend="4">O</c> Gudts lam som baart tagher alle verdens <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>    
+                    <note place="margin">(<ref target="#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>    
                 <l>Mischunde tig offuer oss</l></lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
                     </figure>-->
              <lg>   <l>
                     <c function="initials" rend="4">O</c> Gudts lam som baart tagher alle verdens <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>  
+                    <note place="margin">(<ref target="#joh-1"><orig>Joha<ex>n</ex>is. i</orig><reg>Joh 1</reg></ref>)</note> syndher</l>  
                 <l>Giff oss thin frid</l></lg>
                     <!--<figure>
                         <figDesc>krogkors</figDesc>
@@ -1361,7 +1361,7 @@
                     <c function="initials" rend="4">F</c>ormaner ieg edder y Jhesu christi naffn/ ath <lb/> y
                     vare paa gra<ex>n</ex>dgiffuelighe/ m<ex>eth</ex> en reeth tro <lb/> ath
                         ana<ex>m</ex>me Christi testame<ex>n</ex>te Och besynder<lb rend="="/>lighe
-                    the ord <note place="margin">(<ref target="christian-3-bibel.xml#matt-26"><orig>Mat.xxvi.</orig><reg>Matt 26</reg></ref>)</note> (y huilcke Jhesus christus haff<lb
+                    the ord <note place="margin">(<ref target="#matt-26"><orig>Mat.xxvi.</orig><reg>Matt 26</reg></ref>)</note> (y huilcke Jhesus christus haff<lb
                         rend="-"/>uer skie<ex>n</ex>cket oss sitth lego<ex>m</ex>me och blod til
                         syn<lb rend="="/>sens forladelse) ladhe ingtryckis grundeliige <lb/> y
                     edhers hierter/ ath y kundhe offuer tencke <lb/> och komme yhu Och tacke then
@@ -1426,32 +1426,32 @@
                     Christi legomme <lb/> oc dricke m<ex>eth</ex> throi<ex>n</ex>s leber oc mu<lb
                         rend="-"/>ndh Christi blod so<ex>m</ex> Christus sy<lb rend="="/>ger selff
                         Johan<ex>n</ex> vi Vden y edhe <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-6"><orig>Joha<ex>n</ex>. vi.</orig><reg>Joh 6</reg></ref>)</note> me<ex>n</ex>niskens søns kyød oc
+                    <note place="margin">(<ref target="#joh-6"><orig>Joha<ex>n</ex>. vi.</orig><reg>Joh 6</reg></ref>)</note> me<ex>n</ex>niskens søns kyød oc
                     dricke <lb/> ha<ex>n</ex>s blod: tha schulle y icke haff<lb rend="="/>ue liff
                     vdy edher Ther til oc saa <lb/> ana<ex>m</ex>mer hun vdy sacrament<ex>et</ex> y
                     <lb/> vyn oc brød: Christi testame<ex>n</ex>te <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#matt-26"><orig>Mat. xxvi.</orig><reg>Matt 26</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#kor-1-11"><orig>i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> y huilcked yhukommis herrens <lb/> kors:
+                    <note place="margin">(<ref target="#matt-26"><orig>Mat. xxvi.</orig><reg>Matt 26</reg></ref>)</note>
+                    <note place="margin">(<ref target="#mark-14"><orig>Mar. xiiii.</orig><reg>Mark 14</reg></ref>)</note>
+                    <note place="margin">(<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note>
+                    <note place="margin">(<ref target="#kor-1-11"><orig>i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> y huilcked yhukommis herrens <lb/> kors:
                     død: pine oc ha<ex>n</ex>s verdighe <lb/> och dyrebare blods vdgiffuelsze <lb/>
                     oc serdel<ex>is</ex> th<ex>et</ex> eniste oc euige of<lb rend="="/>fer: huilcked
                         ha<ex>n</ex> offrede seg selff <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#ef-5"><orig>Ephe. v.</orig><reg>Ef 5</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#hebr-7"><orig>Hebre. vii.</orig><reg>Hebr 7</reg></ref>)</note> gudh fader paa korszens gallie <pb
+                    <note place="margin">(<ref target="#ef-5"><orig>Ephe. v.</orig><reg>Ef 5</reg></ref>)</note>
+                    <note place="margin">(<ref target="#hebr-7"><orig>Hebre. vii.</orig><reg>Hebr 7</reg></ref>)</note> gudh fader paa korszens gallie <pb
                         n="D3_v"/> giffue<ex>n</ex>des seg till en fylleste giø<lb rend="="/>relse
-                    <note place="margin">(<ref target="christian-3-bibel.xml#joh-3"><orig>Joh. iii.</orig><reg>Joh 3</reg></ref>)</note> oc vederlauff for alle verd<lb
+                    <note place="margin">(<ref target="#joh-3"><orig>Joh. iii.</orig><reg>Joh 3</reg></ref>)</note> oc vederlauff for alle verd<lb
                         rend="-"/>sens synder:</head>
                 <head type="add">Jesus Kristus er til stede!</head>
                 <lg>
                     <l>
                         <c function="initials" rend="4">I</c>hesus christus er wor saligh<ex>ed</ex>/</l>
-                    <l>som <lb/> fraa oss tog gud faders vredhe/<note place="margin">(<ref target="christian-3-bibel.xml#es-53"><orig>Esaie.
+                    <l>som <lb/> fraa oss tog gud faders vredhe/<note place="margin">(<ref target="#es-53"><orig>Esaie.
                         liii.</orig><reg>Es 53</reg></ref>)</note>
                     </l>
                     <l>m<ex>eth</ex> sin pine och hel<lb rend="="/>lige død</l>
                     <l>frelste han oss fraa heluedis nødh <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#matt-26"><orig>Mat. xxvi.</orig><reg>Matt 26</reg></ref>)</note>
+                        <note place="margin">(<ref target="#matt-26"><orig>Mat. xxvi.</orig><reg>Matt 26</reg></ref>)</note>
                     </l>
                 </lg>
                 <lg>
@@ -1475,7 +1475,7 @@
                     </figure>-->
                     <l> Huem aff thenne kaasth vil ædhe/</l>
                     <l>sith hierte och <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#kor-1-11"><orig><app>
+                        <note place="margin">(<ref target="#kor-1-11"><orig><app>
                             <lem>i.</lem>
                             <rdg wit="#orig">
                                 .i</rdg>
@@ -1497,8 +1497,8 @@
                     </figure>-->
                     <l>Thy schal thu gud fadher prise/</l>
                     <l>ath han tig saa <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#joh-3"><orig>Joh. iii.</orig><reg>Joh 3</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#rom-8"><orig>Rom. viii.</orig><reg>Rom 8</reg></ref>)</note> væl ville spise/</l>
+                        <note place="margin">(<ref target="#joh-3"><orig>Joh. iii.</orig><reg>Joh 3</reg></ref>)</note>
+                        <note place="margin">(<ref target="#rom-8"><orig>Rom. viii.</orig><reg>Rom 8</reg></ref>)</note> væl ville spise/</l>
                     <l>ath ha<ex>n</ex> for thin syndsens løsth</l>
                     <l>y dø<lb rend="="/>den sin søn haffuer giffueth wisth</l>
                 </lg>
@@ -1538,10 +1538,10 @@
                 <lg>
                     <l>Ha<ex>n</ex> siger selff ko<ex>m</ex>mer y arme/</l>
                     <l>ieg vil meg offuer eder <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#matt-11"><orig>Mat. xi.</orig><reg>Matt 11</reg></ref>)</note> forbarme/</l>
+                        <note place="margin">(<ref target="#matt-11"><orig>Mat. xi.</orig><reg>Matt 11</reg></ref>)</note> forbarme/</l>
                     <l>ingen læge haffue the karske behoff/</l>
                     <l>ha<ex>n</ex>s <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#matt-9"><orig>Mat. ix.</orig><reg>Matt 9</reg></ref>)</note> kaansth er the<ex>n</ex>nom en spaat
+                        <note place="margin">(<ref target="#matt-9"><orig>Mat. ix.</orig><reg>Matt 9</reg></ref>)</note> kaansth er the<ex>n</ex>nom en spaat
                         och wroo</l>
                 </lg>
                <!--<figure>
@@ -1565,7 +1565,7 @@
                     </figure>-->
                     <l> Thror thu fasth aff hierte<ex>n</ex>s grundt/</l>
                     <l>och bekiender <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#rom-9"><orig>Roma. ix.</orig><reg>Rom 9</reg></ref>)</note> m<ex>eth</ex> thin mund/</l>
+                        <note place="margin">(<ref target="#rom-9"><orig>Roma. ix.</orig><reg>Rom 9</reg></ref>)</note> m<ex>eth</ex> thin mund/</l>
                     <l>saa esth thu reeth ga<ex>n</ex>sk wæl skickedh</l>
                     <lb/>
                     <l>och thenne kaasth thin siæl wederqueger</l>
@@ -1579,7 +1579,7 @@
                     </figure>-->
                     <l>The<ex>n</ex>ne fructh kan ey hæden være/</l>
                     <l>brødhre och <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#joh-13"><orig>Joh. xiii.</orig><reg>Joh 13</reg></ref>)</note> søstre schal thu ære</l>
+                        <note place="margin">(<ref target="#joh-13"><orig>Joh. xiii.</orig><reg>Joh 13</reg></ref>)</note> søstre schal thu ære</l>
                     <l>m<ex>eth</ex> thin pe<ex>n</ex>ningh gotz och iordh</l>
                     <l>ther m<ex>eth</ex> the<ex>n</ex>nom hielp</l>
                     <l>som gud haffuer boeth</l>
@@ -1598,7 +1598,7 @@
                         <c function="initials" rend="4">G</c>ud wære laaffuet altidt oc benedid<ex>ed</ex>
                     </l>
                     <l>som <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#kor-1-11"><orig>.i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note>
+                        <note place="margin">(<ref target="#kor-1-11"><orig>.i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note>
                         <pb n="D4_v"/> oss seelff haffuer bespiisedh</l>
                     <!--<figure>
                         <figDesc>blomst</figDesc>
@@ -1616,9 +1616,9 @@
                     </figure>-->
                     <l>Herre veedh titth hellige legom</l>
                     <l>th<ex>et</ex> som aff thin <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#matt-1"><orig>Mathei. i.</orig><reg>Matt 1</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#luk-21"><orig>Luce. xxi.</orig><reg>Luk 21</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#gal-4"><orig>Gala. iiii.</orig><reg>Gal 4</reg></ref>)</note> modher Maria kom/</l>
+                        <note place="margin">(<ref target="#matt-1"><orig>Mathei. i.</orig><reg>Matt 1</reg></ref>)</note>
+                        <note place="margin">(<ref target="#luk-21"><orig>Luce. xxi.</orig><reg>Luk 21</reg></ref>)</note>
+                        <note place="margin">(<ref target="#gal-4"><orig>Gala. iiii.</orig><reg>Gal 4</reg></ref>)</note> modher Maria kom/</l>
                     <l>titth hellige blod och thin død</l>
                     <lb/>
                     <l>hielp oss herre aff all wor nød</l>
@@ -1630,10 +1630,10 @@
                     </figure>-->
                     <l>Titth hellige lego<ex>m</ex>me er for oss giffuet/</l>
                     <l>y døden <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note> ath wy schulle leffue</l>
+                        <note place="margin">(<ref target="#luk-22"><orig>Luce. xxii.</orig><reg>Luk 22</reg></ref>)</note> ath wy schulle leffue</l>
                     <l>Jngen staarre gaffue kunde ha<ex>n</ex>
                         <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#kor-1-11"><orig>.i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> oss skiencke/</l>
+                        <note place="margin">(<ref target="#kor-1-11"><orig>.i. Cor. xi.</orig><reg>1 Kor 11</reg></ref>)</note> oss skiencke/</l>
                     <l>ther m<ex>eth</ex> wy ha<ex>n</ex>nom och hans dødh be<lb rend="="
                         />tencke</l>
                     <l>Kyrie</l>
@@ -1656,9 +1656,9 @@
                     </figure>-->
                     <l>Kierligh<ex>ed</ex> o herre tigh saare tuingh<ex>et</ex> haffuer/</l>
                     <l>atth <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#joh-5"><orig>J<ex>o</ex>ha<ex>n</ex>nis. v.</orig><reg>Joh 5</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#hebr-12"><orig>Hebre: xii.</orig><reg>Hebr 12</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#joh-brev-1-1"><orig>.i. Joh. i.</orig><reg>1 Joh 1</reg></ref>)</note> tith blodh ey offuer oss
+                        <note place="margin">(<ref target="#joh-5"><orig>J<ex>o</ex>ha<ex>n</ex>nis. v.</orig><reg>Joh 5</reg></ref>)</note>
+                        <note place="margin">(<ref target="#hebr-12"><orig>Hebre: xii.</orig><reg>Hebr 12</reg></ref>)</note>
+                        <note place="margin">(<ref target="#joh-brev-1-1"><orig>.i. Joh. i.</orig><reg>1 Joh 1</reg></ref>)</note> tith blodh ey offuer oss
                         klaffuer/</l>
                     <l>och betal<ex>et</ex> all wor skyld/</l>
                     <l>ath oss gud er vorde<ex>n</ex> huld</l>
@@ -1676,7 +1676,7 @@
                             <rdg wit="#orig">kierlih<ex>ed</ex></rdg>
                         </app>
                         och broder<lb rend="="/>lig <note place="margin"
-                        >(<ref target="christian-3-bibel.xml#joh-13"><orig>Joh. xiii</orig><reg>Joh 13</reg></ref>)</note> thro/</l>
+                        >(<ref target="#joh-13"><orig>Joh. xiii</orig><reg>Joh 13</reg></ref>)</note> thro/</l>
                     <l>ath the<ex>n</ex> mad ko<ex>m</ex>mer oss ey til wroo</l>
                     <l>Kyrie</l>
                 </lg>
@@ -1746,7 +1746,7 @@
                 </head>
                 <p>
                     <c function="initials" rend="4">U</c>or herre velsigne tig och beskierme tig/ och <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#mos-4-6"><orig><app>
+                    <note place="margin">(<ref target="#mos-4-6"><orig><app>
                         <lem>Nume.</lem>
                         <rdg wit="#orig">
                             Nu<ex>m</ex>me.</rdg>
@@ -1762,8 +1762,8 @@
                 </figure>-->
                 <head type="add">Gud Fader udi Himmerig</head>
                 <head>The x budord som lere oss alt <lb/>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#mos-2-20"><orig>Exodi xx</orig><reg>2 Mos 20</reg></ref>)</note>
-                    <note place="margin">(<ref target="christian-3-bibel.xml#mos-5-5"><orig>Deut. v.</orig><reg>5 Mos 5</reg></ref>)</note> th<ex>et</ex> vy ere gud plictige oc vor
+                    <note place="margin">(<ref target="#mos-2-20"><orig>Exodi xx</orig><reg>2 Mos 20</reg></ref>)</note>
+                    <note place="margin">(<ref target="#mos-5-5"><orig>Deut. v.</orig><reg>5 Mos 5</reg></ref>)</note> th<ex>et</ex> vy ere gud plictige oc vor
                         nes<lb rend="="/>te: nøttelige ath syu<ex>n</ex>gis aff hier<lb rend="="
                         />t<ex>et</ex> bekie<ex>n</ex>dis m<ex>eth</ex> mu<ex>n</ex>den oc hollis
                     <lb/> m<ex>eth</ex> throen till gud oc m<ex>eth</ex> gierni<ex>n</ex>
@@ -1787,7 +1787,7 @@
                     </figure>-->
                     <l>Th<ex>et</ex> første budord th<ex>et</ex> er nu saa/</l>
                     <l>th<ex>et</ex> bør tigh nu <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#mos-5-6"><orig>Deut. vi</orig><reg>5 Mos 6</reg></ref>)</note> ath merke/</l>
+                        <note place="margin">(<ref target="#mos-5-6"><orig>Deut. vi</orig><reg>5 Mos 6</reg></ref>)</note> ath merke/</l>
                     <l>affgudher schalt thu tigh ey faa/</l>
                     <l>men en <lb/> gud schalt thu dyrke</l>
                 </lg>
@@ -1833,7 +1833,7 @@
                         <figDesc>blomst</figDesc>
                     </figure>-->
                     <l>Thu schalt oc hedre oc ære</l>
-                    <l>thin Fader oc thin Mo<lb rend="="/>dher/ <note place="margin">(<ref target="christian-3-bibel.xml#matt-15"><orig>Mat. xv</orig><reg>Matt 15</reg></ref>)</note>
+                    <l>thin Fader oc thin Mo<lb rend="="/>dher/ <note place="margin">(<ref target="#matt-15"><orig>Mat. xv</orig><reg>Matt 15</reg></ref>)</note>
                     </l>
                     <l>the tigh opføddhe m<ex>eth</ex> ære</l>
                     <l>m<ex>eth</ex> gudh thu salig vordher</l>
@@ -1853,8 +1853,8 @@
                     </figure>-->
                     <l>Thu schalt och ingen slaa y hiæl/</l>
                     <l>oc ey ma<ex>n</ex>drab <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#matt-5"><orig>Mat. v.</orig><reg>Matt 5</reg></ref>)</note>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#rom-13"><orig>Roma.xiii</orig><reg>Rom 13</reg></ref>)</note> bedriffue/</l>
+                        <note place="margin">(<ref target="#matt-5"><orig>Mat. v.</orig><reg>Matt 5</reg></ref>)</note>
+                        <note place="margin">(<ref target="#rom-13"><orig>Roma.xiii</orig><reg>Rom 13</reg></ref>)</note> bedriffue/</l>
                     <l>thin broder schal thu wnde væl/</l>
                     <l>tha maa <lb/> thu salig bliffue</l>
                 </lg>
@@ -1870,7 +1870,7 @@
                     </figure>-->
                     <l>Thu schalt oc ey bedriffue hor</l>
                     <l>th<ex>et</ex> mo<ex>n</ex>ne saa ma<ex>n</ex><lb rend="="/>gen <note
-                        place="margin">(<ref target="christian-3-bibel.xml#matt-5"><orig>Mat. v.</orig><reg>Matt 5</reg></ref>)</note> daare/</l>
+                        place="margin">(<ref target="#matt-5"><orig>Mat. v.</orig><reg>Matt 5</reg></ref>)</note> daare/</l>
                     <l>vkyskhetz synd hun snart forgaar/</l>
                     <l>men <lb/> y pynen hun væl warer</l>
                 </lg>
@@ -1883,7 +1883,7 @@
                     </figure>-->
                     <l>Thu schalt oc ingen stiæle fraa/</l>
                     <l>hans gotz ha<ex>n</ex>s <lb/>
-                        <note place="margin">(<ref target="christian-3-bibel.xml#rom-13"><orig>Roma.xiii</orig><reg>Rom 13</reg></ref>)</note> heder ey ære/</l>
+                        <note place="margin">(<ref target="#rom-13"><orig>Roma.xiii</orig><reg>Rom 13</reg></ref>)</note> heder ey ære/</l>
                     <l>y verden schalt thu leffue saa/</l>
                     <l>ath thu <lb/> reetuiss kand være</l>
                 </lg>

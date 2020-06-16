@@ -690,7 +690,7 @@
                 <head type="add">Evangelielæsning</head>
                 <head>
                     <!--<hi rend="font_red">--> Lader oss høre til de hellige Euan<lb rend="="/>
-                    gelii ord <ref target="christian-3-bibel.xml#mark-10"><orig>Marci. decimo.</orig><reg>Mark
+                    gelii ord <ref target="#mark-10"><orig>Marci. decimo.</orig><reg>Mark
                         10</reg></ref><!--</hi>-->
                     <lb/>
                 </head>
@@ -1100,7 +1100,7 @@
                     <lb/> For alteriidt offuer Brudgomme Oc <lb/> Brud <app>
                         <lem>leess</lem>
                         <rdg wit="#orig">lecss</rdg>
-                    </app> ha<ex>n</ex> G<ex>u</ex>dz ord <ref target="christian-3-bibel.xml#mos-1-2"><orig>Genesis
+                    </app> ha<ex>n</ex> G<ex>u</ex>dz ord <ref target="#mos-1-2"><orig>Genesis
                             ii</orig><reg>1 Mos 2</reg></ref>
                     <lb/>
                 </head>
@@ -1130,7 +1130,7 @@
                     <!--<hi rend="font_red">--><c function="initials" rend="2">E</c><!--</hi>-->Fter
                     thi at y haffue giffuit eder <lb/> y ectescaffs stat i G<ex>u</ex>ds naffn saa
                     <lb/> hører y det første G<ex>n</ex>ds bud off<lb rend="="/>uer denne statt oc
-                    skickit <ref target="christian-3-bibel.xml#ef-5"><orig>Ad Ephesi v.</orig><reg>Ef 5</reg></ref>
+                    skickit <ref target="#ef-5"><orig>Ad Ephesi v.</orig><reg>Ef 5</reg></ref>
                     <pb n="D3_r"/>
                 </head>
             
@@ -1404,7 +1404,7 @@
                         <figDesc>blomst</figDesc>
                     </figure>--> Saadantt betegner oss oc aldelis det Dob wy haffwe ana<ex>m</ex><lb
                         rend="="/>mett <lb/> som den hellige Paulus oss lærer til <ref
-                        target="christian-3-bibel.xml#rom-6"><orig>de Romere y det vi <lb/> capitel</orig><reg>Rom
+                        target="#rom-6"><orig>de Romere y det vi <lb/> capitel</orig><reg>Rom
                             6</reg></ref> Paa saadan act oc mening wilie oc begering/ lade wy <lb/>
                     oss døbe/ at wy wille/ haabes/ oc wentet/ att Christus Je<lb rend="="/>sus wor
                     herre som tilforn haffuer offuerwundet baade død oc <pb n="E3_r"/> synd/ sculle
