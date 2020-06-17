@@ -14788,7 +14788,7 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="bekendelse" n="2">
+            <div xml:id="confiteor" n="2">
                <head type="add">Confiteor/ Kort bekendelse</head>
                <head>Confiteor. <lb/>En kort bekendelse i Gudz Ansict</head>
                <p><c function="initials" rend="3">J</c>Eg arme Syndige Menniske/ beken<lb rend="="
@@ -14800,7 +14800,7 @@
                   naade aff hannem/ <lb/>Herre ver mig arme Syndere barmhiertig</p>
             </div>
             <lb/>
-            <div type="psalm" xml:id="evangelisk-afloesning" n="3">
+            <div xml:id="evangelisk-afloesning" n="3">
                <head type="add">Evangelisk afløsning</head>
                <head>En Euangelisk affløsning offuer menig<lb rend="="/>heden</head>
                <pb ana="97_v_II" n_ekstra="O5v" n="E266"/>
@@ -14811,13 +14811,11 @@
                   hannem/ At wi ved <lb/>hannem kunde fuldko<ex>m</ex>me hans Guddom<lb rend="="
                   />melige vilge/ Oc faa det euige liff Amen</p>
                <lb/>
-               <p>
-                  <hi rend="center">Nu begynder Chorid eller den Christne <lb/>forsamling ath siunge
-                        begyndel<lb rend="="/>sen til Messen</hi>
-               </p>
             </div>
             <lb/>
             <div type="psalm" xml:id="af-dybsens-noed-raaber-jeg-til-dig" n="4">
+               <head>Nu begynder Chorid eller den Christne <lb/>forsamling ath siunge begyndel<lb
+                     rend="="/>sen til Messen </head>
                <head type="add">De profundis/ Af dybsens nød råber jeg til dig</head>
                <head>De profundis/ met tuenne noder</head>
                <lg>
@@ -14944,34 +14942,23 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="gloria-in-excelsis-deo" n="8">
-               <head type="add">Gloria in excelsis deo/ Gloria ære og pris være Gud</head>
+            <div xml:id="gloria-aere-og-pris-vaere-gud-i-det-hoejeste" n="8">
+               <head type="add">Gloria in excelsis deo/ Gloria ære og pris være Gud i det
+                  højeste</head>
                <head>Gloria in Excelsis deo</head>
-               <lg>
-                  <l><c function="initials" rend="4">G</c>Loria/ ære oc priiss vere Gud <lb/>i det
-                     høyeste/ </l>
-                  <l>Oc paa Jorden <lb/>fred/ </l>
-                  <l>oc dine Menniske en vel<lb rend="="/>behagelighed/ </l>
-                  <l>Vi loffue dig/ <lb/>Vi benedide dig/ </l>
-                  <l>Vi til bede dig Vi ære oc <pb ana="99_v_II" n_ekstra="O7v" n="E270"/>prise dig. </l>
-                  <l>Vi tacke dig for din store ære oc <lb/>mectighed/ </l>
-                  <l>Herre Gud och Hiemmelske <lb/>Kong/ </l>
-                  <l>altsommectigste Fader </l>
-                  <l>Herre alt<lb rend="="/>sommectigste Søn Jesu Christe och den <lb/>Helligaand </l>
-                  <l>Herre Gud Gudz Lam och <lb/>Gud Faders Søn </l>
-                  <l>den som bortager all <lb/>Verdens Synder/ </l>
-                  <l>forbarme dig offuer oss </l>
-                  <l><lb/>Du som borttager alle Verdens Synder/ </l>
-                  <l><lb/>Tag til dig vor bøn/ </l>
-                  <l>oc miskunde dig at <lb/>høre oss/ </l>
-                  <l>Du som sider hoss din Faders <lb/>høyre haand/ </l>
-                  <l>forbarme dig offuer oss </l>
-                  <l>For <lb/>di saa du est all eniste hellig/ </l>
-                  <l>Du est all <lb/>ene en Herre </l>
-                  <l>Du est all ene den høyste Je<lb rend="="/>su Christe/ </l>
-                  <l>met den Helligaand i Gud <lb/>Faders ære </l>
-                  <l>Amen</l>
-               </lg>
+               <p>
+                  <c function="initials" rend="4">G</c>Loria/ ære oc priiss vere Gud <lb/>i det
+                  høyeste/ Oc paa Jorden <lb/>fred/ oc dine Menniske en vel<lb rend="="
+                  />behagelighed/ Vi loffue dig/ <lb/>Vi benedide dig/ Vi til bede dig Vi ære oc <pb
+                     ana="99_v_II" n_ekstra="O7v" n="E270"/>prise dig. Vi tacke dig for din store
+                  ære oc <lb/>mectighed/ Herre Gud och Hiemmelske <lb/>Kong/ altsommectigste Fader
+                  Herre alt<lb rend="="/>sommectigste Søn Jesu Christe och den <lb/>Helligaand Herre
+                  Gud Gudz Lam och <lb/>Gud Faders Søn den som bortager all <lb/>Verdens Synder/
+                  forbarme dig offuer oss <lb/>Du som borttager alle Verdens Synder/ <lb/>Tag til
+                  dig vor bøn/ oc miskunde dig at <lb/>høre oss/ Du som sider hoss din Faders
+                  <lb/>høyre haand/ forbarme dig offuer oss For <lb/>di saa du est all eniste
+                  hellig/ Du est all <lb/>ene en Herre Du est all ene den høyste Je<lb rend="="/>su
+                  Christe/ met den Helligaand i Gud <lb/>Faders ære Amen </p>
             </div>
             <lb/>
             <div type="psalm" xml:id="aleneste-gud-i-himmerig" n="9">
@@ -15074,7 +15061,7 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="hilsen" n="11">
+            <div xml:id="hilsen" n="11">
                <head type="add">[Hilsen]</head>
                <head>[Hilsen]</head>
                <p>
@@ -15093,7 +15080,7 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="kollekt-o-herre-jesu-christe" n="12">
+            <div xml:id="kollekt-o-herre-jesu-kriste" n="12">
                <head type="add">Collecta</head>
                <head>Collecta</head>
                <pb ana="101_v" n_ekstra="P1v" n="E274"/>
@@ -20267,7 +20254,8 @@
             <lb/>
             <div type="section" xml:id="section-j">
                <head type="add"><pb ana="180_r" n_ekstra="Bb4r" n="E431"/>Sektion J</head>
-               <head><app><lem>J</lem><rdg wit="#orig">mangler <note>indsat</note></rdg></app>J</head>
+               <head><app><lem>J</lem><rdg wit="#orig">mangler
+                  <note>indsat</note></rdg></app>J</head>
                <div type="list">
                   <list rend="simple">
                      <item>J Jesu naffn begynde wi<ref target="#i-jesu-navn-begynde-vi"
