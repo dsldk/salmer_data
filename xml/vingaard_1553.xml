@@ -15081,7 +15081,7 @@
             </div>
             <lb/>
             <div xml:id="kollekt-o-herre-jesu-kriste" n="12">
-               <head type="add">Collecta</head>
+               <head type="add">Collecta/ O Herre Jesu Kriste</head>
                <head>Collecta</head>
                <pb ana="101_v" n_ekstra="P1v" n="E274"/>
                <p><c function="initials" rend="4">O</c> Herre Jesu Christe du som haff<lb rend="="
@@ -15091,8 +15091,8 @@
                   dit hellige afften Maaltid/ Du <lb/>som regerer euindelige/ Amen</p>
             </div>
             <lb/>
-            <div type="psalm" xml:id="kollekt-o-almaegtigste-evige-gud" n="13">
-               <head type="add">Kollekt</head>
+            <div xml:id="kollekt-o-almaegtigste-evige-gud" n="13">
+               <head type="add">Kollekt/ O almægtigste evige Gud</head>
                <head>En anden Collect.</head>
                <p><c function="initials" rend="3">O</c> Almectigste euige Gud/ Som be<lb rend="="
                   />skermer dem alle som fly til dig/ <lb/>For vden din naade wi arme men<lb
@@ -15160,7 +15160,7 @@
             <pb ana="103_r" n_ekstra="P3r" n="E277"/>
             <lb/>
             <div type="psalm" xml:id="halleluja-glade-vil-vi-halleluja-sjunge" n="15">
-               <head type="add">Halleluja. Gladelig ville vi halleluja sjunge</head>
+               <head type="add">Halleluja/ Halleluja. Gladelig ville vi halleluja sjunge</head>
                <head>Alleluia. Alleluia</head>
                <lg>
                   <l><c function="initials" rend="3">A</c>Lleluia/ </l>
@@ -15262,12 +15262,13 @@
                      haffuer <lb/>giffuit sit Legeme och vd<lb rend="="/>størt sit Blod for
                      oss:</hi>
                </p>
-
                <p>
-                  <ref target="#joh-6">
-                     <orig>Textus Euangelii Joannis vi.</orig>
-                     <reg>Joh 6</reg>
-                  </ref>
+                  <hi rend="center">
+                     <ref target="#joh-6">
+                        <orig>Textus Euangelii Joannis vi.</orig>
+                        <reg>Joh 6</reg>
+                     </ref>
+                  </hi>
                </p>
                <p><c function="initials" rend="3">D</c>Er almuen saa at Jesus vor ic<lb rend="="/>ke
                   der/ oc ey heller hans Disci<lb rend="="/>ple/ Da fore de offuer met de <lb/>smaa
@@ -15320,8 +15321,7 @@
                   Gud/ <lb/>Huo som hører noget aff Faderen Och <lb/>lærer det/ han kommer til mig/
                   Jcke saa <lb/>at nogen saa Faderen/ vden den som er <lb/>aff Gud/ han saa
                   Faderen</p>
-
-               <head>Diuisio</head>
+               <p><hi rend="center">Diuisio</hi></p>
                <p><space extent="2blanks"/>&#x2055; Sandelige Sandelige siger ieg eder <lb/>Huo som
                   tror paa mig/ han haffuer det <lb/>euige Liff/ ieg er Liffens Brød/ Eders
                   <lb/>forfædre ode Hiemmelens Brød i ørcken <lb/>oc de ere Døde/ Dette er det Brød
@@ -15335,8 +15335,7 @@
                   kød oc dricke hans Blod Da haff<lb rend="="/>ue i icke liff i eder/ Huo som æder
                   mit kød <lb/>oc dricker mit blod/ han haffuer det euige <lb/>liiff/ Oc ieg skal
                   opreyse hannem paa den <lb/>yderste dag</p>
-
-               <head>Diuisio.</head>
+               <p><hi rend="center">Diuisio</hi></p>
                <lb/>
                <p>&#x2055; Men mit kød er sand mad/ oc mit blod <lb/>er sand dricke/ Huo som æder
                   mit kød oc <lb/>dricker mit Blod/ han bliffuer i mig och <lb/>ieg i hannem/ Som
@@ -15346,9 +15345,8 @@
                   aff Hiemmelen oc ere døde <lb/>Huo som æder aff dette brød/ han skal leff<lb
                      rend="="/>ue euindelige<pb ana="107_r" n_ekstra="P7r" n="E285"/></p>
             </div>
-
             <lb/>
-            <div type="psalm" xml:id="vi-tro-allesammen-paa-en-gud" n="18">
+            <div type="psalm" xml:id="vi-tro-allesammen-paa-en-gud-himmels" n="18">
                <head type="add">Credo/ Vi tro allesammen på en Gud</head>
                <head>Den Christne forsamling oc Chorid <lb/>siunge till haabe Credo</head>
                <lb/>
@@ -15440,8 +15438,8 @@
                </lg>
             </div>
             <pb ana="108_v" n_ekstra="P8v" n="E288"/>
-            <div type="psalm" xml:id="credo-vi-tro-allesammen-paa-en-gud" n="20">
-               <head type="add">Credo/ Vi tro allesammen på en Gud</head>
+            <div type="psalm" xml:id="vi-tro-allesammen-paa-en-gud-som-himmel" n="20">
+               <head type="add">Credo/ Vi tro allesammen på en Gud som himmel</head>
                <head>Credo Anderledis</head>
                <lb/>
                <lg>
@@ -15483,8 +15481,8 @@
                   <l>Som Christus haffuer oss for<lb rend="="/>huerffuit/ Amen.</l>
                </lg>
             </div>
-            <div xml:id="fader-vor-med-sin-udlaeggelse" n="21">
-               <head type="add">Fadervor med forklaring</head>
+            <div xml:id="fader-vor-kort-formaning" n="21">
+               <head type="add">Fadervor med kort formaning</head>
                <p>
                   <hi rend="center">Fader vor/ met sin vdleggelse/ Och en <lb/>kort formaning/ Som
                      den Christne kirc<lb rend="="/>kis tiænere eller Biscop maa haffue til <lb/>den
