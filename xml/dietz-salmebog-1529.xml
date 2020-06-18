@@ -4712,23 +4712,24 @@
                            xxj.</orig><reg>Matt 21</reg></ref>)</note> att ÿ skulle faa thet/ oc
                   thet skal eder giffuis/ AMEN. </p>
             </div>
-            <div type="psalm" xml:id="hellig-hellig-hellig-er-du" n="17">
-               <head type="add">Sanctus / Hellig, hellig, hellig er du</head>
+            <div type="psalm" xml:id="hellig-hellig-hellig" n="17">
+               <head type="add">Sanctus/ Hellig, hellig, hellig er du</head>
                <head>&#x00B6; Een lofsang som Chorid oc then Christne forsamling siunge. <figure
                      type="vignette"/> Sanctus. <!--<figure type="vignette"/>--></head>
                <lg>
-                  <l><c function="initials" rend="3">H</c>Ellig. Hellig. Hellig æst tw<note
-                        place="right">(<ref target="#es-6"><orig>Esaie. vj.</orig><reg>Es
-                           6</reg></ref>)</note> Herre Gud Sabaot. </l>
-                  <l>Himmel oc iorden er forfylt med thÿn ære Salig giør oss wdi thet offuerste. </l>
-                  <l>Bene<lb rend="="/>didet wære then ther kommer ÿ Herrens<note place="right"
-                           >(<ref target="#matt-10"><orig>Math. x.</orig><reg>Matt
-                        10</reg></ref>)</note> naffn. </l>
+                  <l><c function="initials" rend="3">H</c>Ellig. Hellig. Hellig</l>
+                  <l> æst tw<note place="right">(<ref target="#es-6"><orig>Esaie. vj.</orig><reg>Es
+                              6</reg></ref>)</note> Herre Gud Sabaot. </l>
+                  <l>Himmel oc iorden er forfylt med thÿn ære</l>
+                  <l> Salig giør oss wdi thet offuerste. </l>
+                  <l>Bene<lb rend="="/>didet wære then</l>
+                  <l> ther kommer ÿ Herrens<note place="right">(<ref target="#matt-10"><orig>Math.
+                              x.</orig><reg>Matt 10</reg></ref>)</note> naffn. </l>
                   <l>Salig giør oss wdi thet offuerste.</l>
                </lg>
             </div>
-            <div xml:id="indledning-til-nadverritualet" n="22">
-               <head type="add">[Indledning til nadverritualet]</head>
+            <div xml:id="indledning-til-nadveren" n="22">
+               <head type="add">[Indledning til nadveren]</head>
                <p>&#x00B6; Effter tesse ceremonier kommer thet rette messe embede / som er Christi
                   nadworis oc Testamentis ord / ÿ hwilke hwer Christne menniskis hierte som wil <pb
                      n="E112" ana="56_v"/> gaa til Guds bord / skal stadfestis oc vn<lb rend="="
@@ -4769,7 +4770,7 @@
                   Messe embedet.</p>
             </div>
             <div type="psalm" xml:id="dig-vaere-lov-og-pris-o-herre-krist" n="24">
-               <head type="add">Tibi laus / Dig være lov og pris, o Herre Krist</head>
+               <head type="add">Tibi laus/ Dig være lov og pris, o Herre Krist</head>
                <head><!--<figure type="vignette"/>--> Tibi laus.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -4793,8 +4794,8 @@
                   <l>Hellig hellig hellig hun siunger teg.</l>
                </lg>
             </div>
-            <div xml:id="pax-domini-sit-semper-vobiscum" n="25">
-               <head type="add">Pax domini sit semper vobiscum / Herrens fred være med jer</head>
+            <div xml:id="hilsen" n="25">
+               <head type="add">[Hilsen]</head>
                <p>&#x00B6; Nw wender presten seg til folkit oc siger.</p>
                <p> &#x00B6; Pax domini sit semper vobiscum. <space extent="2blanks"/>Herrens fred
                   wære med eder. </p>
@@ -4803,8 +4804,8 @@
                <p>
                   <space extent="2blanks"/>Oc med thÿn aand. </p>
             </div>
-            <div xml:id="agnus-dei2" n="26">
-               <head type="add">Agnus dei / O Guds lam som borttager alle verdens synder</head>
+            <div type="psalm" xml:id="o-guds-lam-som-borttager" n="26">
+               <head type="add">Agnus dei/ O Guds lam som borttager</head>
                <head>&#x00B6; Nw begyndis Agnus dei.</head>
                <note place="left">(<ref target="#joh-1"><orig>Johan. j.</orig><reg>Joh
                   1</reg></ref>)</note>
@@ -4822,7 +4823,7 @@
                   <l>Giff oss thÿn fred.</l>
                </lg>
             </div>
-            <div xml:id="en-kort-formaning" n="27">
+            <div xml:id="kort-formaning" n="27">
                <head type="add">Formaning</head>
                <head>&#x00B6; Een kort formaning oc serdelis til thennom som wille annamme Christi
                   Testament.</head>
@@ -4842,7 +4843,7 @@
                      rend="="/>gomme oc blod/ til een wÿsshed/ forseg<lb rend="="/>ling/ oc pant.
                </p>
             </div>
-            <div xml:id="jesu-kristi-legeme" n="28">
+            <div xml:id="nadveruddeling" n="28">
                <head type="add">[Nadveruddeling]</head>
                <head>&#x00B6; Nw communicerer han/ <lb/>oc be<lb rend="="/>ræter folkit/
                   <lb/>sigendis.</head>
@@ -4853,12 +4854,12 @@
                   <space extent="2blanks"/>&#x00B6; Jhesu Christi blods deelactighed wære teg til
                   hielp oc trøst/ AMEN. </p>
             </div>
-            <div xml:id="jesus-kristus-er-vor-salighed" n="29">
+            <div type="psalm" xml:id="jesus-kristus-er-vor-salighed" n="29">
                <head type="add">Jesus Kristus er vor salighed</head>
-               <p>&#x00B6; Een gudelig oc krafftig lofsang/ att siunge ÿ Christi nadwore/ nar
-                  Christi brud skal gaa til Guds bord/ først att an<lb rend="="/>na<ex>m</ex>me
-                  aandelig med troens mund Chri<lb rend="="/>sti legomme/ oc dricke med troens læber
-                     <pb facs="175" n="E116" ana="58_v"/>
+               <head>&#x00B6; Een gudelig oc krafftig lofsang/</head>
+               <p> att siunge ÿ Christi nadwore/ nar Christi brud skal gaa til Guds bord/ først att
+                     an<lb rend="="/>na<ex>m</ex>me aandelig med troens mund Chri<lb rend="="/>sti
+                  legomme/ oc dricke med troens læber <pb facs="175" n="E116" ana="58_v"/>
                   <note place="left">(<ref target="#joh-6"><orig>Johan. vj</orig><reg>Joh
                         6</reg></ref>).</note>Christi blod/ som Christus siger sielff (<ref
                      target="#joh-6"><orig>Johannis. vj.</orig><reg>Joh 6</reg></ref>) Wden ÿ æde
@@ -4948,8 +4949,8 @@
                   <l>ther med thenno<ex>m</ex> hielpe som Gud haffuer budit.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="communio" n="30">
-               <head type="add">Communio / Gud være lovet altid og benedidet</head>
+            <div type="psalm" xml:id="gud-vaere-lovet-altid-og-benedidet" n="30">
+               <head type="add">Communio/ Gud være lovet altid og benedidet</head>
                <head><!--<figure type="vignette"/>--> Communio.
                   <!--<figure type="vignette"/>--></head>
                <head>&#x00B6; Een lofsang med hwilken then Christne forsamling tacker oc ærer
@@ -5006,17 +5007,14 @@
                   <l>Kyrieleyson.</l>
                </lg>
             </div>
-            <div xml:id="dominus-vobiscum" n="31">
-               <head type="add">Dominus vobiscum / Herren være med jer</head>
+            <div xml:id="hilsen" n="31">
+               <head type="add">[Hilsen]</head>
                <head>&#x00B6; Ther effter wender presten seg om til folkit oc siger. Dominus
                   vobiscum.</head>
-               <lg>
-                  <l><space extent="2blanks"/>Herren wære med eder.</l>
-               </lg>
+               <p>
+                  <space extent="2blanks"/>Herren wære med eder. </p>
                <p>Swar.</p>
-               <lg>
-                  <l>Oc med thÿn aand. </l>
-               </lg>
+               <p> Oc med thÿn aand. </p>
                <p>Lader oss nw alle bede.</p>
             </div>
             <div xml:id="kollekt" n="32">
@@ -5031,8 +5029,8 @@
                <p>Chorid swarer </p>
                <p>Amen. </p>
             </div>
-            <div xml:id="dominus-vobiscum2" n="33">
-               <head type="add">Dominus vobiscum / Herren være med jer</head>
+            <div xml:id="hilsen" n="33">
+               <head type="add">[Hilsen]</head>
                <p>&#x00B6; Nw wender han seg til fol<lb rend="="/>kit oc siger.</p>
                <p><space extent="2blanks"/>Herren wære med eder.</p>
                <p>Swar.</p>
@@ -5135,39 +5133,41 @@
                </lg>
             </div>
             <div xml:id="alt-indledning-til-nadver" n="36">
-               <head type="add">Alternativ indledning til nadver</head>
+               <head type="add">Alternativ indledning til nadveren</head>
                <head>&#x00B6; Een liden prefads som maa <lb rend="="/>gis ÿ naduorens ceremonier
                   effter tÿd<lb rend="="/>sens leilighed/ <lb/>dog beqwemmelig indsat oc
                   indførd.</head>
             </div>
-            <div xml:id="dominusvobiscum2" n="37">
-               <head type="add">Dominus vobiscum / Herren være med jer</head>
+            <div xml:id="hilsen" n="37">
+               <head type="add">Hilsen</head>
                <p>Dominus vobiscum. <lb/>Herren were med eder. </p>
                <p>Swar.</p>
                <p>Oc med thÿn aand.</p>
             </div>
             <div xml:id="sursum-corda" n="38">
-               <head type="add">Sursum corda / Vore hjerter op i himmelen</head>
-               <p>Sursum corda. <lb/>Wore hierter op ÿ himmelen.</p>
+               <head type="add">Sursum corda/ Vore hjerter op i himmelen</head>
+               <head>Sursum corda.</head>
+               <p><lb/>Wore hierter op ÿ himmelen.</p>
                <p>Swar.</p>
                <p><space extent="2blanks"/>Wÿ haffue thennom til Herren.</p>
             </div>
             <div xml:id="gratias-agamus-domino" n="39">
-               <head type="add">Gratias agamus domino / Lad os takke Herren</head>
-               <p><pb facs="182" n="E123" ana="62_r"/>Gratias agamus domino. <lb/>Lader oss tacke
-                  Herren. </p>
+               <head type="add">Gratias agamus domino/ Lad os takke Herren</head>
+               <head><pb facs="182" n="E123" ana="62_r"/>Gratias agamus domino.</head>
+               <p><lb/>Lader oss tacke Herren. </p>
                <p>Swar.</p>
                <p>Thet er werdigt oc retwist.</p>
             </div>
             <div xml:id="vere-dignum-et-iustum-est" n="40">
-               <head type="add">Vere dignum et justum est / Sandelig er det værdigt og
-                  retvist</head>
+               <head type="add">Vere dignum et justum est/ Sandelig er det værdigt og retvist</head>
                <head>&#x00B6; Nw siunger presten.<lb/> Vere dignum et iustum est.</head>
                <p>
                   <c function="initials" rend="3">S</c>Andelig er thet werdigt oc retwÿst tilbørligt
                   oc hil<lb rend="="/>somt/ att wÿ altÿd oc alle stæder/ teg skulle loffue oc tacke.
                   O Herre hellige fader almectigste e<lb rend="="/>wige Gud/ wid Jesum Christum wor
                   Herre AMEN. </p>
+            </div>
+            <div>
                <p><!--<figure type="vignette"/>--> Her endis Messen.
                   <!--<figure type="vignette"/>--></p>
             </div>
