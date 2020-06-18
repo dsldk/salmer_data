@@ -14788,7 +14788,7 @@
                </lg>
             </div>
             <lb/>
-            <div xml:id="confiteor" n="2">
+             <div xml:id="confiteor-vingaard" n="2">
                <head type="add">Confiteor/ Kort bekendelse</head>
                <head>Confiteor. <lb/>En kort bekendelse i Gudz Ansict</head>
                <p><c function="initials" rend="3">J</c>Eg arme Syndige Menniske/ beken<lb rend="="
@@ -14813,7 +14813,7 @@
                <lb/>
             </div>
             <lb/>
-            <div type="psalm" xml:id="af-dybsens-noed-raaber-jeg-til-dig" n="4">
+             <div type="psalm" xml:id="af-dybsens-noed-raaber-jeg-til-dig-vingaard" n="4">
                <head>Nu begynder Chorid eller den Christne <lb/>forsamling ath siunge begyndel<lb
                      rend="="/>sen til Messen </head>
                <head type="add">De profundis/ Af dybsens nød råber jeg til dig</head>
@@ -14942,7 +14942,7 @@
                </lg>
             </div>
             <lb/>
-            <div xml:id="gloria-aere-og-pris-vaere-gud-i-det-hoejeste" n="8">
+             <div xml:id="gloria-aere-og-pris-vaere-gud-i-det-hoejeste-vingaard" n="8">
                <head type="add">Gloria in excelsis deo/ Gloria ære og pris være Gud i det
                   højeste</head>
                <head>Gloria in Excelsis deo</head>
@@ -15080,7 +15080,7 @@
                </lg>
             </div>
             <lb/>
-            <div xml:id="kollekt-o-herre-jesu-kriste" n="12">
+             <div xml:id="kollekt-o-herre-jesu-kriste-vingaard" n="12">
                <head type="add">Collecta</head>
                <head>Collecta</head>
                <pb ana="101_v" n_ekstra="P1v" n="E274"/>
@@ -19982,7 +19982,7 @@
                      <item>Aff hu oc sind oc all<ref target="#af-hu-og-sind-og-al-vor-agt"
                            >lxxxv</ref></item>
                      <item><hi rend="center">De profundis</hi>
-                        <lb/>Aff Dybsens nød raaber<ref target="#af-dybsens-noed-raaber-jeg-til-dig"
+                         <lb/>Aff Dybsens nød raaber<ref target="#af-dybsens-noed-raaber-jeg-til-dig-vingaard"
                            >xcvii</ref></item>
                      <item><hi rend="center">Gloria in excelsis Deo</hi>
                         <lb/>All eniste Gud i Hiemmerig<ref target="#gloria-inexcelsis-deo-vingaard-1"
