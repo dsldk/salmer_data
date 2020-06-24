@@ -85,7 +85,7 @@
                     <docDate>Anno domini. Mdxxxix. </docDate>
                 </docImprint>
             </titlePage>
-            <div type="preface" xml:id="preface">
+            <div type="preface" xml:id="preface-ulriksen-1539">
                 <head type="add">Frands Vormodsens forord</head>
                 <p><pb ana="A1_v" n="E2"/>&#x00b6; Franciscus wormordi ynsker alle retsindige oc
                     <lb/> gudfryctige Predickere oc sogneherrer</p>
@@ -447,7 +447,7 @@
                     </notatedMusic>
                     <p><lb/>De<ex>n</ex>ne Epistel bescriffuer oss til de Cor<lb rend="="/>rinter
                         sanctus Paulus.</p>
-                    <p>Epistelen. (<ref target="christian-3-bibel.xml#kor-1-11"><orig>i . Cor. Xi</orig><reg>1 Kor
+                    <p>Epistelen. (<ref target="#kor-1-11"><orig>i . Cor. Xi</orig><reg>1 Kor
                                 11</reg></ref>).</p>
                     <lb/>
                     <p>
@@ -514,7 +514,7 @@
                         <l>vy tacke dig nu oc euin<lb rend="="/>delige Amen.</l>
                     </lg>
                 </div>
-                <div xml:id="sekvenser" n="6">
+                <div xml:id="sekvenser-ulriksen-1539" n="6">
                     <head type="add">Sekvenser</head>
                     <p>Framdelis maa oc i deris tid siu<ex>n</ex>gis <lb/>disse Sequentier Grates
                         nunc omnes <lb/>med sin danske Psalme ibland. Loff<lb rend="="/>uit vere du
@@ -544,7 +544,7 @@
                             ku<ex>n</ex><lb rend="="/>de icke elske oss. Derfore kunde de in<lb
                             rend="="/>tit got tale om oss Jcke giøre de det <lb/>end heller. Men det
                         tolmodeligen att<lb rend="="/>lide for guds vor herris Jesu Christi
-                        <lb/>skyld. er oss idel salighedt. (<ref target="christian-3-bibel.xml#matt-5"><orig>Mat.
+                        <lb/>skyld. er oss idel salighedt. (<ref target="#matt-5"><orig>Mat.
                                 v</orig><reg>Matt 5</reg></ref>).</p>
                     <lb/>
                     <p>Her effter vender preste<ex>n</ex> sig til folked <lb/>och less Euangelium
@@ -582,7 +582,7 @@
                         <lb/>Saa leser hand da det hellige euange<lb rend="="/>lium med seduanlige
                         noder. som fald<ex>er</ex>
                         <lb/>om samme dag oc findis i det ny tes<lb rend="="/>tamente.
-                            Euangeliu<ex>m</ex> (<ref target="christian-3-bibel.xml#matt-26"><orig>Mat.
+                            Euangeliu<ex>m</ex> (<ref target="#matt-26"><orig>Mat.
                                 XXvi</orig><reg>Matt 26</reg></ref>) <lb/> Der de ode. tog Jesus
                         brød. oc <app>
                             <lem> eff<pb ana="D1_r" n="E25" rend="="/>ter</lem>
@@ -739,7 +739,7 @@
                         anden tiid om dagen at høre hende <lb/>i. som dee haffue vdi købstederne</p>
                     <lb/>
                 </div>
-                <div xml:id="formaning" n="11">
+                <div xml:id="formaning-ulriksen-1539" n="11">
                     <head type="add">Formaning</head>
                     <p>Naar predicke<ex>n</ex> er saa at ende Forma<lb rend="="/>ner presten folked
                         att dee i<ex>n</ex>derlige vdi <lb/>een fast tro indfly tiil gudt fader vid
@@ -816,7 +816,7 @@
                 </div>
                 <div xml:id="du-er-oss-gud-miscundelig" type="psalm" n="12">
                     <head type="add">Nu er os Gud miskundelig</head>
-                    <head>Deus misereatur (<ref target="christian-3-bibel.xml#sl-66"><orig>Ps. lxvi</orig><reg>Sl
+                    <head>Deus misereatur (<ref target="#sl-66"><orig>Ps. lxvi</orig><reg>Sl
                                 66</reg></ref>).</head>
                     <notatedMusic>
                         <ptr target="Vo_1539_LN0298_000e02r.xml#mdiv-01"/>
@@ -952,7 +952,7 @@
                         Men ingentiid <lb/>paa latine paa landzbyerne. so<ex>m</ex> forsagt
                         <lb/>eer. </p>
                 </div>
-                <div xml:id="hellig-hellig-hellig" type="psalm" n="15">
+                <div xml:id="hellig-hellig-hellig-ulriksen-1539" type="psalm" n="15">
                     <head type="add">Hellig, hellig, hellig </head>
                     <head>Sanctus</head>
                     <notatedMusic>
@@ -1278,7 +1278,7 @@
 
                 </div>
                 <lb/>
-                <div xml:id="hilsen" n="23">
+                <div xml:id="hilsen-ulriksen-1539" n="23">
                     <head type="add">Hilsen</head>
                     <p>Nar dette altsamme<ex>n</ex> giort er. som for<lb rend="="/>screffuit staar.
                         vender preste<ex>n</ex> sig om til <lb/>folked oc siger. </p>
@@ -1297,7 +1297,7 @@
                     <p> Oc saa leser han tacsigel<lb rend="="/>sens bøn som her effterfølger:</p>
                 </div>
                 <lb/>
-                <div xml:id="kollekt" n="24">
+                <div xml:id="kollekt-ulriksen-1539" n="24">
                     <head type="add">Kollekt</head>
                     <head>Collecta</head>
                     <lb/>
@@ -1323,7 +1323,7 @@
                         <l>Oc m<ex>ed</ex> din and. </l>
                     </lg>
                     <p>Oc saa leses offuer <lb/>folked de<ex>n</ex>ne Velsignelse so<ex>m</ex> staar
-                            screff<lb rend="="/>uen.(<ref target="christian-3-bibel.xml#mos-4-6"><orig>Numeri.
+                            screff<lb rend="="/>uen.(<ref target="#mos-4-6"><orig>Numeri.
                                 vi</orig><reg>4 Mos 6</reg></ref>). so<ex>m</ex> her
                         efft<ex>er</ex>følger.</p>
                 </div>
@@ -1418,7 +1418,7 @@
                         <l>ha<ex>n</ex>s budord vel beuare.</l>
                     </lg>
                 </div>
-                <div xml:id="da-pacem-domine" type="psalm" n="27">
+                <div xml:id="da-pacem-domine-ulriksen-1539" type="psalm" n="27">
                     <head type="add">Forlen os med fred nådelig</head>
                     <head>Jtem Da pacem domine <lb/>in diebus nostris</head>
                     <notatedMusic>
@@ -2926,27 +2926,27 @@
                         siger <lb/>sanctus Paulus. Att vij som ere døpte. vij <lb/>ere ikledde oc
                         iførde i Jesu christo. d<ex>et</ex>
                         <pb ana="Q2_v" n="E124"/> er. vij ere christne. oc alt det Jesu chri<lb
-                            rend="="/>sto tilhører er bleffuit vort.(<ref target="christian-3-bibel.xml#gall-3"
+                            rend="="/>sto tilhører er bleffuit vort.(<ref target="#gall-3"
                                 ><orig>Gala. 3.</orig><reg>Gal 3</reg></ref>) <lb/>Saa bliffue vij
                         vdij Doben vidt ordet <lb/>guds kiere børn. och den verdige hel<lb rend="="
                         />ligaands leffue<ex>n</ex>de bolige oc tempel. re<lb rend="="/>ne oc klare
                         fra alle synder. som vij haff<lb rend="="/>ue arffuit aff vore foreldre.
                         huorfore <lb/>vor herre Jesus christus selff siger. Vde<ex>n</ex>
                         <lb/>eth me<ex>n</ex>niske igenfødis vdaff vandt oc <lb/>den helligaand. da
-                        kan det icke indgaa <lb/>y guds rige. (<ref target="christian-3-bibel.xml#joh-3"
+                        kan det icke indgaa <lb/>y guds rige. (<ref target="#joh-3"
                                     ><orig>Joa<ex>n</ex>nis. tertio</orig><reg>Joh
                         3</reg></ref>).</p>
                     <lb/>
                     <p>Vdi Doben begraffues vij aandelige. <lb/>Oc opstaa aff døde<ex>n</ex> met vor
                         herre Je<lb rend="="/>su christo til eth nyt leffnit. paa det vij <lb/>met
-                            ha<ex>n</ex>nem skulle eui<ex>n</ex>delige leffue. (<ref target="christian-3-bibel.xml#rom-6"
+                            ha<ex>n</ex>nem skulle eui<ex>n</ex>delige leffue. (<ref target="#rom-6"
                                 ><orig>Ad <lb/>Romanos sexto</orig><reg>Rom
                         6</reg></ref>)<!--KOR. Hvad stiller vi op med originalens linebreak efter Ad?--></p>
                     <lb/>
                     <p>Vdi Doben formedelst ordet. troloff<lb rend="="/>ues oc festes vij met Jesu
                         christo vor <lb/>herre. een vbesmittet brud. oc tilføgis
                         <lb/>ha<ex>n</ex>nem vdi herlighed. vstraffelighed oc <pb ana="Q3_r"
-                            n="E125"/>hellighedt. (<ref target="christian-3-bibel.xml#ef-6"><orig>Ephesiorum sexto
+                            n="E125"/>hellighedt. (<ref target="#ef-6"><orig>Ephesiorum sexto
                                 Capite</orig><reg>Ef 6</reg></ref>)</p>
                     <lb/>
                     <p>Oc foruden alle vore gerni<ex>n</ex>gers verd<lb rend="="/>skyld. eniste
@@ -2957,7 +2957,7 @@
                             Jesu<ex>m</ex> christu<ex>m</ex>
                         <lb/>offuerflødelige<ex>n</ex> vdgiffuer vdi oss. paa <lb/>det att vij saa
                         retferdige giorde aff ha<ex>n</ex>s <lb/>naade. motte bliffue det euige
-                        liffs arff<lb rend="="/>uinge (<ref target="christian-3-bibel.xml#tit-3"><orig>Ad Titum.
+                        liffs arff<lb rend="="/>uinge (<ref target="#tit-3"><orig>Ad Titum.
                                 tertio</orig><reg>Tit 3</reg></ref>)</p>
                     <lb/>
                     <p>Oc derfore. elskelige ve<ex>n</ex>ner. att dette <lb/>Barn motte
@@ -3047,7 +3047,7 @@
                     </lg>
                     <p>
                         <lb/>Lader oss høre det hellige Eua<ex>n</ex>geliu<ex>m</ex>
-                        <lb/>som Sanctus Marcus᷒ scriffuir (<ref target="christian-3-bibel.xml#mark-10"><orig>Capite
+                        <lb/>som Sanctus Marcus᷒ scriffuir (<ref target="#mark-10"><orig>Capite
                                 X</orig><reg>Mark 10</reg></ref>)</p>
                     <lb/>
                     <p>
@@ -3178,7 +3178,7 @@
                     <p>Der som døbefaderen hører att barnet <lb/>er hiemedøbt J naffn
                         fad<ex>er</ex>s. oc søns. oc <lb/>helligaands. Da skal han for
                             inge<ex>n</ex> del <lb/>døbe det andengang. Fordi der er icke <lb/>vden
-                        en dob. som screffuit er (<ref target="christian-3-bibel.xml#ef-4"><orig>Ephe. iiij</orig><reg>Ef
+                        en dob. som screffuit er (<ref target="#ef-4"><orig>Ephe. iiij</orig><reg>Ef
                                 4</reg></ref>) <lb/>Me<ex>n</ex> lese sig allene offuer barnet.
                             Tro<lb rend="="/>en. Oc Fader vor Med det eua<ex>n</ex>gelio <lb/>som
                         sanctus Marcus scriffuer ut supra</p>
@@ -3365,7 +3365,7 @@
                     <p>Effterdi at i haffue nu giffuit eder bo<lb rend="="/>de tilsamme<ex>n</ex>
                         vdi det hellige ecteskab i <lb/>guds naffn. Saa hører nu først flitte<lb
                             rend="="/>ligen guds bud oc befalning offuer de<ex>n</ex><lb rend="="
-                        />ne stat. Saa siger S. Paul<ex>us</ex> (<ref target="christian-3-bibel.xml#ef"
+                        />ne stat. Saa siger S. Paul<ex>us</ex> (<ref target="#ef"
                                 ><orig>Ephe.</orig><reg>Ef</reg></ref>) <lb/>I
                             husbo<ex>n</ex>d<ex>er</ex> elsker ed<ex>er</ex>s hustruer. liger<lb
                             rend="="/>uis so<ex>m</ex> cristus haffuer elst sin criste<ex>n</ex>
@@ -3476,7 +3476,7 @@
                 <p>Efft<ex>er</ex>di at søge de siuge er for g<ex>u</ex>d me<lb rend="="/>git
                     behageligt oc scal paa den yderste <lb/>dommedag opregnes och bete<ex>n</ex>ckis
                     aff <lb/>vor herre iesu christo. so<ex>m</ex> ha<ex>n</ex> selffuer si<lb
-                        rend="="/>ger. (<ref target="christian-3-bibel.xml#matt-25"><orig>Mattei xxv</orig><reg>Matt
+                        rend="="/>ger. (<ref target="#matt-25"><orig>Mattei xxv</orig><reg>Matt
                             25</reg></ref>). Derfore scal mandt <lb/>gerne om mand bliffuer der til
                     kalled <lb/>i tiide besørge denne<ex>m</ex> met vnd<ex>er</ex>uisning.
                     <lb/>Sacramente oc andit so<ex>m</ex> behoff gøres <lb/>oc siden som
@@ -3501,24 +3501,24 @@
                     <head>Loci ex quibus cognitio peccati di<lb rend="="/>noscitur.</head>
                     <p>Videns autem deus qui multa malitia <pb ana="T4_r" n="E151"/> hominum esset
                         in terra. et cuncta cogi<lb rend="="/>tatio cordis humani intenta esset ad
-                            ma<lb rend="="/>lum omni tempore. (<ref target="christian-3-bibel.xml#mos-1-6"><orig>Genesis
+                            ma<lb rend="="/>lum omni tempore. (<ref target="#mos-1-6"><orig>Genesis
                                 vi</orig><reg>1 Mos 6</reg></ref>).</p>
                     <p>Non est iustus. ne vnus quidem. Non <lb/>est qui intelligat. non est qui
                         exquirat de<lb rend="="/>um. Onmes deflexerunt. simul inuti<lb rend="="/>les
                         facti sunt. non est qui excerceat bonita<lb rend="="/>tem. non est vsque ad
-                        vnum. (<ref target="christian-3-bibel.xml#sl-13"><orig>ps xiij</orig><reg>Sl 13</reg></ref>).</p>
+                        vnum. (<ref target="#sl-13"><orig>ps xiij</orig><reg>Sl 13</reg></ref>).</p>
                     <p>Ecce in iniquitatibus conceptus sum. et in <lb/>peccatis concepit me mater
-                        mea. (<ref target="christian-3-bibel.xml#sl-50"><orig>ps l</orig><reg>Sl 50</reg></ref>).</p>
+                        mea. (<ref target="#sl-50"><orig>ps l</orig><reg>Sl 50</reg></ref>).</p>
                     <lb/>
                     <p>Omnes enim peccauerunt et destituuntur glo<lb rend="="/>ria dei.(<ref
-                            target="christian-3-bibel.xml#rom-3"><orig>Ad. Roma. tertio</orig><reg>Rom
+                            target="#rom-3"><orig>Ad. Roma. tertio</orig><reg>Rom
                         3</reg></ref>).</p>
                     <lb/>
                     <p>Ego inquit Paulus. noui qui non habi<lb rend="="/>tet in me hoc est in carne
-                        mea bonum et <lb/>cetera. (<ref target="christian-3-bibel.xml#rom-7"><orig>Ad. Roma.
+                        mea bonum et <lb/>cetera. (<ref target="#rom-7"><orig>Ad. Roma.
                                 vij</orig><reg>Rom 7</reg></ref>).</p>
                     <lb/>
-                    <p>Et eramus natura filij ire quemadmodum <lb/>et ceteri. (<ref target="christian-3-bibel.xml#ef-2"
+                    <p>Et eramus natura filij ire quemadmodum <lb/>et ceteri. (<ref target="#ef-2"
                                 ><orig>ad Ephesios. ij</orig><reg>Ef 2</reg></ref>).</p>
                 </div>
                 <lb/>
@@ -3530,33 +3530,33 @@
                     <lb/>
                     <p>Vere languores nostros ipse pertulit. <pb ana="T4_v" n="E152"/> dolores
                         nostros ipse portauit. et ipse <lb/>vulneratus est propter iniquitates
-                        nostras.<lb/> et cetera. (<ref target="christian-3-bibel.xml#es-53"><orig>esaie
+                        nostras.<lb/> et cetera. (<ref target="#es-53"><orig>esaie
                                 liij</orig><reg>Es 53</reg></ref>).</p>
                     <lb/>
                     <p>Preterea inquit Esaias posuit in eo dominus <lb/>iniquitatem omnium nostrum
-                            .(<ref target="christian-3-bibel.xml#es-53"><orig>eodem capitulum</orig><reg>Es
+                            .(<ref target="#es-53"><orig>eodem capitulum</orig><reg>Es
                             53</reg></ref>).</p>
                     <lb/>
-                    <p>Ecce agnus dei. ecce qui tollit peccata <lb/>mundi. (<ref target="christian-3-bibel.xml#joh-1"
+                    <p>Ecce agnus dei. ecce qui tollit peccata <lb/>mundi. (<ref target="#joh-1"
                                 ><orig>Johannis primo</orig><reg>Joh 1</reg></ref>).</p>
                     <lb/>
                     <p>Sic deus dilexit mundum ut filium suum <lb/>vnigenitum daret. vt omnis qui
                         credit in eum <lb/>non pereat seu habeat vitam eternam. (<ref
-                            target="christian-3-bibel.xml#joh-3"><orig>Joh. 3</orig><reg>Joh 3</reg></ref>)</p>
+                            target="#joh-3"><orig>Joh. 3</orig><reg>Joh 3</reg></ref>)</p>
                     <lb/>
                     <p>Justitia vero dei per fidem iesu cristi <lb/>in omnes et super omnes eos qui
-                        credunt <lb/>in eum. non enim est distinctio. etc. (<ref target="christian-3-bibel.xml#rom-3"
+                        credunt <lb/>in eum. non enim est distinctio. etc. (<ref target="#rom-3"
                                 ><orig>Ro. iij</orig><reg>Rom 3</reg></ref>)</p>
                     <lb/>
                     <p>Justificati autem gratis. hoc est sine nos<lb rend="="/>tris operibus aut
                         meritis. per illius <lb/>gratiam. per redemptionem qui est in cristo ie<lb
                             rend="="/>su. quem posuit deus reco<ex>n</ex>ciliatorem <lb/>per fidem.
-                        interueniente ipsius sangui<lb rend="="/>ne etcetera. (<ref target="christian-3-bibel.xml#rom-3"
+                        interueniente ipsius sangui<lb rend="="/>ne etcetera. (<ref target="#rom-3"
                                 ><orig>eodem ca.</orig><reg>Rom 3</reg></ref>)</p>
                     <lb/>
                     <p>Gratia enim estis seruati per fidem. <pb ana="V1_r" n="E153"/> idquod non ex
                         vobis. dei donum est. non <lb/>ex operibus. ne quis glorietur. (<ref
-                            target="christian-3-bibel.xml#ef-2"><orig>Eph. ij</orig><reg>Ef 2</reg></ref>)</p>
+                            target="#ef-2"><orig>Eph. ij</orig><reg>Ef 2</reg></ref>)</p>
                     <p>Saa skal preste<ex>n</ex> trøste oc hugsuale de<ex>n</ex>
                         <lb/>siuge efft<ex>er</ex> de<ex>n</ex>ne forscreffne hellige scri<lb
                             rend="="/>fftis lydelse oc sige til hannem.</p>
@@ -3567,14 +3567,14 @@
                         freds. haff aluorlige<ex>n</ex> ihu oc si<ex>n</ex>d <lb/>m<ex>ed</ex> guds
                         naadelige hielp. synd oc ond<lb rend="="/>skab aldri mere att giøre. Din tro
                         <lb/>gør dig salig. Fordi vor herris iesu <lb/>christi blod re<ex>n</ex>gør
-                        oc afftoor alle dine <lb/>synd<ex>er</ex>. (<ref target="christian-3-bibel.xml#joh-brev-1-1"
+                        oc afftoor alle dine <lb/>synd<ex>er</ex>. (<ref target="#joh-brev-1-1"
                                 ><orig>i Joa<ex>nn</ex>is i</orig><reg>1 Joh 1</reg></ref>). (<ref
-                            target="christian-3-bibel.xml#aab-1"><orig>Apoca. i.</orig><reg>Åb 1</reg></ref>) oc tro
+                            target="#aab-1"><orig>Apoca. i.</orig><reg>Åb 1</reg></ref>) oc tro
                             for<lb rend="="/>uist at der er intit andet naffn giffuit <lb/>mennisken
                         vnder himmelin. vdi huil<lb rend="="/>ked oss bør att bliffue salige. vden i
                             de<ex>n</ex>
                         <pb ana="V1_v" n="E154"/> korsfeste vor herris iesu cristi naffn. <lb/>(<ref
-                            target="christian-3-bibel.xml#apg-4"><orig>Actorum. iiij)</orig><reg>ApG 4</reg></ref>)</p>
+                            target="#apg-4"><orig>Actorum. iiij)</orig><reg>ApG 4</reg></ref>)</p>
                     <lb/>
                     <p>Nar presten handler sacramentet hoss <lb/>de<ex>n</ex> siuge. da haffuer
                             ha<ex>n</ex> inge andre kle<lb rend="="/>der behoff end sine egne. Fordi
@@ -3614,7 +3614,7 @@
                     <head type="add">Ad populum congregatum exortatio</head>
                     <head>&#x00b6; Ad populvm congregatum exortatio.</head>
                     <p>Myne alsomkeriste ve<ex>n</ex>ner. Vor herre <lb/>iesus christus siger. (<ref
-                            target="christian-3-bibel.xml#matt-18"><orig>Mat. xviij. capi.</orig><reg>Matt
+                            target="#matt-18"><orig>Mat. xviij. capi.</orig><reg>Matt
                         18</reg></ref>)<lb/>Huarsomhelst to eller tre ere forsa<ex>m</ex>le<lb
                             rend="="/>de i mit naffn. der er ieg selffuer ebla<ex>n</ex>t <pb
                             ana="V2_v" n="E156"/> dennem. Oc huad de bedes i mit naffn <lb/>det skal
@@ -3805,7 +3805,7 @@
             </div>
         </body>
         <back>
-            <div type="register" xml:id="register" n="9">
+            <div type="register" xml:id="register-ulriksen-1539" n="9">
                 <head type="add">Register</head>
 
                 <head><pb ana="X3_r" n="E165"/><!-- ana vises ikke -->Jndex articulorum huius
@@ -3839,32 +3839,32 @@
                             target="#die-omnium-sanctorum-collecta">ibidem</ref>
                     </item>
                     <lb/>
-                    <item>Collecta pro Ecclesia. <ref target="christian-3-bibel.xml#pro-ecclesia-collecta">ibidem</ref>
+                    <item>Collecta pro Ecclesia. <ref target="#pro-ecclesia-collecta">ibidem</ref>
                     </item>
                     <lb/>
                     <item>Collecta pro ministris ecclesie. <ref
-                            target="christian-3-bibel.xml#pro-ministris-ecclesie-collecta">ibidem</ref>
+                            target="#pro-ministris-ecclesie-collecta">ibidem</ref>
                     </item>
                     <lb/>
                     <item>Collecta Letaniarum in ebdomeda. <ref target="#die-letaniarum-ecclesie">m
                             ij</ref>
                     </item>
                     <lb/>
-                    <item>Collecta pro peccatis. <ref target="christian-3-bibel.xml#pro-peccatis-oratio">ibidem</ref>
+                    <item>Collecta pro peccatis. <ref target="#pro-peccatis-oratio">ibidem</ref>
                     </item>
                     <lb/>
-                    <item>Collecta pro pace. <ref target="christian-3-bibel.xml#pro-pace-oratio">ibidem</ref>
+                    <item>Collecta pro pace. <ref target="#pro-pace-oratio">ibidem</ref>
                     </item>
                     <lb/>
-                    <item>Collecta pro Rege nostro. <ref target="christian-3-bibel.xml#pro-rege-nostro-oratio"
+                    <item>Collecta pro Rege nostro. <ref target="#pro-rege-nostro-oratio"
                             >ibidem</ref>
                     </item>
                     <lb/>
-                    <item>Collecta pro regibus et omnibus etc. <ref target="christian-3-bibel.xml#pro-regibus-et-omnibus"
+                    <item>Collecta pro regibus et omnibus etc. <ref target="#pro-regibus-et-omnibus"
                             >m iij</ref>
                     </item>
                     <lb/>
-                    <item>Collecta pro congregatione nostra. <ref target="christian-3-bibel.xml#pro-congregatione-nostra"
+                    <item>Collecta pro congregatione nostra. <ref target="#pro-congregatione-nostra"
                             >ibidem</ref>
                     </item>
                     <lb/>
@@ -3877,12 +3877,12 @@
                     </item>
                     <lb/>
                     <item>Collecta pro publicis peccatoribus. homici<lb rend="="/>dis et
-                        excommunicatis. <ref target="christian-3-bibel.xml#pro-publicis-peccatoribus">n i</ref>
+                        excommunicatis. <ref target="#pro-publicis-peccatoribus">n i</ref>
                     </item>
                     <lb/>
                     <item><pb ana="X3_v" n="E166"/><!-- ana vises ikke -->collecta pro recipiendis
                         ad sanctorum communione. etc <ref
-                            target="christian-3-bibel.xml#pro-recipiendis-ad-sanctorum-communionem">n ij</ref>
+                            target="#pro-recipiendis-ad-sanctorum-communionem">n ij</ref>
                     </item>
                     <lb/>
                     <item>collecta ad ordinationem sacerdotum. <ref target="#ad-ordinationem">n
@@ -3894,7 +3894,7 @@
                     </item>
                     <lb/>
                     <item>collecta tempore electionis regis. <ref
-                            target="christian-3-bibel.xml#tempore-electionis-regis-oratio">o ij</ref>
+                            target="#tempore-electionis-regis-oratio">o ij</ref>
                     </item>
                     <lb/>
                     <item>collecta pro rege die coronationis eius. <ref target="#die-coronationis"
@@ -3905,7 +3905,7 @@
                     </item>
                     <lb/>
                     <item>collecta ad sepulturam. <ref
-                            target="christian-3-bibel.xml#kollekt-foer-eller-efter-pater-noster">x ij</ref>
+                            target="#kollekt-foer-eller-efter-pater-noster">x ij</ref>
                     </item>
                     <lb/>
                     <item>Nar ingen communica<ex>n</ex>ter ere. <ref
@@ -3946,34 +3946,34 @@
                     <item>Om Jordeferdt. <ref target="#om-jordefaerd">x i</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio communis <ref target="christian-3-bibel.xml#prefatio-communis-ulriksen">e iij</ref>
+                    <item>Prefatio communis <ref target="#prefatio-communis-ulriksen">e iij</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio de nativitate christi. <ref target="christian-3-bibel.xml#prefatio-nativitate-christi"
+                    <item>Prefatio de nativitate christi. <ref target="#prefatio-nativitate-christi"
                             >o ij</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio de passione cristi <ref target="christian-3-bibel.xml#prefatio-de-passione-christi">o
+                    <item>Prefatio de passione cristi <ref target="#prefatio-de-passione-christi">o
                             iij</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio de resurrectione <ref target="christian-3-bibel.xml#prefatio-de-resurrectione">o
+                    <item>Prefatio de resurrectione <ref target="#prefatio-de-resurrectione">o
                             iiij</ref>
                     </item>
                     <lb/>
                     <item><pb ana="X4_r" n="E167"/><!-- ana vises ikke -->Prefatio de ascensione.
-                            <ref target="christian-3-bibel.xml#prefatio-ascensione-domine">p i</ref>
+                            <ref target="#prefatio-ascensione-domine">p i</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio de sancto spiritu. <ref target="christian-3-bibel.xml#prefatio-sancto-spiritu">p
+                    <item>Prefatio de sancto spiritu. <ref target="#prefatio-sancto-spiritu">p
                             ij</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio de sancta trinitate. <ref target="christian-3-bibel.xml#prefatio-trinitate"
+                    <item>Prefatio de sancta trinitate. <ref target="#prefatio-trinitate"
                             >ibidem</ref>
                     </item>
                     <lb/>
-                    <item>Prefatio de beata virgine. <ref target="christian-3-bibel.xml#prefatio-virgine">p iiij</ref>
+                    <item>Prefatio de beata virgine. <ref target="#prefatio-virgine">p iiij</ref>
                     </item>
                 </list>
 
@@ -4001,7 +4001,7 @@
                     <p>
                         <pb ana="X4_v" n="E168"/><!-- ana vises ikke -->Jnsignia Regis Danorum. <lb/>
                         <figure type="image"/>
-                        <lb/>(<ref target="christian-3-bibel.xml#kor-1-14"><orig>Paulus. i cor. xiiii</orig><reg>1 Kor
+                        <lb/>(<ref target="#kor-1-14"><orig>Paulus. i cor. xiiii</orig><reg>1 Kor
                                 14</reg></ref>). <lb/>Omnia decenter et secundum <lb/>ordinem
                         fiant.</p>
                 </div>
