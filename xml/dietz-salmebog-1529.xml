@@ -368,7 +368,7 @@
                </lg>
             </div>
              <div type="psalm" xml:id="o-gud-vi-love-dig-dietz-1529" n="2">
-               <head type="add">O Gud, vi love dig</head>
+               <head type="add">Te deum laudamus/ O Gud, vi love dig</head>
                <head>&#x00B6; Sancti Ambrosij oc S. Augu<lb rend="="/>stini lofsang som hedder paa
                   latine. <!--<figure type="vignette"/>--> Te deum laudamus. <figure type="vignette"
                   /></head>
@@ -425,8 +425,8 @@
                   <l>ther fore lad oss icke bliffue till skendzel ewindelig.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="kom-gud-skaber-helligaand-dietz-1529" n="3">
-               <head type="add">Kom, Gud skaber, o Helligånd</head>
+             <div type="psalm" xml:id="kom-gud-skaber-o-helligaand-dietz-1529" n="3">
+               <head type="add">Veni creator spiritus/ Kom, Gud skaber, o Helligånd</head>
                <head>&#x00B6; Hymnus Veni crea<lb rend="="/>tor spiritus.</head>
                <lg>
                   <l><c function="initials" rend="3">K</c>Om Gud skaber helligeaand/ </l>
@@ -477,7 +477,7 @@
                   <l>loff prÿss oc ære ÿ alle land.</l>
                </lg>
             </div>
-            <div xml:id="versickel" n="4">
+            <div xml:id="versikel" n="4">
                <head type="add">Versikel</head>
                <head>&#x00B6; Versickel fore Benedictus.</head>
                <p><space extent="2blanks"/>Zacharias er opfylt med then Hellia<lb rend="="/><note
@@ -485,8 +485,8 @@
                      1</reg></ref>)</note>and/ <lb/>Han Propheterede ock spaade si<lb rend="="
                   />gendis.</p>
             </div>
-             <div xml:id="benedictus-dietz-1529" n="5">
-               <head type="add">Benedictus</head>
+             <div xml:id="benedidet-vaere-israels-gud-og-herre-dietz-1529" n="5">
+               <head type="add">Benedictus/ Benedidet være Israels Gud og Herre</head>
                <head><!--<figure type="vignette"/>-->
                   <pb facs="074" n="E13" ana="7_r"/> Benedictus.
                   <!--<figure type="vignette"/>--></head>
@@ -559,8 +559,8 @@
                   <l>oc bliffuer til ewighed ame<ex>n</ex>.</l>
                </lg>
             </div>
-            <div xml:id="benedicamus" n="6">
-               <head type="add">Benedicamus</head>
+            <div xml:id="lover-gud-vor-herre-halleluja" n="6">
+               <head type="add">Benedicamus/ Lover Gud vor herre Halleluja</head>
                <head><!--<figure type="vignette"/>--> Benedicamus.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -576,7 +576,7 @@
          </div>
           <div type="chapter" xml:id="aftensang-dietz-1529" n="2">
             <head type="add">Til aftensang</head>
-            <div type="psalm" xml:id="nu-frygter-eder" n="1">
+            <div type="psalm" xml:id="nu-fryder-eder-alle-kristne-maend" n="1">
                <head type="add">Nu fryder eder, alle kristne mænd</head>
                <head>&#x00B6; Til afftensang.</head>
                <head>&#x00B6; Nw frygder eder/ <lb/>med twende begyndelse. Then første.</head>
@@ -591,8 +591,8 @@
                   <l>forløøst haffuer han oss dyre.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="guder-fader-søn-og-den-hellige-aand" n="2">
-               <head type="add">Gud Fader og søn og den hellige ånd</head>
+            <div type="psalm" xml:id="gud-fader-søn-og-den-helligaand" n="2">
+               <head type="add">Gud Fader og søn og den helligånd</head>
                <head>&#x00B6; Then anden begyndelse med samme noder.</head>
                <lg>
                   <l><c function="initials" rend="3">G</c>Vd fader oc Søn oc then Helli<lb rend="="
@@ -742,7 +742,7 @@
                   <l>Guds ord thet bliffuer ewindelig.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="in-exitu-israel-de-egypto" n="3">
+            <div type="psalm" xml:id="israels-udgang-af-egypten" n="3">
                <head type="add">Israels udgang af Egypten</head>
                <head>&#x00B6; Jn exitu Jsrael de Egypto.</head>
                <lg>
@@ -875,11 +875,14 @@
                   <l>AMEN.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="kristum-vi-love-nu" n="4">
+             <div xml:id="antifon-vi-som-leve-benedide-herren" n="4">
+                <head type="add">Antifon/ Vi som leve benedide Herren</head>
+                <head>&#x00B6; Antiphona. </head>
+                <p>Wÿ som leffue benedide Herren. <!--<figure type="vignette"/>-->
+                </p>
+            </div>
+            <div type="psalm" xml:id="kristum-vi-skulle-love-nu" n="5">
                <head type="add">Kristum vi skulle love nu</head>
-               <head>&#x00B6; Antiphona. </head>
-               <head>Wÿ som leffue benedide Herren. <!--<figure type="vignette"/>-->
-               </head>
                <head>Een hymne aff Christi fødzel. A solis
                   ortus.<!--<figure type="vignette"/>--></head>
                <lg>
@@ -950,15 +953,15 @@
                   <l>att dieffuelsens rÿge faar icke macht.</l>
                </lg>
             </div>
-            <div xml:id="versikel-magnificat" n="5">
+            <div xml:id="versikel-magnificat" n="6">
                <head type="add">Versikel</head>
                <head><pb facs="084" n="E23" ana="12_r"/>&#x00B6; Versickel fore Magnificat.</head>
                <p>Han skall regnere <app><lem>offuer</lem><rdg wit="#orig">affuer</rdg></app> Jacobs
                   hwss ewindelig.</p>
                <p><space extent="2blanks"/>Hans rÿge faar ingen ende.</p>
             </div>
-            <div xml:id="magnificat" n="6">
-               <head type="add">Min sjæl ophøjer Herren</head>
+            <div xml:id="magnificat.min sjael-taler-maria-ophoejer-herren" n="7">
+               <head type="add">Magnificat/ Min sjæl (taler Maria) ophøjer Herren</head>
                <head><!--<figure type="vignette"/>--> Magnificat.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -1013,8 +1016,8 @@
                   <l>AMEN.</l>
                </lg>
             </div>
-            <div xml:id="benedicamus-igen" n="7">
-               <head type="add">Benedicamus</head>
+            <div xml:id="benedicamus-lover-kristium-vor-frelsere-halleluja" n="8">
+               <head type="add">Benedicamus/ Lover Kristum vor frelser Halleluja</head>
                <head><!--<figure type="vignette"/>--> Benedicamus.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -1095,8 +1098,8 @@
                   <l>Giff thennom then ewig ære.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="laudate-dominum-omnes-gentes" n="2">
-               <head type="add">Lover Herren, hedninger alle</head>
+            <div type="psalm" xml:id="lover-herren-alle-hedninger" n="2">
+               <head type="add">Lover Herren, alle hedninger</head>
                <head>&#x00B6; Laudate dominum omnes gentes.</head>
                <lg>
                   <l><note place="left">(<ref target="#sl-116"><orig>Psal. cxvj.</orig><reg>Sl
@@ -1117,8 +1120,8 @@
                   <l>fraa ewighed oc til ewighed AMEN.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="nunc-dimittis-dietz-1529" n="3">
-               <head type="add">Nunc dimittis / Forlad nu din svend, o Herre</head>
+             <div type="psalm" xml:id="forlad-nu-din-svend-o-herre-dietz-1529" n="3">
+               <head type="add">Nunc dimittis/ Forlad nu din svend, o Herre</head>
                <head>&#x00B6; Nunc dimittis.</head>
                <lg>
                   <l><pb facs="088" n="E27" ana="14_r"/>
@@ -1144,8 +1147,8 @@
                   <l>fraa ewighed oc til ewi<lb rend="="/>ghed AMEN.</l>
                </lg>
             </div>
-            <div xml:id="benedicamus3" n="4">
-               <head type="add">Benedicamus</head>
+            <div xml:id="benedider-herren-halleluja" n="4">
+               <head type="add">Benedicamus/ Benedider Herren Halleluja</head>
                <head><!--<figure type="vignette"/>--> Benedicamus.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -1160,7 +1163,7 @@
             </div>
          </div>
          <div type="chapter" xml:id="til-forskellige-lejligheder" n="4">
-            <head type="add">Til forskellige lejligheder</head>
+            <head type="add">[Til forskellige lejligheder]</head>
             <head>[Til forskellige lejligheder]</head>
              <div type="psalm" xml:id="gud-fader-bliv-du-nu-med-os-dietz-1529" n="1">
                <head type="add">Gud Fader, bliv du nu med os</head>
@@ -1214,7 +1217,7 @@
                   <l>Saa siunge wÿ Alleluia.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="herre-krist-guds-enborne-soen" n="2">
+            <div type="psalm" xml:id="herre-krist-guds-enbaarne-soen" n="2">
                <head type="add">Herre Krist Gud Faders enbårne søn</head>
                <head>&#x00B6; Een <app><lem>skøn</lem><rdg wit="#orig">skon</rdg></app> lofsang aff
                   Christo.</head>
@@ -1279,8 +1282,8 @@
                   <l>Men altÿd tencke paa teg.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="men-vi-leve-paa-jorden-her-dietz-1529" n="3">
-               <head type="add">Men vi leve på jorden her</head>
+             <div type="psalm" xml:id="media-vita-men-vi-leve-paa-jorden-her-dietz-1529" n="3">
+               <head type="add">Media vita/ Men vi leve på jorden her</head>
                <head><!--<figure type="vignette"/>--> Media vita.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -1342,7 +1345,7 @@
                </lg>
             </div>
             <div type="psalm" xml:id="o-gud-af-himmelen-se-hertil" n="4">
-               <head type="add">O Gud, af himmelen se her til</head>
+               <head type="add">O Gud, af himmelen se hertil</head>
                <head>&#x00B6; Then. xj. Psalme Saluum me fac/ <lb/>til att siunge om thet hellig
                   Euangelij framgang.</head>
                <lg>
@@ -1542,7 +1545,7 @@
          <div type="chapter" xml:id="til-jul" n="5">
             <head type="add">[Til jul]</head>
              <div type="psalm" xml:id="nu-lader-os-alle-takke-gud-dietz-1529" n="1">
-               <head type="add">Nu lader os alle takke Gud vor Herre</head>
+               <head type="add">Grates nunc omnes/ Nu lader os alle takke Gud vor Herre</head>
                <head>&#x00B6; Een Sequentz/ <lb/>Grates nunc omnes.</head>
                <lg>
                   <l><space extent="2blanks"/>Nw lader oss alle tacke Gud wor Her<lb rend="="/>re/ </l>
@@ -1623,7 +1626,7 @@
                   <l>Kyrioley.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="dies-est-letitie-alt" n="3">
+            <div type="psalm" xml:id="et-lidet-barn-saa-aerefuldt" n="3">
                <head type="add">Et lidet barn så ærefuldt</head>
                <head>&#x00B6; Een anden skøn wÿse aff Chri<lb rend="="/>sti fødzel/ <lb/>oc haffuer
                   the samme noder som Dies est letitie siunges med.</head>
@@ -1681,8 +1684,8 @@
                   <l>lad oss ÿ freden leffue.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="christus-natus-hodie-dietz-1529" n="4">
-               <head type="add">Nu er født os Jesus Krist</head>
+             <div type="psalm" xml:id="nu-er-foedt-os-jesus-krist-dietz-1529" n="4">
+               <head type="add">Christus natus hodie/ Nu er født os Jesus Krist</head>
                <head><!--<figure type="vignette"/>--> Christus natus hodie. <figure type="vignette"
                   /></head>
                <lg>
@@ -1867,8 +1870,8 @@
                   <l>miskunde teg offuer oss.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="sedit-angelus" n="3">
-               <head type="add">Guds engel sidder hos graven</head>
+            <div type="psalm" xml:id="guds-engel-sidder-hos-graven" n="3">
+               <head type="add">Sedit angelus/ Guds engel sidder hos graven</head>
                <head><!--<figure type="vignette"/>--> Sedit angelus.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -1882,15 +1885,15 @@
                   <l>stoendis langt fraa.</l>
                </lg>
             </div>
-            <div xml:id="crucifixum-in-carne-laudate" n="4">
-               <head type="add">Crucifixum in carne laudate</head>
+            <div xml:id="den-korsfaeste-paa-manddommen-lover" n="4">
+               <head type="add">Crucifixum in carne laudate/ Den korsfæste på manddommen lover</head>
                <head>&#x00B6; Crucifixum in carne laudate.</head>
                <p><space extent="2blanks"/>Then korsfeste paa mandomen loff<pb facs="105" n="E44"
                      ana="22_v" rend="="/>uer / <lb/>oc then iordede for eders skyld ære<lb rend="="
                   />fulde giøre ÿ/ <lb/>Then som opstod aff dø<lb rend="="/>den tilbeder.</p>
             </div>
-             <div xml:id="nolite-metuere-dietz-1529" n="5">
-               <head type="add">Nolite metuere</head>
+             <div xml:id="frygter-ikke-dietz-1529" n="5">
+               <head type="add">Nolite metuere/ Frygter ikke</head>
                <head>&#x00B6; Nolite metuere.</head>
                <p><space extent="2blanks"/>Frøchter icke/ <note place="left">(<ref target="#matt-28"
                            ><orig>Matthei xxviij.</orig><reg>Matt 28</reg></ref>) (<ref
@@ -1899,14 +1902,17 @@
                      rend="="/>dis død att wære. Oc menniskens liff er opstaaid med hannwm
                   Alleluia.</p>
             </div>
-            <div xml:id="rex-glorie-christus" n="6">
-               <head type="add">Ærens konning o Kriste</head>
+            <div xml:id="aerens-konning-o-kriste-halleluja" n="6">
+               <head type="add">Rex gloriæ Christus/ Ærens konning o Kriste Halleluja</head>
                <head>&#x00B6; Rex glorie Christus. &#x00B6;<note place="left">(<ref target="#sl-23"
                            ><orig>Psal. xxiij.</orig><reg>Sl 23</reg></ref>)</note></head>
                <p>Forsamlingen siunger.</p>
                <lg>
                   <l>Aerens konnig o Christe Alleluia.</l>
                </lg>
+            </div>
+            <div xml:id="o-fader-udi-himmelen" n="7">
+               <head type="add">O Fader udi Himmelen</head>
                <p><!--<figure type="vignette"/>--> Chorid: <!--<figure type="vignette"/>--></p>
                <lg>
                   <l><c function="initials" rend="3">O</c> Fader wdi himmele<ex>n</ex>/<note
@@ -1973,8 +1979,8 @@
                   <l><space extent="2blanks"/>Hun seg paa Gud forlader Alleluia.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="victime-pascali-laudes-dietz-1529" n="7">
-               <head type="add">Kristus Jesus for os ofret</head>
+             <div type="psalm" xml:id="kristus-jesus-for-os-ofret-dietz-1529" n="8">
+               <head type="add">Victimæ paschali laudes/ Kristus Jesus for os ofret</head>
                <head>&#x00B6; Victime paschali laudes.</head>
                <lg>
                   <l><pb facs="107" n="E46" ana="23_v"/><c function="initials" rend="3">C</c>Hristus
@@ -2011,7 +2017,7 @@
                   <l>Alleluia.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="lovsang-af-kristi-opstandelse-2" n="8">
+            <div type="psalm" xml:id="krist-stod-op-af-doede" n="9">
                <head type="add">Krist stod op af døde</head>
                <head>&#x00B6; Een lofsang aff Christi opstandelse.</head>
                <lg>
@@ -2027,8 +2033,8 @@
          </div>
          <div type="chapter" xml:id="tillaeg-1529" n="7">
             <head type="add">[Tillæg 1529]</head>
-             <div type="psalm" xml:id="dixit-dominus-domino-meo-dietz-1529" n="1">
-               <head type="add">Dixit dominus domino meo / Herren sagde til min herre</head>
+             <div type="psalm" xml:id="herren-sagde-til-min-herre-dietz-1529" n="1">
+               <head type="add">Herren sagde til min herre</head>
                <head>&#x00B6; Then. cix. Psalme/ <lb/>Dixit domi<lb rend="="/>nus domino meo.<note
                      place="right">(<ref target="#sl-109"><orig>Psalm. cix.</orig><reg>Sl
                         109</reg></ref>)</note></head>
@@ -2081,8 +2087,8 @@
                   <l>nw oc altÿd/ oc bliffuer til ewig tÿd. AMEN.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="quare-fremuerunt-gentes" n="2">
-               <head type="add">Quare fremuerunt gentes / Hvorfor stormede de hedninge</head>
+            <div type="psalm" xml:id="hvorfor-stormede-de-hedninger" n="2">
+               <head type="add">Hvorfor stormede de hedninger</head>
                <head>&#x00B6; Then. ij. Psalme/ <lb/>Quare fremuerunt gentes.</head>
                <lg>
                   <l><c function="initials" rend="3">H</c>Wor fore stormede the hednin<lb rend="="
@@ -2149,8 +2155,8 @@
                   <l><space extent="2blanks"/>Som wærid haffuer aff begyndelse<ex>n</ex>.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="domine-quis-habitabit" n="3">
-               <head type="add">Domine quis habitabit / Herre, hvem skal have sin bolig</head>
+            <div type="psalm" xml:id="herre-hvem-skal-have-sin-bolig" n="3">
+               <head type="add">Herre, hvem skal have sin bolig</head>
                <head>&#x00B6; Then. xiiij. Psalme/ <lb/>Domine quis habitabit. </head>
                <lg>
                   <l><pb facs="111" n="E50" ana="25_v"/><c function="initials" rend="3">H</c>Erre
@@ -2187,8 +2193,8 @@
                   <l><space extent="2blanks"/>Aere wære Gud fader etc.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="veni-sancte-spiritus-dietz-1529" n="4">
-               <head type="add">Kom Helligånd, Herre Gud</head>
+             <div type="psalm" xml:id="kom.helligaand-herre-gud-dietz-1529" n="4">
+               <head type="add">Veni sancte spiritus/ Kom Helligånd, Herre Gud</head>
                <head>&#x00B6; Veni sancte spiritus.</head>
                <lg>
                   <l><c function="initials" rend="2">K</c>Om Helliaand herre Gud/ </l>
@@ -2255,7 +2261,7 @@
                   <l>loffuer Herren Alleluia.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="nisi-quia-dominus-erat-in-nobis-dietz-1529" n="5">
+             <div type="psalm" xml:id="var-gud-ikke-med-os-denne-tid-dietz-1529" n="5">
                <head type="add">Var Gud ikke med os denne tid</head>
                <head>&#x00B6; Then. cxxiij. Psalme/ <lb/>Nisi quia dominus erat in nobis.</head>
                <lg>
@@ -2302,8 +2308,8 @@
                   <l>Then Hel<lb rend="="/>liaand ey fraa skillies.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="gloria-in-excelsis-deo-dietz-1529" n="6">
-               <head type="add">Alene Gud i det høje</head>
+             <div type="psalm" xml:id="alene-gud-i-det-hoeje-dietz-1529" n="6">
+                <head type="add">Gloria in excelsis deo/ Alene Gud i det høje</head>
                <head>&#x00B6; Gloria in excelsis deo/ <lb/>med the <lb/>noder som alleneste Gud ÿ
                      himme<lb rend="="/>rige siunges med.</head>
                <lg>
@@ -2355,7 +2361,7 @@
                   <l>Ther til wÿ oss forlade.</l>
                </lg>
             </div>
-             <div type="psalm" xml:id="miserere-mei-deus-dietz-1529" n="7">
+             <div type="psalm" xml:id="o-herre-gud-benaade-mig-dietz-1529" n="7">
                <head type="add">O Herre Gud benåde mig</head>
                <head><pb facs="116" n="E55" ana="28_r"/> &#x00B6; Then. l. Psalm/ <lb/>Misere<lb
                      rend="="/>re mei deus.</head>
@@ -2442,8 +2448,8 @@
                   <l>Then Hellia<lb rend="="/>and bør thennom lÿg wære.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="jesu-nostra-redemptio" n="8">
-               <head type="add">Jesu nostra redemptio / Jesu, som est vor salighed</head>
+            <div type="psalm" xml:id="jesu-som-er-vor-salighed-dietz-1529" n="8">
+               <head type="add">Jesu, som er vor salighed</head>
                <head><!--<figure type="vignette"/>--> Jesu nostra redemptio.
                   <!--<figure type="vignette"/>--> Een Hymne aff Christi opfarelse.</head>
                <lg>
@@ -2489,8 +2495,8 @@
                   <l>som sitt ord kundgiør ÿ alle land.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="hellig-er-gud-vor-fader" n="9">
-               <head type="add">Sanctus / Hellig er Gud vor Fader</head>
+            <div type="psalm" xml:id="hellig-er-gud-fader" n="9">
+               <head type="add">Sanctus/ Hellig er Gud Fader</head>
                <head><!--<figure type="vignette"/>--> Sanctus.
                   <!--<figure type="vignette"/>--></head>
                <note place="left">(<ref target="#es-6"><orig>Esaie. vj.</orig><reg>Es
@@ -2527,8 +2533,8 @@
                   <l>Oc haffuer sitt rÿge saa indnommen/ </l>
                   <l>Nw rober alle Hosi<lb rend="="/>anna</l>.</lg>
             </div>
-            <div xml:id="agnus-dei3" n="10">
-               <head type="add">O Guds Lam uskyldig</head>
+            <div type="psalm" xml:id="o-guds-lam-uskyldig" n="10">
+               <head type="add">Agnus dei/ O Guds Lam uskyldig</head>
                <head><!--<figure type="vignette"/>--> Agnus dei.
                   <!--<figure type="vignette"/>--></head>
                <lg>
@@ -2689,7 +2695,7 @@
                   <l>Kyrioleys.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="en-vise-til-at-bekende-troen-med" n="3">
+            <div type="psalm" xml:id="guds-soen-er-kommen-af-himmelen-ned-dietz-1529" n="3">
                <head type="add">Guds søn er kommen af himmelen ned</head>
                <head>&#x00B6; Een wÿse til att bekende troen med/ <lb/>ÿ thet gamle oc ny Testa<lb
                      rend="="/>mente begrundet.</head>
@@ -3115,7 +3121,7 @@
                </lg>
             </div>
              <div type="psalm" xml:id="med-glaede-og-fred-far-jeg-nu-hen-dietz-1529" n="7">
-               <head type="add">Med glæde og fred far jeg nu hen</head>
+               <head type="add">Nunc dimittis/ Med glæde og fred far jeg nu hen</head>
                <head>&#x00B6; Simeonis lofsang. Nunc di<lb rend="="/>mittis. (<ref target="#luk-2"
                         ><orig>Luce. ij.</orig><reg>Luk 2</reg></ref>)</head>
                <lg>
@@ -3218,7 +3224,7 @@
                </lg>
             </div>
              <div type="psalm" xml:id="aleneste-gud-i-himmerig-dietz-1529" n="9">
-               <head type="add">Aleneste Gud i Himmerig</head>
+                <head type="add">Gloria in excelsis deo/ Aleneste Gud i Himmerig</head>
                <head>&#x00B6; Gloria in excelsis deo.</head>
                <lg>
                   <l><c function="initials" rend="3">A</c>Lleneste Gud ÿ himmerig/ </l>
@@ -3393,7 +3399,7 @@
                </lg>
             </div>
             <pb facs="138" n="E77" ana="39_r"/>
-            <div type="psalm" xml:id="fader-vor-vi-bede-dig" n="12">
+            <div type="psalm" xml:id="o-fader-vor-vi-bede-dig" n="12">
                <head type="add">O Fader vor, vi bede dig</head>
                <head><!--<figure type="vignette"/>--> Wor fader.
                   <!--<figure type="vignette"/>--></head>
@@ -3848,7 +3854,7 @@
                   <l>Jeg beder for alle mÿne vn<lb rend="="/>dersaat.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="vaag-og-vaag-op-i-guds-navn" n="16">
+            <div type="psalm" xml:id="vaag-op-vaag-op-i-guds-navn" n="16">
                <head type="add">Våg op, våg op i Guds navn</head>
                <head>&#x00B6; Een Christelige wÿse/ <lb/>mod thet grwselig Satans trwsel.</head>
                <lg>
@@ -4036,7 +4042,7 @@
                </lg>
             </div>
              <div type="psalm" xml:id="krist-stod-op-af-doede-dietz-1529" n="18">
-               <head type="add">Victime paschali laudes / Krist stod op af døde</head>
+               <head type="add">Victimæ paschali laudes/ Krist stod op af døde</head>
                <head><pb facs="152" n="E91" ana="46_r"/>&#x00B6; Then lofsa<ex>n</ex>ng/
                   <lb/>Victime paschali laudes.</head>
                <p><c function="initials" rend="3">N</c>W wille wÿ Christne siunge oc loffue wort
@@ -5277,7 +5283,7 @@
                </lg>
             </div>
              <div xml:id="o-herre-gud-af-himmerig-dietz-1529" n="3">
-               <head type="add">O Herre Gud af Himmerig</head>
+               <head type="add">O Herre Gud af Himmerig, vi må det alle klage</head>
                <head>&#x00B6; Then. xj. Psalme Saluum me fac. Med the noder som thenne nest for
                   schreffne wÿse siungis med.</head>
                <lg>
