@@ -875,8 +875,8 @@
                   <l>AMEN.</l>
                </lg>
             </div>
-             <div xml:id="antifon-vi-som-leve-benedide-herren" n="4">
-                <head type="add">Antifon/ Vi som leve benedide Herren</head>
+             <div xml:id="vi-som-leve-benedide-herren" n="4">
+                <head type="add">Vi som leve benedide Herren</head>
                 <head>&#x00B6; Antiphona. </head>
                 <p>Wÿ som leffue benedide Herren. <!--<figure type="vignette"/>-->
                 </p>
@@ -5610,9 +5610,12 @@
                   </list>
                </item>
             </list>
+            <lb/>
+            <div type="imprint" xml:id="imprint">
+               <head type="add">Kolofon</head>
             <p rend="center">&#x00B6; Trycht ÿ Rozstock hooss Ludowich Dietz. xx. Nouembris. M. D.
                XXiX.</p>
-            <!--<figure type="vignette"/>-->
+            <!--<figure type="vignette"/>--></div>
          </div>
          <pb facs="194" n="E135" ana="r4_r"/>
          <!--<figure type="image"/>-->
