@@ -4307,7 +4307,7 @@
                </lg>
             </div>
             <div xml:id="kollekt-o-herre-jesu-kriste" n="8">
-               <head type="add">Collecta/ O Herre Jesu Kriste</head>
+               <head type="add">Kollekt/ O Herre Jesu Kriste</head>
                <head><!--<figure type="vignette"/>--> Collecta.
                   <!--<figure type="vignette"/>--></head>
                <p>
@@ -4501,7 +4501,7 @@
                   ewindelig. </p>
             </div>
              <div type="psalm" xml:id="vi-tro-allesammen-paa-en-gud-dietz-1529" n="16">
-               <head type="add">Vi tro allesammen på en Gud</head>
+               <head type="add">Credo/ Vi tro alle sammen på en Gud</head>
                <head>&#x00B6; Then Christne forsamling oc Chorid siunge tilhaabe Credo.</head>
                <lg>
                   <l><c function="initials" rend="3">W</c>ÿ tro allsamme<ex>n</ex> paa een Gud /
@@ -4595,7 +4595,7 @@
                </lg>
             </div>
              <div type="psalm" xml:id="nu-er-os-gud-miskundelig-dietz-1529" n="18">
-               <head type="add">Deus misereatur nostri / Nu er os Gud miskundelig</head>
+               <head type="add">Nu er os Gud miskundelig</head>
                <head>&#x00B6; Deus misereatur nostri.</head>
                <p>&#x00B6; Thenne Psalme siungis effter predicken med hwilken then Christne for<lb
                      rend="="/>samling tacker Gud for alle sÿne welgi<lb rend="="/>erninger. Oc
@@ -5012,8 +5012,8 @@
                   <l>Kyrieleyson.</l>
                </lg>
             </div>
-             <div xml:id="dominus-vobiscum-dietz-1529" n="31">
-               <head type="add">Dominus vobiscum / Herren være med jer</head>
+             <div xml:id="hilsen-2" n="31">
+               <head type="add">[Hilsen]</head>
                <head>&#x00B6; Ther effter wender presten seg om til folkit oc siger. Dominus
                   vobiscum.</head>
                <p>
@@ -5023,7 +5023,7 @@
                <p>Lader oss nw alle bede.</p>
             </div>
             <div xml:id="kollekt-dietz-1529" n="32">
-               <head type="add">Kollekt</head>
+               <head type="add">Kollekt/ Vi takke dig, Herre</head>
                <head> &#x00B6; Collecta.</head>
                <p><c function="initials" rend="3">W</c>ÿ tacke teg Herre almectigste e<lb rend="="
                   />wige Gud/ <lb/>att tw med thesse salige gaffuer haffuer oss we<lb rend="="
@@ -5034,8 +5034,8 @@
                <p>Chorid swarer </p>
                <p>Amen. </p>
             </div>
-             <div xml:id="dominus-vobiscum-dietz-1529-2" n="33">
-               <head type="add">Dominus vobiscum / Herren være med jer</head>
+             <div xml:id="hilsen-3-dietz-1529-2" n="33">
+               <head type="add">[Hilsen]</head>
                <p>&#x00B6; Nw wender han seg til fol<lb rend="="/>kit oc siger.</p>
                <p><space extent="2blanks"/>Herren wære med eder.</p>
                <p>Swar.</p>
@@ -5138,25 +5138,25 @@
                </lg>
             </div>
             <div xml:id="alt-indledning-til-nadver" n="36">
-               <head type="add">Alternativ indledning til nadveren</head>
+               <head type="add">[Alternativ indledning til nadveren]</head>
                <head>&#x00B6; Een liden prefads som maa <lb rend="="/>gis ÿ naduorens ceremonier
                   effter tÿd<lb rend="="/>sens leilighed/ <lb/>dog beqwemmelig indsat oc
                   indførd.</head>
             </div>
-            <div xml:id="hilsen" n="37">
-               <head type="add">Hilsen</head>
+            <div xml:id="hilsen-4" n="37">
+               <head type="add">[Hilsen]</head>
                <p>Dominus vobiscum. <lb/>Herren were med eder. </p>
                <p>Swar.</p>
                <p>Oc med thÿn aand.</p>
             </div>
              <div xml:id="sursum-corda-dietz-1529" n="38">
-               <head type="add">Sursum corda / Vore hjerter op i himmelen</head>
+               <head type="add">Sursum corda/ Vore hjerter op i himmelen</head>
                <p>Sursum corda. <lb/>Wore hierter op ÿ himmelen.</p>
                <p>Swar.</p>
                <p><space extent="2blanks"/>Wÿ haffue thennom til Herren.</p>
             </div>
              <div xml:id="gratias-agamus-domino-dietz-1529" n="39">
-               <head type="add">Gratias agamus domino / Lad os takke Herren</head>
+               <head type="add">Gratias agamus domino/ Lad os takke Herren</head>
                <p><pb facs="182" n="E123" ana="62_r"/>Gratias agamus domino. <lb/>Lader oss tacke
                   Herren. </p>
                <p>Swar.</p>
