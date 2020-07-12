@@ -415,19 +415,25 @@
                             <cell rend="font_red"><pb n="A3_v" facs="012"/>xv</cell>
                             <cell>f</cell>
                             <cell/>
-                            <cell>x</cell>
+                            <cell><app><lem>x</lem>
+                                <rdg wit="#orig.">læderet <note>højre del af siden mangler</note></rdg>
+                            </app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">iiii</cell>
                             <cell>g</cell>
                             <cell/>
-                            <cell>y</cell>
+                            <cell><app><lem>y</lem>
+                                <rdg wit="#orig.">læderet <note>højre del af siden mangler</note></rdg>
+                            </app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell rend="font_red">A</cell>
                             <cell/>
-                            <cell>z</cell>
+                            <cell><app><lem>z</lem>
+                                <rdg wit="#orig.">læderet <note>højre del af siden mangler</note></rdg>
+                            </app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xii</cell>
