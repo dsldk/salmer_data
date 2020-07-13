@@ -270,7 +270,7 @@
         </front>
         <body>
             <div type="calendar" xml:id="calendar-malmoe" n="1">
-                <head type="add">Kalender</head>
+                <head type="add">Kalendarium</head>
                 <div xml:id="januar-mgl" n="1">
                     <head type="add">[Januar mangler]</head>
                 </div>
