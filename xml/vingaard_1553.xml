@@ -743,9 +743,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -759,9 +757,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -775,9 +771,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -791,9 +785,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1065,9 +1057,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1081,9 +1071,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1097,9 +1085,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1113,9 +1099,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1376,9 +1360,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1393,9 +1375,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1409,9 +1389,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1425,9 +1403,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1441,9 +1417,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1702,9 +1676,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1718,9 +1690,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1734,9 +1704,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -1751,9 +1719,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2011,9 +1977,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2027,9 +1991,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2043,9 +2005,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2059,9 +2019,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2318,9 +2276,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2334,9 +2290,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2350,9 +2304,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2366,9 +2318,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2382,9 +2332,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2647,9 +2595,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2663,9 +2609,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2679,9 +2623,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2695,9 +2637,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2961,9 +2901,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2977,9 +2915,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -2993,9 +2929,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3009,9 +2943,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3233,9 +3165,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3249,9 +3179,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3308,9 +3236,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3324,9 +3250,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3340,9 +3264,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3564,9 +3486,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3580,9 +3500,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3596,9 +3514,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3612,9 +3528,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3874,9 +3788,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3890,9 +3802,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3906,9 +3816,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -3922,9 +3830,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4184,9 +4090,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4200,9 +4104,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4216,9 +4118,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4232,9 +4132,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4248,9 +4146,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4513,9 +4409,7 @@
                      <cell>
                         <app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4529,9 +4423,7 @@
                      <cell>
                         <app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4546,9 +4438,7 @@
                      <cell>
                         <app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4562,9 +4452,7 @@
                      <cell>
                         <app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app>
                      </cell>
                   </row>
@@ -4715,9 +4603,7 @@
                      <row>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -4728,9 +4614,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -4741,9 +4625,7 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
@@ -4752,9 +4634,7 @@
                      <row>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -4764,18 +4644,14 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <lem>$</lem>
+                           <rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -4790,17 +4666,13 @@
                      <row>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">%
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -4811,9 +4683,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -4830,9 +4700,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -4843,9 +4711,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -4862,9 +4728,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -4875,17 +4739,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">%
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -4899,17 +4759,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">%
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -4920,9 +4776,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -4939,9 +4793,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -4952,9 +4804,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -4971,9 +4821,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -4983,18 +4831,13 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem><rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>Krabbe Middel Tegen.</cell>
@@ -5007,18 +4850,13 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem><rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5029,9 +4867,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>Krabbe Middel Tegen.</cell>
@@ -5039,10 +4875,7 @@
                      <row>
                         <cell>g</cell>
                         <cell><app>
-                           <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <lem>#</lem><rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5053,9 +4886,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5066,9 +4897,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>Løwe Ont Tegen.</cell>
@@ -5077,9 +4906,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5090,9 +4917,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5102,10 +4927,7 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem><rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>Løwe Ont Tegen.</cell>
@@ -5114,9 +4936,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5127,17 +4947,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5150,18 +4966,14 @@
                      <row>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem>
+                           <rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5172,9 +4984,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5191,9 +5001,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5204,9 +5012,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5223,10 +5029,7 @@
                         <cell>t</cell>
                         <cell>i</cell>
                         <cell><app>
-                           <lem>%</lem>$
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>%</lem><rdg wit="#orig.">[specialtegn, forkert] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5236,18 +5039,13 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem><rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5260,18 +5058,13 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem><rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5282,9 +5075,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5301,9 +5092,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5314,9 +5103,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5332,10 +5119,7 @@
                         <cell>t</cell>
                         <cell>i</cell>
                         <cell><app>
-                           <lem>%</lem>$
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>%</lem><rdg wit="#orig.">[specialtegn, forkert] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5346,17 +5130,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>Scorpio Middel Tegen</cell>
                      </row>
@@ -5369,18 +5149,13 @@
                         <cell>v</cell>
                         <cell>k</cell>
                         <cell><app>
-                           <lem>$</lem>%
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>$</lem><rdg wit="#orig.">[specialtegn, forkert] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5391,9 +5166,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>Skytte God Tegen.</cell>
                      </row>
@@ -5402,9 +5175,7 @@
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5415,9 +5186,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5428,9 +5197,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>Skytte God Tegen.</cell>
                      </row>
@@ -5439,9 +5206,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5451,10 +5216,7 @@
                         <cell>t</cell>
                         <cell>i</cell>
                         <cell><app>
-                           <lem>%</lem>$
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>%</lem><rdg wit="#orig.">[specialtegn, forkert] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5465,9 +5227,7 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>Gedebuck Ont Tegen.</cell>
                      </row>
@@ -5476,9 +5236,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5489,17 +5247,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5513,17 +5267,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5534,9 +5284,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5553,9 +5301,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5566,9 +5312,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5584,10 +5328,7 @@
                         <cell>t</cell>
                         <cell>i</cell>
                         <cell><app>
-                           <lem>%</lem>$
-                           <rdg wit="#orig">
-                              <note>originalen har forkert specialtegn;rettet</note>
-                           </rdg>
+                           <lem>%</lem><rdg wit="#orig.">[specialtegn, forkert] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
@@ -5598,17 +5339,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5622,17 +5359,13 @@
                         <cell>k</cell>
                         <cell><app>
                            <lem>$</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                         </app></cell>
                         <cell>r</cell>
                         <cell>g</cell>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5643,9 +5376,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5654,9 +5385,7 @@
                      <row>
                         <cell><app>
                            <lem>#</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                         </app></cell>
                         <cell>o</cell>
                         <cell>d</cell>
@@ -5667,9 +5396,7 @@
                         <cell>h</cell>
                         <cell><app>
                            <lem>¤</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                         </app></cell>
                         <cell>p</cell>
                         <cell>e</cell>
@@ -5680,9 +5407,7 @@
                         <cell>i</cell>
                         <cell><app>
                            <lem>%</lem>
-                           <rdg wit="#orig">
-                              <note>originalen har specialtegn</note>
-                           </rdg>
+                           <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                         </app></cell>
                         <cell>q</cell>
                         <cell>f</cell>
