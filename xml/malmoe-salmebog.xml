@@ -444,7 +444,8 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>læderet; # indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>læderet; #
+                                        indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -453,26 +454,36 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>læderet; ¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>læderet; ¤
+                                        indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>d</cell>
                             <cell>S. Pederss dag</cell>
-                            <cell><app><lem>[lakune]</lem><rdg wit="#orig."><note/></rdg></app></cell>
+                            <cell><app>
+                                    <lem>[lakune]</lem>
+                                    <rdg wit="#orig."><note/></rdg>
+                                </app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">ix</cell>
                             <cell>e</cell>
                             <cell/>
-                            <cell><app><lem>[lakune]</lem><rdg wit="#orig."><note/></rdg></app></cell>
+                            <cell><app>
+                                    <lem>[lakune]</lem>
+                                    <rdg wit="#orig."><note/></rdg>
+                                </app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>f</cell>
                             <cell rend="font_red">Mathie apostoli dag</cell>
-                            <cell><app><lem>[lakune]</lem><rdg wit="#orig."><note/></rdg></app></cell>
+                            <cell><app>
+                                    <lem>[lakune]</lem>
+                                    <rdg wit="#orig."><note/></rdg>
+                                </app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xvii</cell>
@@ -484,19 +495,28 @@
                             <cell rend="font_red">vi</cell>
                             <cell rend="font_red">A</cell>
                             <cell/>
-                            <cell><app><lem>[lakune]</lem><rdg wit="#orig."><note/></rdg></app></cell>
+                            <cell><app>
+                                    <lem>[lakune]</lem>
+                                    <rdg wit="#orig."><note/></rdg>
+                                </app></cell>
                         </row>
                         <row>
                             <cell/>
                             <cell>b</cell>
                             <cell/>
-                            <cell><app><lem>[lakune]</lem><rdg wit="#orig."><note/></rdg></app></cell>
+                            <cell><app>
+                                    <lem>[lakune]</lem>
+                                    <rdg wit="#orig."><note/></rdg>
+                                </app></cell>
                         </row>
                         <row>
                             <cell rend="font_red">xiiii</cell>
                             <cell>c</cell>
                             <cell/>
-                            <cell><app><lem>[lakune]</lem><rdg wit="#orig."><note/></rdg></app></cell>
+                            <cell><app>
+                                    <lem>[lakune]</lem>
+                                    <rdg wit="#orig."><note/></rdg>
+                                </app></cell>
                         </row>
                     </table>
                     <p>&#x2055; Jpocras den Mestere siger Ath man <app>
@@ -509,7 +529,8 @@
                         </app>
                         <lb n="E20.004"/> Agermønye oc Mercke frø i sin drick/ <app>
                             <lem>oc</lem>
-                            <rdg wit="#orig.">[mangler]<note> indsat efter Vingaard 1553</note></rdg>
+                            <rdg wit="#orig.">[mangler]<note> indsat efter Vingaard
+                                1553</note></rdg>
                         </app><lb n="E20.005"/> leffue edrwelige ath man skal icke faa <app>
                             <lem>Kolle</lem>
                             <rdg wit="#orig.">Koll <note>læderet</note></rdg>
@@ -654,7 +675,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -663,7 +684,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -672,7 +693,7 @@
                             <cell>Benedicti abbediss dag</cell>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -681,7 +702,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -689,9 +710,9 @@
                             <cell>e</cell>
                             <cell/>
                             <cell><app>
-                                <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
-                            </app></cell>
+                                    <lem>$</lem>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                </app></cell>
                         </row>
                         <row>
                             <cell/>
@@ -858,7 +879,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -867,7 +888,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -876,7 +897,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -885,7 +906,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1052,7 +1073,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1061,7 +1082,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1070,7 +1091,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1079,7 +1100,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1247,7 +1268,7 @@
                             <cell>Primi oc Feliciani dag</cell>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1256,7 +1277,7 @@
                             <cell>Maurini ab<ex>bediss</ex> dag</cell>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1265,7 +1286,7 @@
                             <cell>Barnabe apostoli dag</cell>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1274,7 +1295,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1283,7 +1304,7 @@
                             <cell>Felicole Jomfruess dag</cell>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1451,7 +1472,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1460,7 +1481,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1469,7 +1490,7 @@
                             <cell>Osualdi kongiss dag</cell>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1478,7 +1499,7 @@
                             <cell>Sixti pauess dag</cell>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1628,7 +1649,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1637,7 +1658,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                     </table>
@@ -1670,7 +1691,7 @@
                             <cell rend="font_red">Egidi <lb/> dag</cell>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1679,7 +1700,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1688,7 +1709,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1835,7 +1856,7 @@
                             <cell>Cosine et Damiani</cell>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1844,7 +1865,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1853,7 +1874,7 @@
                             <cell rend="font_red">S. Michelss dag</cell>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -1862,7 +1883,7 @@
                             <cell>Jeronimi dag</cell>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                     </table>
@@ -2029,7 +2050,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2038,7 +2059,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2047,7 +2068,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2056,7 +2077,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2228,7 +2249,7 @@
                             <cell>Eadmundi kongiss dag</cell>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2237,7 +2258,7 @@
                             <cell rend="font_red">Vor froe dag presentationis</cell>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2246,7 +2267,7 @@
                             <cell>Cecilie Jomfrwess dag</cell>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2255,7 +2276,7 @@
                             <cell rend="font_red">Clemens pauess dag</cell>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2264,7 +2285,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2434,7 +2455,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>#</lem>
-                                <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2443,7 +2464,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>¤</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2452,7 +2473,7 @@
                             <cell/>
                             <cell><app>
                                     <lem>%</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2461,7 +2482,7 @@
                             <cell rend="font_red">S. Thome apostoli dag</cell>
                             <cell><app>
                                     <lem>$</lem>
-                                <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                 </app></cell>
                         </row>
                         <row>
@@ -2601,7 +2622,7 @@
                             <row>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2612,7 +2633,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2623,7 +2644,7 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
@@ -2632,7 +2653,7 @@
                             <row>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2643,13 +2664,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell>#<app>
                                         <lem/>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2663,13 +2684,13 @@
                             <row>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2680,7 +2701,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2697,7 +2718,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2708,7 +2729,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2725,7 +2746,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2736,13 +2757,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2756,13 +2777,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2773,7 +2794,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2790,7 +2811,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2801,7 +2822,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2818,7 +2839,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2829,13 +2850,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>Krab<hi rend="font_red">be</hi></cell>
@@ -2849,13 +2870,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2866,7 +2887,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell><hi rend="font_red">Krab</hi>be</cell>
@@ -2875,7 +2896,7 @@
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2886,7 +2907,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2897,7 +2918,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>Løwe</cell>
@@ -2906,7 +2927,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -2917,7 +2938,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2928,7 +2949,7 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>Løwe</cell>
@@ -2937,7 +2958,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -2948,13 +2969,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2968,13 +2989,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -2985,7 +3006,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3002,7 +3023,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3013,7 +3034,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3030,7 +3051,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3041,13 +3062,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3061,13 +3082,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3078,7 +3099,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3095,7 +3116,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3106,7 +3127,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3123,7 +3144,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3134,13 +3155,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>Scorpio</cell>
                             </row>
@@ -3154,13 +3175,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3171,7 +3192,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell rend="font_red">Skøtte</cell>
                             </row>
@@ -3180,7 +3201,7 @@
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3191,7 +3212,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3202,7 +3223,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell rend="font_red">Skøtte</cell>
                             </row>
@@ -3211,7 +3232,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3222,7 +3243,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3233,7 +3254,7 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>Gedebuck</cell>
                             </row>
@@ -3242,7 +3263,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3253,13 +3274,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3273,13 +3294,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3290,7 +3311,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3307,7 +3328,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3318,7 +3339,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3335,7 +3356,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -3346,13 +3367,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3366,13 +3387,13 @@
                                 <cell>k</cell>
                                 <cell><app>
                                         <lem>$</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>$ indsat</note></rdg>
                                     </app></cell>
                                 <cell>r</cell>
                                 <cell>g</cell>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3383,7 +3404,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3392,7 +3413,7 @@
                             <row>
                                 <cell><app>
                                         <lem>#</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note># indsat</note></rdg>
                                     </app></cell>
                                 <cell>o</cell>
                                 <cell>d</cell>
@@ -3403,7 +3424,7 @@
                                 <cell>h</cell>
                                 <cell><app>
                                         <lem>¤</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>¤ indsat</note></rdg>
                                     </app></cell>
                                 <cell>p</cell>
                                 <cell>e</cell>
@@ -3414,7 +3435,7 @@
                                 <cell>i</cell>
                                 <cell><app>
                                         <lem>%</lem>
-                                    <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
+                                        <rdg wit="#orig.">[specialtegn] <note>% indsat</note></rdg>
                                     </app></cell>
                                 <cell>q</cell>
                                 <cell>f</cell>
@@ -13498,8 +13519,8 @@
                     <head type="add">Efterskrift og kolofon</head>
                     <p><pb/><app>
                             <lem/>
-                            <rdg wit="#orig">
-                                <note>læsningen usikker</note></rdg>
+                            <rdg wit="#orig">[ulæseligt ord]
+                                <note></note></rdg>
                         </app> skal ingen forundre der paa ath <lb n="E277.002"/>ieg haffuer icke nu
                         anderledis forda<ex>n</ex>sket <lb n="E277.003"/>somme aff Psalmerne i denne
                         bog en <lb n="E277.004"/>de vaare førre prentede Jeg lod det nu <lb
@@ -13511,10 +13532,12 @@
                             til/ Fordi lod ieg <lb n="E277.011"/>her nu inge noder sette/ Dog
                                 haff<lb n="E277.012" rend="="/>uer ieg ma<ex>n</ex>gestedis
                             forbedret da<ex>n</ex><lb n="E277.013" rend="="/>sken som de vel see oc
-                            mercke <lb n="E277.014"/>som hende læse kunde <lb n="E277.015"/>&#x2055;
-                            Och vor samme bog <lb n="E277.016"/>Sat i Malmø S. Bar<lb n="E277.017"
-                                rend="="/>tholomei afften Aar <lb n="E277.018"/>effter Gudz byrd <lb
-                                n="E277.019"/>M D XXX <lb n="E277.020"/>JJJ</hi></p>
+                            mercke <lb n="E277.014"/>som hende læse kunde <lb n="E277.015"
+                        /></hi></p>
+                    <p><hi rend="center">&#x2055; Och vor samme bog <lb n="E277.016"/>Sat i Malmø S.
+                                Bar<lb n="E277.017" rend="="/>tholomei afften Aar <lb n="E277.018"
+                            />effter Gudz byrd <lb n="E277.019"/>M D XXX <lb n="E277.020"
+                        />JJJ</hi></p>
                     <p><hi rend="center">&#128596; &#128596;</hi></p>
                 </div>
             </div>
