@@ -3580,16 +3580,18 @@
                                 n="1_v" facs="040" rend="="/>sum Christ/ </l>
                         <l> salig er den som det tror <lb n="E48.002"/>vist/ </l>
                         <l> sig ganske der paa forlader/ </l>
-                        <l> fordi <lb n="E48.003"/><note place="left"><app>
-                                    <lem/>
-                                    <rdg wit="#orig">
-                                        <note>læsningen usikker</note></rdg>
-                                </app>iii|<app>
-                                    <lem/>
-                                    <rdg wit="#orig">
-                                        <note>læsningen usikker</note></rdg>
-                                </app>a<ex>n</ex>. ii</note>hans synder beteckis da/ </l>
-                        <l> ey regnis huad <lb n="E48.004"/>heller de ere store eller smaa</l>
+                        <l> fordi <lb n="E48.003"/><note place="left">(<ref target="#rom-8"><orig><app>
+                                            <lem>Rom.viij</lem>
+                                            <rdg wit="#orig.">iii <note>læderet</note></rdg>
+                                        </app></orig><reg>Rom 8</reg></ref>) </note> hans synder
+                            beteckis da/ </l>
+                        <l> ey regnis huad <lb n="E48.004"/><note place="left">(<ref
+                                    target="#1-johs-brev-2"><orig><app>
+                                            <lem>i Ioha<ex>n</ex>. ii.</lem>
+                                            <rdg wit="#orig.">a<ex>n</ex>. ii.
+                                                <note>læderet</note></rdg>
+                                        </app></orig><reg>1 Joh 2</reg></ref>) </note> heller de ere
+                            store eller smaa</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Christ er død for vor ondskab oc synd/ </l>
@@ -3602,27 +3604,28 @@
                         <l><space extent="2blanks"/>Abraham giorde Gud tilbørlig ære/ </l>
                         <l> der han trode Gudz ord sande ath væ<lb n="E48.012" rend="="/>re/ </l>
                         <l> Til de Ro<ex>m</ex>merske i det fierde/ </l>
-                        <l> haff<lb n="E48.013" rend="="/><note place="left"><app>
-                                    <lem/>
-                                    <rdg wit="#orig">
-                                        <note>læsningen usikker</note></rdg>
-                                </app> iiii</note>uer troen ha<ex>n</ex>nem retuished tillagt/ </l>
+                        <l> haff<lb n="E48.013" rend="="/><note place="left">(<ref target="#rom-4"><orig><app>
+                                            <lem>Rom. iiii</lem>
+                                            <rdg wit="#orig.">. iiii. <note>læderet</note></rdg>
+                                        </app></orig><reg>Rom 4</reg></ref>) </note>uer troen
+                                ha<ex>n</ex>nem retuished tillagt/ </l>
                         <l> oss <lb n="E48.014"/>til en euig lære</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Ath wi tro paa Christ/ gudz gierning <lb
-                                n="E48.016"/>monne det være/<note place="left">i. <app>
-                                    <lem/>
-                                    <rdg wit="#orig">
-                                        <note>læsningen usikker</note></rdg>
-                                </app>i|ii<app>
-                                    <lem/>
-                                    <rdg wit="#orig">
-                                        <note>læsningen usikker</note></rdg>
-                                </app></note></l>
+                                n="E48.016"/>monne det være/<note place="left">(<ref
+                                    target="#johs-6"><orig><app>
+                                            <lem>Ioha<ex>n</ex>. vi.</lem>
+                                            <rdg wit="#orig.">a<ex>n</ex>. vi.
+                                                <note>læderet</note></rdg>
+                                        </app></orig><reg>Joh 6</reg></ref>) </note></l>
                         <l> Joha<ex>n</ex>nis vdi det siette</l>
                         <l><lb n="E48.017"/> Han er oss fød oc giffuen gantske/ </l>
-                        <l> kom <lb n="E48.018"/>aff en Jomfru ren oc klar/ </l>
+                        <l> kom <lb n="E48.018"/><note place="left">(<ref target="#luk-2"><orig><app>
+                                            <lem>Luce ii.</lem>
+                                            <rdg wit="#orig."> ii. <note>læderet</note></rdg>
+                                        </app></orig><reg>Luk 2</reg></ref>) </note>aff en Jomfru
+                            ren oc klar/ </l>
                         <l> som i mandz <lb n="E48.019"/>wære aldrig fandz</l>
                     </lg>
                     <lg>
@@ -3630,12 +3633,15 @@
                             /> tro/</l>
                         <l> saa bewiss dw dig en tienere tro/</l>
                         <l> i <lb n="E48.022"/>kerlighedz gerning mod din næste/ </l>
-                        <l>alt <lb n="E48.023"/><note place="left"><app>
-                                    <lem/>
-                                    <rdg wit="#orig">
-                                        <note>læsningen usikker</note></rdg>
-                                </app> v|xii</note>saa som Gud haffuer dig bewist/ </l>
-                        <l>mod <lb n="E48.024"/>onde och gode menniske</l>
+                        <l>alt <lb n="E48.023"/><note place="left">(<ref target="#Matt-5"><orig><app>
+                                            <lem>Mat. v</lem>
+                                            <rdg wit="#orig.">. v <note>læderet</note></rdg>
+                                        </app></orig><reg>Matt 5</reg></ref>) </note>saa som Gud
+                            haffuer dig bewist/ </l>
+                        <l>mod <lb n="E48.024"/><note place="left">(<ref target="#rom-12"><orig><app>
+                            <lem>Roma xii</lem>
+                            <rdg wit="#orig.">xii <note>læderet</note></rdg>
+                        </app></orig><reg>Rom 12</reg></ref>) </note>onde och gode menniske</l>
                     </lg>
                     <lg>
                         <l><pb n="2_r" facs="041"/>&#x2055; Nu hører huad Gud vid Mose<ex>n</ex>
@@ -3905,7 +3911,7 @@
                                             <rdg wit="#orig">
                                                 <note>læsningen usikker</note></rdg>
                                         </app></orig><reg>Joh ?</reg></ref>) (<ref
-                                    target="#joh-brev-?"><orig>i Joa<app>
+                                    target="#1-joh-brev-?"><orig>i Joa<app>
                                             <lem/>
                                             <rdg wit="#orig">
                                                 <note>læsningen usikker</note></rdg>
@@ -4030,8 +4036,8 @@
                 <head>Till afftensang</head>
                 <div type="psalm" xml:id="nu-fryder-eder-alle-kristne" n="1">
                     <head type="add">Nu fryder eder, alle kristne mænd</head>
-                    <p><space extent="2blanks"/>Nu frøyder eder/ met tuende begyn<lb n="E56.023"
-                            rend="="/>delse <hi rend="center"> Den første</hi></p>
+                    <head><space extent="2blanks"/>Nu frøyder eder/ met tuende begyn<lb n="E56.023"
+                            rend="="/>delse <hi rend="center"> Den første</hi></head>
                     <lg>
                         <l><pb n="6_r" facs="049"/><c function="initials">N</c>V frøyder eder alle
                             Christne <lb n="E57.002"/>mend/</l>
@@ -4327,15 +4333,15 @@
                         <l> fra nw och ind til euig tid</l>
                     </lg>
                     <lg>
-                        <l><pb n="9_r" facs="055"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>ære Gud fader oc Gud søn och <lb n="E63.002"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>ud den helligand</l>
+                        <l><pb n="9_r" facs="055"/>
+                            <app>
+                                <lem>Ære wære</lem>
+                                <rdg wit="#orig.">ære <note>læderet</note></rdg>
+                            </app> Gud fader oc Gud søn och <lb n="E63.002"/>
+                            <app>
+                                <lem>saa Gud</lem>
+                                <rdg wit="#orig.">ud <note>læderet</note></rdg>
+                            </app> den helligand</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Som wærit haffuer aff begyndelsen <lb
@@ -4358,12 +4364,9 @@
                                 n="E63.011"/> nu/</l>
                         <l> Marie søn then rene <lb n="E63.012"/>Jomffru/</l>
                         <l>
-                            <note place="right">(<ref target="#matt-?"><orig>Math <app>
-                                            <lem/>
-                                            <rdg wit="#orig">
-                                                <note>læsningen usikker</note></rdg>
-                                        </app></orig><reg>Matt ?</reg></ref>)</note> saa wit som <lb
-                                n="E63.013"/>sole<ex>n</ex> offuer skin/</l>
+                            <note place="right">(<ref target="#matt-1"><orig>Math i</orig><reg>Matt
+                                        1</reg></ref>)</note> saa wit som <lb n="E63.013"
+                                />sole<ex>n</ex> offuer skin/</l>
                         <l> bekende <lb n="E63.014"/>wi Jesu<ex>m</ex> en Herre all ene</l>
                     </lg>
                     <lg>
@@ -4384,106 +4387,62 @@
                         <l> hun <lb n="E63.022"/>wiste ey fuldkommelig hwad det war </l>
                     </lg>
                     <lg>
-                        <l><pb n="9_v" facs="056"/> Det kyske hierte<ex>n</ex>s hwss for <app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>/ </l>
+                        <l><pb n="9_v" facs="056"/> Det kyske hierte<ex>n</ex>s hwss for vist/ </l>
                         <l><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app><lb n="E64.002"/>g<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
+                                <lem>snar<lb/>lig</lem>
+                                <rdg wit="#orig.">s <lb/> g <note>læderet</note></rdg>
                             </app> anammede Jesum Christ/</l>
                         <l> hun bleff <lb n="E64.003"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
+                                <lem>en</lem>
+                                <rdg wit="#orig.">n <note>læderet</note></rdg>
                             </app> Jomfru klar och sand/</l>
                         <l> sin Søn hun <lb n="E64.004"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>ndfick aff den Helligand</l>
+                                <lem>vndfick</lem>
+                                <rdg wit="#orig.">ndfick <note>læderet</note></rdg>
+                            </app> aff den Helligand</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Den ædle moder bar oss den/</l>
                         <l> som <lb n="E64.006"/>Gabriel forkynde vdsent/</l>
                         <l> den Jomfru <lb n="E64.007"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>un søgte Elizabet/</l>
+                                <lem>hun</lem>
+                                <rdg wit="#orig.">un <note>læderet</note></rdg>
+                            </app> søgte Elizabet/</l>
                         <l> oc fandz ath haff<lb n="E64.008" rend="="/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>e det henne waar iætt</l>
+                                <lem>ue</lem>
+                                <rdg wit="#orig.">e <note>læderet</note></rdg>
+                            </app> det henne waar iætt</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Johannes i sin moders barm/</l>
                         <l> frøy<lb n="E64.010" rend="="/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>e sig bode met fod oc arm/</l>
+                                <lem>de</lem>
+                                <rdg wit="#orig.">e <note>læderet</note></rdg>
+                            </app> sig bode met fod oc arm/</l>
                         <l> Maria vd <lb n="E64.011"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>ff Gudz samffund/</l>
+                                <lem>aff</lem>
+                                <rdg wit="#orig.">ff <note>læderet</note></rdg>
+                            </app> Gudz samffund/</l>
                         <l> sang Magnificat <lb n="E64.012"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>ode met hierte oc mund</l>
+                                <lem>bode</lem>
+                                <rdg wit="#orig.">ode <note>læderet</note></rdg>
+                            </app> met hierte oc mund</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Den som all werden haffuer i wold/</l>
                         <l> han fødis i en asne stold/</l>
-                        <l> en lide<ex>n</ex> mil<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>
-                            <lb n="E64.015"/>fødde hans nature/</l>
-                        <l> so<ex>m</ex> føder oc weder<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app><lb n="E64.016" rend="="/>queger alle creature</l>
+                        <l> en lide<ex>n</ex> milck <lb n="E64.015"/>fødde hans nature/</l>
+                        <l> so<ex>m</ex> føder oc wederqueger alle creature</l>
                     </lg>
                     <lg>
-                        <l><space extent="2blanks"/>Den Engelske skare glædis we<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app></l>
-                        <l> ath Christ vor komme<ex>n</ex> aff Abrahe seed<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>
-                        </l>
-                        <l> det hørde de hyrder/</l>
-                        <l> som voctede der<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>
-                            <lb n="E64.020"/> queg/</l>
+                        <l><space extent="2blanks"/>Den Engelske skare glædis wed/ </l>
+                        <l> ath Christ vor komme<ex>n</ex> aff Abrahe seed </l>
+                        <l> det hørde de hyrder/ som voctede deris <lb n="E64.020"/> queg/</l>
                         <l> ath Christ vor fød oss menniske <lb n="E64.021"/>lig</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Ere wære dig Christ met ko<ex>n</ex>ge naffn</l>
-                        <l> som føddis aff en Jomffru werden til <lb n="E64.024"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app> gaffn/</l>
+                        <l> som føddis aff en Jomffru werden til <lb n="E64.024"/> gaffn/</l>
                         <l> holt din spyre met kongelig act/</l>
                         <l><pb n="10_r" facs="057"/> ath dieffuelsens rige faar icke mact</l>
                     </lg>
@@ -4553,8 +4512,9 @@
                 <head type="add">Til natsang</head>
                 <div type="psalm" xml:id="o-herre-gud-miskunde-dig-malmoe" n="1">
                     <head type="add">O Herre Gud, miskunde dig</head>
-                    <p><space extent="2blanks"/>Vor fader/ som gaar met de <pb n="11_r" facs="059"/>
-                        noder der Deus misereatur <lb n="E67.002"/> siungis met</p>
+                    <head><space extent="2blanks"/>Vor fader/ som gaar met de <pb n="11_r"
+                            facs="059"/> noder der Deus misereatur <lb n="E67.002"/> siungis
+                        met</head>
                     <lg>
                         <l><c function="initials" rend="4">O</c> Herre Gud miskunde dig </l>
                         <l> se til oss paa iorde<ex>n</ex>/ </l>
@@ -5548,7 +5508,7 @@
                         <l><space extent="2blanks"/>Huor lenge ville i vanuittige være/</l>
                         <l> eders ondskaff ey forlade?</l>
                         <l> oc spare mit <lb n="E91.014"/>folck effter min vilge/</l>
-                        <l> oc gøre de<ex>m</ex> inge<ex>n</ex>
+                        <l> oc gøre de<ex>m</ex> inge<ex>n</ex> 
                             <lb n="E91.015"/>skade?</l>
                         <l> Nu vel i tro ey ret paa Gud/</l>
                         <l> i <lb n="E91.016"/>kalle paa hannem ey effter hans bud/</l>
@@ -5870,11 +5830,11 @@
                 </div>
                 <div type="psalm" xml:id="aerens-konge" n="7">
                     <head type="add">Rex gloriæ/ Ærens konning o Kriste</head>
-                    <head>Cum Rex glorie <lb n="E98.011"/> Forsamlinge<ex>n</ex> siunger <note
-                            place="left">(<ref target="#sl-33"><orig>Psal xxliii</orig><reg>Sl
-                                    33</reg></ref>)</note></head>
+                    <head>Cum Rex glorie <lb n="E98.011"/></head>
+                    <p>Forsamlinge<ex>n</ex> siunger <note place="left">(<ref target="#sl-33"
+                                    ><orig>Psal xxliii</orig><reg>Sl 33</reg></ref>)</note></p>
                     <lg>
-                        <l><hi rend="center">Erens konning o Christe Alleluia</hi></l>
+                        <l>Erens konning o Christe Alleluia</l>
                     </lg>
                 </div>
                 <div type="psalm" xml:id="o-fader-udi-himmelen" n="8">
@@ -6342,8 +6302,8 @@
                             Domi<lb n="E108.011"/>ne quis habitabit</head>
                     <lg>
                         <l><c function="initials" rend="4">H</c>Erre huem skal haffue sin bo<lb
-                                n="E108.013" rend="="/>lig i dit paulun? oc hwo skall <lb
-                                n="E108.014"/>bliffue paa dit hellige bierg</l>
+                                n="E108.013" rend="="/>lig i dit paulun?</l>
+                        <l> oc hwo skall <lb n="E108.014"/>bliffue paa dit hellige bierg</l>
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Den som vandrer forude<ex>n</ex> smit<lb
@@ -7952,7 +7912,7 @@
                                         xvii</orig><reg>Jer 17</reg></ref>)</note>
                             <lb n="E145.006"/>min verdskyld eller raad/</l>
                         <l> thi det er ey <lb n="E145.007"/>vden vaade/</l>
-                        <l> Gud haffuer mig iætt de<ex>n</ex>
+                        <l> Gud haffuer mig iætt de<ex>n</ex> 
                             <lb n="E145.008"/>euige ro/</l>
                         <l> det er min trøst och stadelige <lb n="E145.009"/>tro/</l>
                         <l> hans ord kan icke liwe</l>
@@ -7973,7 +7933,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Thi han er mild oc miskundelig/</l>
-                        <l> ha<ex>n</ex>
+                        <l> ha<ex>n</ex> 
                             <lb n="E145.017"/>er all fuld aff naade/</l>
                         <l> han vil aff reth<note place="right">(<ref target="#sl-34"><orig>Psal
                                         xxxiiii</orig><reg>Sl 34</reg></ref>) (<ref target="#tit-3"
@@ -8582,7 +8542,7 @@
                     <head>En christelige vise om <lb n="E158.005"/> menniskens vselhed/ oc
                         fordømmelse/ <lb n="E158.006"/>som alle vaare ko<ex>m</ex>me vdi for Adams
                             <lb n="E158.007"/>vlydelse skyld/ Oc om vor salighed/ so<ex>m</ex>
-                        <lb n="E158.008"/>wi for Christi fortieniste skyld fongit <lb n="E158.009"
+                        <lb n="E158.008"/> wi for Christi fortieniste skyld fongit <lb n="E158.009"
                         />haffue/ Thi skulle wi prise hannem/ oc <lb n="E158.010"/>bliffue hart vid
                         hans ord/ och tage oss <lb n="E158.011"/>vare for menniskens lerdom som er
                             for<lb n="E158.012" rend="="/>gengelig/ men Gudz ord bliffuer <lb
@@ -9904,7 +9864,7 @@
                 </div>
                 <div type="part" xml:id="indstiftelsesordene-malmoe" n="28">
                     <head type="add">[Indstiftelsesordene]</head>
-                    <head>Her effter tager preste<ex>n</ex><lb n="E196.021"/>
+                    <head>Her effter tager preste<ex>n</ex> <lb n="E196.021"/>
                         <note place="left">(<ref target="#matt-26"><orig>Ma xxvi</orig><reg>Matt
                                     26</reg></ref>) (<ref target="#mark-14"><orig>Mar
                                     xiiii</orig><reg>Mark 14</reg></ref>) (<ref target="#luk-22"
@@ -13519,8 +13479,7 @@
                     <head type="add">Efterskrift og kolofon</head>
                     <p><pb/><app>
                             <lem/>
-                            <rdg wit="#orig">[ulæseligt ord]
-                                <note></note></rdg>
+                            <rdg wit="#orig">[ulæseligt ord] <note/></rdg>
                         </app> skal ingen forundre der paa ath <lb n="E277.002"/>ieg haffuer icke nu
                         anderledis forda<ex>n</ex>sket <lb n="E277.003"/>somme aff Psalmerne i denne
                         bog en <lb n="E277.004"/>de vaare førre prentede Jeg lod det nu <lb
