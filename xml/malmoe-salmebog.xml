@@ -1415,10 +1415,10 @@
                         />Lectuge met edicke i de<ex>n</ex>ne maanet Det er icke <lb n="E28.005"
                         />sunt at æde haarde æg flesk/ hard ost/ eller salt <lb n="E28.006"/>steckt
                         kød/ Bruge Saluie oc hylde blomster <lb n="E28.007"/><app>
-                            <lem/>
+                            <lem>oc</lem>
                             <rdg wit="#orig">
-                                <note>læsningen usikker</note></rdg>
-                        </app> æde Yude fastendis</p>
+                                <note> læderet</note></rdg>
+                        </app> æde Rude fastendis</p>
                     <p>Sole<ex>n</ex> ko<ex>m</ex>mer i det tege<ex>n</ex> Krabbe den xii dag</p>
                 </div>
                 <div type="month" xml:id="juli" n="7">
@@ -3639,9 +3639,10 @@
                                         </app></orig><reg>Matt 5</reg></ref>) </note>saa som Gud
                             haffuer dig bewist/ </l>
                         <l>mod <lb n="E48.024"/><note place="left">(<ref target="#rom-12"><orig><app>
-                            <lem>Roma xii</lem>
-                            <rdg wit="#orig.">xii <note>læderet</note></rdg>
-                        </app></orig><reg>Rom 12</reg></ref>) </note>onde och gode menniske</l>
+                                            <lem>Roma xii</lem>
+                                            <rdg wit="#orig.">xii <note>læderet</note></rdg>
+                                        </app></orig><reg>Rom 12</reg></ref>) </note>onde och gode
+                            menniske</l>
                     </lg>
                     <lg>
                         <l><pb n="2_r" facs="041"/>&#x2055; Nu hører huad Gud vid Mose<ex>n</ex>
@@ -3899,24 +3900,20 @@
                         <l> oc met din <lb n="E53.021"/><app>
                                 <lem>nade</lem>
                                 <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
+                                    <note> læderet</note></rdg>
                             </app> forny vor sid</l>
                         <l> at wi ku<ex>n</ex>de ke<ex>n</ex>de skab <lb n="E53.022"/>nig din</l>
                     </lg>
                     <lg>
                         <l> Dw so<ex>m</ex> kallis vor trøsterma<ex>n</ex>d/</l>
                         <l><lb n="E53.023"/> den høyeste noge<ex>n</ex> tid være ka<ex>n</ex>d/</l>
-                        <l> met aan<note place="right">(<ref target="#joh-?"><orig>Joa<ex>n</ex>. xv<app>
-                                            <lem/>
-                                            <rdg wit="#orig">
-                                                <note>læsningen usikker</note></rdg>
-                                        </app></orig><reg>Joh ?</reg></ref>) (<ref
-                                    target="#1-joh-brev-?"><orig>i Joa<app>
-                                            <lem/>
-                                            <rdg wit="#orig">
-                                                <note>læsningen usikker</note></rdg>
-                                        </app></orig><reg>1 Joh ?</reg></ref>)</note><pb n="4_v"
-                                facs="046" rend="="/>delig salue/ salue oss met/</l>
+                        <l> met aan<note place="right">(<ref target="#joh-16"><orig>Joa<ex>n</ex>. <app>
+                                            <lem>xvi</lem>
+                                            <rdg wit="#orig">xv <note>læderet</note></rdg>
+                                        </app></orig><reg>Joh 16</reg></ref>) (<ref
+                                    target="#1-joh-brev-2"><orig>i Joa ii</orig><reg>1 Joh
+                                    ?</reg></ref>)</note><pb n="4_v" facs="046" rend="="/>delig
+                            salue/ salue oss met/</l>
                         <l> ath wi met <lb n="E54.002"/>dine gaffuer bliffue beset</l>
                     </lg>
                     <lg>
@@ -3952,12 +3949,7 @@
                         <l><note place="left">(<ref target="#gal-1"><orig>Galat i</orig><reg>Gal
                                         1</reg></ref>)</note> so<ex>m</ex> oss foruerffde den euige
                             løn/</l>
-                        <l><lb n="E54.020"/>der til wor <app>
-                                <lem>trøstere</lem>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note>
-                                </rdg>
-                            </app> den Helligand/</l>
+                        <l><lb n="E54.020"/>der til wor trøstere den Helligand/</l>
                         <l> loff <lb n="E54.021"/>priss oc ære i alle land</l>
                     </lg>
                 </div>
@@ -4087,11 +4079,7 @@
                     <lg>
                         <l>Der wor oc inge<ex>n</ex> i verde<ex>n</ex> til/</l>
                         <l> der mig for<lb n="E58.006" rend="="/>løse kunde/</l>
-                        <l> Jeg vid ret aldrig h<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>ort ieg <lb n="E58.007"/>vil/</l>
+                        <l> Jeg vid ret aldrig huort ieg <lb n="E58.007"/>vil/</l>
                         <l> ieg maa til helffuedis gru<ex>n</ex>de/</l>
                         <l> Gudz <lb n="E58.008"/>vrede der offuer mig er/</l>
                         <l> oc syndze<ex>n</ex>s byrde <lb n="E58.009"/>der ieg nw bær/</l>
@@ -4659,11 +4647,8 @@
                         <l><space extent="2blanks"/>Dig loffue vnge oc gamle/</l>
                         <l> desligest <lb n="E72.010"/>smaa børn o Christe/</l>
                         <l> viduers skare oc <lb n="E72.011"/> io<ex>m</ex>fruer/</l>
-                        <l> der til alle kyske hierter sa<ex>n</ex>dr<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>cte<lb n="E72.012" rend="="/>lig met ith stemme/</l>
+                        <l> der til alle kyske hierter sa<ex>m</ex>drecte<lb n="E72.012" rend="="
+                            />lig met ith stemme/</l>
                         <l> for din store barm<lb n="E72.013" rend="="/>hiertighed/</l>
                         <l> fra nu oc ind til euig tid</l>
                     </lg>
@@ -5508,7 +5493,7 @@
                         <l><space extent="2blanks"/>Huor lenge ville i vanuittige være/</l>
                         <l> eders ondskaff ey forlade?</l>
                         <l> oc spare mit <lb n="E91.014"/>folck effter min vilge/</l>
-                        <l> oc gøre de<ex>m</ex> inge<ex>n</ex> 
+                        <l> oc gøre de<ex>m</ex> inge<ex>n</ex>
                             <lb n="E91.015"/>skade?</l>
                         <l> Nu vel i tro ey ret paa Gud/</l>
                         <l> i <lb n="E91.016"/>kalle paa hannem ey effter hans bud/</l>
@@ -6268,11 +6253,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Tiener Herren vdi frøct/</l>
-                        <l> och gleder <lb n="E107.024"/><app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app>eder i hannem met en skelffuende fare</l>
+                        <l> och gleder <lb n="E107.024"/>eder i hannem met en skelffuende fare</l>
                     </lg>
                     <pb n="31_v" facs="098"/>
                     <lg>
@@ -7912,7 +7893,7 @@
                                         xvii</orig><reg>Jer 17</reg></ref>)</note>
                             <lb n="E145.006"/>min verdskyld eller raad/</l>
                         <l> thi det er ey <lb n="E145.007"/>vden vaade/</l>
-                        <l> Gud haffuer mig iætt de<ex>n</ex> 
+                        <l> Gud haffuer mig iætt de<ex>n</ex>
                             <lb n="E145.008"/>euige ro/</l>
                         <l> det er min trøst och stadelige <lb n="E145.009"/>tro/</l>
                         <l> hans ord kan icke liwe</l>
@@ -7933,7 +7914,7 @@
                     </lg>
                     <lg>
                         <l><space extent="2blanks"/>Thi han er mild oc miskundelig/</l>
-                        <l> ha<ex>n</ex> 
+                        <l> ha<ex>n</ex>
                             <lb n="E145.017"/>er all fuld aff naade/</l>
                         <l> han vil aff reth<note place="right">(<ref target="#sl-34"><orig>Psal
                                         xxxiiii</orig><reg>Sl 34</reg></ref>) (<ref target="#tit-3"
@@ -9864,7 +9845,8 @@
                 </div>
                 <div type="part" xml:id="indstiftelsesordene-malmoe" n="28">
                     <head type="add">[Indstiftelsesordene]</head>
-                    <head>Her effter tager preste<ex>n</ex> <lb n="E196.021"/>
+                    <head>Her effter tager preste<ex>n</ex>
+                        <lb n="E196.021"/>
                         <note place="left">(<ref target="#matt-26"><orig>Ma xxvi</orig><reg>Matt
                                     26</reg></ref>) (<ref target="#mark-14"><orig>Mar
                                     xiiii</orig><reg>Mark 14</reg></ref>) (<ref target="#luk-22"
@@ -10795,11 +10777,7 @@
                         <l><lb n="E217.021"/> wi maa det alle klage/</l>
                         <l> ath <lb n="E217.022"/>verde<ex>n</ex> er vlydig dig/</l>
                         <l> det se wi <lb n="E217.023"/>alle dage</l>
-                        <l> Dine ord forsmaa<app>
-                                <lem/>
-                                <rdg wit="#orig">
-                                    <note>læsningen usikker</note></rdg>
-                            </app><pb n="86_v" facs="208" rend="="/>det er dess ver</l>
+                        <l> Dine ord forsmaass <pb n="86_v" facs="208" rend="="/>det er dess ver</l>
                         <l> ath ingen haffuer sa<ex>n</ex>dhed <lb n="E218.002"/>kær/</l>
                         <l> løgen haffuer macten fangit</l>
                     </lg>
