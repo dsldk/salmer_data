@@ -370,12 +370,11 @@
                     skulle bønhøris hooss hanss Fader wedt hanss naffn. <lb/>
                 </p>
             </div>
-            <div xml:id="fadervor-ulriksen-1535" n="7">
+            <div type="psalm" xml:id="fadervor-ulriksen-1535" n="7">
                 <head type="add">Fadervor</head>
                 <p> &#182; <!--<hi rend="font_red">-->Saa vender Presten sig til alteritt igen oc
                     sier. <!--</hi>-->
                 </p>
-
                 <p><!--<hi rend="font_red">--> Pater noster. Alta voce <!--</hi>--></p>
                 <lg>
                     <notatedMusic>
@@ -412,7 +411,7 @@
                     <lb/>
                 </lg>
             </div>
-            <div xml:id="nadverindstiftelse" n="8">
+            <div type="psalm" xml:id="nadverindstiftelse" n="8">
                 <head type="add">Nadverindstiftelse og uddeling</head>
                 <p> &#182; <!--<hi rend="font_red">--> Saa tager Presten da diskind med brød oc
                     siunger. <lb/>
