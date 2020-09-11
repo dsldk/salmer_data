@@ -1,8 +1,9 @@
 <index>
     <text id="christian-3-bibel">
-        <ref target="christian-3-preface" id="christian-3-preface"/>
+        <ref target="preface" id="preface"/>
         <ref target="preface-section" id="preface-section"/>
-        <ref target="toc-section-bibel" id="toc-section-bibel"/>
+        <ref target="toc-section" id="toc-section"/>
+        <ref target="/1" id="gt"/>
         <ref target="/2" id="mos-1"/>
         <ref target="/2/1" id="mos-1-1"/>
         <ref target="/2/2" id="mos-1-2"/>
@@ -13,6 +14,7 @@
         <ref target="/2/7" id="mos-1-7"/>
         <ref target="/2/8" id="mos-1-8"/>
         <ref target="/2/9" id="mos-1-9"/>
+        <ref target="/2/10" id="mos-1-10"/>
         <ref target="/2/11" id="mos-1-11"/>
         <ref target="/2/12" id="mos-1-12"/>
         <ref target="/2/13" id="mos-1-13"/>
@@ -22,6 +24,7 @@
         <ref target="/2/17" id="mos-1-17"/>
         <ref target="/2/18" id="mos-1-18"/>
         <ref target="/2/19" id="mos-1-19"/>
+        <ref target="/2/20" id="mos-1-20"/>
         <ref target="/2/21" id="mos-1-21"/>
         <ref target="/2/22" id="mos-1-22"/>
         <ref target="/2/23" id="mos-1-23"/>
@@ -31,6 +34,7 @@
         <ref target="/2/27" id="mos-1-27"/>
         <ref target="/2/28" id="mos-1-28"/>
         <ref target="/2/29" id="mos-1-29"/>
+        <ref target="/2/30" id="mos-1-30"/>
         <ref target="/2/31" id="mos-1-31"/>
         <ref target="/2/32" id="mos-1-32"/>
         <ref target="/2/33" id="mos-1-33"/>
@@ -40,6 +44,7 @@
         <ref target="/2/37" id="mos-1-37"/>
         <ref target="/2/38" id="mos-1-38"/>
         <ref target="/2/39" id="mos-1-39"/>
+        <ref target="/2/40" id="mos-1-40"/>
         <ref target="/2/41" id="mos-1-41"/>
         <ref target="/2/42" id="mos-1-42"/>
         <ref target="/2/43" id="mos-1-43"/>
@@ -91,6 +96,7 @@
         <ref target="/3/39" id="mos-2-39"/>
         <ref target="/3/40" id="mos-2-40"/>
         <ref target="/4" id="mos-3"/>
+        <ref target="/4/1" id="mos-3-1"/>
         <ref target="/4/2" id="mos-3-2"/>
         <ref target="/4/3" id="mos-3-3"/>
         <ref target="/4/4" id="mos-3-4"/>
@@ -154,6 +160,7 @@
         <ref target="/5/35" id="mos-4-35"/>
         <ref target="/5/36" id="mos-4-36"/>
         <ref target="/6" id="mos-5"/>
+        <ref target="/6/1" id="mos-5-1"/>
         <ref target="/6/2" id="mos-5-2"/>
         <ref target="/6/3" id="mos-5-3"/>
         <ref target="/6/4" id="mos-5-4"/>
@@ -188,6 +195,7 @@
         <ref target="/6/33" id="mos-5-33"/>
         <ref target="/6/34" id="mos-5-35"/>
         <ref target="/7" id="jos"/>
+        <ref target="/7/1" id="jos-1"/>
         <ref target="/7/2" id="jos-2"/>
         <ref target="/7/3" id="jos-3"/>
         <ref target="/7/4" id="jos-4"/>
@@ -212,6 +220,7 @@
         <ref target="/7/23" id="jos-23"/>
         <ref target="/7/24" id="jos-24"/>
         <ref target="/8" id="dom"/>
+        <ref target="/8/1" id="dom-1"/>
         <ref target="/8/2" id="dom-2"/>
         <ref target="/8/3" id="dom-3"/>
         <ref target="/8/4" id="dom-4"/>
@@ -229,14 +238,16 @@
         <ref target="/8/16" id="dom-16"/>
         <ref target="/8/17" id="dom-17"/>
         <ref target="/8/18" id="dom-18"/>
-        <ref target="/8/19" id="dom-19"/>
-        <ref target="/8/20" id="dom-20"/>
-        <ref target="/8/21" id="dom-21"/>
+        <ref target="/8/20" id="dom-19"/>
+        <ref target="/8/21" id="dom-20"/>
+        <ref target="/8/22" id="dom-21"/>
         <ref target="/9" id="ruth"/>
+        <ref target="/9/1" id="ruth-1"/>
         <ref target="/9/2" id="ruth-2"/>
         <ref target="/9/3" id="ruth-3"/>
         <ref target="/9/4" id="ruth-4"/>
         <ref target="/10" id="sam-1"/>
+        <ref target="/10/1" id="sam-1-1"/>
         <ref target="/10/2" id="sam-1-2"/>
         <ref target="/10/3" id="sam-1-3"/>
         <ref target="/10/4" id="sam-1-4"/>
@@ -268,6 +279,7 @@
         <ref target="/10/30" id="sam-1-30"/>
         <ref target="/10/31" id="sam-1-31"/>
         <ref target="/11" id="sam-2"/>
+        <ref target="/11/1" id="sam-2-1"/>
         <ref target="/11/2" id="sam-2-2"/>
         <ref target="/11/3" id="sam-2-3"/>
         <ref target="/11/4" id="sam-2-4"/>
@@ -292,6 +304,7 @@
         <ref target="/11/23" id="sam-2-23"/>
         <ref target="/11/24" id="sam-2-24"/>
         <ref target="/12" id="kong-1"/>
+        <ref target="/12/1" id="kong-1-1"/>
         <ref target="/12/2" id="kong-1-2"/>
         <ref target="/12/3" id="kong-1-3"/>
         <ref target="/12/4" id="kong-1-4"/>
@@ -314,6 +327,7 @@
         <ref target="/12/21" id="kong-1-21"/>
         <ref target="/12/22" id="kong-1-22"/>
         <ref target="/13" id="kong-2"/>
+        <ref target="/13/1" id="kong-2-1"/>
         <ref target="/13/2" id="kong-2-2"/>
         <ref target="/13/3" id="kong-2-3"/>
         <ref target="/13/4" id="kong-2-4"/>
@@ -339,6 +353,7 @@
         <ref target="/13/24" id="kong-2-24"/>
         <ref target="/13/25" id="kong-2-25"/>
         <ref target="/14" id="kron-1"/>
+        <ref target="/14/2" id="kron-1-2"/>
         <ref target="/14/2" id="kron-1-2"/>
         <ref target="/14/3" id="kron-1-3"/>
         <ref target="/14/4" id="kron-1-4"/>
@@ -369,6 +384,7 @@
         <ref target="/14/29" id="kron-1-29"/>
         <ref target="/14/30" id="kron-1-30"/>
         <ref target="/15" id="kron-2"/>
+        <ref target="/15/1" id="kron-2-1"/>
         <ref target="/15/2" id="kron-2-2"/>
         <ref target="/15/3" id="kron-2-3"/>
         <ref target="/15/4" id="kron-2-4"/>
@@ -405,6 +421,7 @@
         <ref target="/15/35" id="kron-2-35"/>
         <ref target="/15/36" id="kron-2-36"/>
         <ref target="/16" id="ezra"/>
+        <ref target="/16/1" id="ezra-1"/>
         <ref target="/16/2" id="ezra-2"/>
         <ref target="/16/3" id="ezra-3"/>
         <ref target="/16/4" id="ezra-4"/>
@@ -414,6 +431,7 @@
         <ref target="/16/8" id="ezra-8"/>
         <ref target="/16/9" id="ezra-9"/>
         <ref target="/17" id="neh"/>
+        <ref target="/17/1" id="neh-1"/>
         <ref target="/17/2" id="neh-2"/>
         <ref target="/17/3" id="neh-3"/>
         <ref target="/17/4" id="neh-4"/>
@@ -438,6 +456,7 @@
         <ref target="/18/9" id="est-9"/>
         <ref target="/18/10" id="est-10"/>
         <ref target="/19" id="job"/>
+        <ref target="/19/1" id="job-1"/>
         <ref target="/19/2" id="job-2"/>
         <ref target="/19/3" id="job-3"/>
         <ref target="/19/4" id="job-4"/>
@@ -512,6 +531,67 @@
         <ref target="/20/30" id="sl-30"/>
         <ref target="/20/31" id="sl-31"/>
         <ref target="/20/32" id="sl-32"/>
+        <ref target="/20/33" id="sl-33"/>
+        <ref target="/20/34" id="sl-34"/>
+        <ref target="/20/35" id="sl-35"/>
+        <ref target="/20/36" id="sl-36"/>
+        <ref target="/20/37" id="sl-37"/>
+        <ref target="/20/38" id="sl-38"/>
+        <ref target="/20/39" id="sl-39"/>
+        <ref target="/20/40" id="sl-40"/>
+        <ref target="/20/41" id="sl-41"/>
+        <ref target="/20/42" id="sl-42"/>
+        <ref target="/20/43" id="sl-43"/>
+        <ref target="/20/44" id="sl-44"/>
+        <ref target="/20/45" id="sl-45"/>
+        <ref target="/20/46" id="sl-46"/>
+        <ref target="/20/47" id="sl-47"/>
+        <ref target="/20/48" id="sl-48"/>
+        <ref target="/20/49" id="sl-49"/>
+        <ref target="/20/50" id="sl-50"/>
+        <ref target="/20/51" id="sl-51"/>
+        <ref target="/20/52" id="sl-52"/>
+        <ref target="/20/53" id="sl-53"/>
+        <ref target="/20/54" id="sl-54"/>
+        <ref target="/20/55" id="sl-55"/>
+        <ref target="/20/56" id="sl-56"/>
+        <ref target="/20/57" id="sl-57"/>
+        <ref target="/20/58" id="sl-58"/>
+        <ref target="/20/59" id="sl-59"/>
+        <ref target="/20/60" id="sl-60"/>
+        <ref target="/20/61" id="sl-61"/>
+        <ref target="/20/62" id="sl-62"/>
+        <ref target="/20/63" id="sl-63"/>
+        <ref target="/20/64" id="sl-64"/>
+        <ref target="/20/65" id="sl-65"/>
+        <ref target="/20/66" id="sl-66"/>
+        <ref target="/20/67" id="sl-67"/>
+        <ref target="/20/68" id="sl-68"/>
+        <ref target="/20/69" id="sl-69"/>
+        <ref target="/20/70" id="sl-70"/>
+        <ref target="/20/71" id="sl-71"/>
+        <ref target="/20/72" id="sl-72"/>
+        <ref target="/20/73" id="sl-73"/>
+        <ref target="/20/74" id="sl-74"/>
+        <ref target="/20/75" id="sl-75"/>
+        <ref target="/20/76" id="sl-76"/>
+        <ref target="/20/77" id="sl-77"/>
+        <ref target="/20/78" id="sl-78"/>
+        <ref target="/20/79" id="sl-79"/>
+        <ref target="/20/80" id="sl-80"/>
+        <ref target="/20/82" id="sl-81"/>
+        <ref target="/20/82" id="sl-81"/>
+        <ref target="/20/83" id="sl-83"/>
+        <ref target="/20/84" id="sl-84"/>
+        <ref target="/20/85" id="sl-85"/>
+        <ref target="/20/86" id="sl-86"/>
+        <ref target="/20/87" id="sl-87"/>
+        <ref target="/20/88" id="sl-88"/>
+        <ref target="/20/89" id="sl-89"/>
+        <ref target="/20/90" id="sl-90"/>
+        <ref target="/20/91" id="sl-91"/>
+        <ref target="/20/92" id="sl-92"/>
+        <ref target="/20/93" id="sl-93"/>
         <ref target="/20/94" id="sl-94"/>
         <ref target="/20/95" id="sl-95"/>
         <ref target="/20/96" id="sl-96"/>
@@ -570,6 +650,7 @@
         <ref target="/20/149" id="sl-149"/>
         <ref target="/20/150" id="sl-150"/>
         <ref target="/21" id="ordsp"/>
+        <ref target="/21/1" id="ordsp-1"/>
         <ref target="/21/2" id="ordsp-2"/>
         <ref target="/21/3" id="ordsp-3"/>
         <ref target="/21/4" id="ordsp-4"/>
@@ -578,6 +659,7 @@
         <ref target="/21/7" id="ordsp-7"/>
         <ref target="/21/8" id="ordsp-8"/>
         <ref target="/21/9" id="ordsp-9"/>
+        <ref target="/21/10" id="ordsp-10"/>
         <ref target="/21/11" id="ordsp-11"/>
         <ref target="/21/12" id="ordsp-12"/>
         <ref target="/21/13" id="ordsp-13"/>
@@ -600,6 +682,7 @@
         <ref target="/21/30" id="ordsp-30"/>
         <ref target="/21/31" id="ordsp-31"/>
         <ref target="/22" id="prad"/>
+        <ref target="/22/1" id="prad-1"/>
         <ref target="/22/2" id="prad-2"/>
         <ref target="/22/3" id="prad-3"/>
         <ref target="/22/4" id="prad-4"/>
@@ -612,6 +695,7 @@
         <ref target="/22/11" id="prad-11"/>
         <ref target="/22/12" id="prad-12"/>
         <ref target="/23" id="hojs"/>
+        <ref target="/23/1" id="hojs-1"/>
         <ref target="/23/2" id="hojs-2"/>
         <ref target="/23/3" id="hojs-3"/>
         <ref target="/23/4" id="hojs-4"/>
@@ -711,40 +795,40 @@
         <ref target="/26/21" id="jer-21"/>
         <ref target="/26/22" id="jer-22"/>
         <ref target="/26/23" id="jer-23"/>
-        <ref target="/26" id="jer-23a"/>
-        <ref target="/26/24" id="jer-24"/>
-        <ref target="/26/25" id="jer-25"/>
-        <ref target="/26/26" id="jer-26"/>
-        <ref target="/26/27" id="jer-27"/>
-        <ref target="/26/28" id="jer-28"/>
-        <ref target="/26/29" id="jer-29"/>
-        <ref target="/26/30" id="jer-30"/>
-        <ref target="/26/31" id="jer-31"/>
-        <ref target="/26/32" id="jer-32"/>
-        <ref target="/26/33" id="jer-33"/>
-        <ref target="/26/34" id="jer-34"/>
-        <ref target="/26/35" id="jer-35"/>
-        <ref target="/26/36" id="jer-36"/>
-        <ref target="/26/37" id="jer-37"/>
-        <ref target="/26/38" id="jer-38"/>
-        <ref target="/26/39" id="jer-39"/>
-        <ref target="/26/40" id="jer-40"/>
-        <ref target="/26/41" id="jer-41"/>
-        <ref target="/26/42" id="jer-42"/>
-        <ref target="/26/43" id="jer-43"/>
-        <ref target="/26/44" id="jer-44"/>
-        <ref target="/26/45" id="jer-45"/>
-        <ref target="/26/46" id="jer-46"/>
-        <ref target="/26" id="jer-46a"/>
-        <ref target="/26/47" id="jer-47"/>
-        <ref target="/26/48" id="jer-48"/>
-        <ref target="/26/49" id="jer-49"/>
-        <ref target="/26" id="jer-50"/>
-        <ref target="/26" id="jer-51"/>
-        <ref target="/26" id="jer-51a"/>
-        <ref target="/26/50" id="jer-51b"/>
-        <ref target="/26/51" id="jer-51c"/>
-        <ref target="/26/52" id="jer-52"/>
+        <ref target="/26/24" id="jer-23a"/>
+        <ref target="/26/25" id="jer-24"/>
+        <ref target="/26/26" id="jer-25"/>
+        <ref target="/26/27" id="jer-26"/>
+        <ref target="/26/28" id="jer-27"/>
+        <ref target="/26/29" id="jer-28"/>
+        <ref target="/26/30" id="jer-29"/>
+        <ref target="/26/31" id="jer-30"/>
+        <ref target="/26/32" id="jer-31"/>
+        <ref target="/26/33" id="jer-32"/>
+        <ref target="/26/34" id="jer-33"/>
+        <ref target="/26/35" id="jer-34"/>
+        <ref target="/26/36" id="jer-35"/>
+        <ref target="/26/37" id="jer-36"/>
+        <ref target="/26/38" id="jer-37"/>
+        <ref target="/26/39" id="jer-38"/>
+        <ref target="/26/40" id="jer-39"/>
+        <ref target="/26/41" id="jer-40"/>
+        <ref target="/26/42" id="jer-41"/>
+        <ref target="/26/43" id="jer-42"/>
+        <ref target="/26/44" id="jer-43"/>
+        <ref target="/26/45" id="jer-44"/>
+        <ref target="/26/46" id="jer-45"/>
+        <ref target="/26/47" id="jer-46"/>
+        <ref target="/26/48" id="jer-46a"/>
+        <ref target="/26/49" id="jer-47"/>
+        <ref target="/26/50" id="jer-48"/>
+        <ref target="/26/51" id="jer-49"/>
+        <ref target="/26/52" id="jer-50"/>
+        <ref target="/26/53" id="jer-51"/>
+        <ref target="/26/54" id="jer-51a"/>
+        <ref target="/26/55" id="jer-51b"/>
+        <ref target="/26/56" id="jer-51c"/>
+        <ref target="/26/57" id="jer-52"/>
         <ref target="/27" id="klages"/>
         <ref target="/27/1" id="klages-1"/>
         <ref target="/27/2" id="klages-2"/>
@@ -947,59 +1031,59 @@
         <ref target="/45/13" id="tob-13"/>
         <ref target="/45/14" id="tob-14"/>
         <ref target="/46" id="sir"/>
-        <ref target="/46" id="sir-0"/>
-        <ref target="/46/1" id="sir-1"/>
-        <ref target="/46/2" id="sir-2"/>
-        <ref target="/46/3" id="sir-3"/>
-        <ref target="/46/4" id="sir-4"/>
-        <ref target="/46/5" id="sir-5"/>
-        <ref target="/46/6" id="sir-6"/>
-        <ref target="/46/7" id="sir-7"/>
-        <ref target="/46/8" id="sir-7a"/>
-        <ref target="/46/9" id="sir-8"/>
-        <ref target="/46/10" id="sir-9"/>
-        <ref target="/46/11" id="sir-10"/>
-        <ref target="/46/12" id="sir-11"/>
-        <ref target="/46/13" id="sir-12"/>
-        <ref target="/46/14" id="sir-13"/>
-        <ref target="/46/15" id="sir-14"/>
-        <ref target="/46/16" id="sir-15"/>
-        <ref target="/46/17" id="sir-16"/>
-        <ref target="/46/18" id="sir-17"/>
-        <ref target="/46/19" id="sir-18"/>
-        <ref target="/46/20" id="sir-19"/>
-        <ref target="/46/21" id="sir-20"/>
-        <ref target="/46/22" id="sir-21"/>
-        <ref target="/46/23" id="sir-22"/>
-        <ref target="/46/24" id="sir-23"/>
-        <ref target="/46/25" id="sir-24"/>
-        <ref target="/46/26" id="sir-25"/>
-        <ref target="/46/27" id="sir-26"/>
-        <ref target="/46/28" id="sir-27"/>
-        <ref target="/46/29" id="sir-28"/>
-        <ref target="/46/30" id="sir-29"/>
-        <ref target="/46/31" id="sir-30"/>
-        <ref target="/46/32" id="sir-31"/>
-        <ref target="/46/33" id="sir-32"/>
-        <ref target="/46/34" id="sir-33"/>
-        <ref target="/46/35" id="sir-34"/>
-        <ref target="/46/36" id="sir-35"/>
-        <ref target="/46/37" id="sir-36"/>
-        <ref target="/46/38" id="sir-37"/>
-        <ref target="/46/39" id="sir-38"/>
-        <ref target="/46/40" id="sir-39"/>
-        <ref target="/46/41" id="sir-40"/>
-        <ref target="/46/42" id="sir-41"/>
-        <ref target="/46/43" id="sir-42"/>
-        <ref target="/46/44" id="sir-43"/>
-        <ref target="/46/45" id="sir-44"/>
-        <ref target="/46/46" id="sir-45"/>
-        <ref target="/46/47" id="sir-46"/>
-        <ref target="/46/48" id="sir-47"/>
-        <ref target="/46/49" id="sir-48"/>
-        <ref target="/46/50" id="sir-49"/>
-        <ref target="/46/51" id="sir-50"/>
-        <ref target="/46/52" id="sir-51"/>
+        <ref target="/46/1" id="sir-0"/>
+        <ref target="/46/2" id="sir-1"/>
+        <ref target="/46/3" id="sir-2"/>
+        <ref target="/46/4" id="sir-3"/>
+        <ref target="/46/5" id="sir-4"/>
+        <ref target="/46/6" id="sir-5"/>
+        <ref target="/46/7" id="sir-6"/>
+        <ref target="/46/8" id="sir-7"/>
+        <ref target="/46/9" id="sir-7a"/>
+        <ref target="/46/10" id="sir-8"/>
+        <ref target="/46/11" id="sir-9"/>
+        <ref target="/46/12" id="sir-10"/>
+        <ref target="/46/13" id="sir-11"/>
+        <ref target="/46/14" id="sir-12"/>
+        <ref target="/46/15" id="sir-13"/>
+        <ref target="/46/16" id="sir-14"/>
+        <ref target="/46/17" id="sir-15"/>
+        <ref target="/46/18" id="sir-16"/>
+        <ref target="/46/19" id="sir-17"/>
+        <ref target="/46/20" id="sir-18"/>
+        <ref target="/46/21" id="sir-19"/>
+        <ref target="/46/22" id="sir-20"/>
+        <ref target="/46/23" id="sir-21"/>
+        <ref target="/46/24" id="sir-22"/>
+        <ref target="/46/25" id="sir-23"/>
+        <ref target="/46/26" id="sir-24"/>
+        <ref target="/46/27" id="sir-25"/>
+        <ref target="/46/28" id="sir-26"/>
+        <ref target="/46/29" id="sir-27"/>
+        <ref target="/46/30" id="sir-28"/>
+        <ref target="/46/31" id="sir-29"/>
+        <ref target="/46/32" id="sir-30"/>
+        <ref target="/46/33" id="sir-31"/>
+        <ref target="/46/34" id="sir-32"/>
+        <ref target="/46/35" id="sir-33"/>
+        <ref target="/46/36" id="sir-34"/>
+        <ref target="/46/37" id="sir-35"/>
+        <ref target="/46/38" id="sir-36"/>
+        <ref target="/46/39" id="sir-37"/>
+        <ref target="/46/40" id="sir-38"/>
+        <ref target="/46/41" id="sir-39"/>
+        <ref target="/46/42" id="sir-40"/>
+        <ref target="/46/43" id="sir-41"/>
+        <ref target="/46/44" id="sir-42"/>
+        <ref target="/46/45" id="sir-43"/>
+        <ref target="/46/46" id="sir-44"/>
+        <ref target="/46/47" id="sir-45"/>
+        <ref target="/46/48" id="sir-46"/>
+        <ref target="/46/49" id="sir-47"/>
+        <ref target="/46/50" id="sir-48"/>
+        <ref target="/46/51" id="sir-49"/>
+        <ref target="/46/52" id="sir-50"/>
+        <ref target="/46/53" id="sir-51"/>
         <ref target="/47" id="bar"/>
         <ref target="/47/1" id="bar-1"/>
         <ref target="/47/2" id="bar-2"/>
@@ -1008,9 +1092,45 @@
         <ref target="/47/5" id="bar-5"/>
         <ref target="/47/6" id="bar-6"/>
         <ref target="/48" id="makk-1"/>
+        <ref target="/48/1" id="makk-1-1"/>
+        <ref target="/48/2" id="makk-1-2"/>
+        <ref target="/48/3" id="makk-1-3"/>
+        <ref target="/48/4" id="makk-1-4"/>
+        <ref target="/48/5" id="makk-1-5"/>
+        <ref target="/48/6" id="makk-1-6"/>
+        <ref target="/48/7" id="makk-1-7"/>
+        <ref target="/48/8" id="makk-1-8"/>
+        <ref target="/48/9" id="makk-1-9"/>
+        <ref target="/48/10" id="makk-1-10"/>
+        <ref target="/48/11" id="makk-1-11"/>
+        <ref target="/48/12" id="makk-1-12"/>
+        <ref target="/48/13" id="makk-1-13"/>
+        <ref target="/48/14" id="makk-1-14"/>
+        <ref target="/48/15" id="makk-1-15"/>
+        <ref target="/48/16" id="makk-1-16"/>
         <ref target="/49" id="makk-2"/>
+        <ref target="/49/1" id="makk-2-1"/>
+        <ref target="/49/2" id="makk-2-2"/>
+        <ref target="/49/3" id="makk-2-3"/>
+        <ref target="/49/4" id="makk-2-4"/>
+        <ref target="/49/5" id="makk-2-5"/>
+        <ref target="/49/6" id="makk-2-6"/>
+        <ref target="/49/7" id="makk-2-7"/>
+        <ref target="/49/8" id="makk-2-8"/>
+        <ref target="/49/9" id="makk-2-9"/>
+        <ref target="/49/10" id="makk-2-10"/>
+        <ref target="/49/11" id="makk-2-11"/>
+        <ref target="/49/12" id="makk-2-12"/>
+        <ref target="/49/13" id="makk-2-13"/>
+        <ref target="/49/14" id="makk-2-14"/>
+        <ref target="/49/15" id="makk-2-15"/>
         <ref target="/50" id="tilfest"/>
         <ref target="/51" id="tilfdan"/>
+        <ref target="/51/2" id="dan-tilf-c"/>
+        <ref target="/51/3" id="dan-tilf-c2"/>
+        <ref target="/51/4" id="dan-tilf-b"/>
+        <ref target="/51/5" id="dan-tilf-b2"/>
+        <ref target="/51/6" id="dan-tilf-man"/>
         <ref target="/54" id="matt"/>
         <ref target="/54/1" id="matt-1"/>
         <ref target="/54/2" id="matt-2"/>
@@ -1067,6 +1187,7 @@
         <ref target="/56/7" id="luk-7"/>
         <ref target="/56/8" id="luk-8"/>
         <ref target="/56/9" id="luk-9"/>
+        <ref target="/56/10" id="luk-10"/>
         <ref target="/56/11" id="luk-11"/>
         <ref target="/56/12" id="luk-12"/>
         <ref target="/56/13" id="luk-13"/>
@@ -1076,6 +1197,7 @@
         <ref target="/56/17" id="luk-17"/>
         <ref target="/56/18" id="luk-18"/>
         <ref target="/56/19" id="luk-19"/>
+        <ref target="/56/20" id="luk-20"/>
         <ref target="/56/21" id="luk-21"/>
         <ref target="/56/22" id="luk-22"/>
         <ref target="/56/23" id="luk-23"/>
@@ -1100,6 +1222,7 @@
         <ref target="/57/17" id="joh-17"/>
         <ref target="/57/18" id="joh-18"/>
         <ref target="/57/19" id="joh-19"/>
+        <ref target="/57/20" id="joh-20"/>
         <ref target="/57/21" id="joh-21"/>
         <ref target="/58" id="apg"/>
         <ref target="/58/1" id="apg-1"/>
@@ -1111,6 +1234,7 @@
         <ref target="/58/7" id="apg-7"/>
         <ref target="/58/8" id="apg-8"/>
         <ref target="/58/9" id="apg-9"/>
+        <ref target="/58/10" id="apg-10"/>
         <ref target="/58/11" id="apg-11"/>
         <ref target="/58/12" id="apg-12"/>
         <ref target="/58/13" id="apg-13"/>
@@ -1120,6 +1244,7 @@
         <ref target="/58/17" id="apg-17"/>
         <ref target="/58/18" id="apg-18"/>
         <ref target="/58/19" id="apg-19"/>
+        <ref target="/58/20" id="apg-20"/>
         <ref target="/58/21" id="apg-21"/>
         <ref target="/58/22" id="apg-22"/>
         <ref target="/58/23" id="apg-23"/>
@@ -1138,6 +1263,7 @@
         <ref target="/59/7" id="rom-7"/>
         <ref target="/59/8" id="rom-8"/>
         <ref target="/59/9" id="rom-9"/>
+        <ref target="/59/10" id="rom-10"/>
         <ref target="/59/11" id="rom-11"/>
         <ref target="/59/12" id="rom-12"/>
         <ref target="/59/13" id="rom-13"/>
@@ -1154,6 +1280,7 @@
         <ref target="/60/7" id="kor-1-7"/>
         <ref target="/60/8" id="kor-1-8"/>
         <ref target="/60/9" id="kor-1-9"/>
+        <ref target="/60/10" id="kor-1-10"/>
         <ref target="/60/11" id="kor-1-11"/>
         <ref target="/60/12" id="kor-1-12"/>
         <ref target="/60/13" id="kor-1-13"/>
@@ -1170,6 +1297,7 @@
         <ref target="/61/7" id="kor-2-7"/>
         <ref target="/61/8" id="kor-2-8"/>
         <ref target="/61/9" id="kor-2-9"/>
+        <ref target="/61/10" id="kor-2-10"/>
         <ref target="/61/11" id="kor-2-11"/>
         <ref target="/61/12" id="kor-2-12"/>
         <ref target="/61/13" id="kor-2-13"/>
@@ -1220,6 +1348,7 @@
         <ref target="/69/3" id="tim-2-3"/>
         <ref target="/69/4" id="tim-2-4"/>
         <ref target="/70" id="tit"/>
+        <ref target="/70/1" id="tit-1"/>
         <ref target="/70/2" id="tit-2"/>
         <ref target="/70/3" id="tit-3"/>
         <ref target="/71" id="filem"/>
@@ -1241,6 +1370,7 @@
         <ref target="/75" id="joh-brev-2"/>
         <ref target="/75" id="joh-brev-2-1"/>
         <ref target="/76" id="joh-brev-3"/>
+        <ref target="/76" id="joh-brev-3-1"/>
         <ref target="/77" id="hebr"/>
         <ref target="/77/1" id="hebr-1"/>
         <ref target="/77/2" id="hebr-2"/>
@@ -1251,6 +1381,7 @@
         <ref target="/77/7" id="hebr-7"/>
         <ref target="/77/8" id="hebr-8"/>
         <ref target="/77/9" id="hebr-9"/>
+        <ref target="/77/10" id="hebr-10"/>
         <ref target="/77/11" id="hebr-11"/>
         <ref target="/77/12" id="hebr-12"/>
         <ref target="/77/13" id="hebr-13"/>
@@ -1271,6 +1402,7 @@
         <ref target="/80/7" id="aab-7"/>
         <ref target="/80/8" id="aab-8"/>
         <ref target="/80/9" id="aab-9"/>
+        <ref target="/80/10" id="aab-10"/>
         <ref target="/80/11" id="aab-11"/>
         <ref target="/80/12" id="aab-12"/>
         <ref target="/80/13" id="aab-13"/>
@@ -1280,7 +1412,9 @@
         <ref target="/80/17" id="aab-17"/>
         <ref target="/80/18" id="aab-18"/>
         <ref target="/80/19" id="aab-19"/>
+        <ref target="/80/20" id="aab-20"/>
         <ref target="/80/21" id="aab-21"/>
+        <ref target="/80/22" id="aab-22"/>
     </text>
     <text id="claus-mortensen-messe-1528">
         <ref target="preface" id="preface"/>
