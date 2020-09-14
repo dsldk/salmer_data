@@ -176,14 +176,12 @@
                 <head>Nu begioender choredh <lb/> eller christen forsamling <lb/> ath syunge
                     introitum til <lb/> messzen <lb/> Officium Deprofundis</head>
                 <head type="add">Introitus: De profundis/ Af dybsens nød råber jeg til dig</head>
+                <notatedMusic>
+                    <ptr target="Mo_1528_LN0174_000a02v.xml"/>
+                </notatedMusic>
                 <lg>
-                    <l>
-                        <notatedMusic>
-                            <ptr target="Mo_1528_LN0174_000a02v.xml"/>
-                        </notatedMusic> Aff dybhedszens nøedh roeber iegh tiil tigh/ <note
-                            place="margin">(<ref target="#sl-129"><orig>Ps<ex>al</ex>.
-                                    cxxix</orig><reg>Sl 129</reg></ref>)</note>
-                    </l>
+                    <l>Aff dybhedszens nøedh roeber iegh tiil tigh/ <note place="margin">(<ref 
+                        target="#sl-129"><orig>Ps<ex>al</ex>.cxxix</orig><reg>Sl 129</reg></ref>)</note></l>
                     <l>herre <lb/> gudh wil thu migh høere</l>
                     <l>Thin naadszens øreen wænth thw tiil migh/</l>
                     <l>myn <lb/>røest iegh nw framfører</l>
