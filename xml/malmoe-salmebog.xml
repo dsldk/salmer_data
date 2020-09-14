@@ -70,6 +70,11 @@
     </teiHeader>
     <text>
         <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="desc">[Titelbladet mangler]</titlePart>
+                </docTitle>
+            </titlePage>
             <div type="calendar" xml:id="calendar" n="1">
                 <head type="add">Kalender</head>
                 <div xml:id="januar-mgl" n="1">
