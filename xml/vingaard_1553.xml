@@ -6626,7 +6626,7 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="versikel" n="18">
+             <div type="psalm" xml:id="versikel-vingaard-1553" n="18">
                <head type="add">Versikel</head>
                <head>Versickel</head>
                <lb/>
@@ -11451,7 +11451,7 @@
                </lg>
             </div>
             <lb/>
-            <div xml:id="versikel" n="44">
+             <div xml:id="versikel-vingaard-1553-2" n="44">
                <head type="add">Versikel</head>
                <head>Verssickel</head>
                <lg>
@@ -14066,7 +14066,7 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="versikel3" n="78">
+             <div type="psalm" xml:id="versikel-vingaard-1553-3" n="78">
                <head type="add">Versikel</head>
                <head>Zacharie lofsang som han aff den Hel<lb rend="="/>ligaand Propheterede/
                   <lb/>Versickel fore Benedictus</head>
@@ -14188,7 +14188,7 @@
                   naade aff hannem/ <lb/>Herre ver mig arme Syndere barmhiertig</p>
             </div>
             <lb/>
-            <div type="psalm" xml:id="evangelisk-afloesning" n="3">
+             <div type="psalm" xml:id="evangelisk-afloesning-vingaard-1553" n="3">
                <head type="add">Evangelisk afløsning</head>
                <head>En Euangelisk affløsning offuer menig<lb rend="="/>heden</head>
                <pb ana="97_v_II" n_ekstra="O5v" n="E266"/>
@@ -14459,7 +14459,7 @@
                </lg>
             </div>
             <lb/>
-            <div type="psalm" xml:id="hilsen" n="11">
+            <div type="psalm" xml:id="hilsen-vingaard-1553" n="11">
                <head type="add">[Hilsen]</head>
                <head>[Hilsen]</head>
                <p>
@@ -14968,7 +14968,7 @@
                   Guddommelige vilge ath ieg maa <lb/>bliffue Gudz Barn och Hiemmerigis
                   <lb/>arffuing met alle andre Gudz Børn till <lb/>euig tid/ Amen</p>
             </div>
-            <div xml:id="evangelisk-afloesning" n="23">
+             <div xml:id="evangelisk-afloesning-vingaard-1553-2" n="23">
                <head type="add">Den evangeliske afløsning</head>
                <head>Den Euangeliske affløsning</head>
                <lb/>
@@ -15048,7 +15048,7 @@
                   vaar/ Som Jesus Chri<lb rend="="/>stus oss lærde/ Oc loffuede at wi skulle
                   <lb/>Bønhøris hoss hans Fader for hans <lb/>naffn skyld</p>
             </div>
-            <div xml:id="hilsen" n="26">
+             <div xml:id="hilsen-vingaard-1553-2" n="26">
                <head type="add">[Hilsen]</head>
                <head>[Hilsen]</head>
                <lb/>
@@ -15258,7 +15258,7 @@
                   <l>Hellig/ hellig/ hellig hun <lb/>siunger dig.</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="hilsen" n="36">
+             <div type="psalm" xml:id="hilsen-vingaard-1553-3" n="36">
                <head type="add">[Hilsen]</head>
                <head>[Hilsen]</head>
                <p> Presten siger til Folckit <lb/></p>
@@ -15480,7 +15480,7 @@
                   <l>Kyrie eleyson</l>
                </lg>
             </div>
-            <div type="psalm" xml:id="hilsen" n="43">
+             <div type="psalm" xml:id="hilsen-vingaard-1553-4" n="43">
                <head type="add">[Hilsen]</head>
                <head>[Hilsen]</head>
                <lb/>
@@ -15510,7 +15510,7 @@
                <p> Amen </p>
                <lb/>
             </div>
-            <div type="psalm" xml:id="hilsen" n="45">
+             <div type="psalm" xml:id="hilsen-vingaard-1553-5" n="45">
                <head type="add">[Hilsen]</head>
                <head>[Hilsen]</head>
                <lb/>
@@ -19433,7 +19433,7 @@
                      <item><hi rend="center">X bud ord</hi>
                         <lb/>Den som vil en Christen hede<ref target="#den-som-vil-en-kristen-hedde">xci</ref></item>
                      <item><hi rend="center">En Euangelisk affløsninge</hi>
-                        <lb/>Den <app><lem>Almectigste</lem><rdg wit="#orig">Almeciigste<note>rettet</note></rdg></app><ref target="#evangelisk-afloesning">xcvii</ref></item>
+                         <lb/>Den <app><lem>Almectigste</lem><rdg wit="#orig">Almeciigste<note>rettet</note></rdg></app><ref target="#evangelisk-afloesning-vingaard-1553">xcvii</ref></item>
                      <item><hi rend="center">Euangelium Joannis vi</hi>
                         <lb/>Der Almuen saa at Jesus vor<ref target="#evangelium">ciiii</ref></item>
                      <item>Dig vere loff oc pris o Herre<ref target="#tibi-laus">cxvii</ref></item>

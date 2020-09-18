@@ -4997,7 +4997,7 @@
                         <l>Fra nu oc <lb/> ind til euig tid.</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:lang="la" xml:id="grates-nunc-omnes" n="4">
+                <div type="psalm" xml:lang="la" xml:id="grates-nunc-omnes-thomissoen-1569" n="4">
                     <head type="add">Grates nunc omnes reddamus Domino Deo</head>
                     <head><pb ana="6_r" n="E67" facs="067"/>IIII. <lb/>
                         <title><hi rend="italics">GRATES NVNC <lb/> omnes</hi></title>. </head>
@@ -5859,7 +5859,7 @@
                         <l><hi rend="italics">in regno gloriæ, omni tempore.</hi></l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="puer-natus-in-bethlehem" n="16">
+                <div type="psalm" xml:id="puer-natus-in-bethlehem-thomissoen-1569" n="16">
                     <head type="add">Puer natus in Bethlehem / Et barn er født i Bethlehem</head>
                     <head> XVI. <lb/> PVER NATVS IN <lb/> Bethlehem. </head>
                     <notatedMusic>
@@ -6397,7 +6397,7 @@
                         <l>Ske loff oc priss i alle land.</l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="alle-kristne-fryde-sig-nu" n="24">
+                <div type="psalm" xml:id="alle-kristne-fryde-sig-nu-thomissoen-1569" n="24">
                     <head type="add">Alle kristne fryde sig nu</head>
                     <head> XXIIII. <lb/>
                         <title>Alle Christne fryde <lb/>sig nu</title>.</head>
@@ -25838,7 +25838,7 @@
             </div>
         </body>
         <back>
-            <div type="register" xml:id="register">
+            <div type="register" xml:id="register-thomissoen-1569">
                 <head type="add">Register</head>
                 <head n="4"><pb n="E797" facs="795"/>Register offuer den<lb rend="="/>ne Bog.</head>
                 <div>
@@ -26399,7 +26399,7 @@
                         <div type="section">
                             <head>G.</head>
                             <list rend="simple">
-                                <item> Grates nunc omnes reddamus/ <ref target="#grates-nunc-omnes">6:</ref>
+                                <item> Grates nunc omnes reddamus/ <ref target="#grates-nunc-omnes-thomissoen-1569">6:</ref>
                                 </item>
                                 <item> Gloria laus et honor/ <ref target="#section-3-hymn-19">60:</ref>
                                 </item>
@@ -26462,7 +26462,7 @@
                         <div type="section">
                             <head>O.</head>
                             <list rend="simple">
-                                <item> Omnis mundus iucundetur nato <ref target="#alle-kristne-fryde-sig-nu">27:</ref>
+                                <item> Omnis mundus iucundetur nato <ref target="#alle-kristne-fryde-sig-nu-thomissoen-1569">27:</ref>
                                 </item>
                                 <item> O lux beata trinitas <ref target="#section-21-hymn-4">323:</ref>
                                 </item>
@@ -26471,7 +26471,7 @@
                         <div type="section">
                             <head>P.</head>
                             <list rend="simple">
-                                <item> Puer natus in Bethlehem/ <ref target="#puer-natus-in-bethlehem">19:</ref>
+                                <item> Puer natus in Bethlehem/ <ref target="#puer-natus-in-bethlehem-thomissoen-1569">19:</ref>
                                 </item>
                             </list>
                         </div>
@@ -26569,7 +26569,7 @@
                         <div type="section">
                             <head>G.</head>
                             <list rend="simple">
-                                <item> Grates nunc omnes reddamus <ref target="#grates-nunc-omnes">6.</ref>
+                                <item> Grates nunc omnes reddamus <ref target="#grates-nunc-omnes-thomissoen-1569">6.</ref>
                                 </item>
                             </list>
                         </div>
@@ -26585,7 +26585,7 @@
                             <list rend="simple">
                                 <item> Priss oc ære oc dyd <ref target="#pris-aere-og-dyd">17:</ref>
                                 </item>
-                                <item> Puer natus in Bethlehem/ <ref target="#puer-natus-in-bethlehem">19:</ref>
+                                <item> Puer natus in Bethlehem/ <ref target="#puer-natus-in-bethlehem-thomissoen-1569">19:</ref>
                                 </item>
                             </list>
                         </div>
@@ -26973,7 +26973,7 @@
                                 </item>
                                 <item>All den gantske Christenhed/ <ref target="#lovsang-efter-resonet">14.</ref>
                                 </item>
-                                <item>Alle Christen fryde sig nu/ <ref target="#alle-kristne-fryde-sig-nu">27:</ref>
+                                <item>Alle Christen fryde sig nu/ <ref target="#alle-kristne-fryde-sig-nu-thomissoen-1569">27:</ref>
                                 </item>
                                 <item>Alleluia/ See i Registeret/ Haleluia.</item>
                                 <item>Alleniste Gud i Himmerig/ <ref target="#section-8-hymn-2">109:</ref>
@@ -27153,7 +27153,7 @@
                                 </item>
                                 <item>
                                     <hi rend="italics">Grates nunc omnes reddamus</hi>
-                                    <ref target="#grates-nunc-omnes">6.</ref>
+                                    <ref target="#grates-nunc-omnes-thomissoen-1569">6.</ref>
                                 </item>
                                 <item>Gud Fader bliff du nu met oss/ <ref target="#section-8-hymn-3">110:</ref>
                                 </item>
@@ -27321,7 +27321,7 @@
                                 </item>
                                 <item>J Synd oc sorrig mig fødde <ref target="#section-3-hymn-16">55:</ref>
                                 </item>
-                                <item>Jt barn er fød i Bethlehem/ <ref target="#puer-natus-in-bethlehem">19:</ref>
+                                <item>Jt barn er fød i Bethlehem/ <ref target="#puer-natus-in-bethlehem-thomissoen-1569">19:</ref>
                                 </item>
                                 <item>Jt gaat beraad vel betenckt Mod <ref target="#section-10-hymn-6">140.</ref>
                                 </item>
@@ -27595,7 +27595,7 @@
                                 </item>
                                 <item>
                                     <hi rend="italics">Puer natus in bethlehem,</hi>
-                                    <ref target="#puer-natus-in-bethlehem">19<hi rend="italics">:</hi>
+                                    <ref target="#puer-natus-in-bethlehem-thomissoen-1569">19<hi rend="italics">:</hi>
                                     </ref>
                                 </item>
                             </list>

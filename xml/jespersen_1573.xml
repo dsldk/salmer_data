@@ -2183,10 +2183,10 @@
                     <lb/>
                 </div>
             </div>
-            <div type="chapter" xml:id="nytaarsdag" n="9">
+            <div type="chapter" xml:id="nytaarsdag-jespersen-1573" n="9">
                 <head type="add">Nytårsdag</head>
                 <head>Paa Nyt Aars<lb/>dag.</head>
-                <div type="psalm" xml:lang="la" xml:id="section-9-1" n="1">
+                <div type="psalm" xml:lang="la" xml:id="section-9-1-jespersen-1573" n="1">
                     <head type="add">Introitus latinus: Et postquam consummati sunt dies octo</head>
                     <head>Introitus lat. <lb/>
                         <ref target="#">Lucæ. 2.</ref></head>
@@ -2267,7 +2267,7 @@
                     </lg>
                 </div>
             </div>
-            <div type="chapter" xml:id="helligtrekongersdag" n="11">
+            <div type="chapter" xml:id="helligtrekongersdag-jespersen-1573" n="11">
                 <head type="add">Helligtrekongersdag</head>
                 <head>Paa hellig tre Kon<lb rend="="/>gers dag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-11-1" n="1">
@@ -3651,7 +3651,7 @@
                     </lg>
                 </div>
             </div>
-            <div type="chapter" xml:id="palmesoendag" n="26">
+            <div type="chapter" xml:id="palmesoendag-jespersen-1573" n="26">
                 <head type="add">Palmesøndag</head>
                 <head><pb ana="164" n="E176"/>Paa Palme Søndag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-26-1" n="1">
@@ -3685,7 +3685,7 @@
                     <lb/>
                 </div>
             </div>
-            <div type="chapter" xml:id="skaertorsdag" n="27">
+            <div type="chapter" xml:id="skaertorsdag-jespersen-1573" n="27">
                 <head type="add">Skærtorsdag</head>
                 <head>Paa Skiertorsdag.</head>
                 <div type="psalm" xml:lang="la" xml:id="section-27-1" n="1">
@@ -4389,7 +4389,7 @@
                         Ordinantzen. <lb/>Her endis Vinterparten.</p>
                 </div>
             </div>
-            <div type="chapter" xml:id="paaskedag" n="29">
+            <div type="chapter" xml:id="paaskedag-jespersen-1573" n="29">
                 <head type="add">Påskedag</head>
                 <head><pb ana="187" n="E199"/>Sommer Parten.<lb/> Paaske dag. <lb/></head>
                 <div type="psalm" xml:id="section-29-1" n="1">
@@ -4856,7 +4856,7 @@
                     <p>vt in die Paschæ.</p>
 
                 </div>
-                <div type="psalm" xml:id="kyrie-gud-fader-forbarme-dig-over-os" n="2">
+                <div type="psalm" xml:id="kyrie-gud-fader-forbarme-dig-over-os-jespersen-1573" n="2">
                     <head type="add">Kyrie Gud Fader forbarme dig</head>
                     <head>Kyrie.</head>
                     <notatedMusic>
@@ -4872,7 +4872,7 @@
                         <l>forbarme dig offuer oss. </l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="kristus-jesus-for-os-ofret" n="3">
+                <div type="psalm" xml:id="kristus-jesus-for-os-ofret-jespersen-1573" n="3">
                     <head type="add">Kristus Jesus for os ofret m.fl.</head>
                     <p rend="indent1"> Gloria: Alleniste Gud i Himmerig: <hi rend="italics">vt
                             supra.</hi>
@@ -5320,7 +5320,7 @@
             <div type="chapter" xml:id="pinsedag" n="38">
                 <head type="add">Pinsedag</head>
                 <head>Paa Pintze dag.</head>
-                <div type="psalm" xml:lang="la" xml:id="veni-sancte-spiritus" n="1">
+                <div type="psalm" xml:lang="la" xml:id="veni-sancte-spiritus-jespersen-1573" n="1">
                     <head type="add">Veni sancte Spiritus</head>
                     <figure type="image"/>
                     <notatedMusic>
@@ -5393,7 +5393,7 @@
                     </lg>
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la" xml:id="gloria-in-excelsis-deo" n="4">
+                <div type="psalm" xml:lang="la" xml:id="gloria-in-excelsis-deo-jespersen-1573" n="4">
                     <head type="add">Gloria in excelsis Deo</head>
                     <head>Gloria in excelsis Deo.</head>
                     <notatedMusic>
@@ -5510,7 +5510,7 @@
                     </lg>
                     <lb/>
                 </div>
-                <div type="psalm" xml:id="kom-helligaand-o-herre-gud" n="8">
+                <div type="psalm" xml:id="kom-helligaand-o-herre-gud-jespersen-1573" n="8">
                     <head type="add">Kom Helligånd, o Herre Gud</head>
                     <p>Der nest denne effterfølgende Sang/ om behoff giøris: Besynderlige paa
                         <lb/>Landsbyerne.</p>
@@ -5586,7 +5586,7 @@
 
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la" xml:id="dominus-vobiscum" n="9">
+                <div type="psalm" xml:lang="la" xml:id="dominus-vobiscum-jespersen-1573" n="9">
                     <head type="add">Dominus vobiscum</head>
                     <head>Præfatio. <lb/>Dominus vobiscum,</head>
                     <head>
@@ -5611,7 +5611,7 @@
                     </lg>
                     <lb/>
                 </div>
-                <div type="psalm" xml:id="kom-gud-skaber-helligaand" n="10">
+                <div type="psalm" xml:id="kom-gud-skaber-helligaand-jespersen-1573" n="10">
                     <head type="add">Kom, Gud skaber, o Helligånd</head>
                     <head>Sanctus:</head>
                     <p><lb/>Met all den anden effterfølgen<lb rend="="/>de Sang/ indtil
@@ -5769,10 +5769,10 @@
                     <!--<figure type="vignette"/>-->
                 </div>
             </div>
-            <div type="chapter" xml:id="trinitatis" n="40">
+            <div type="chapter" xml:id="trinitatis-jespersen-1573" n="40">
                 <head type="add">Trinitatis</head>
                 <head><pb ana="273" n="E285"/>Den hellige Trefoldig<lb rend="="/>heds Søndag.</head>
-                <div type="psalm" xml:id="gud-fader-bliv-du-nu-med-os" n="1">
+                <div type="psalm" xml:id="gud-fader-bliv-du-nu-med-os-jespersen-1573" n="1">
                     <head type="add">Gud Fader, bliv du nu med os</head>
                     <head>Introitus Dansk.</head>
                     <notatedMusic>
@@ -6002,7 +6002,7 @@
                     <p rend="indent1"> Credo. Wi troer alle sammen paa en Gud <ex>etc</ex>. </p>
                     <lb/>
                 </div>
-                <div type="psalm" xml:id="gud-fader-udi-himmerig" n="3">
+                <div type="psalm" xml:id="gud-fader-udi-himmerig-jespersen-1573" n="3">
                     <head type="add">Gud Fader udi Himmerig</head>
                     <p>Loffsang effter Predicken. Ære være Gud <lb/>Fader i Himmerig <ex>etc</ex>.
                         vt supra. <lb/>Offertorium, Her fra oc ind til Dominicam <lb/>quintam
@@ -6395,7 +6395,7 @@
 
                     <lb/>
                 </div>
-                <div type="psalm" xml:id="lover-gud-i-fromme-kristne" n="4">
+                <div type="psalm" xml:id="lover-gud-i-fromme-kristne-jespersen-1573" n="4">
                     <head type="add">Lover Gud, I fromme kristne</head>
                     <head>Offertorium.</head>
                     <notatedMusic>
@@ -6552,7 +6552,7 @@
             </div>
             <div type="chapter" xml:id="marie-besoegelsesdag" n="46">
                 <head type="add">Mariæ besøgelsesdag</head>
-                <div type="psalm" xml:id="alle-kristne-fryde-sig-nu" n="1">
+                <div type="psalm" xml:id="alle-kristne-fryde-sig-nu-jespersen-1573" n="1">
                     <head type="add">Alle Kristne fryde sig nu</head>
                     <head><pb ana="313" n="E325"/>All den anden Sang/ for oc effter Pre<lb rend="="/>dicken/ skal holdis/ som <hi rend="italics">Dominica
                         <lb/>Trinitatis.</hi></head>
@@ -6884,7 +6884,7 @@
             <div type="chapter" xml:id="niende-soendag-efter-trinitatis" n="51">
                 <head type="add">Niende søndag efter trinitatis</head>
                 <head>Den Niende Søndag <lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:id="nu-er-os-gud-miskundelig" n="1">
+                <div type="psalm" xml:id="nu-er-os-gud-miskundelig-jespersen-1573" n="1">
                     <head type="add">Nu er os Gud miskundelig</head>
                     <head> Introitus Dansk.</head>
                     <notatedMusic>
@@ -7315,7 +7315,7 @@
                     </lg>
                     <lb/>
                 </div>
-                <div type="psalm" xml:id="beklage-af-al-min-sinde" n="4">
+                <div type="psalm" xml:id="beklage-af-al-min-sinde-jespersen-1573" n="4">
                     <head type="add">Beklage af al min sinde</head>
                     <head>Offertorium.</head>
                     <notatedMusic>
@@ -7545,7 +7545,7 @@
                     <lb/>
                 </div>
             </div>
-            <div type="chapter" xml:id="skt-michels-dag" n="59">
+            <div type="chapter" xml:id="skt-michels-dag-jespersen-1573" n="59">
                 <head type="add">Mikkelsdag</head>
                 <head>Paa S. Michels dag.</head>
                 <div type="psalm" xml:id="esaias-den-prophet" n="1">
@@ -7628,7 +7628,7 @@
 
                     <lb/>
                 </div>
-                <div type="psalm" xml:lang="la" xml:id="te-deum-laudamus" n="4">
+                <div type="psalm" xml:lang="la" xml:id="te-deum-laudamus-jespersen-1573" n="4">
                     <head type="add">Te deum laudamus</head>
                     <p>Strax effter Predicken/ skal begyndis aff <lb/>Predickestolen/ vdi Kiøb<lb rend="="/>stederne.</p>
                     <lb/>
@@ -7681,7 +7681,7 @@
                         <l>non confundar in <pb ana="380" n="E392"/> æternum. </l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="o-gud-vi-love-dig" n="5">
+                <div type="psalm" xml:id="o-gud-vi-love-dig-jespersen-1573" n="5">
                     <head type="add">O Gud, vi love dig</head>
                     <p>Paa Lands byer <lb/> effter Predicken.</p>
                     <notatedMusic>
@@ -8040,7 +8040,7 @@
             <div type="chapter" xml:id="attende-soendag-efter-trinitatis" n="61">
                 <head type="add">18. søndag efter trinitatis</head>
                 <head>Den xviij. Søndag <lb/>effter Trinitatis.</head>
-                <div type="psalm" xml:lang="la" xml:id="da-pacem-domine" n="1">
+                <div type="psalm" xml:lang="la" xml:id="da-pacem-domine-jespersen-1573" n="1">
                     <head type="add">Introitus latinus: Da pacem domine</head>
                     <head> Introitus latinus.</head>
                     <notatedMusic>
@@ -8177,7 +8177,7 @@
                     </lg>
                 </div>
             </div>
-            <div type="chapter" xml:id="allehelgensdag" n="64">
+            <div type="chapter" xml:id="allehelgensdag-jespersen-1573" n="64">
                 <head type="add">Allehelgensdag</head>
                 <head>Paa alle Helligens <lb/> Dag. </head>
 
@@ -8344,7 +8344,7 @@
                         <l>Haleluia. </l>
                     </lg>
                 </div>
-                <div type="psalm" xml:id="saa-taler-den-uvise-mund" n="4">
+                <div type="psalm" xml:id="saa-taler-den-uvise-mund-jespersen-1573" n="4">
                     <head type="add">Så taler den uvise mund</head>
                     <head><pb ana="417" n="E429"/>Offertorium.</head>
                     <notatedMusic>
@@ -8500,7 +8500,7 @@
             <div type="chapter" xml:id="onsdagsbededage" n="68">
                 <head type="add">Onsdagsbededage</head>
                 <head><pb ana="427" n="E439"/>Om odens dags <lb/> Bede dage. </head>
-                <div type="psalm" xml:id="o-herre-gud-benaade-mig" n="1">
+                <div type="psalm" xml:id="o-herre-gud-benaade-mig-jespersen-1573" n="1">
                     <head type="add">O Herre Gud benåde mig</head>
                     <head> Introitus Danske.</head>
                     <notatedMusic>
@@ -9417,14 +9417,14 @@
             </div>
         </body>
         <back>
-            <div type="register" xml:id="register" n="70">
+            <div type="register" xml:id="register-jespersen-1573" n="70">
                 <head type="add">Register</head>
                 <head><pb n="E473"/>Register offuer <lb/> denne Bog.</head>
                 <div xml:id="register-hoejtider" n="1">
                     <head type="add">Højtider</head>
                     <head>Nogle besynderlige Høyti<lb rend="="/>der om Aarit.</head>
                     <list rend="simple">
-                        <item>Alle Helligens dag/ <ref target="#allehelgensdag" type="SheetNumber">407.</ref>
+                        <item>Alle Helligens dag/ <ref target="#allehelgensdag-jespersen-1573" type="SheetNumber">407.</ref>
                         </item>
                         <item>S. Hans baptiste dag/ <ref target="#hans-baptiste-dag" type="SheetNumber">304.</ref>
                         </item>
@@ -9434,14 +9434,14 @@
                         </item>
                         <item>Marie Besøgelsis dag/ <ref target="#marie-besoegelsesdag" type="SheetNumber">313.</ref>
                         </item>
-                        <item>S. Michels dag/ <ref target="#skt-michels-dag" type="SheetNumber">367.</ref>
+                        <item>S. Michels dag/ <ref target="#skt-michels-dag-jespersen-1573" type="SheetNumber">367.</ref>
                         </item>
                     </list>
                 </div>
                 <div type="index" xml:id="register-danske-salmer" n="2">
                     <head type="add">Danske salmer</head>
                     <head>Danske Psalmer.</head>
-                    <div type="section" xml:id="section-a">
+                    <div type="section" xml:id="section-a-jespersen-1573">
                         <head type="add">Sektion A</head>
                         <head>
                             <lb/>A.</head>
@@ -9452,25 +9452,25 @@
                             </item>
                             <item>All den gantske Christenhed/ <ref target="#section-5-11" type="SheetNumber">61.</ref>
                             </item>
-                            <item>Alle Christne fryde sig nu/ <ref target="#alle-kristne-fryde-sig-nu" type="SheetNumber">313.</ref>
+                            <item>Alle Christne fryde sig nu/ <ref target="#alle-kristne-fryde-sig-nu-jespersen-1573" type="SheetNumber">313.</ref>
                             </item>
                             <item>Alleniste Gud i Himmerig/ <ref target="#section-1-4" type="SheetNumber">7.</ref>
                             </item>
                         </list>
                     </div>
                     <lb/>
-                    <div type="section" xml:id="section-b">
+                    <div type="section" xml:id="section-b-jespersen-1573">
                         <head type="add">Sektion B</head>
                         <head>B.</head>
                         <list rend="simple">
                             <item>Beholt oss Herre ved dit ord/ <ref target="#section-1-14" type="SheetNumber">23.</ref>
                             </item>
-                            <item>Beklage aff all min sinde/ <ref target="#beklage-af-al-min-sinde" type="SheetNumber">355.</ref>
+                            <item>Beklage aff all min sinde/ <ref target="#beklage-af-al-min-sinde-jespersen-1573" type="SheetNumber">355.</ref>
                             </item>
                         </list>
                     </div>
                     <lb/>
-                    <div type="section" xml:id="section-c">
+                    <div type="section" xml:id="section-c-jespersen-1573">
                         <head type="add">Sektion C</head>
                         <head>C.</head>
                         <list rend="simple">
@@ -9478,14 +9478,14 @@
                             </item>
                             <item>Christ stod op aff Døde/ <ref target="#section-29-7" type="SheetNumber">199.</ref>
                             </item>
-                            <item>Christus Jesus for oss offrit/ <ref target="#kristus-jesus-for-os-ofret" type="SheetNumber">217.</ref>
+                            <item>Christus Jesus for oss offrit/ <ref target="#kristus-jesus-for-os-ofret-jespersen-1573" type="SheetNumber">217.</ref>
                             </item>
                             <item>Christus kom selff til Jordans Flod/ <ref target="#section-19-1" type="SheetNumber">129.</ref>
                             </item>
                         </list>
                     </div>
                     <lb/>
-                    <div type="section" xml:id="section-d">
+                    <div type="section" xml:id="section-d-jespersen-1573">
                         <head type="add">Sektion D</head>
                         <head>D.</head>
                         <list rend="simple">
@@ -9498,7 +9498,7 @@
                         </list>
                     </div>
                     <lb/>
-                    <div type="section" xml:id="section-e">
+                    <div type="section" xml:id="section-e-jespersen-1573">
                         <head type="add">Sektion E</head>
                         <head>E.</head>
                         <list rend="simple">
@@ -9511,7 +9511,7 @@
                         </list>
                     </div>
                     <lb/>
-                    <div type="section" xml:id="section-f">
+                    <div type="section" xml:id="section-f-jespersen-1573">
                         <head type="add">Sektion F</head>
                         <head>F.</head>
                         <list rend="simple">
@@ -9524,15 +9524,15 @@
                         </list>
                     </div>
                     <lb/>
-                    <div type="section" xml:id="section-g">
+                    <div type="section" xml:id="section-g-jespersen-1573">
                         <head type="add">Sektion G</head>
                         <head><pb n="E474"/>G.</head>
                         <list rend="simple">
-                            <item>Gud Fader bliff du nu met oss/ <ref target="#trinitatis" type="SheetNumber">273.</ref>
+                            <item>Gud Fader bliff du nu met oss/ <ref target="#trinitatis-jespersen-1573" type="SheetNumber">273.</ref>
                             </item>
                             <item>Gud Fader oc Søn oc Hellig Aand/ <ref target="#section-20-5" type="SheetNumber">144.</ref>
                             </item>
-                            <item>Gud Fader vdi Himmerig/ <ref target="#gud-fader-udi-himmerig" type="SheetNumber">290.</ref>
+                            <item>Gud Fader vdi Himmerig/ <ref target="#gud-fader-udi-himmerig-jespersen-1573" type="SheetNumber">290.</ref>
                             </item>
                             <item>Guds Søn er kommen aff Himmelen ned/ <ref target="#section-1-9" type="SheetNumber">14.</ref>
                             </item>
@@ -9540,7 +9540,7 @@
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-h">
+                    <div type="section" xml:id="section-h-jespersen-1573">
                         <head type="add">Sektion H</head>
                         <head>H.</head>
 
@@ -9555,7 +9555,7 @@
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-j">
+                    <div type="section" xml:id="section-j-jespersen-1573">
                         <head type="add">Sektion J</head>
                         <head>J.</head>
                         <list rend="simple">
@@ -9575,31 +9575,31 @@
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-k">
+                    <div type="section" xml:id="section-k-jespersen-1573">
                         <head type="add">Sektion K</head>
                         <head>K.</head>
                         <list rend="simple">
-                            <item>Kom Gud skaber O Hellig Aand/ <ref target="#kom-gud-skaber-helligaand" type="SheetNumber">267.</ref>
+                            <item>Kom Gud skaber O Hellig Aand/ <ref target="#kom-gud-skaber-helligaand-jespersen-1573" type="SheetNumber">267.</ref>
                             </item>
-                            <item>Kom Hellig Aand O Herre Gud/ <ref target="#kom-helligaand-o-herre-gud" type="SheetNumber">263.</ref>
+                            <item>Kom Hellig Aand O Herre Gud/ <ref target="#kom-helligaand-o-herre-gud-jespersen-1573" type="SheetNumber">263.</ref>
                             </item>
                             <item>Kom O Herre Hellig Aand/ <ref target="#kom-o-herre-hellig-aand" type="SheetNumber">269.</ref>
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-l">
+                    <div type="section" xml:id="section-l-jespersen-1573">
                         <head type="add">Sektion L</head>
                         <head>L.</head>
                         <list rend="simple">
                             <item>Litanie paa Danske/ <ref target="#litani-paa-dansk" type="SheetNumber">433.</ref>
                             </item>
-                            <item>Loffuer Gud i fromme Christne/ <ref target="#lover-gud-i-fromme-kristne" type="SheetNumber">309.</ref>
+                            <item>Loffuer Gud i fromme Christne/ <ref target="#lover-gud-i-fromme-kristne-jespersen-1573" type="SheetNumber">309.</ref>
                             </item>
                             <item>Loffuit være du Jesu Christ/ <ref target="#section-5-9" type="SheetNumber">53.</ref>
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-m">
+                    <div type="section" xml:id="section-m-jespersen-1573">
                         <head type="add">Sektion M</head>
                         <head>M.</head>
                         <list rend="simple">
@@ -9607,7 +9607,7 @@
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-n">
+                    <div type="section" xml:id="section-n-jespersen-1573">
                         <head type="add">Sektion N</head>
                         <head>N.</head>
                         <list rend="simple">
@@ -9615,13 +9615,13 @@
                             </item>
                             <item>Nu er fød oss Jesus Christ/ <ref target="#section-5-1" type="SheetNumber">36.</ref>
                             </item>
-                            <item>Nu er oss Gud miskundelig/ <ref target="#nu-er-os-gud-miskundelig" type="SheetNumber">332.</ref>
+                            <item>Nu er oss Gud miskundelig/ <ref target="#nu-er-os-gud-miskundelig-jespersen-1573" type="SheetNumber">332.</ref>
                             </item>
                             <item>Nu lader oss alle tacke Gud vor Herre/ <ref target="#section-5-6" type="SheetNumber">47.</ref>
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-o">
+                    <div type="section" xml:id="section-o-jespersen-1573">
                         <head type="add">Sektion O</head>
                         <head>O.</head>
                         <list rend="simple">
@@ -9631,15 +9631,15 @@
                             </item>
                             <item>O Gud vor Fader i euighed/ <ref target="#section-28-1" type="SheetNumber">176.</ref>
                             </item>
-                            <item>O Gud wi loffue dig/ wi bekiende dig <ref target="#o-gud-vi-love-dig" type="SheetNumber">380.</ref>
+                            <item>O Gud wi loffue dig/ wi bekiende dig <ref target="#o-gud-vi-love-dig-jespersen-1573" type="SheetNumber">380.</ref>
                             </item>
-                            <item>O Herre Gud benaade mig/ <ref target="#o-herre-gud-benaade-mig" type="SheetNumber">427.</ref>
+                            <item>O Herre Gud benaade mig/ <ref target="#o-herre-gud-benaade-mig-jespersen-1573" type="SheetNumber">427.</ref>
                             </item>
                             <item><pb n="E475"/>O Jesu Christ som Mandom tog <ref target="#section-15-1" type="SheetNumber">110.</ref>
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-r">
+                    <div type="section" xml:id="section-r-jespersen-1573">
                         <head type="add">Sektion R</head>
                         <head>
                             <hi rend="italics">R.</hi>
@@ -9651,17 +9651,17 @@
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-s">
+                    <div type="section" xml:id="section-s-jespersen-1573">
                         <head type="add">Sektion S</head>
                         <head>S.</head>
                         <list rend="simple">
-                            <item>Saa taler den wuise mund <ref target="#saa-taler-den-uvise-mund" type="SheetNumber">417.</ref>
+                            <item>Saa taler den wuise mund <ref target="#saa-taler-den-uvise-mund-jespersen-1573" type="SheetNumber">417.</ref>
                             </item>
                             <item>Salig er den Mand der Gud frycter <ref target="#soendagsbrudemesse" type="SheetNumber">439.</ref>
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-v">
+                    <div type="section" xml:id="section-v-jespersen-1573">
                         <head type="add">Sektion V</head>
                         <head>V.</head>
                         <list rend="simple">
@@ -9673,7 +9673,7 @@
                             </item>
                         </list>
                     </div>
-                    <div type="section" xml:id="section-w">
+                    <div type="section" xml:id="section-w-jespersen-1573">
                         <head type="add">Sektion W</head>
                         <head>W.</head>
                         <list rend="simple">
@@ -9741,7 +9741,7 @@
                         </head>
                         <list rend="simple">
                             <item>
-                                <hi rend="italics">Da pacem Domine sustinentibus te</hi> , <ref target="#da-pacem-domine" type="SheetNumber">396.</ref>
+                                <hi rend="italics">Da pacem Domine sustinentibus te</hi> , <ref target="#da-pacem-domine-jespersen-1573" type="SheetNumber">396.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">De ventre matris meæ</hi>
@@ -9801,7 +9801,7 @@
                                 <ref target="#section-6-1" type="SheetNumber">75.</ref>
                             </item>
                             <item>
-                                <hi rend="italics">Et postquam consummati sunt dies octo</hi> , <ref target="#section-9-1" type="SheetNumber">91.</ref>
+                                <hi rend="italics">Et postquam consummati sunt dies octo</hi> , <ref target="#section-9-1-jespersen-1573" type="SheetNumber">91.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Exaudi Domine vocem meam etc. adiutor</hi>
@@ -10079,7 +10079,7 @@
                     <list rend="simple">
                         <item>
                             <hi rend="italics">Veni sancte Spiritus, reple tuorum corda</hi>
-                            <ref target="#veni-sancte-spiritus" type="SheetNumber">244.</ref>
+                            <ref target="#veni-sancte-spiritus-jespersen-1573" type="SheetNumber">244.</ref>
                         </item>
                     </list>
 
@@ -10459,7 +10459,7 @@
                             </item>
                             <item>
                                 <hi rend="italics">Te Deum laudamus, te dominum confitemur.</hi>
-                                <ref target="#te-deum-laudamus" type="SheetNumber">373.</ref>
+                                <ref target="#te-deum-laudamus-jespersen-1573" type="SheetNumber">373.</ref>
                             </item>
                             <item>
                                 <hi rend="italics">Quicun{que} vult saluus esse, ipsum fidem</hi>
