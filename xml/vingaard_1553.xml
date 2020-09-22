@@ -6672,7 +6672,7 @@
             <lb/>
             <div type="subchapter" xml:id="til-natsang-i-faste">
                <head type="add">Til natsang i faste</head>
-               <head>Til Natsang i Faste</head>
+               <head>Til Natsang i Faste</head></div>
                <pb ana="18_v" n_ekstra="C3v" n="E86"/>
                <div type="psalm" xml:id="ecce-nunc-benedicite" n="1">
                   <head type="add">Se velsigner nu den Herre Gud</head>
@@ -7051,7 +7051,6 @@
                      <l>O søde trøster Hellig<lb rend="="/>aand benaade oss alle Amen</l>
                   </lg>
                </div>
-            </div>
             <lb/>
             <div type="psalm" xml:id="jesu-kriste-guds-soen" n="20">
                <head type="add">Jesu Kriste Guds søn</head>
@@ -7125,7 +7124,7 @@
             </div>
             <lb/>
             <div type="subchapter" xml:id="lamentationes-efter-kaere-soendag">
-               <head type="add">Lamentationer efter kære søndag</head>
+               <head type="add">Lamentationer efter kære søndag</head></div>
                <div type="psalm" xml:id="o-datter-jerusalem" n="1">
                   <head type="add">Den første lamentation</head>
                   <head>Lamentationes som lessis effter Kære <lb/>Søndag. Den første</head>
@@ -7209,7 +7208,6 @@
                      <l>Der fore <lb/>vil ieg nu haabe</l>
                   </lg>
                </div>
-            </div>
             <lb/>
             <div type="psalm" xml:id="det-hellige-kors-vor-herre-selv-bar" n="23">
                <head type="add">Det hellige kors vor herre selv bar</head>
@@ -7456,7 +7454,7 @@
             <lb/>
             <div type="subchapter" xml:id="til-paaske">
                <head type="add">Til påske</head>
-               <head>Till Paaske</head>
+               <head>Till Paaske</head></div>
                <lb/>
                <div type="psalm" xml:id="kristus-som--for-os-til-jorderig-kom" n="1">
                   <head type="add">Kristus som for os hid til jorderig kom</head>
@@ -8261,12 +8259,10 @@
                      <l>Saa <lb/>gaar du frem for wden vaade</l>
                   </lg>
                </div>
-            </div>
             <lb/>
             <div type="subchapter" xml:id="til-vor-herres-himmelfaerd">
                <head type="add">Til vor Herres himmelfærd</head>
-               <head> Til vor Herris Hiemmelfærd. </head>
-
+               <head> Til vor Herris Hiemmelfærd. </head></div>
                <lb/>
                <div type="psalm" xml:id="jesu-som-er-vor-salighed" n="1">
                   <head type="add">Jesu nostra redemptio</head>
@@ -8308,12 +8304,10 @@
                      <l>Som sit rene <lb/>ord kundgør i alle Land</l>
                   </lg>
                </div>
-            </div>
             <lb/>
             <div type="subchapter" xml:id="til-pinsedag">
                <head type="add">Til pinsedag</head>
-               <head>Til Pingetz dag</head>
-
+               <head>Til Pingetz dag</head></div>
                <lb/>
                <div type="psalm" xml:id="kom-helligaand-o-herre-gud" n="1">
                   <head type="add">Kom Helligånd, o Herre Gud</head>
@@ -8617,10 +8611,8 @@
                </div>
                <lb/>
                <div type="subchapter" xml:id="til-hellig-trefoldigheds-soendag">
-                  <head type="add">Til hellig trefoldigheds søndag
-                     <!--(er dette et kapitel, og i så fald - hvor langt strækker det sig?)--></head>
-                  <head>Til hellig Trefoldighedz Søndag</head>
-
+                  <head type="add">Til hellig trefoldigheds søndag</head>
+                  <head>Til hellig Trefoldighedz Søndag</head></div>
                   <lb/>
                   <div type="psalm" xml:id="gud-fader-bliv-du-nu-med-os" n="1">
                      <head type="add">Gud fader, bliv du nu med os</head>
@@ -8895,9 +8887,7 @@
                      </lg>
                   </div>
                </div>
-            </div>
-         </div>
-         <lb/>
+            <lb/>
          <div type="chapter" subtype="Salmer_og_sange" xml:id="salmer-og-sange" n="4">
             <head type="add">Salmer og sange</head>
             <div type="psalm" xml:id="vel-er-den-mand-der-vandrer-ej" n="1">
@@ -19253,7 +19243,7 @@
                   <l>Sancte Deus, Sancte for<lb rend="="/>tis, </l>
                   <l>Sancte et misericors saluator </l>
                   <l>amaræ morti ne tra<lb rend="="/>das nos. </l>
-               </lg>
+               </lg></div>
                <div xml:id="bona-suscepimus">
                   <head type="add">Bona suscepimus</head>
                   <lg>
@@ -19340,8 +19330,7 @@
                   <!--<figure type="vignette"/>-->
                </div>
             </div>
-         </div>
-      </body>
+         </body>
       <back>
          <div type="register" xml:id="register" n="11">
             <head type="add">Register</head>

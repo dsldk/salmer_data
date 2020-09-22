@@ -8825,7 +8825,7 @@
                 <div xml:id="introduktion-til-messen" n="4">
                     <head type="add">Introduktion til messen</head>
                     <head>Nu begynder Chorid <lb n="E164.017"/> eller den Christne forsamling ath
-                            siun<lb n="E164.018" rend="="/>ge begyndelsen til Messen</head>
+                            siun<lb n="E164.018" rend="="/>ge begyndelsen til Messen</head></div>
                     <div type="psalm" xml:id="af-hjertens-noed" n="1">
                         <head type="add">Officium de profundis/ Af hjertens nød råber jeg til
                             dig</head>
@@ -9036,7 +9036,6 @@
                             <l><lb n="E169.011"/>Lader oss nu alle bede</l>
                         </lg>
                     </div>
-                </div>
                 <div type="psalm" xml:id="o-herre-jesus-krist-du-som-har-ladet" n="5">
                     <head type="add">O Herre Jesus Krist, du som har efterladt os dit brød at
                         æde</head>

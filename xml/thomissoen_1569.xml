@@ -10766,7 +10766,7 @@
                 <head><hi rend="italics">Catechismus.</hi></head>
                 <div type="psalmgroup" xml:id="section-9-1" n="1">
                     <head type="add">Om de ti bud</head>
-                    <head n="4">Om de Thi Guds <lb/> Bud.</head>
+                    <head n="4">Om de Thi Guds <lb/> Bud.</head></div>
                     <div type="psalm" xml:id="section-9-1-hymn-1" n="1">
                         <head type="add">Gud Fader udi Himmerig</head>
                         <head> I. <lb/>
@@ -11119,10 +11119,9 @@
                         </lg>
                         <lb/>
                     </div>
-                </div>
                 <div type="psalmgroup" xml:id="section-9-2" n="2">
                     <head type="add">Om troens artikler</head>
-                    <head n="4">Om Troens Ar<lb rend="="/>tickler.</head>
+                    <head n="4">Om Troens Ar<lb rend="="/>tickler.</head></div>
                     <div type="psalm" xml:id="section-9-2-hymn-1">
                         <head type="add">Vi tro allesammen på en Gud</head>
                         <head> I. <lb/>
@@ -11212,10 +11211,9 @@
                             <l>J euighed til euig tid.</l>
                         </lg>
                     </div>
-                </div>
                 <div type="psalmgroup" xml:id="section-9-3" n="3">
                     <head type="add">Om Herrens bøn</head>
-                    <head n="4"><pb ana="119_r" n="E293" facs="291"/> Om HERRENS <lb/> Bøn.</head>
+                    <head n="4"><pb ana="119_r" n="E293" facs="291"/> Om HERRENS <lb/> Bøn.</head></div>
                     <div type="psalm" xml:id="section-9-3-hymn-1" n="1">
                         <head type="add">Fader vor udi Himmerig</head>
                         <head> I. <lb/>
@@ -11458,10 +11456,9 @@
                             <l>Giff dem den euige ære.</l>
                         </lg>
                     </div>
-                </div>
                 <div type="psalmgroup" xml:id="section-9-4" n="4">
                     <head type="add">Om dåben</head>
-                    <head n="4">Om Daaben.</head>
+                    <head n="4">Om Daaben.</head></div>
                     <div type="psalm" xml:id="section-9-4-hymn-1" n="1">
                         <head type="add">Kristus kom selv til Jordans flod</head>
                         <head n="5"><title>Christus kom selff til Jor<lb rend="="/>dans flod</title>
@@ -11549,10 +11546,9 @@
                             <l>Oc selffuer haffue bedreffuit.</l>
                         </lg>
                     </div>
-                </div>
                 <div type="psalmgroup" xml:id="section-9-5" n="5">
                     <head type="add">Om Herrens nadver</head>
-                    <head n="4"><pb ana="125_r" n="E305" facs="303"/>Om Herrens Na<lb rend="="/>dere.</head>
+                    <head n="4"><pb ana="125_r" n="E305" facs="303"/>Om Herrens Na<lb rend="="/>dere.</head></div>
                     <div type="psalm" xml:id="section-9-5-hymn-1" n="1">
                         <head type="add">Esajas den profet monne det så gå</head>
                         <head> I. <lb/> Jt <hi rend="italics">Sanctus</hi> som D. Morten Lu<lb rend="="/>ther vdsette aff <ref target="#es-6"><orig>Esaiæ vj. <lb/>
@@ -11896,7 +11892,6 @@
                         </lg>
                     </div>
                 </div>
-            </div>
             <div type="psalmgroup" xml:id="section-10" n="10">
                 <head type="add">Guds ord</head>
                 <head>Om Guds Ord.</head>
@@ -25828,13 +25823,12 @@
                         <l>Saa frydefuld ind i Himmerig gaa/ </l>
                         <l>Ved Jesum Christum alle sammen </l>
                         <l>Det vnde oss Gud Fader/ Amen.</l>
-                    </lg>
+                    </lg></div>
                     <div>
                         <head>
                             <hi rend="italics">FINIS.</hi>
                         </head>
                     </div>
-                </div>
             </div>
         </body>
         <back>

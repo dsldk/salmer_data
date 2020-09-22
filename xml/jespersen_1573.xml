@@ -8717,7 +8717,7 @@
                 </div>
             </div>
             <div type="chapter" xml:id="diverse" n="69">
-                <head type="add">[Andre lejligheder]</head>
+                <head type="add">[Andre lejligheder]</head></div>
                 <div type="psalm" xml:id="litani-paa-dansk" n="1">
                     <head type="add">Litani på dansk</head>
                     <head><pb ana="433" n="E445"/>Litanie paa Dan<ex>n</ex><lb rend="="/>ske.</head>
@@ -9318,9 +9318,7 @@
                             Et post gratias lectas hæ can<lb rend="="/>tiones porrò canantur, pro
                             gratiarum actione. </p>
                     </div>
-                    
-                </div>
-                <div type="psalm" xml:lang="la" xml:id="responsoriumprimum" n="5">
+                    <div type="psalm" xml:lang="la" xml:id="responsoriumprimum" n="5">
                     <head type="add">Responsorium primum</head>
                     <head>Responsorium primum/ <lb/> de Trinitate.</head>
 
