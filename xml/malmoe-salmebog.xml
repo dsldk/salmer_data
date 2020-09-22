@@ -5731,26 +5731,17 @@
                         <l> oc stode <lb n="E97.023"/>la<ex>n</ex>gt fra</l>
                         <l> ⁕ Da talede Engele<ex>n</ex> sigendis</l>
                     </lg>
-                </div>
-                <div type="psalm" xml:id="crucifixum-in-carne" n="37">
-
-                    <head type="add">Crucifixum in carne laudate</head>
-                    <head>Crucifixu<ex>m</ex> in carne laudate</head>
-
+                <p>Crucifixu<ex>m</ex> in carne laudate</p>
                     <lg>
                         <l><pb facs="088" n="E98" ana="26_v"/><space extent="2blanks"/>Den korsfeste
                             paa mando<ex>m</ex>me<ex>n</ex> loffuer/</l>
                         <l> oc den iordede for eders skyld ærefulde <lb n="E98.003"/> gører/</l>
                         <l> Den som opstod aff døden <lb n="E98.004"/>tilbeder</l>
                     </lg>
-                </div>
-                <div type="psalm" xml:id="nolite-metuere" n="38">
-
-                    <head type="add">Nolite metuere</head>
-                    <head>Nolite <app>
+               <p>Nolite <app>
                             <lem>metuere</lem>
                             <rdg wit="#orig">meture</rdg>
-                        </app></head>
+                        </app></p>
                     <lg>
                         <l><note place="left">(<ref target="#matt-28"><orig>Mathei
                                         xxviii</orig><reg>Matt 28</reg></ref>) (<ref
