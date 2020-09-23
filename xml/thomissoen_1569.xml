@@ -21869,9 +21869,7 @@
                     <lg>
                         <l><space extent="2blanks"/>Som hand sagde til vore Fædre/ Abra<lb rend="="/>ham oc hans Sæd euindelige.</l>
                     </lg>
-                </div>
-                <div xml:id="section-19-antiphona" n="17">
-                    <head type="add">Antifon</head>
+                    <!--<head type="add">Antifon</head>-->
                     <head>
                         <hi rend="italics">Antiphona.</hi></head>
                     <notatedMusic>
@@ -21884,9 +21882,7 @@
                         <l>prise wi vdi euighed </l>
                         <l>Amen. </l>
                     </lg>
-                </div>
-                <div xml:id="section-19-nunc-dimittis" n="18">
-                    <head type="add">Nunc dimittis / Herre, lad nu din tjener fare i fred</head>
+                    <!--<head type="add">Nunc dimittis / Herre, lad nu din tjener fare i fred</head>-->
                     <head>
                         <ref target="#luk-2"><orig><hi rend="italics">Lucæ</hi>
                             2.</orig><!--<reg>Luk
