@@ -95,7 +95,7 @@
                 <p><pb facs="0004R" n="IV"/>INSIGNIA FRIDERICI II. DA<lb rend="="/>NORVM REGIS <ex>etc</ex>.</p>
                 <p>1573.</p>
             </figure>
-            <div type="preface" xml:id="frederik-1-preface">
+            <div type="preface" xml:id="preface">
                 <head type="add">
                     <reg xml:lang="da">Frederik 1.s forord</reg>
                 </head>
@@ -145,7 +145,7 @@
                     Lxv. <lb/>Vnder vort Signet. </p>
                 <p><space extent="10blanks"/>Friderich. </p>
             </div>
-            <div type="preface" xml:id="niels-jespersen-preface">
+            <div type="preface" xml:id="preface-2">
                 <head type="add">Niels Jespersens forord</head>
                 <p><pb facs="0007L" n="VII"/> Alle Fromme oc Gudfryc<lb rend="="/>tige Prouester/ Sogneprester/ oc
                     menige Kircketienere vdi Danmarckis <lb/> Rige. <lb/> Ynsker Jeg Niels
