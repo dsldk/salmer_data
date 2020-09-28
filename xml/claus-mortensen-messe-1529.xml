@@ -68,7 +68,7 @@
                     <pb facs="XXX" n="A 1r"/>Th<ex>et</ex> cristelighe mes<lb rend="="/>sze embedhe
                     paa da<ex>n</ex><lb rend="="/>sche </titlePart>
             </titlePage>
-            <div type="preface" xml:id="preface-mortensen">
+            <div type="preface" xml:id="preface">
                 <head type="add">Fortale</head>
                 <head>
                     <pb facs="XXX" n="A 1v"/>
@@ -105,7 +105,7 @@
             <div xml:id="messens-indledende-boen" n="1">
                 <head type="add">Adjutorium nostrum/ Vor hjælp være i Herrens navn</head>
                 <head>
-                    <pb facs="A_1r" n="A 2r"/>Exordium <lb/> Ceremoniernis begioendellssze <lb/>
+                    <pb facs="A_2r" n="A 2r"/>Exordium <lb/> Ceremoniernis begioendellssze <lb/>
                     till nadheren</head>
                 <head>Adiutorium nostrum et cetera</head>
                 <lg>
