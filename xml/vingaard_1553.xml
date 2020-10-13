@@ -6049,18 +6049,17 @@
                <head>En Loffsang aff Christi fødzel.</head>
                <pb n_ekstra="B4r" n="12r" facs="0066R"/>
                <lb/>
-               <!--<figure type="notatedMusic"/>-->
                <notatedMusic>
                   <ptr target="Vi_1553_LN1421_011v.xml"/>
                </notatedMusic>
                <lg>
                   <l>O Jesu Christ som Mandom tog </l>
+                  <l>i rene Jomfru liffue </l>
                   <l>kærlighed dig der til drog </l>
-                  <l><!--<figure type="notatedMusic"/>--> i rene Jomfru liffue </l>
                   <l>vort haaff saa vilde du bliffue </l>
-                  <l><!--<figure type="notatedMusic"/>--> Du saast vor synd oc store nød </l>
-                  <l><!--<figure type="notatedMusic"/>--> at oss stod for den euige Død </l>
-                  <l><!--<figure type="notatedMusic"/>--> Helffuede stod oss aabid </l>
+                  <l>Du saast vor synd oc store nød </l>
+                  <l>at oss stod for den euige Død </l>
+                  <l>Helffuede stod oss aabid </l>
                </lg>
                <lb/>
                <lg>
