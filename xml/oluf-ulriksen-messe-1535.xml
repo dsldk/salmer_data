@@ -396,10 +396,10 @@
                     sier. <!--</hi>-->
                 </p>
                 <p><!--<hi rend="font_red">--> Pater noster. Alta voce <!--</hi>--></p>
+                <notatedMusic>
+                    <ptr target="Ul_1535_LN0076_000a04v.xml#mdiv-01"/>
+                </notatedMusic>
                 <lg>
-                    <notatedMusic>
-                        <ptr target="Ul_1535_LN0076_000a04v.xml#mdiv-01"/>
-                    </notatedMusic>
                     <l>
                         <!--<hi rend="font_red">-->
                         <c function="initials" rend="2">L</c><!--</hi>-->Ader oss nw alle bede. </l>
@@ -426,10 +426,16 @@
                     <l>
                         <!--<hi rend="font_red">--> Degne<ex>n</ex> suar<!--</hi>-->
                     </l>
-                    <notatedMusic>
-                        <ptr target="Ul_1535_LN0076_000a04v.xml#mdiv-02"/>
-                    </notatedMusic>
-                    <l> Amem </l>
+                </lg>
+                <notatedMusic>
+                    <ptr target="Ul_1535_LN0076_000a04v.xml#mdiv-02"/>
+                </notatedMusic>
+                <lg>
+                    <l> <app>
+                        <lem>Amen</lem>
+                        <rdg>
+                            <q>Amem</q> orig.</rdg>
+                    </app> </l>
                     <lb/>
                 </lg>
             </div>
@@ -439,10 +445,10 @@
                     siunger. <lb/>
                     <!--</hi>-->
                 </p>
+                <notatedMusic>
+                    <ptr target="Ul_1535_LN0076_000b01r_a.xml"/>
+                </notatedMusic>
                 <lg>
-                    <notatedMusic>
-                        <ptr target="Ul_1535_LN0076_000b01r_a.xml"/>
-                    </notatedMusic>
                     <l>
                         <!--<hi rend="font_red">-->
                         <c function="initials" rend="2">W</c><!--</hi>-->Or herre Jesus Cristus</l>
@@ -462,10 +468,10 @@
                     </app> som side for alte<lb rend="="/>ridt. Nar det er skifft Tager han Kalken
                         m<ex>eth</ex> viin oc siger<!--</hi>-->
                 </p>
+                <notatedMusic>
+                    <ptr target="Ul_1535_LN0076_000b01r_b.xml"/>
+                </notatedMusic>
                 <lg>
-                    <notatedMusic>
-                        <ptr target="Ul_1535_LN0076_000b01r_b.xml"/>
-                    </notatedMusic>
                     <l>
                         <!--<hi rend="font_red">-->
                         <c function="initials" rend="2">L</c><!--</hi>-->Jge maade tog han oc kalken effter afftens maal<pb rend="=" facs="0015L" n="B 1v"/>tiid oc sagde </l>
