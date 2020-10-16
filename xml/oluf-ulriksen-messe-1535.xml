@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -431,7 +430,7 @@
                     <ptr target="Ul_1535_LN0076_000a04v.xml#mdiv-02"/>
                 </notatedMusic>
                 <lg>
-                    <l> <app>
+                    <l> <app n="3">
                         <lem>Amen</lem>
                         <rdg>
                             <q>Amem</q> orig.</rdg>
