@@ -64,9 +64,9 @@
     </teiHeader>
     <text>
         <front>
-            <pb facs="0006R" n="A 1r"/>
             <titlePage rend="center">
                 <docTitle>
+                    <pb facs="0006R" n="A 1r"/>
                     <lb/>
                     <titlePart>Titulus.</titlePart>
                     <lb/>
@@ -82,7 +82,7 @@
                 <docImprint>
                     <lb/>Anno domini. Mdxxxix. </docImprint>
             </titlePage>
-            <div type="preface" xml:id="oluf-ulriksen-1539-preface">
+            <div type="preface" xml:id="preface">
                 <head type="add">Frands Vormodsens forord</head>
                 <p>
                     <pb facs="0007L" n="A 1v"/>¶ Franciscus wormordi ynsker alle retsindige oc
