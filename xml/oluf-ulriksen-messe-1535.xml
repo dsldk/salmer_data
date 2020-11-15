@@ -88,7 +88,7 @@
             <div type="chapter" xml:id="messeordning" n="1">
                 <head type="add">[Messeordning]</head>
                 <div xml:id="salme-kyrie-gloria-hilsen" n="1">
-                    <head type="add">Salme, Kyrie, Gloria og Hilsen </head>
+                    <head type="add">Salme; Kyrie; Gloria; Hilsen </head>
                     <p><pb facs="0007L" n="A 1v"/>¶<!--<hi rend="font_red">--> Først siunger degnend
                         een Psalme <!--</hi>--> pro Offitio
                         <!--<hi
@@ -121,8 +121,8 @@
                         <!--<hi rend="font_red">--> Degnen suar<!--</hi>--> Amen</head>
                 </div>
                 <div xml:id="epistel-evangelium-praediken" n="3">
-                    <head type="add"> Epistel, Halleluja, Evangelium, Credo / Vi tro allesammen på
-                        en Gud, Nu bede vi den helligånd og Prædiken </head>
+                    <head type="add"> Epistel; Halleluja; Evangelium; Credo / Vi tro allesammen på
+                        en Gud; Nu bede vi den helligånd; Prædiken </head>
                     <p>¶ <!--<hi rend="font_red">--> Eller een anden Collecta effter tidtzens
                         leylighedt Der eff<lb rend="="/>ter wender presten sig til folkedt oc læss <app>
                             <lem>Epistolam</lem>
@@ -322,7 +322,7 @@
                     </p>
                 </div>
                 <div xml:id="absolution" n="6">
-                    <head type="add">Absolution / syndstilgivelse, Nu er os Gud miskundelig og
+                    <head type="add">Absolution / syndstilgivelse; Nu er os Gud miskundelig;
                         Sanctus</head>
                     <p> ¶ <!--<hi rend="font_red">--> Saa giffuer presten <!--</hi>-->
                         <app>
@@ -530,7 +530,7 @@
                     </lg>
                 </div>
                 <div xml:id="indstiftelsesord-uddeling-broedet" n="9">
-                    <head type="add">Indstiftelsesord, brødet, og uddeling af brødet</head>
+                    <head type="add">Indstiftelsesord, brødet; uddeling af brødet</head>
                     <p> ¶ <!--<hi rend="font_red">--> Saa tager Presten da diskind med brød oc
                         siunger. <lb/>
                         <!--</hi>-->
@@ -556,8 +556,12 @@
                             <lem>dennem</lem>
                             <rdg>
                                 <q>dennen</q> orig.</rdg>
-                        </app> som side for alte<lb rend="="/>ridt. Nar det er skifft Tager han
-                        Kalken m<ex>eth</ex> viin oc siger<!--</hi>-->
+                        </app> som side for alte<lb rend="="/>ridt.</p>
+                </div>
+                <div xml:id="indstiftelsesord-uddeling-vinen" n="10">
+                    <head type="add">Indstiftelsesord, vinen; uddeling af vinen; Jesus Kristus er
+                        vor salighed; Agnus dei / O Guds lam; Hilsen</head>
+                    <p> Nar det er skifft Tager han Kalken m<ex>eth</ex> viin oc siger<!--</hi>-->
                     </p>
                     <notatedMusic>
                         <ptr target="Ul_1535_LN0076_000b01r_b.xml"/>
@@ -580,10 +584,6 @@
                             </app> gører saa offte <lb/> som y det dricke</l>
                         <l> y myn hwkommelse. </l>
                     </lg>
-                </div>
-                <div xml:id="indstiftelsesord-uddeling-vinen" n="10">
-                    <head type="add">Indstiftelsesord, vinen, og uddeling af vinen; Jesus Kristus er
-                        vor salighed; Agnus dei / O Guds lam; Hilsen</head>
                     <p>
                         <!--<hi rend="font_red">--> Saa skiffter han medt kalken omkring. Men
                         begynder <app>
@@ -734,7 +734,7 @@
                 </div>
                 <pb facs="0018R" n="B 3r"/>
                 <div xml:id="daabsritual" n="3">
-                    <head type="add">Dåbsritualet</head>
+                    <head type="add">Dåbsritual</head>
                     <!--<hi rend="font_red">-->
                     <p>Presten siger.</p>
                     <!--</hi>-->
@@ -1369,7 +1369,7 @@
                 </div>
                 <pb facs="0031L" n="D 1v"/>
                 <div xml:id="vielsesritual" n="2">
-                    <head type="add">Vielsesritualet</head>
+                    <head type="add">Vielsesritual</head>
                     <p> Først scal mand liuse paa <app>
                             <lem>predickesto<lb rend="="/>len</lem>
                             <rdg>
@@ -2143,7 +2143,7 @@
             <div type="chapter" xml:id="begravelse" n="5">
                 <head type="add">Begravelse</head>
                 <div xml:id="begravelsesritual" n="1">
-                    <head type="add">Begravelsesritualet</head>
+                    <head type="add">Begravelsesritual</head>
                     <p> Tiil døde att iorde oc begraffue. <lb/>
                     </p>
                     <p>
@@ -2334,7 +2334,7 @@
                     </lg>
                 </div>
                 <div xml:id="kollekter-efter-litaniet" n="2">
-                    <head type="add">Collecte / Kollekter efter litaniet (1)</head>
+                    <head type="add">Collecte / Kollekter efter litaniet</head>
                     <p> Collecte post Letanias. <lb/>
                     </p>
                     <p>
