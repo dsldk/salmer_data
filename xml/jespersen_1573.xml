@@ -4810,8 +4810,12 @@
                         <l>bønhør oss/ O Herre. Haleluia. </l>
                     </lg>
                     <lg>
-                        <l><pb facs="0226R" n="213"/> Hand er <!-- to ord over hinanden -->opstanden/
-                            opfaren/ <!-- /to ord over hinanden --> som hand sagde/ Loffuer Herren.
+                        <l><pb facs="0226R" n="213"/>Hand er 
+                            <choice>
+                                <seg n="1">opstanden/</seg>
+                                <seg n="2">opfaren/</seg>
+                            </choice>
+                            som hand sagde/ Loffuer Herren.
                         </l>
                     </lg>
                     <lg>
@@ -4829,8 +4833,12 @@
                         <l>Konningens Daatter aff euighed/ </l>
                         <l>Christi Brud glæder sig/ </l>
                         <l>for den hun haffuer i Aanden vndfangen/ </l>
-                        <l>hand er som hand sagde <!-- to ord over hinanden -->opstanden.
-                            <lb/>opfaren.<!-- /to ord over hinanden --></l>
+                        <l>hand er som hand sagde 
+                            <choice>
+                                <seg n="1">opstanden.</seg>
+                                <seg n="2">opfaren.</seg>
+                            </choice>
+                        </l>
                         <l><pb facs="0228R" n="215"/> hun sig paa Gud forlader/ Haleluia. </l>
                     </lg>
                 </div>
