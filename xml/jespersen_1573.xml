@@ -4646,7 +4646,8 @@
                         <l>bar oss det euige leffnet. </l>
                         <l>At wi skulle altid være glad/ </l>
                         <l>hannem tacke oc prise i allen stad/ </l>
-                        <l>oc siunge Hale<pb rend="=" facs="0219L" n="206"/>luia/ Haleluia. </l>
+                        <l>oc siunge Hale<pb rend="=" facs="0219L" n="206"/>luia/ </l>
+                        <l>Haleluia. </l>
                     </lg>
                     <lb/>
                     <lg>
@@ -8603,17 +8604,14 @@
                         <ptr target="Je_1573_LN0981_429.xml"/>
                     </notatedMusic>
                     <lg>
-                        <l><app>
-                                <lem><c function="initials" rend="2">K</c>Yrieleison</lem>
-                                <rdg wit="#orig"><note>rettet</note></rdg>
-                            </app>.</l>
+                        <l><c function="initials" rend="2">K</c>Yrie eleison.</l>
                         <l>
                             <app>
-                                <lem>Christeleison</lem>
+                                <lem>Christe eleison</lem>
                                 <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>.</l>
                         <l><app>
-                                <lem>Kyrieleison</lem>
+                                <lem>Kyrie eleison</lem>
                                 <rdg wit="#orig"><note>rettet</note></rdg>
                             </app>.</l>
                     </lg>
