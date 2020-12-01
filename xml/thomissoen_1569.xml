@@ -23949,7 +23949,7 @@
                     <head><pb facs="734" n="340v"/> IX. <lb/> En Bøn om at kunde ret
                         betencke sin <lb/>Død/ </head>
                     <p> aff den <ref target="#sl-39"><orig>XXXIX.</orig><reg>Sl 39</reg>--&gt;</ref> oc
-                            <ref target="sl-90"><orig>XC. Psalme.</orig><reg>Sl 90</reg>--&gt;</ref>
+                            <ref target="#sl-90"><orig>XC. Psalme.</orig><reg>Sl 90</reg>--&gt;</ref>
                         <lb/> M. D. lxix.</p>
                     <notatedMusic>
                         <ptr target="Th_1569_LN1426_340v.xml"/>
@@ -27079,7 +27079,7 @@
                                     <hi rend="italics">Dies est læticiæ,</hi>
                                     <ref target="#dies-est-leticie">7.</ref>
                                 </item>
-                                <item>Dig bede wi Børnene dine <ref target="section-22-hymn-3"> *
+                                <item>Dig bede wi Børnene dine <ref target="#section-22-hymn-3"> *
                                         328.</ref>
                                 </item>
                                 <item>Dig Herre mild ieg tacke vil <ref target="#section-21-hymn-8">326.</ref>
